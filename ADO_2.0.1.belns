@@ -1,0 +1,2169 @@
+
+[Namespace]
+Keyword=ADO
+NameString=Alzheimer's Disease Ontology 
+DomainString=Other
+VersionString=2.0.1
+CreatedDateTime=2025-10-24T15:01:03
+DescriptionString=An ontology for Alzheimer's disease research.
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=Alzheimer's Disease Ontology 
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=no
+
+[Values]
+(R)-5-diphosphomevalonic acid|OGRPBCAM
+(R)-flurbiprofen|OGRPBCAM
+2,3-epoxysqualene|OGRPBCAM
+3-disulfanyl-L-alanine|OGRPBCAM
+3-hydroxy fatty acyl-CoA|OGRPBCAM
+3-mercaptopyruvate|OGRPBCAM
+3-nitrotyrosine|OGRPBCAM
+4-hydroxynonenal|OGRPBCAM
+5-methyltetrahydrofolic acid|OGRPBCAM
+A2M|OGRPBCAM
+ABCA1|OGRPBCAM
+ABCA7|OGRPBCAM
+ACE|OGRPBCAM
+ACE 1 inhibitor therapy|OGRPBCAM
+ACE 2 inhibitor therapy|OGRPBCAM
+ACE inhibitor therapy|OGRPBCAM
+ACHE|OGRPBCAM
+ACO1|OGRPBCAM
+ACTA1|OGRPBCAM
+ADAM10|OGRPBCAM
+ADAM17|OGRPBCAM
+ADAMTS4|OGRPBCAM
+ADCY10|OGRPBCAM
+ADRBK1|OGRPBCAM
+AGER|OGRPBCAM
+AKT1|OGRPBCAM
+AKT1S1|OGRPBCAM
+ALB|OGRPBCAM
+ALDH2|OGRPBCAM
+ALOX5|OGRPBCAM
+ALPK2|OGRPBCAM
+ALT_DEFINITION|OGRPBCAM
+APAF1|OGRPBCAM
+APBA1|OGRPBCAM
+APBB1|OGRPBCAM
+APC|OGRPBCAM
+APEH|OGRPBCAM
+APEX1|OGRPBCAM
+APH1A|OGRPBCAM
+APH1B|OGRPBCAM
+APLP1|OGRPBCAM
+APLP2|OGRPBCAM
+APOC1|OGRPBCAM
+APOC4|OGRPBCAM
+APOE|OGRPBCAM
+APOE genotype test|OGRPBCAM
+APP|OGRPBCAM
+ARL4C|OGRPBCAM
+ATF6|OGRPBCAM
+ATG10|OGRPBCAM
+ATG12|OGRPBCAM
+ATG13|OGRPBCAM
+ATG3|OGRPBCAM
+ATG5|OGRPBCAM
+ATG7|OGRPBCAM
+ATP2A1|OGRPBCAM
+ATXN1|OGRPBCAM
+AXIN1|OGRPBCAM
+AXIN2|OGRPBCAM
+Abnormal nervous system morphology|OGRPBCAM
+Abnormal nervous system physiology|OGRPBCAM
+Abnormality of immune system physiology|OGRPBCAM
+Abnormality of the nervous system|OGRPBCAM
+Accepted_Therapeutic_Use_For|OGRPBCAM
+Adenine Nucleotides|OGRPBCAM
+Adenosine Diphosphate|OGRPBCAM
+Adenosine Monophosphate|OGRPBCAM
+Adenosine Triphosphate|OGRPBCAM
+Aducanumab|OGRPBCAM
+African American|OGRPBCAM
+Age-Adjusted Mortality Rate|OGRPBCAM
+Alaska Native|OGRPBCAM
+Allergy|OGRPBCAM
+Alzheimer disease 10|OGRPBCAM
+Alzheimer disease 11|OGRPBCAM
+Alzheimer disease 12|OGRPBCAM
+Alzheimer disease 13|OGRPBCAM
+Alzheimer disease 14|OGRPBCAM
+Alzheimer disease 16|OGRPBCAM
+Alzheimer disease 17|OGRPBCAM
+Alzheimer disease 18|OGRPBCAM
+Alzheimer disease 19|OGRPBCAM
+Alzheimer disease 2|OGRPBCAM
+Alzheimer disease 3|OGRPBCAM
+Alzheimer disease 4|OGRPBCAM
+Alzheimer disease 5|OGRPBCAM
+Alzheimer disease 6|OGRPBCAM
+Alzheimer disease 7|OGRPBCAM
+Alzheimer disease 8|OGRPBCAM
+Alzheimer disease type 1|OGRPBCAM
+Alzheimer disease without neurofibrillary tangles|OGRPBCAM
+Alzheimer disease, familial early-onset, with coexisting amyloid and prion pathology|OGRPBCAM
+Alzheimer disease, susceptibility to, mitochondrial|OGRPBCAM
+Alzheimer's Disease Assessment Scale score|OGRPBCAM
+Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire|OGRPBCAM
+Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory Questionnaire|OGRPBCAM
+Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Mild Cognitive Impairment Questionnaire|OGRPBCAM
+Alzheimer's disease|OGRPBCAM
+American Indian|OGRPBCAM
+Amyotrophic lateral sclerosis|OGRPBCAM
+Anatomical set|OGRPBCAM
+Anatomical structure|OGRPBCAM
+Angiography|OGRPBCAM
+Animal Model|OGRPBCAM
+Antigens, CD45|OGRPBCAM
+Apathy|OGRPBCAM
+Aphasia|OGRPBCAM
+Apraxia|OGRPBCAM
+Arterial Spin Labeling Magnetic Resonance Imaging|OGRPBCAM
+Asian|OGRPBCAM
+Asian Indian|OGRPBCAM
+Attributable Risk|OGRPBCAM
+Axon|OGRPBCAM
+B lymphocyte|OGRPBCAM
+BACE1|OGRPBCAM
+BACE1 inhibitor|OGRPBCAM
+BAD|OGRPBCAM
+BAG1|OGRPBCAM
+BAG2|OGRPBCAM
+BAX|OGRPBCAM
+BCAM|OGRPBCAM
+BCHE|OGRPBCAM
+BCL2|OGRPBCAM
+BCL2L1|OGRPBCAM
+BDNF|OGRPBCAM
+BECN1|OGRPBCAM
+BFO CLIF specification label|OGRPBCAM
+BFO OWL specification label|OGRPBCAM
+BID|OGRPBCAM
+BIN1|OGRPBCAM
+BTRC|OGRPBCAM
+Bapineuzumab|OGRPBCAM
+Beck Depression Inventory|OGRPBCAM
+Beta Amyloid 42 Measurement|OGRPBCAM
+Biological Model|OGRPBCAM
+Biological macromolecule|OGRPBCAM
+Blinded Clinical Study|OGRPBCAM
+Blonanserin|OGRPBCAM
+Blood Inflammatory Marker|OGRPBCAM
+Blood Proteins|OGRPBCAM
+Boston Naming Test|OGRPBCAM
+Brief Alzheimer Screen test|OGRPBCAM
+Brief Psychiatric Rating Scale|OGRPBCAM
+Brodmann area|OGRPBCAM
+C1|OGRPBCAM
+C2|OGRPBCAM
+C3|OGRPBCAM
+C3b|OGRPBCAM
+C6|OGRPBCAM
+C7|OGRPBCAM
+C83|OGRPBCAM
+C99|OGRPBCAM
+CA1|OGRPBCAM
+CALHM1|OGRPBCAM
+CALM1|OGRPBCAM
+CALM2|OGRPBCAM
+CAPN2|OGRPBCAM
+CASK|OGRPBCAM
+CASP1|OGRPBCAM
+CASP12|OGRPBCAM
+CASP2|OGRPBCAM
+CASP3|OGRPBCAM
+CASP6|OGRPBCAM
+CASP7|OGRPBCAM
+CASP8|OGRPBCAM
+CASP9|OGRPBCAM
+CASS4|OGRPBCAM
+CAS_Registry|OGRPBCAM
+CAT|OGRPBCAM
+CAV1|OGRPBCAM
+CBS|OGRPBCAM
+CCAAT Enhancer Binding Protein|OGRPBCAM
+CCL2|OGRPBCAM
+CCL26|OGRPBCAM
+CCNA2|OGRPBCAM
+CCNB1|OGRPBCAM
+CCND1|OGRPBCAM
+CCNE1|OGRPBCAM
+CCR1|OGRPBCAM
+CCR2|OGRPBCAM
+CCR3|OGRPBCAM
+CCR4|OGRPBCAM
+CCR5|OGRPBCAM
+CCR6|OGRPBCAM
+CCR7|OGRPBCAM
+CCR8|OGRPBCAM
+CCR9|OGRPBCAM
+CD14|OGRPBCAM
+CD247|OGRPBCAM
+CD2AP|OGRPBCAM
+CD33|OGRPBCAM
+CD36|OGRPBCAM
+CD3D|OGRPBCAM
+CD3E|OGRPBCAM
+CD3G|OGRPBCAM
+CD4|OGRPBCAM
+CD93|OGRPBCAM
+CDC42|OGRPBCAM
+CDH2|OGRPBCAM
+CDK1|OGRPBCAM
+CDK4|OGRPBCAM
+CDK5|OGRPBCAM
+CDK5R1|OGRPBCAM
+CDKN1A|OGRPBCAM
+CDKN2A|OGRPBCAM
+CDO1|OGRPBCAM
+CELF1|OGRPBCAM
+CETP|OGRPBCAM
+CH25H|OGRPBCAM
+CHEBI_ID|OGRPBCAM
+CHRFAM7A|OGRPBCAM
+CHRM1|OGRPBCAM
+CHRNA4|OGRPBCAM
+CHRNA7|OGRPBCAM
+CHRNB2|OGRPBCAM
+CHRNB4|OGRPBCAM
+CIB1|OGRPBCAM
+CLNK|OGRPBCAM
+CLU|OGRPBCAM
+CNP|OGRPBCAM
+CNS neuron (sensu Vertebrata)|OGRPBCAM
+CNTNAP2|OGRPBCAM
+COX1|OGRPBCAM
+COX2|OGRPBCAM
+CR1|OGRPBCAM
+CREB1|OGRPBCAM
+CRMP1|OGRPBCAM
+CSAD|OGRPBCAM
+CSE1L|OGRPBCAM
+CSF1|OGRPBCAM
+CSHL1|OGRPBCAM
+CSNK1A1|OGRPBCAM
+CST3|OGRPBCAM
+CTH|OGRPBCAM
+CTNNB1|OGRPBCAM
+CTSS|OGRPBCAM
+CXCL1|OGRPBCAM
+CXCR1|OGRPBCAM
+CXCR2|OGRPBCAM
+CXCR3|OGRPBCAM
+CXCR4|OGRPBCAM
+CXCR5|OGRPBCAM
+CYCS|OGRPBCAM
+CYP19A1|OGRPBCAM
+Caenorhabditis elegans|OGRPBCAM
+California Verbal Learning Test - Second Edition|OGRPBCAM
+Cambridge Neuropsychological Test Automated Battery for Alzheimer disease|OGRPBCAM
+Cardinal organ part|OGRPBCAM
+Case Study|OGRPBCAM
+Caspase|OGRPBCAM
+Cell|OGRPBCAM
+Cell Cycle|OGRPBCAM
+Cell Cycle Checkpoints|OGRPBCAM
+Cell appendage|OGRPBCAM
+Cell body|OGRPBCAM
+Cell line LINCS ID|OGRPBCAM
+Central or South American|OGRPBCAM
+Chemical_Formula|OGRPBCAM
+Chemokine|OGRPBCAM
+Chicano|OGRPBCAM
+Chinese|OGRPBCAM
+Cholinergic Neurons|OGRPBCAM
+Cholinesterase Inhibitors|OGRPBCAM
+Chromogranin|OGRPBCAM
+Chylomicrons|OGRPBCAM
+Circulating Protein|OGRPBCAM
+Clinical Dementia Rating Questionnaire|OGRPBCAM
+Clinical Dementia Rating Scale score|OGRPBCAM
+Clinical Study|OGRPBCAM
+Clinical Study by Phase|OGRPBCAM
+Clinical or Research Assessment Question|OGRPBCAM
+Clinical or Research Assessment Questionnaire|OGRPBCAM
+Cognition Clock Test|OGRPBCAM
+Cohort Effect|OGRPBCAM
+Cohort Study|OGRPBCAM
+Comparative Study|OGRPBCAM
+Complement C1q|OGRPBCAM
+Complement C3a|OGRPBCAM
+Complement C5b|OGRPBCAM
+Complement Component Protein|OGRPBCAM
+Computed Tomography|OGRPBCAM
+Concept_Status|OGRPBCAM
+Contributing_Source|OGRPBCAM
+Creator|creator
+Cross-Sectional Survey|OGRPBCAM
+Cuban|OGRPBCAM
+Cuban-American|OGRPBCAM
+Cuneus|OGRPBCAM
+Curcuma longa|OGRPBCAM
+Current Difficulty Learning New Tasks or Instructions|OGRPBCAM
+Cytokine|OGRPBCAM
+Cytoplasm|OGRPBCAM
+Cytoskeleton|OGRPBCAM
+DAB1|OGRPBCAM
+DAPK1|OGRPBCAM
+DCTN5|OGRPBCAM
+DKK1|OGRPBCAM
+DLG4|OGRPBCAM
+DMRT1|OGRPBCAM
+DNA Binding Protein|OGRPBCAM
+DNA Fragmentation|OGRPBCAM
+DNA replication|OGRPBCAM
+DPYSL2|OGRPBCAM
+DPYSL3|OGRPBCAM
+DPYSL5|OGRPBCAM
+DVL1|OGRPBCAM
+DYRK1A|OGRPBCAM
+Danio rerio|OGRPBCAM
+Date|date
+Decursin|OGRPBCAM
+DemTect screening test|OGRPBCAM
+Dendrite|OGRPBCAM
+Description|OGRPBCAM
+DesignNote|NCIT_P98
+Diagnosis, Differential|OGRPBCAM
+Diagnostic Criteria|OGRPBCAM
+Diagnostic Imaging|OGRPBCAM
+Diffusion Tensor Imaging|OGRPBCAM
+Dimerization|OGRPBCAM
+Disability Assessment for Dementia Questionnaire|OGRPBCAM
+Display_Name|OGRPBCAM
+Dominican|OGRPBCAM
+Drosophila <flies,genus>|OGRPBCAM
+EC 3.1.1.7 (acetylcholinesterase) inhibitor|OGRPBCAM
+ECE1|OGRPBCAM
+EDN1|OGRPBCAM
+EGF|OGRPBCAM
+EGFR|OGRPBCAM
+EIF2A|OGRPBCAM
+EIF2AK3|OGRPBCAM
+EIF4EBP1|OGRPBCAM
+ENAH|OGRPBCAM
+ENTPD7|OGRPBCAM
+EPHA1|OGRPBCAM
+ERN1|OGRPBCAM
+ESR1|OGRPBCAM
+EXOC3L2|OGRPBCAM
+Early-stage Alzheimer's Disease (mild)|OGRPBCAM
+Eicosanoid|OGRPBCAM
+Endophenotypes|OGRPBCAM
+Epigenetic Process|OGRPBCAM
+Erythrocyte Sedimentation Rate Measurement|OGRPBCAM
+Eukaryota|OGRPBCAM
+Evaluation|OGRPBCAM
+Everyday Cognition questionnaire|OGRPBCAM
+Executive Function|OGRPBCAM
+Executive Function Disorder|OGRPBCAM
+Experimental Model|OGRPBCAM
+Extracellular Protein|OGRPBCAM
+Extrapyramidal Symptom Rating Scale-Abbreviated Clinical Classification|OGRPBCAM
+FADD|OGRPBCAM
+FAS|OGRPBCAM
+FDA_Table|OGRPBCAM
+FDA_UNII_Code|OGRPBCAM
+FDFT1|OGRPBCAM
+FDG-Positron Emission Tomography|OGRPBCAM
+FDPS|OGRPBCAM
+FERMT2|OGRPBCAM
+FKBP8|OGRPBCAM
+FMR1|OGRPBCAM
+FNTA|OGRPBCAM
+FOXO Family|OGRPBCAM
+FOXO1|OGRPBCAM
+FTL|OGRPBCAM
+FYN|OGRPBCAM
+Factor|OGRPBCAM
+Family history|OGRPBCAM
+Farnesyl Transferase Inhibitor|OGRPBCAM
+Fibril|OGRPBCAM
+Filipino|OGRPBCAM
+Free and Cued Selective Reminding Test|OGRPBCAM
+Functional Imaging|OGRPBCAM
+Functional Magnetic Resonance Imaging|OGRPBCAM
+Functional Neuroimaging|OGRPBCAM
+G0 Phase|OGRPBCAM
+G1 Phase|OGRPBCAM
+G1 Phase Cell Cycle Checkpoints|OGRPBCAM
+G2 Phase|OGRPBCAM
+G2 Phase Cell Cycle Checkpoints|OGRPBCAM
+GAB2|OGRPBCAM
+GABAergic neuron|OGRPBCAM
+GALR1|OGRPBCAM
+GALR2|OGRPBCAM
+GALR3|OGRPBCAM
+GAPDH|OGRPBCAM
+GAPDHS|OGRPBCAM
+GAS1|OGRPBCAM
+GDF11|OGRPBCAM
+GDF15|OGRPBCAM
+GDI1|OGRPBCAM
+GDI2|OGRPBCAM
+GFAP|OGRPBCAM
+GFPT1|OGRPBCAM
+GFPT2|OGRPBCAM
+GGPS1|OGRPBCAM
+GLB1|OGRPBCAM
+GNAQ|OGRPBCAM
+GNB2L1|OGRPBCAM
+GOT1|OGRPBCAM
+GOT2|OGRPBCAM
+GPCR|OGRPBCAM
+GPI|OGRPBCAM
+GPX1|OGRPBCAM
+GRIN2A|OGRPBCAM
+GRIN2B|OGRPBCAM
+GRN|OGRPBCAM
+GSK3A|OGRPBCAM
+GSK3B|OGRPBCAM
+GSR|OGRPBCAM
+GSTO1|OGRPBCAM
+GTP-Binding Protein Regulators|OGRPBCAM
+GTPase|OGRPBCAM
+GYS1|OGRPBCAM
+Galanin|OGRPBCAM
+Galantamine|OGRPBCAM
+Gamma Secretase|OGRPBCAM
+Genetic Testing|OGRPBCAM
+Genotype|OGRPBCAM
+Geriatric Depression Scale Questionnaire|OGRPBCAM
+Ginkgo biloba|OGRPBCAM
+Global Deterioration Scale|OGRPBCAM
+Glucagon-like peptide 1|OGRPBCAM
+Glucose-6-Phosphate|OGRPBCAM
+Golgi apparatus|OGRPBCAM
+Golgi membrane|OGRPBCAM
+Growth Factor|OGRPBCAM
+Guamanian|OGRPBCAM
+Guanine Nucleotide Exchange Factors|OGRPBCAM
+Guanine Nucleotides|OGRPBCAM
+Guanosine Diphosphate|OGRPBCAM
+Guanosine Monophosphate|OGRPBCAM
+Guanosine Triphosphate|OGRPBCAM
+Guinea Pig|OGRPBCAM
+Gyrus of neuraxis|OGRPBCAM
+HAT1|OGRPBCAM
+HESX1|OGRPBCAM
+HGNC_ID|OGRPBCAM
+HIF1A|OGRPBCAM
+HLA-DRB5|OGRPBCAM
+HLA-S|OGRPBCAM
+HMG-CoA reductase inhibitor therapy|OGRPBCAM
+HMGB1|OGRPBCAM
+HMGCR|OGRPBCAM
+HMOX1|OGRPBCAM
+HRK|OGRPBCAM
+HSD17B10|OGRPBCAM
+HSPA1B|OGRPBCAM
+HSPA5|OGRPBCAM
+HSPD1|OGRPBCAM
+HTT|OGRPBCAM
+Has_NICHD_Parent|NCIT_A11
+Have Difficulty Swallowing|OGRPBCAM
+Have Indigestion|OGRPBCAM
+Hazard Ratio|OGRPBCAM
+Head Injury|OGRPBCAM
+Heat Shock Protein|OGRPBCAM
+Heat Shock Protein 70|OGRPBCAM
+Hexokinase|OGRPBCAM
+Hippocampus|OGRPBCAM
+Hispanic|OGRPBCAM
+Homo sapiens|OGRPBCAM
+Huntington's disease|OGRPBCAM
+ICAM1|OGRPBCAM
+ICD-9-CM|OGRPBCAM
+IDE|OGRPBCAM
+IEDB alternative term|OGRPBCAM
+IFI44|OGRPBCAM
+IFNG|OGRPBCAM
+IGF1|OGRPBCAM
+IGF1R|OGRPBCAM
+IHCC browser label|OGRPBCAM
+IHCC category|OGRPBCAM
+IKBKB|OGRPBCAM
+IL10|OGRPBCAM
+IL11|OGRPBCAM
+IL12A|OGRPBCAM
+IL16|OGRPBCAM
+IL18|OGRPBCAM
+IL1A|OGRPBCAM
+IL1B|OGRPBCAM
+IL3|OGRPBCAM
+IL33|OGRPBCAM
+IL4|OGRPBCAM
+IL4R|OGRPBCAM
+IL6|OGRPBCAM
+IL6R|OGRPBCAM
+IL8|OGRPBCAM
+INPP5D|OGRPBCAM
+INPP5K|OGRPBCAM
+INS|OGRPBCAM
+INSR|OGRPBCAM
+IREB2|OGRPBCAM
+IRS1|OGRPBCAM
+IRS2|OGRPBCAM
+ISA alternative term|OGRPBCAM
+ITM2B|OGRPBCAM
+Immunoglobulin|OGRPBCAM
+Immunoreceptor Tyrosine-Based Activation Motif|OGRPBCAM
+Immunotherapy|OGRPBCAM
+In Vitro Model|OGRPBCAM
+In Vivo Model|OGRPBCAM
+Inability to communicate|OGRPBCAM
+Inability to recognize oneself or family|OGRPBCAM
+Incidence rate|OGRPBCAM
+Interleukin|OGRPBCAM
+Interleukin-12|OGRPBCAM
+Interphase|OGRPBCAM
+Inuit|OGRPBCAM
+Is_PCDC_AML_Permissible_Value_For_Variable|NCIT_A24
+Is_PCDC_EWS_Permissible_Value_For_Variable|NCIT_A28
+Isocarboxazid|OGRPBCAM
+Isoxsuprine|OGRPBCAM
+JAK2|OGRPBCAM
+JUN|OGRPBCAM
+Japanese|OGRPBCAM
+KAT5|OGRPBCAM
+KAT8|OGRPBCAM
+KCNIP3|OGRPBCAM
+KEGG_ID|OGRPBCAM
+KPNA1|OGRPBCAM
+KPNA5|OGRPBCAM
+KPNB1|OGRPBCAM
+KREMEN2|OGRPBCAM
+Kidney Function Test|OGRPBCAM
+Korean|OGRPBCAM
+L-methionine sulfoxide|OGRPBCAM
+L-tryptophan|OGRPBCAM
+LAG3|OGRPBCAM
+LCK|OGRPBCAM
+LDLR|OGRPBCAM
+LEF1|OGRPBCAM
+LGALS1|OGRPBCAM
+LINC-ROR|OGRPBCAM
+LINCS ID|OGRPBCAM
+LIPC|OGRPBCAM
+LOX|OGRPBCAM
+LPL|OGRPBCAM
+LRP1|OGRPBCAM
+LRP6|OGRPBCAM
+LRP8|OGRPBCAM
+Late-stage Alzheimer's Disease(severe)|OGRPBCAM
+Latino|OGRPBCAM
+Latrepirdine|OGRPBCAM
+Lavandula|OGRPBCAM
+Legacy Concept Name|OGRPBCAM
+Legacy_Concept_Name|OGRPBCAM
+Lewy body|OGRPBCAM
+Lewy body dementia|OGRPBCAM
+Library of Congress Classification|OGRPBCAM
+Library of Congress Subject Headings|Q1823134
+Lifestyle|OGRPBCAM
+Lipid Metabolism|OGRPBCAM
+Lipid Peroxidation|OGRPBCAM
+Longitudinal Study|OGRPBCAM
+Loratadine|OGRPBCAM
+Lorazepam|OGRPBCAM
+Lumbar Puncture|OGRPBCAM
+MAOB|OGRPBCAM
+MAP2K1|OGRPBCAM
+MAP2K3|OGRPBCAM
+MAP2K4|OGRPBCAM
+MAP2K6|OGRPBCAM
+MAP2K7|OGRPBCAM
+MAPK Signaling Pathway|OGRPBCAM
+MAPK cascade|OGRPBCAM
+MAPK1|OGRPBCAM
+MAPK11|OGRPBCAM
+MAPK12|OGRPBCAM
+MAPK13|OGRPBCAM
+MAPK14|OGRPBCAM
+MAPK3|OGRPBCAM
+MAPK8|OGRPBCAM
+MAPK8IP1|OGRPBCAM
+MAPT|OGRPBCAM
+MARCO|OGRPBCAM
+MAT1A|OGRPBCAM
+MBP|OGRPBCAM
+MED12|OGRPBCAM
+MEF2C|OGRPBCAM
+MIF|OGRPBCAM
+MIR128-1|OGRPBCAM
+MME|OGRPBCAM
+MMP10|OGRPBCAM
+MMP2|OGRPBCAM
+MMP3|OGRPBCAM
+MMP9|OGRPBCAM
+MPO|OGRPBCAM
+MPST|OGRPBCAM
+MS4|OGRPBCAM
+MS4A6E|OGRPBCAM
+MSRA|OGRPBCAM
+MSRB2|OGRPBCAM
+MT-RNR2 Gene|OGRPBCAM
+MTHFR|OGRPBCAM
+MTOR|OGRPBCAM
+MVK|OGRPBCAM
+Magnetic Resonance Imaging|OGRPBCAM
+Magnetoencephalography|OGRPBCAM
+Mammalia|OGRPBCAM
+Maprotiline|OGRPBCAM
+Maps_To|OGRPBCAM
+Material anatomical entity|OGRPBCAM
+MeSH Descriptor ID|OGRPBCAM
+Medical Dictionary for Regulatory Activities ID|OGRPBCAM
+Membrane layer of organelle|OGRPBCAM
+Membrane of mitochondrion|OGRPBCAM
+Memory Dysfunction|OGRPBCAM
+Memory Orientation Screening Test|OGRPBCAM
+Metabolic Marker|OGRPBCAM
+Mexican|OGRPBCAM
+Mexican-American|OGRPBCAM
+Microtubule Associated Protein|OGRPBCAM
+Middle-stage Alzheimer's Disease (moderate)|OGRPBCAM
+Mini-Mental State Exam score|OGRPBCAM
+Mini-Mental Status Exam|OGRPBCAM
+Model|OGRPBCAM
+Moexipril|OGRPBCAM
+Montreal Cognitive Assessment Functional Test|OGRPBCAM
+Montreal Cognitive Assessment Test score|OGRPBCAM
+N-Methyl-D-Aspartate Receptor|OGRPBCAM
+N-acetyl-D-glucosamine|OGRPBCAM
+N-acetyl-D-glucosamine 1-phosphate|OGRPBCAM
+N-acetyl-D-glucosamine 6-phosphate|OGRPBCAM
+NAD(+)|OGRPBCAM
+NADH|OGRPBCAM
+NADP(+)|OGRPBCAM
+NADPH|OGRPBCAM
+NCBI GeneID|OGRPBCAM
+NCBI LocusTag|OGRPBCAM
+NCBI_Taxon_ID|OGRPBCAM
+NCI Thesaurus ID|OGRPBCAM
+NCIT code|OGRPBCAM
+NCI_META_CUI|OGRPBCAM
+NCLN|OGRPBCAM
+NCOR1|OGRPBCAM
+NCOR2|OGRPBCAM
+NCSTN|OGRPBCAM
+ND1|OGRPBCAM
+NEDD8|OGRPBCAM
+NEDD9|OGRPBCAM
+NF1|OGRPBCAM
+NFAT protein|OGRPBCAM
+NFE2L2|OGRPBCAM
+NFKB1|OGRPBCAM
+NGF|OGRPBCAM
+NGFR|OGRPBCAM
+NICHD_Hierarchy_Term|OGRPBCAM
+NINCDS-ADRDA Criteria for Alzheimer's Disease|OGRPBCAM
+NLRC4|OGRPBCAM
+NLRP1|OGRPBCAM
+NLRP3|OGRPBCAM
+NMDA receptor antagonist|OGRPBCAM
+NME8|OGRPBCAM
+NOD1|OGRPBCAM
+NOD2|OGRPBCAM
+NOMO1|OGRPBCAM
+NOS1|OGRPBCAM
+NOS2|OGRPBCAM
+NOTCH1|OGRPBCAM
+NPY|OGRPBCAM
+NR1H3|OGRPBCAM
+NR3C1|OGRPBCAM
+NRG1|OGRPBCAM
+NRG3|OGRPBCAM
+NTF3|OGRPBCAM
+NTF4|OGRPBCAM
+NTRK1|OGRPBCAM
+NTRK2|OGRPBCAM
+NTRK3|OGRPBCAM
+NTS|OGRPBCAM
+NUDT6|OGRPBCAM
+NUP54|OGRPBCAM
+NUP62|OGRPBCAM
+NUPL1|OGRPBCAM
+Native Hawaiian|OGRPBCAM
+Nested Case-control Study|OGRPBCAM
+Neurite|OGRPBCAM
+Neuro-2a cell|OGRPBCAM
+Neurobehavioral Cognitive Status Examination|OGRPBCAM
+Neurodegeneration|OGRPBCAM
+Neurofibrillary tangles|OGRPBCAM
+Neuroimaging|OGRPBCAM
+Neuroinflammation|OGRPBCAM
+Neurotrophic Factor|OGRPBCAM
+Non-Granular Leukocyte|OGRPBCAM
+Notch Receptor Intracellular Domain|OGRPBCAM
+Notch signaling pathway|OGRPBCAM
+O-acetyl-L-carnitine|OGRPBCAM
+OBO foundry unique label|OGRPBCAM
+OGT|OGRPBCAM
+OMIM_Number|OGRPBCAM
+ORAI1|OGRPBCAM
+OTC|OGRPBCAM
+OXCT1|OGRPBCAM
+Organ component|OGRPBCAM
+Organ component of neuraxis|OGRPBCAM
+Organ region|OGRPBCAM
+Organ segment|OGRPBCAM
+Other Race|OGRPBCAM
+P2RX7|OGRPBCAM
+PCBP1|OGRPBCAM
+PCBP2|OGRPBCAM
+PCDH11X|OGRPBCAM
+PCK1|OGRPBCAM
+PCSK1|OGRPBCAM
+PDE5A|OGRPBCAM
+PDHA1|OGRPBCAM
+PDK1|OGRPBCAM
+PEBP1|OGRPBCAM
+PFKM|OGRPBCAM
+PGBD1|OGRPBCAM
+PGGT1B|OGRPBCAM
+PGK1|OGRPBCAM
+PGK2|OGRPBCAM
+PGM3|OGRPBCAM
+PICALM|OGRPBCAM
+PK-11195|OGRPBCAM
+PLA2G1B|OGRPBCAM
+PLA2G4A|OGRPBCAM
+PLAT|OGRPBCAM
+PLAU|OGRPBCAM
+PLG|OGRPBCAM
+PLP1|OGRPBCAM
+PMEL|OGRPBCAM
+PMVK|OGRPBCAM
+POLB|OGRPBCAM
+POLD1|OGRPBCAM
+PORCN|OGRPBCAM
+PPARA|OGRPBCAM
+PPARG|OGRPBCAM
+PPP2CA|OGRPBCAM
+PRIM1|OGRPBCAM
+PRKAA2|OGRPBCAM
+PRKG1|OGRPBCAM
+PRNP|OGRPBCAM
+PSEN1|OGRPBCAM
+PSEN2|OGRPBCAM
+PSENEN|OGRPBCAM
+PSMD9|OGRPBCAM
+PSPHP1|OGRPBCAM
+PTEN|OGRPBCAM
+PTGS2|OGRPBCAM
+PTK2B|OGRPBCAM
+PTPN1|OGRPBCAM
+PVRL2|OGRPBCAM
+PYCARD|OGRPBCAM
+Pacific Islander|OGRPBCAM
+Parageusia|OGRPBCAM
+Parkinson's disease|OGRPBCAM
+Past medical history|OGRPBCAM
+Pathogen-Associated Molecular Pattern Molecules|OGRPBCAM
+Peptide Hormone|OGRPBCAM
+Personal Attribute|OGRPBCAM
+Personality and behavioral changes|OGRPBCAM
+Personality changes|OGRPBCAM
+Phase 0 Trial|OGRPBCAM
+Phase IIa Trial|OGRPBCAM
+Phase IIb Trial|OGRPBCAM
+Phenelzine|OGRPBCAM
+Phenotypic abnormality|OGRPBCAM
+Phosphatidylinositol 4,5-bisphosphate|OGRPBCAM
+Phospholipase D|OGRPBCAM
+Phosphorylated Tau Protein Measurement|OGRPBCAM
+Phosphorylated Tau Protein to Amyloid Beta1-42 Ratio Measurement|OGRPBCAM
+Physical anatomical entity|OGRPBCAM
+Phytic Acid|OGRPBCAM
+Pick's disease|OGRPBCAM
+Placebo Effect|OGRPBCAM
+Plasma membrane|OGRPBCAM
+Precuneus|OGRPBCAM
+Preferred_Name|OGRPBCAM
+Preganglionic neuron|OGRPBCAM
+Primary Outcome Measure|OGRPBCAM
+Proportion|OGRPBCAM
+Protein Family|OGRPBCAM
+Protein Synthesis|OGRPBCAM
+Protein complex|OGRPBCAM
+Puerto Rican|OGRPBCAM
+Purkinje cell|OGRPBCAM
+Pyridostigmine|OGRPBCAM
+Pyruvate Dehydrogenase Complex|OGRPBCAM
+RAC1|OGRPBCAM
+RAF1|OGRPBCAM
+RARA|OGRPBCAM
+RB1CC1|OGRPBCAM
+RELA|OGRPBCAM
+RELN|OGRPBCAM
+RHEB|OGRPBCAM
+RHOA|OGRPBCAM
+RIPK2|OGRPBCAM
+RNA gene|OGRPBCAM
+RNA gene of Homo sapiens|OGRPBCAM
+RPS6KA1|OGRPBCAM
+RPS6KB1|OGRPBCAM
+RUBRIC|OGRPBCAM
+RYR3|OGRPBCAM
+Randomized Controlled Clinical Trial|OGRPBCAM
+Rattus|OGRPBCAM
+Receptors, Ionotropic Glutamate|OGRPBCAM
+Region of cerebral cortex|OGRPBCAM
+Region of organ component|OGRPBCAM
+Related_To_Genetic_Biomarker|NCIT_A13
+Remoxipride|OGRPBCAM
+Research or Clinical Assessment Tool|OGRPBCAM
+Resting State Functional Connectivity Magnetic Resonance Imaging|OGRPBCAM
+Retrospective Cohort Study|OGRPBCAM
+Rey Auditory Verbal Learning Functional Test|OGRPBCAM
+S100B|OGRPBCAM
+SDC2|OGRPBCAM
+SERPINE1|OGRPBCAM
+SERPINI1|OGRPBCAM
+SET|OGRPBCAM
+SH-SY5Y cell|OGRPBCAM
+SH-SY5Y 细胞|OGRPBCAM
+SHC1|OGRPBCAM
+SIRT1|OGRPBCAM
+SIRT2|OGRPBCAM
+SIRT3|OGRPBCAM
+SIRT4|OGRPBCAM
+SIRT5|OGRPBCAM
+SIRT6|OGRPBCAM
+SIRT7|OGRPBCAM
+SKP1|OGRPBCAM
+SLC24A4|OGRPBCAM
+SLC2A1|OGRPBCAM
+SLC2A3|OGRPBCAM
+SLC2A4|OGRPBCAM
+SLC40A1|OGRPBCAM
+SMPD2|OGRPBCAM
+SNCA|OGRPBCAM
+SNOMED CT Identifier|OGRPBCAM
+SOD1|OGRPBCAM
+SORCS1|OGRPBCAM
+SORL1|OGRPBCAM
+SOS2|OGRPBCAM
+SPHK1|OGRPBCAM
+SRA1|OGRPBCAM
+SRC|OGRPBCAM
+SRI|OGRPBCAM
+SST|OGRPBCAM
+ST8SIA1|OGRPBCAM
+STATO alternative term|OGRPBCAM
+STK11|OGRPBCAM
+STUB1|OGRPBCAM
+STXBP1|OGRPBCAM
+SUOX|OGRPBCAM
+SYP|OGRPBCAM
+Samoan|OGRPBCAM
+Sampling|OGRPBCAM
+Schwann cell|OGRPBCAM
+Screening|OGRPBCAM
+Secondary Outcome Measure|OGRPBCAM
+Sedation|OGRPBCAM
+Semagacestat|OGRPBCAM
+Semantic_Type|OGRPBCAM
+Set of basal ganglia|OGRPBCAM
+Short Portable Mental Status Questionnaire (SPMSQ)|OGRPBCAM
+Sirtuin 1|OGRPBCAM
+Student's t-test|OGRPBCAM
+Study Arm|OGRPBCAM
+Study Phase|OGRPBCAM
+Study Subject|OGRPBCAM
+Subcellular Process|OGRPBCAM
+Surveillance|OGRPBCAM
+Swelling|OGRPBCAM
+Synuclein Family|OGRPBCAM
+T lymphocyte|OGRPBCAM
+TARDBP|OGRPBCAM
+TF|OGRPBCAM
+TFAM|OGRPBCAM
+TFCP2|OGRPBCAM
+TGM2|OGRPBCAM
+TH|OGRPBCAM
+THOP1|OGRPBCAM
+THRA|OGRPBCAM
+THSD1|OGRPBCAM
+TIMP1|OGRPBCAM
+TLR2|OGRPBCAM
+TLR3|OGRPBCAM
+TLR4|OGRPBCAM
+TLR8|OGRPBCAM
+TLR9|OGRPBCAM
+TM_BIN_VariantisGeneticRiskFactorFor|OGRPBCAM
+TM_BIN_isSignAndSymptomFor|OGRPBCAM
+TM_BIN_isTreatmentFor|OGRPBCAM
+TNF|OGRPBCAM
+TNFAIP2|OGRPBCAM
+TNFRSF10C|OGRPBCAM
+TNFRSF1A|OGRPBCAM
+TNFRSF21|OGRPBCAM
+TNK1|OGRPBCAM
+TOMM40|OGRPBCAM
+TP53|OGRPBCAM
+TRADD|OGRPBCAM
+TRAF2|OGRPBCAM
+TREM1|OGRPBCAM
+TREM2|OGRPBCAM
+TRNAU1|OGRPBCAM
+TST|OGRPBCAM
+TTR|OGRPBCAM
+TUB|OGRPBCAM
+TXN|OGRPBCAM
+TYROBP|OGRPBCAM
+Tau Protein Measurement|OGRPBCAM
+Temazepam|OGRPBCAM
+Thalamus|OGRPBCAM
+Thiazolidinedione Antidiabetic Agent|OGRPBCAM
+Tramiprosate|OGRPBCAM
+Transgenic Model|OGRPBCAM
+Type C Phospholipases|OGRPBCAM
+UAP1|OGRPBCAM
+UBA1|OGRPBCAM
+UBA3|OGRPBCAM
+UBE2M|OGRPBCAM
+UBP1|OGRPBCAM
+UBQLN1|OGRPBCAM
+ULK1|OGRPBCAM
+UMLS_CUI|OGRPBCAM
+UNC13A|OGRPBCAM
+USP17L2|OGRPBCAM
+VAMP2|OGRPBCAM
+VCAM1|OGRPBCAM
+VEGFA|OGRPBCAM
+VHL|OGRPBCAM
+VIAF ID|OGRPBCAM
+VLDLR|OGRPBCAM
+VPS26A|OGRPBCAM
+VPS29|OGRPBCAM
+VPS35|OGRPBCAM
+VariantisGeneticRiskFactorFor|OGRPBCAM
+Vascular Endothelial Growth Factor Family|OGRPBCAM
+Ventricle|OGRPBCAM
+Vertebrata <vertebrates>|OGRPBCAM
+Vietnamese|OGRPBCAM
+Vomiting|OGRPBCAM
+WIF1|OGRPBCAM
+WISP1|OGRPBCAM
+WNT1|OGRPBCAM
+WNT3A|OGRPBCAM
+WNT5A|OGRPBCAM
+WNT7A|OGRPBCAM
+WWC1|OGRPBCAM
+White|OGRPBCAM
+Wide Range Achievement Test, 3rd Edition|OGRPBCAM
+Wnt signaling pathway|OGRPBCAM
+Wnt-Frizzled-LRP5/6 complex|OGRPBCAM
+X-Ray Imaging|OGRPBCAM
+XBP1|OGRPBCAM
+Xiusanzhen|OGRPBCAM
+ZAP70|OGRPBCAM
+ZCWPW1|OGRPBCAM
+ZGLP1|OGRPBCAM
+ZNF224|OGRPBCAM
+abdominal pain|OGRPBCAM
+abdominal symptom|OGRPBCAM
+abnormal ceramide level|OGRPBCAM
+abnormal homeostasis|OGRPBCAM
+absolute risk|OGRPBCAM
+acetate|OGRPBCAM
+acetoacetate|OGRPBCAM
+acetoacetyl-CoA|OGRPBCAM
+acetophenazine|OGRPBCAM
+acetyl-CoA|OGRPBCAM
+acetylation|OGRPBCAM
+acetylcholine|OGRPBCAM
+acetylcysteine|OGRPBCAM
+action potential|OGRPBCAM
+activation-induced cell death|OGRPBCAM
+active transport|OGRPBCAM
+acyl-CoA|OGRPBCAM
+adenosine 3',5'-bisphosphate|OGRPBCAM
+adenosine bisphosphate|OGRPBCAM
+adenosine phosphate|OGRPBCAM
+adenyl nucleotide|OGRPBCAM
+adenyl ribonucleotide|OGRPBCAM
+adrenergic neuron|OGRPBCAM
+advanced glycation end-product|OGRPBCAM
+adverse drug effect|OGRPBCAM
+adverse event|OGRPBCAM
+age|OGRPBCAM
+agonist|OGRPBCAM
+alcohol|OGRPBCAM
+alcohol abuse|OGRPBCAM
+alcohol consumption|OGRPBCAM
+aldehyde|OGRPBCAM
+aldopentose phosphate|OGRPBCAM
+aldose phosphate|OGRPBCAM
+alkali metal molecular entity|OGRPBCAM
+allicin|OGRPBCAM
+alternate name|OGRPBCAM
+alternative term|OGRPBCAM
+aluminium atom|OGRPBCAM
+ambenonium|OGRPBCAM
+amide|OGRPBCAM
+amitriptyline|OGRPBCAM
+amnestic symptom|OGRPBCAM
+amoxapine|OGRPBCAM
+amygdala|OGRPBCAM
+amyloid fibril|OGRPBCAM
+amyloid plaque|OGRPBCAM
+amyloid positivity|OGRPBCAM
+amyloid-beta|OGRPBCAM
+amyloid-beta 42/amyloid-beta 40 ratio|OGRPBCAM
+amyloid-beta clearance|OGRPBCAM
+amyloid-beta precursor protein|OGRPBCAM
+anatomical cluster|OGRPBCAM
+anatomical entity|OGRPBCAM
+anatomical space|OGRPBCAM
+anatomical structure|OGRPBCAM
+antagonist|OGRPBCAM
+anterior cingulate cortex|OGRPBCAM
+anthocyanin|OGRPBCAM
+anti-inflammatory agent|OGRPBCAM
+anti-inflammatory drug|OGRPBCAM
+antidementia agent therapy|OGRPBCAM
+antidepressant|OGRPBCAM
+antioxidant|OGRPBCAM
+antipsychotic agent|OGRPBCAM
+anxiety|OGRPBCAM
+anxiety disorder|OGRPBCAM
+anxiolytic drug|OGRPBCAM
+apoptosis|MPATH_3
+application|OGRPBCAM
+arachidonic acid|OGRPBCAM
+arginine|OGRPBCAM
+aripiprazole|OGRPBCAM
+aromatic compound|OGRPBCAM
+aromatic ketone|OGRPBCAM
+assay|OGRPBCAM
+astrocyte|OGRPBCAM
+astrocyte activation|OGRPBCAM
+asymptomatic cerebral amyloidosis|OGRPBCAM
+atom|OGRPBCAM
+atorvastatin|OGRPBCAM
+atrophy|OGRPBCAM
+autophagosome|OGRPBCAM
+autophagy|OGRPBCAM
+autophagy of mitochondrion|OGRPBCAM
+axiom_lost_from_external_ontology|OGRPBCAM
+axon tract|OGRPBCAM
+axonal growth cone|OGRPBCAM
+axonal transport|OGRPBCAM
+basal ganglion|OGRPBCAM
+basket cell|OGRPBCAM
+basophil|OGRPBCAM
+behavior|OGRPBCAM
+behavior process|OGRPBCAM
+behavioral symptom|OGRPBCAM
+behavioral therapy|OGRPBCAM
+benazepril|OGRPBCAM
+benzenoid aromatic compound|OGRPBCAM
+benzoic acids|OGRPBCAM
+beta-secretase 1 measurement|OGRPBCAM
+biaryl|OGRPBCAM
+bicyclic compound|OGRPBCAM
+bile acid|OGRPBCAM
+biochemical role|OGRPBCAM
+biological adhesion|OGRPBCAM
+biological phase|OGRPBCAM
+biological process involved in interspecies interaction between organisms|OGRPBCAM
+biological regulation|OGRPBCAM
+biological role|OGRPBCAM
+biological sex|OGRPBCAM
+biological_process|OGRPBCAM
+biomacromolecule|OGRPBCAM
+biomarker|OGRPBCAM
+biopterins|OGRPBCAM
+biphenyls|OGRPBCAM
+blood|OGRPBCAM
+blood brain barrier|OGRPBCAM
+blood cell measurement|OGRPBCAM
+blood chemistry measurement|OGRPBCAM
+blood measurement|OGRPBCAM
+bodily fluid|OGRPBCAM
+bodily process|OGRPBCAM
+body mass index (BMI)|OGRPBCAM
+bounding membrane of organelle|OGRPBCAM
+brain|OGRPBCAM
+brain AE|OGRPBCAM
+brain gray matter|OGRPBCAM
+brain ventricle|OGRPBCAM
+brain ventricle/choroid plexus|OGRPBCAM
+brainstem|OGRPBCAM
+brainstem nucleus|OGRPBCAM
+brexanolone|OGRPBCAM
+butenolide|OGRPBCAM
+caffeine consumption|OGRPBCAM
+calcium atom|OGRPBCAM
+calcium(2+)|OGRPBCAM
+calcium-mediated signaling|OGRPBCAM
+captopril|OGRPBCAM
+carbamazepine|OGRPBCAM
+carbocyclic compound|OGRPBCAM
+carbohydrate derivative|OGRPBCAM
+carbohydrate phosphate|OGRPBCAM
+carbohydrates and carbohydrate derivatives|OGRPBCAM
+carbon group molecular entity|OGRPBCAM
+carbon oxoacid|OGRPBCAM
+carbonyl compound|OGRPBCAM
+carbonyl group|OGRPBCAM
+carboxamide|OGRPBCAM
+carboxylic acid|OGRPBCAM
+carboxylic ester|OGRPBCAM
+cardiovascular agent therapy|OGRPBCAM
+cardiovascular measurement|OGRPBCAM
+cardiovascular system disease|OGRPBCAM
+case report|OGRPBCAM
+case-control study design|OGRPBCAM
+catabolic process|OGRPBCAM
+catalytic complex|OGRPBCAM
+catechin|OGRPBCAM
+catecholamine|OGRPBCAM
+category and letter verbal fluency test|OGRPBCAM
+cavitated compound organ|OGRPBCAM
+celecoxib|OGRPBCAM
+cell adhesion|OGRPBCAM
+cell cluster|OGRPBCAM
+cell cluster organ|OGRPBCAM
+cell communication|OGRPBCAM
+cell culture|OGRPBCAM
+cell cycle phase|OGRPBCAM
+cell cycle process|OGRPBCAM
+cell death|OGRPBCAM
+cell junction|OGRPBCAM
+cell measurement|OGRPBCAM
+cell projection|OGRPBCAM
+cell-cell interaction|OGRPBCAM
+cellular anatomical entity|OGRPBCAM
+cellular metabolic process|OGRPBCAM
+cellular organisms|OGRPBCAM
+cellular process|OGRPBCAM
+cellular_component|OGRPBCAM
+central nervous system|OGRPBCAM
+central nervous system cell part cluster|OGRPBCAM
+central nervous system disease|DOID_331
+central nervous system drug|OGRPBCAM
+central nervous system gray matter layer|OGRPBCAM
+central nervous system neuron|OGRPBCAM
+ceramidase|OGRPBCAM
+ceramide|OGRPBCAM
+ceramide acumulation|OGRPBCAM
+cerebellum|OGRPBCAM
+cerebral amyloid angiopathy|OGRPBCAM
+cerebral cortex|OGRPBCAM
+cerebral hemisphere|OGRPBCAM
+cerebral hemisphere gray matter|OGRPBCAM
+cerebro-spinal tap|OGRPBCAM
+cerebrospinal fluid|OGRPBCAM
+cerebrospinal fluid measurement|OGRPBCAM
+cerivastatin|OGRPBCAM
+cevimeline|OGRPBCAM
+chalcogen molecular entity|OGRPBCAM
+chemical entity|OGRPBCAM
+chemical role|OGRPBCAM
+chemical substance|OGRPBCAM
+chemical synaptic transmission|OGRPBCAM
+chemotaxis|OGRPBCAM
+chest pain|OGRPBCAM
+chi square test|OGRPBCAM
+chloride|OGRPBCAM
+chlorpromazine|OGRPBCAM
+chlorprothixene|OGRPBCAM
+cholesterol|OGRPBCAM
+choline|OGRPBCAM
+cholinesterase inhibitor therapy|OGRPBCAM
+chromosome ID of gene|OGRPBCAM
+cilazapril|OGRPBCAM
+cingulate cortex|OGRPBCAM
+citalopram|OGRPBCAM
+citrulline|OGRPBCAM
+clinical assessment|OGRPBCAM
+clinical data item|OGRPBCAM
+clinical finding|OGRPBCAM
+clinical history|OGRPBCAM
+clinical measurement|OGRPBCAM
+clinical trial|OGRPBCAM
+clinical trial phase|OGRPBCAM
+clinical trial phase 1|OGRPBCAM
+clinical trial phase 2|OGRPBCAM
+clinical trial phase 3|OGRPBCAM
+clinical trial phase 4|OGRPBCAM
+clomipramine|OGRPBCAM
+clonazepam|OGRPBCAM
+clozapine|OGRPBCAM
+code|OGRPBCAM
+coenzyme A|OGRPBCAM
+cognitive behavior|OGRPBCAM
+cognitive disorder|OGRPBCAM
+cognitive measurement|OGRPBCAM
+cognitive process|OGRPBCAM
+cognitive symptom|OGRPBCAM
+comment|OGRPBCAM
+complex partial seizure|OGRPBCAM
+compound organ|OGRPBCAM
+concern regarding a change in cognition|OGRPBCAM
+confusion|OGRPBCAM
+congenital abnormality|OGRPBCAM
+constipation|OGRPBCAM
+consumption behavior|OGRPBCAM
+continuant|OGRPBCAM
+continuant fiat boundary|OGRPBCAM
+contributor|OGRPBCAM
+copper atom|OGRPBCAM
+copper(1+)|OGRPBCAM
+cortex|OGRPBCAM
+cortex of cerebral lobe|OGRPBCAM
+corticobasal degeneration|OGRPBCAM
+corticobasal syndrome|OGRPBCAM
+crude death rate|OGRPBCAM
+curator note|OGRPBCAM
+curator notes|OGRPBCAM
+curcumin|OGRPBCAM
+cyclic compound|OGRPBCAM
+cysteine|OGRPBCAM
+cytokine biomarker|OGRPBCAM
+cytoplasmic vesicle membrane|OGRPBCAM
+danio rerio gene|OGRPBCAM
+dapsone|OGRPBCAM
+data item|OGRPBCAM
+data transformation|OGRPBCAM
+database cross reference|OGRPBCAM
+database_cross_reference|OGRPBCAM
+dc:creator|creator
+deacetylation|OGRPBCAM
+deamination|OGRPBCAM
+decarbonylation|OGRPBCAM
+decarboxylation reaction|MI_1140
+defense response to virus|OGRPBCAM
+definition|OGRPBCAM
+definition editor|OGRPBCAM
+definition source|OGRPBCAM
+definition_editor|OGRPBCAM
+definition_source|OGRPBCAM
+dementia|OGRPBCAM
+dementia due to Alzheimer's disease|OGRPBCAM
+demethylation|OGRPBCAM
+demyelination|OGRPBCAM
+dendritic spine|OGRPBCAM
+dentate gyrus|OGRPBCAM
+deoxyribonucleic acid|OGRPBCAM
+dephosphorylation|OGRPBCAM
+depicted by|OGRPBCAM
+depression|OGRPBCAM
+derived data from inferential statistical analysis|OGRPBCAM
+description|OGRPBCAM
+description adapted from source|OGRPBCAM
+desipramine|OGRPBCAM
+development_notes|OGRPBCAM
+developmental disorder of mental health|OGRPBCAM
+diabetes mellitus (disease)|OGRPBCAM
+diacylglycerol|OGRPBCAM
+diagnosis|OGRPBCAM
+diagnostic procedure|OGRPBCAM
+diagnostic test|OGRPBCAM
+diclofenac|OGRPBCAM
+diencephalon|OGRPBCAM
+different from|OGRPBCAM
+digestive system disease|OGRPBCAM
+digestive system symptom|OGRPBCAM
+dimethylallyl diphosphate|OGRPBCAM
+diol|OGRPBCAM
+disease|OGRPBCAM
+disease by infectious agent|OGRPBCAM
+disease of anatomical entity|DOID_7
+disease of mental health|DOID_150
+disease of metabolism|OGRPBCAM
+disease stage|OGRPBCAM
+disorder|OGRPBCAM
+disorder by anatomical region|OGRPBCAM
+disposition|OGRPBCAM
+dityrosine|OGRPBCAM
+dizziness|OGRPBCAM
+docosahexaenoic acid|OGRPBCAM
+docosanoid|OGRPBCAM
+dolichol|OGRPBCAM
+donepezil|OGRPBCAM
+dopamine|OGRPBCAM
+dopaminergic neuron|OGRPBCAM
+dorsal region element|OGRPBCAM
+dorsolateral prefrontal cortex|OGRPBCAM
+double blinded study|OGRPBCAM
+down-regulation|OGRPBCAM
+doxepin|OGRPBCAM
+droperidol|OGRPBCAM
+drowsiness|OGRPBCAM
+drug|OGRPBCAM
+drug role|OGRPBCAM
+dubious_for_taxon|OGRPBCAM
+duloxetine|OGRPBCAM
+dysfunctioning|OGRPBCAM
+early endosome|OGRPBCAM
+early sign|OGRPBCAM
+early-onset autosomal dominant Alzheimer disease|OGRPBCAM
+ectoderm-derived structure|OGRPBCAM
+editor note|OGRPBCAM
+editor preferred label|OGRPBCAM
+editor preferred term|OGRPBCAM
+editor preferred term~editor preferred label|OGRPBCAM
+eligibility criterion|OGRPBCAM
+elucidation|OGRPBCAM
+emotional behavior|OGRPBCAM
+enalapril|OGRPBCAM
+endocrine system disease|OGRPBCAM
+endocytosis|OGRPBCAM
+endoplasmic reticulum|OGRPBCAM
+endosome|OGRPBCAM
+endosome membrane|OGRPBCAM
+endothelial cell activation|OGRPBCAM
+endothelium|OGRPBCAM
+energy metabolism|OGRPBCAM
+entity|OGRPBCAM
+entorhinal cortex|OGRPBCAM
+enzymatic reaction|MI_0414
+enzyme|MI_0501
+enzyme inhibitor|OGRPBCAM
+enzyme inhibitor agent therapy|OGRPBCAM
+eosinophil|OGRPBCAM
+ependymal cell|OGRPBCAM
+epidemiological study|OGRPBCAM
+epigallocatechin gallate|OGRPBCAM
+episodic memory impairment|OGRPBCAM
+epithelium|OGRPBCAM
+equivalent property|OGRPBCAM
+ergoloid mesylate|OGRPBCAM
+escitalopram|OGRPBCAM
+ester|OGRPBCAM
+estrogen|OGRPBCAM
+etanercept|OGRPBCAM
+ethanolamines|OGRPBCAM
+ether|OGRPBCAM
+etodolac|OGRPBCAM
+eukaryotic cell|OGRPBCAM
+example of usage|OGRPBCAM
+excluded from QC check|OGRPBCAM
+excluded subClassOf|OGRPBCAM
+exclusion criterion|OGRPBCAM
+exendin-4|OGRPBCAM
+existence in other ontologies|OGRPBCAM
+exocytic vesicle|OGRPBCAM
+exocytosis|OGRPBCAM
+expand assertion to|OGRPBCAM
+external encapsulating structure|OGRPBCAM
+external_definition|OGRPBCAM
+external_ontology_notes|OGRPBCAM
+extracellular matrix|OGRPBCAM
+familial Alzheimer disease|OGRPBCAM
+fatty acid|OGRPBCAM
+fatty acid derivative|OGRPBCAM
+fatty acyl-CoA|OGRPBCAM
+female|OGRPBCAM
+fenoprofen|OGRPBCAM
+fiat object part|OGRPBCAM
+fibrinogen complex|OGRPBCAM
+flavonoids|OGRPBCAM
+flumazenil|OGRPBCAM
+fluorine molecular entity|OGRPBCAM
+fluorobiphenyl|OGRPBCAM
+fluoxetine|OGRPBCAM
+fluphenazine|OGRPBCAM
+flurazepam|OGRPBCAM
+fluvastatin|OGRPBCAM
+fluvoxamine|OGRPBCAM
+fma_set_term|OGRPBCAM
+folates|OGRPBCAM
+folic acid|OGRPBCAM
+food component|OGRPBCAM
+formation of covalent bond|OGRPBCAM
+fosinopril|OGRPBCAM
+fragmented DNA|OGRPBCAM
+from Alzheimer Ontology|OGRPBCAM
+frontal lobe|OGRPBCAM
+frontotemporal dementia|OGRPBCAM
+fructose 6-phosphate|OGRPBCAM
+full name from nomenclature authority|OGRPBCAM
+function|OGRPBCAM
+function-related process|OGRPBCAM
+functional part of brain|OGRPBCAM
+functional role|OGRPBCAM
+functioning process|OGRPBCAM
+furans|OGRPBCAM
+galanthamine|OGRPBCAM
+gamma-aminobutyric acid|OGRPBCAM
+gamma-lactone|OGRPBCAM
+gamma-secretase inhibitor|OGRPBCAM
+ganglion|OGRPBCAM
+gastritis|OGRPBCAM
+gender|OGRPBCAM
+gene|OGRPBCAM
+gene map location|OGRPBCAM
+gene of Homo sapiens|OGRPBCAM
+gene of Homo sapiens with unknown gene disposition|OGRPBCAM
+general symptom|OGRPBCAM
+generically dependent continuant|OGRPBCAM
+genetic disease|DOID_630
+geranyl diphosphate|OGRPBCAM
+glial cell|OGRPBCAM
+glucocorticoid|OGRPBCAM
+glucosamine|OGRPBCAM
+glucose|OGRPBCAM
+glucose transmembrane transport|OGRPBCAM
+glutamatergic neuron|OGRPBCAM
+glutamine|OGRPBCAM
+glutathione|OGRPBCAM
+glutathione disulfide|OGRPBCAM
+glyceraldehyde|OGRPBCAM
+glycerolipid|OGRPBCAM
+glycerophosphoinositol|OGRPBCAM
+glycerophospholipid|OGRPBCAM
+glycosylation|OGRPBCAM
+granule cell|OGRPBCAM
+granulocyte|OGRPBCAM
+gray matter|OGRPBCAM
+gray matter of forebrain|OGRPBCAM
+gray matter of telencephalon|OGRPBCAM
+group|OGRPBCAM
+growth cone|OGRPBCAM
+gyrus|OGRPBCAM
+halide|OGRPBCAM
+halogen molecular entity|OGRPBCAM
+haloperidol|OGRPBCAM
+has GO association|OGRPBCAM
+has PubMed association|OGRPBCAM
+has associated axiom(fol)|OGRPBCAM
+has associated axiom(nl)|OGRPBCAM
+has broad synonym|OGRPBCAM
+has curation status|OGRPBCAM
+has database cross reference|OGRPBCAM
+has exact match|OGRPBCAM
+has exact synonym|OGRPBCAM
+has keyword dependency pattern|OGRPBCAM
+has literature mining keywords|OGRPBCAM
+has narrow synonym|OGRPBCAM
+has related synonym|OGRPBCAM
+has synonym|OGRPBCAM
+hasExactSynonym|OGRPBCAM
+has_MedDRA_id|OGRPBCAM
+has_RxCUI|OGRPBCAM
+has_alternative_id|OGRPBCAM
+has_broad_synonym|OGRPBCAM
+has_exact_synonym|OGRPBCAM
+has_narrow_synonym|OGRPBCAM
+has_obo_namespace|OGRPBCAM
+has_rank|OGRPBCAM
+has_related_synonym|OGRPBCAM
+has_relational_adjective|OGRPBCAM
+head symptom|OGRPBCAM
+headache|OGRPBCAM
+health care process|OGRPBCAM
+heart disease|DOID_114
+heartburn|OGRPBCAM
+hepatitis|OGRPBCAM
+herbal medicine|OGRPBCAM
+heteroarene|OGRPBCAM
+heteroatomic molecular entity|OGRPBCAM
+heterobicyclic compound|OGRPBCAM
+heterocyclic compound|OGRPBCAM
+heteromonocyclic compound|OGRPBCAM
+heteroorganic entity|OGRPBCAM
+heteropolycyclic compound|OGRPBCAM
+hindbrain nucleus|OGRPBCAM
+hippocampal field|OGRPBCAM
+hippocampal formation|OGRPBCAM
+hippocampal neuron|OGRPBCAM
+histone deacetylase|OGRPBCAM
+homeostasis|OGRPBCAM
+homocyclic compound|OGRPBCAM
+homocysteine|OGRPBCAM
+homology_notes|OGRPBCAM
+hormone|OGRPBCAM
+human being|OGRPBCAM
+human study|OGRPBCAM
+huperzine A|OGRPBCAM
+hydrogen molecular entity|OGRPBCAM
+hydrogen peroxide|OGRPBCAM
+hydroxides|OGRPBCAM
+hydroxy carboxylic acid|OGRPBCAM
+hydroxy fatty acyl-CoA|OGRPBCAM
+hydroxyacyl-CoA|OGRPBCAM
+hydroxyl|OGRPBCAM
+hydroxylation reaction|MI_0210
+hypertension|OGRPBCAM
+hypotaurine|OGRPBCAM
+hypothyroidism|OGRPBCAM
+ibuprofen|OGRPBCAM
+id|OGRPBCAM
+idebenone|OGRPBCAM
+identifier|OGRPBCAM
+imaging technique|OGRPBCAM
+imidazopyrimidine|OGRPBCAM
+imipramine|OGRPBCAM
+immaterial anatomical entity|OGRPBCAM
+immaterial entity|OGRPBCAM
+immune biomarker|OGRPBCAM
+immune response|OGRPBCAM
+immune system process|OGRPBCAM
+impaired language functions|OGRPBCAM
+impaired reasoning|OGRPBCAM
+imported from|OGRPBCAM
+impulsive behavior|OGRPBCAM
+in minimal requirement ONS subset|OGRPBCAM
+in subset|OGRPBCAM
+in subset of ONS|OGRPBCAM
+in vivo bioluminescence imaging system|OGRPBCAM
+in_subset|OGRPBCAM
+incidence|OGRPBCAM
+inclusion body|OGRPBCAM
+inclusion criterion|OGRPBCAM
+independent continuant|OGRPBCAM
+indometacin|OGRPBCAM
+inferior temporal gyrus|OGRPBCAM
+inflammasome complex|OGRPBCAM
+inflammation|OGRPBCAM
+inflammatory cytokine biomarker|OGRPBCAM
+inflammatory process|OGRPBCAM
+informal cognitive testing|OGRPBCAM
+information biomacromolecule|OGRPBCAM
+information content entity|OGRPBCAM
+inhibitor|OGRPBCAM
+insidious onset of dementia|OGRPBCAM
+insomnia|OGRPBCAM
+insulin|OGRPBCAM
+insulin resistance|OGRPBCAM
+insulin signaling pathway|OGRPBCAM
+insulin signalling|OGRPBCAM
+interneuron|OGRPBCAM
+intestinal epithelium|OGRPBCAM
+intracellular anatomical structure|OGRPBCAM
+invertebrate animal|OGRPBCAM
+ion|OGRPBCAM
+ion channel|OGRPBCAM
+ion transport|OGRPBCAM
+ionotropic glutamate receptor antagonist|OGRPBCAM
+ionotropic glutamate receptor binding|OGRPBCAM
+iron atom|OGRPBCAM
+iron(2+)|OGRPBCAM
+is directional form of|OGRPBCAM
+is positive form of|OGRPBCAM
+is referenced by|OGRPBCAM
+isAnatomicalEntityFor|OGRPBCAM
+isCellularProcessFor|OGRPBCAM
+isClinicalMarkerFor|OGRPBCAM
+isDiagnosisFor|OGRPBCAM
+isModelFor|OGRPBCAM
+isRiskFactorFor|OGRPBCAM
+isSignAndSymptomFor|OGRPBCAM
+isTreatmentFor|OGRPBCAM
+isopentenyl diphosphate|OGRPBCAM
+isoprenoid|OGRPBCAM
+ketone|OGRPBCAM
+ketoprofen|OGRPBCAM
+ketorolac|OGRPBCAM
+label|OGRPBCAM
+laboratory finding|OGRPBCAM
+lactone|OGRPBCAM
+lanosterol|OGRPBCAM
+late endosome|OGRPBCAM
+late-onset familial alzheimer disease|OGRPBCAM
+lateral geniculate body|OGRPBCAM
+lateral structure|OGRPBCAM
+layer of dentate gyrus|OGRPBCAM
+lead atom|OGRPBCAM
+leukocyte|OGRPBCAM
+leukotriene|OGRPBCAM
+ligand-gated ion channel|OGRPBCAM
+limbic lobe|OGRPBCAM
+lipid|OGRPBCAM
+lipid transport|OGRPBCAM
+lipoic acid|OGRPBCAM
+lipoprotein particle|OGRPBCAM
+lipoxin A4|OGRPBCAM
+liraglutide|OGRPBCAM
+lisinopril|OGRPBCAM
+lithium atom|OGRPBCAM
+lithium(1+)|OGRPBCAM
+lobe of cerebral hemisphere|OGRPBCAM
+localization|OGRPBCAM
+locus ceruleus|OGRPBCAM
+logical macro assertion|OGRPBCAM
+logical macro assertion on a property|OGRPBCAM
+logical macro assertion on an object property|OGRPBCAM
+longitudinal cognitive evaluation|OGRPBCAM
+lovastatin|OGRPBCAM
+low-density lipoprotein|OGRPBCAM
+loxapine|OGRPBCAM
+lumiracoxib|OGRPBCAM
+lymphocyte|OGRPBCAM
+lysosome|OGRPBCAM
+mTOR signaling pathway|OGRPBCAM
+macroglia|OGRPBCAM
+macromolecule|OGRPBCAM
+macrophage|OGRPBCAM
+magnesium(2+)|OGRPBCAM
+main group molecular entity|OGRPBCAM
+male|OGRPBCAM
+malfunctioning process|OGRPBCAM
+malonaldehyde|OGRPBCAM
+mann-whitney U test|OGRPBCAM
+masking design|OGRPBCAM
+mass spectrometry|OGRPBCAM
+material anatomical entity|OGRPBCAM
+material entity|OGRPBCAM
+material processing|OGRPBCAM
+measurement datum|OGRPBCAM
+measurement method|OGRPBCAM
+measurement scale|OGRPBCAM
+meclofenamic acid|OGRPBCAM
+medial temporal lobe|OGRPBCAM
+medical intervention|OGRPBCAM
+medium spiny neuron|OGRPBCAM
+mefenamic acid|OGRPBCAM
+melatonin|OGRPBCAM
+meloxicam|OGRPBCAM
+memantine|OGRPBCAM
+membrane|OGRPBCAM
+membrane attack complex|OGRPBCAM
+membrane microdomain|OGRPBCAM
+membrane protein complex|OGRPBCAM
+membrane raft|OGRPBCAM
+mental disposition|OGRPBCAM
+mental process|OGRPBCAM
+meso-epithelium|OGRPBCAM
+mesoderm-derived structure|OGRPBCAM
+mesoridazine|OGRPBCAM
+metabolic process|OGRPBCAM
+metabolism|OGRPBCAM
+metal chelation|OGRPBCAM
+methionine|OGRPBCAM
+methotrimeprazine|OGRPBCAM
+methylation|OGRPBCAM
+methylcobalamin|OGRPBCAM
+mevalonic acid|OGRPBCAM
+miRNA|OGRPBCAM
+microglial cell|OGRPBCAM
+microglial cell activation|OGRPBCAM
+microtubule|OGRPBCAM
+midbrain nucleus|OGRPBCAM
+mild cognitive impairment|OGRPBCAM
+mild cognitive impairment due to Alzheimer's disease|OGRPBCAM
+minaprine|OGRPBCAM
+mirtazapine|OGRPBCAM
+mitochondrial dysfunction|OGRPBCAM
+mitochondrial membrane|OGRPBCAM
+mitochondrion|OGRPBCAM
+mitophagy|OGRPBCAM
+mixture|OGRPBCAM
+moclobemide|OGRPBCAM
+model|OGRPBCAM
+modification date|OGRPBCAM
+molecular assay|OGRPBCAM
+molecular entity|OGRPBCAM
+molecular messenger|OGRPBCAM
+molecular pathway modifying agent therapy|OGRPBCAM
+molecular process|OGRPBCAM
+molecularly interacts with|OGRPBCAM
+molecule|OGRPBCAM
+monkey|OGRPBCAM
+monocarboxylic acid|OGRPBCAM
+monocyclic compound|OGRPBCAM
+monocyte|OGRPBCAM
+monosaccharide derivative|OGRPBCAM
+mood disorder|OGRPBCAM
+morphological feature|OGRPBCAM
+mortality|OGRPBCAM
+mortality rate|OGRPBCAM
+mossy fiber|OGRPBCAM
+mouse|OGRPBCAM
+mouse gene|OGRPBCAM
+multi cell part structure|OGRPBCAM
+multi-tissue structure|OGRPBCAM
+multicellular anatomical structure|OGRPBCAM
+multiple personality disorder|OGRPBCAM
+multiple system atrophy|OGRPBCAM
+musculoskeletal system disease|DOID_17
+mutation|OGRPBCAM
+myelin sheath|OGRPBCAM
+myelination|OGRPBCAM
+nabumetone|OGRPBCAM
+naproxen|OGRPBCAM
+naproxen sodium|OGRPBCAM
+nausea|OGRPBCAM
+necrosis|OGRPBCAM
+nefazodone|OGRPBCAM
+neocortex|OGRPBCAM
+neostigmine|OGRPBCAM
+nervous system cell part layer|OGRPBCAM
+nervous system disease|DOID_863
+nervous system symptom|OGRPBCAM
+neural cell|OGRPBCAM
+neural nucleus|OGRPBCAM
+neuroblastoma cell line|OGRPBCAM
+neurodegenerative disease|OGRPBCAM
+neurofibrillary tangle assembly|OGRPBCAM
+neurological and physiological symptom|OGRPBCAM
+neuron|OGRPBCAM
+neuron death|OGRPBCAM
+neuron projection|OGRPBCAM
+neuron projection bundle|OGRPBCAM
+neuron spine|OGRPBCAM
+neuronal cell body membrane|OGRPBCAM
+neuronal stem cell|OGRPBCAM
+neuropsychological testing|OGRPBCAM
+neurotrophic signalling|OGRPBCAM
+neurotrophin|OGRPBCAM
+neurotrophin signaling pathway|OGRPBCAM
+neutrophil|OGRPBCAM
+never in taxon|OGRPBCAM
+never_in_taxon|OGRPBCAM
+niacin|OGRPBCAM
+nicotine consumption|OGRPBCAM
+nimodipine|OGRPBCAM
+nitric oxide synthase inhibitor|OGRPBCAM
+nitrile|OGRPBCAM
+nitrogen molecular entity|OGRPBCAM
+node of Ranvier|OGRPBCAM
+nomenclature status|OGRPBCAM
+non-demented cognitive impairment|OGRPBCAM
+non-pharmacotherapy procedure|OGRPBCAM
+non-proteinogenic amino acid|OGRPBCAM
+non-steroidal anti-inflammatory drug|OGRPBCAM
+noradrenaline|OGRPBCAM
+nortriptyline|OGRPBCAM
+nuclear complex of neuraxis|OGRPBCAM
+nuclear membrane|OGRPBCAM
+nuclear transport|OGRPBCAM
+nucleobase-containing molecular entity|OGRPBCAM
+nucleoside bisphosphate|OGRPBCAM
+nucleoside phosphate|OGRPBCAM
+nucleotide|OGRPBCAM
+nucleus|OGRPBCAM
+nucleus of brain|OGRPBCAM
+nutrition, metabolism, and development symptom|OGRPBCAM
+obesity|OGRPBCAM
+object|OGRPBCAM
+object aggregate|OGRPBCAM
+occipital cortex|OGRPBCAM
+occurrent|OGRPBCAM
+odds ratio|OGRPBCAM
+olanzapine|OGRPBCAM
+oligodendrocyte|OGRPBCAM
+omega-3 fatty acid|OGRPBCAM
+omega-6 fatty acid|OGRPBCAM
+omega-carboxyacyl-CoA|OGRPBCAM
+one-dimensional continuant fiat boundary|OGRPBCAM
+one-dimensional spatial region|OGRPBCAM
+one-dimensional temporal region|OGRPBCAM
+onset|OGRPBCAM
+open blinded design|OGRPBCAM
+organ|OGRPBCAM
+organ component layer|OGRPBCAM
+organ part|OGRPBCAM
+organ system subdivision|OGRPBCAM
+organelle|OGRPBCAM
+organelle membrane|OGRPBCAM
+organelle subcompartment|OGRPBCAM
+organic acid|OGRPBCAM
+organic aromatic compound|OGRPBCAM
+organic cyclic compound|OGRPBCAM
+organic heterobicyclic compound|OGRPBCAM
+organic heterocyclic compound|OGRPBCAM
+organic heteromonocyclic compound|OGRPBCAM
+organic heteropolycyclic compound|OGRPBCAM
+organic hydride|OGRPBCAM
+organic hydroxy compound|OGRPBCAM
+organic molecular entity|OGRPBCAM
+organic molecule|OGRPBCAM
+organic oxo compound|OGRPBCAM
+organic phosphate|OGRPBCAM
+organism NCBITaxon ID|OGRPBCAM
+organism substance|OGRPBCAM
+organismal assay|OGRPBCAM
+organochalcogen compound|OGRPBCAM
+organofluorine compound|OGRPBCAM
+organohalogen compound|OGRPBCAM
+organonitrogen compound|OGRPBCAM
+organonitrogen heterocyclic compound|OGRPBCAM
+organooxygen compound|OGRPBCAM
+organophosphorus compound|OGRPBCAM
+organosulfur compound|OGRPBCAM
+oxacycle|OGRPBCAM
+oxaprozin|OGRPBCAM
+oxazepam|OGRPBCAM
+oxidation|OGRPBCAM
+oxidative stress|OGRPBCAM
+oxoacid|OGRPBCAM
+oxoacid derivative|OGRPBCAM
+oxygen molecular entity|OGRPBCAM
+p-block molecular entity|OGRPBCAM
+pain|OGRPBCAM
+paliperidone|OGRPBCAM
+palmitoylation reaction|MI_0216
+parallel fiber|OGRPBCAM
+parenchyma|OGRPBCAM
+parietal lobe|OGRPBCAM
+paroxetine|OGRPBCAM
+pathological bodily process|OGRPBCAM
+pathological mental process|OGRPBCAM
+pathological process|OGRPBCAM
+pathway|OGRPBCAM
+pentose derivative|OGRPBCAM
+pentose phosphate|OGRPBCAM
+peptide|OGRPBCAM
+perazine|OGRPBCAM
+performing physical activity|OGRPBCAM
+pericyte cell|OGRPBCAM
+perindopril|OGRPBCAM
+periventricular gray matter|OGRPBCAM
+peroxynitrite|OGRPBCAM
+perphenazine|OGRPBCAM
+personality disorder|OGRPBCAM
+pervasive developmental disorder|OGRPBCAM
+phagocytosis|OGRPBCAM
+pharmaceutical|OGRPBCAM
+pharmacological role|OGRPBCAM
+pharmacotherapy|OGRPBCAM
+phenols|OGRPBCAM
+phenothiazines|OGRPBCAM
+phenotype|OGRPBCAM
+phenylbutazone|OGRPBCAM
+phospatidylinositol signalling|OGRPBCAM
+phosphatase|OGRPBCAM
+phosphate|OGRPBCAM
+phosphatidic acid|OGRPBCAM
+phosphatidylcholine|OGRPBCAM
+phosphatidylethanolamine|OGRPBCAM
+phosphatidylinositol trisphosphate|OGRPBCAM
+phosphatidylserine exposure on apoptotic cell surface|OGRPBCAM
+phospho sugar|OGRPBCAM
+phospholipase|OGRPBCAM
+phospholipid|OGRPBCAM
+phospholipid transport|OGRPBCAM
+phosphoric acid derivative|OGRPBCAM
+phosphoric ester|OGRPBCAM
+phosphorus molecular entity|OGRPBCAM
+phosphorus oxoacid derivative|OGRPBCAM
+phosphorus oxoacids and derivatives|OGRPBCAM
+phosphorylated tau|OGRPBCAM
+phosphorylation|OGRPBCAM
+physical examination|OGRPBCAM
+physical examination finding|OGRPBCAM
+physical object quality|OGRPBCAM
+physiological assay|OGRPBCAM
+physiological role|OGRPBCAM
+pimozide|OGRPBCAM
+pioglitazone|OGRPBCAM
+piroxicam|OGRPBCAM
+placebo|OGRPBCAM
+planned process|OGRPBCAM
+plant|OGRPBCAM
+plasma membrane organization|OGRPBCAM
+plasma membrane protein complex|OGRPBCAM
+pnictogen molecular entity|OGRPBCAM
+polar amino acid|OGRPBCAM
+polyatomic entity|OGRPBCAM
+polycyclic compound|OGRPBCAM
+polymer|OGRPBCAM
+polyol|OGRPBCAM
+polypeptide|OGRPBCAM
+polyunsaturated fatty acid|OGRPBCAM
+population|OGRPBCAM
+population based study design|OGRPBCAM
+pore complex|OGRPBCAM
+positively regulates|OGRPBCAM
+positron emission tomography (PET)|OGRPBCAM
+possible Alzheimer dementia|OGRPBCAM
+post-translational protein modification|OGRPBCAM
+posterior cingulate cortex|OGRPBCAM
+postsynapse|OGRPBCAM
+postsynaptic density|OGRPBCAM
+postsynaptic specialization|OGRPBCAM
+potassium channel|OGRPBCAM
+potassium ion transmembrane transport|OGRPBCAM
+potassium(1+)|OGRPBCAM
+pravastatin|OGRPBCAM
+preclinical stage of Alzheimer's disease|OGRPBCAM
+prefrontal cortex|OGRPBCAM
+pregnant woman|OGRPBCAM
+prenylation|OGRPBCAM
+present in taxon|OGRPBCAM
+present_in_taxon|OGRPBCAM
+preservation of independence in functional abilities|OGRPBCAM
+presynaptic terminal|OGRPBCAM
+prevalence|OGRPBCAM
+prevalence rate|OGRPBCAM
+previous identifier|OGRPBCAM
+primary amide|OGRPBCAM
+primitive process|OGRPBCAM
+probable Alzheimer dementia|OGRPBCAM
+process|OGRPBCAM
+process boundary|OGRPBCAM
+process profile|OGRPBCAM
+processed material|OGRPBCAM
+prochlorperazine|OGRPBCAM
+promazine|OGRPBCAM
+promoter|OGRPBCAM
+property has curation status|OGRPBCAM
+prostaglandin E2|OGRPBCAM
+prostaglandin G2|OGRPBCAM
+prostaglandin H2|OGRPBCAM
+proteasome complex|OGRPBCAM
+protectin D1|OGRPBCAM
+protein|OGRPBCAM
+protein aggregation|OGRPBCAM
+protein degradation|OGRPBCAM
+protein kinase|OGRPBCAM
+protein modification process|OGRPBCAM
+protein myristoylation|OGRPBCAM
+protein polypeptide chain|OGRPBCAM
+protein sumoylation|OGRPBCAM
+protein ubiquitination|OGRPBCAM
+protein-DNA complex|OGRPBCAM
+protein-coding gene of Homo sapiens|OGRPBCAM
+protein-containing complex|OGRPBCAM
+proteolytic cleavage product|OGRPBCAM
+protriptyline|OGRPBCAM
+provenance_notes|OGRPBCAM
+pseudo gene of Homo sapiens|OGRPBCAM
+psychological and behavioral intervention|OGRPBCAM
+psychotic disorder|OGRPBCAM
+psychotropic drug|OGRPBCAM
+pteridines|OGRPBCAM
+pterins|OGRPBCAM
+pulse|OGRPBCAM
+purine nucleoside bisphosphate|OGRPBCAM
+purine nucleotide|OGRPBCAM
+purine ribonucleotide|OGRPBCAM
+purines|OGRPBCAM
+pyramidal neuron|OGRPBCAM
+pyruvate|OGRPBCAM
+quality|OGRPBCAM
+quetiapine|OGRPBCAM
+quinapril|OGRPBCAM
+race|OGRPBCAM
+racemate|OGRPBCAM
+ramipril|OGRPBCAM
+rasagiline|OGRPBCAM
+rate|OGRPBCAM
+ratio|OGRPBCAM
+rdfs:isDefinedBy|OGRPBCAM
+rdfs:label|OGRPBCAM
+realizable entity|OGRPBCAM
+reboxetine|OGRPBCAM
+receptor|OGRPBCAM
+red blood cell count|OGRPBCAM
+regional part of brain|OGRPBCAM
+regional part of nervous system|OGRPBCAM
+regulation|OGRPBCAM
+regulation of gene expression|OGRPBCAM
+regulation of transcription|OGRPBCAM
+relation|relation
+relational quality|OGRPBCAM
+relative risk|OGRPBCAM
+renal failure|OGRPBCAM
+response to other organism|OGRPBCAM
+response to stimulus|OGRPBCAM
+retinoic acid|OGRPBCAM
+ribonucleic acid|OGRPBCAM
+ribonucleoside bisphosphate|OGRPBCAM
+ribonucleotide|OGRPBCAM
+ribose phosphate|OGRPBCAM
+ring assembly|OGRPBCAM
+risperidone|OGRPBCAM
+rivastigmine|OGRPBCAM
+rofecoxib|OGRPBCAM
+role|OGRPBCAM
+root|OGRPBCAM
+rosiglitazone|OGRPBCAM
+rosuvastatin|OGRPBCAM
+s-block molecular entity|OGRPBCAM
+secondary carboxamide|OGRPBCAM
+see also|OGRPBCAM
+seeAlso|OGRPBCAM
+seizure|OGRPBCAM
+selegiline|OGRPBCAM
+senile plaque formation|OGRPBCAM
+serotonergic neuron|OGRPBCAM
+serotonin|OGRPBCAM
+sertraline|OGRPBCAM
+sesquiterpenoid|OGRPBCAM
+sexual disorder|OGRPBCAM
+shape|OGRPBCAM
+shorthand|OGRPBCAM
+sign|OGRPBCAM
+signal transduction|OGRPBCAM
+signaling|OGRPBCAM
+simple squamous epithelium|OGRPBCAM
+simvastatin|OGRPBCAM
+single blinded study|OGRPBCAM
+single photon emission computed tomography|OGRPBCAM
+sinusoid|OGRPBCAM
+site|OGRPBCAM
+site of polarized growth|OGRPBCAM
+skin and integumentary tissue symptom|OGRPBCAM
+skos:prefLabel|OGRPBCAM
+sleep disorder|DOID_535
+sodium ion transport|OGRPBCAM
+sodium(1+)|OGRPBCAM
+somatoform disorder|OGRPBCAM
+spatial region|OGRPBCAM
+spatiotemporal region|OGRPBCAM
+specific developmental disorder|OGRPBCAM
+specifically dependent continuant|OGRPBCAM
+specimen collection|OGRPBCAM
+sphingolipid|OGRPBCAM
+sphingomyelin|OGRPBCAM
+sphingosine|OGRPBCAM
+spinal cord|OGRPBCAM
+spirapril|OGRPBCAM
+squalene|OGRPBCAM
+squamous epithelium|OGRPBCAM
+standardized mortality ratio|OGRPBCAM
+starvation|OGRPBCAM
+statin|OGRPBCAM
+statistical data analysis|OGRPBCAM
+statistical hypothesis test|OGRPBCAM
+steroid hormone|OGRPBCAM
+striatum|OGRPBCAM
+stroke|OGRPBCAM
+structure with developmental contribution from neural crest|OGRPBCAM
+structure_notes|OGRPBCAM
+study design|OGRPBCAM
+study intervention|OGRPBCAM
+substance abuse|DOID_302
+substance-related disorder|DOID_303
+substantia nigra|OGRPBCAM
+succinate|OGRPBCAM
+succinyl-CoA|OGRPBCAM
+sudden onset of cognitive impairment|OGRPBCAM
+sulfate|OGRPBCAM
+sulfation|OGRPBCAM
+sulfite|OGRPBCAM
+sulfonamide|OGRPBCAM
+sulfone|OGRPBCAM
+sulfur molecular entity|OGRPBCAM
+sulindac|OGRPBCAM
+sulpiride|OGRPBCAM
+superoxide|OGRPBCAM
+supramolecular complex|OGRPBCAM
+suprofen|OGRPBCAM
+survival|OGRPBCAM
+suvorexant|OGRPBCAM
+symbol from nomenclature authority|OGRPBCAM
+symptom|OGRPBCAM
+synapse|OGRPBCAM
+synaptic plasticity|OGRPBCAM
+synaptic vesicle|OGRPBCAM
+synaptic vesicle exocytosis pathway|OGRPBCAM
+synaptic vesicle recycling|OGRPBCAM
+syndrome|DOID_225
+tacrine|OGRPBCAM
+tauopathy|DOID_680
+taurine|OGRPBCAM
+taxon_notes|OGRPBCAM
+technique|OGRPBCAM
+temporal lobe|OGRPBCAM
+temporal region|OGRPBCAM
+tenoxicam|OGRPBCAM
+term editor|OGRPBCAM
+term tracker item|OGRPBCAM
+testosterone|OGRPBCAM
+tetrahydrobiopterin|OGRPBCAM
+tetrahydropterin|OGRPBCAM
+textual definition|OGRPBCAM
+therapeutic procedure|OGRPBCAM
+thiocarboxylic ester|OGRPBCAM
+thiocyanate|OGRPBCAM
+thioester|OGRPBCAM
+thioridazine|OGRPBCAM
+thiosulfate|OGRPBCAM
+three-dimensional spatial region|OGRPBCAM
+tissue|OGRPBCAM
+tobacco consumption|OGRPBCAM
+tolmetin|OGRPBCAM
+total tau|OGRPBCAM
+trandolapril|OGRPBCAM
+trans-Golgi network|OGRPBCAM
+transcription factor|OGRPBCAM
+transcription, DNA-templated|OGRPBCAM
+translation|OGRPBCAM
+translocation|OGRPBCAM
+transmembrane transport|OGRPBCAM
+transport|OGRPBCAM
+transporter|OGRPBCAM
+transudate|OGRPBCAM
+tranylcypromine|OGRPBCAM
+traumatic brain injury|OGRPBCAM
+trazodone|OGRPBCAM
+treatment|OGRPBCAM
+tricarboxylic acid cycle|OGRPBCAM
+trichlorfon|OGRPBCAM
+trifluoperazine|OGRPBCAM
+triflupromazine|OGRPBCAM
+trimipramine|OGRPBCAM
+truncated|OGRPBCAM
+two-dimensional continuant fiat boundary|OGRPBCAM
+two-dimensional spatial region|OGRPBCAM
+type 2 diabetes mellitus|OGRPBCAM
+type of gene|OGRPBCAM
+ubiquinol|OGRPBCAM
+ubiquinones|OGRPBCAM
+unilaminar epithelium|OGRPBCAM
+up-regulation|OGRPBCAM
+urinary system symptom|OGRPBCAM
+urticaria|OGRPBCAM
+vacuole|OGRPBCAM
+valdecoxib|OGRPBCAM
+vascular dementia|OGRPBCAM
+vascular inflammation|OGRPBCAM
+venlafaxine|OGRPBCAM
+ventricle of nervous system|OGRPBCAM
+vesicle membrane|OGRPBCAM
+vesicle-mediated transport|OGRPBCAM
+vital sign|OGRPBCAM
+vitamin (role)|OGRPBCAM
+vitamin A|OGRPBCAM
+vitamin B12|OGRPBCAM
+vitamin B6|OGRPBCAM
+vitamin B9|OGRPBCAM
+vitamin E|OGRPBCAM
+water|OGRPBCAM
+weight loss|OGRPBCAM
+white blood cell count|OGRPBCAM
+white matter|OGRPBCAM
+xRef|OGRPBCAM
+zero-dimensional continuant fiat boundary|OGRPBCAM
+zero-dimensional spatial region|OGRPBCAM
+zero-dimensional temporal region|OGRPBCAM
+zinc atom|OGRPBCAM
+zinc(2+)|OGRPBCAM
+ziprasidone|OGRPBCAM
+zone of bone organ|OGRPBCAM
+zone of organ|OGRPBCAM
+定义|OGRPBCAM
+定义来源|OGRPBCAM
+引自|OGRPBCAM
+数据库_交叉_引用|OGRPBCAM
+文本定义|OGRPBCAM
+替代术语|OGRPBCAM
+有_obo_命名空间|OGRPBCAM
+有管理状态|OGRPBCAM
+术语编辑者|OGRPBCAM
+标签|OGRPBCAM
+细胞系LINCS ID|OGRPBCAM
+编者注|OGRPBCAM
+编辑首选术语|OGRPBCAM
+编辑首选术语~编辑首选标签|OGRPBCAM
+编辑首选标签|OGRPBCAM
