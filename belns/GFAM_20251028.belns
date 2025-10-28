@@ -1,0 +1,1855 @@
+
+[Namespace]
+Keyword=GFAM
+NameString=HGNC Gene Families
+DomainString=Gene and Gene Products
+VersionString=20251028
+CreatedDateTime=2025-10-28T10:25:52
+DescriptionString=HGNC Gene Families.
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=HGNC Gene Families
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+1-acylglycerol-3-phosphate O-acyltransferases|46
+1-acylglycerophosphoethanolamine O-acyltransferases|3425
+14-3-3 phospho-serine/phospho-threonine binding proteins|1053
+18S ribosomal RNAs|1383
+2'-5'-oligoadenylate synthetase family|2093
+2-arachidonoylglycerol hydrolases|3503
+28S ribosomal RNAs|1385
+3-hydroxyacyl-CoA dehydratase family|2025
+3M complex subunits|3453
+45S pre-ribosomal RNAs|1382
+5'-nucleotidases|1042
+5-hydroxytryptamine receptors, G protein-coupled|170
+5-hydroxytryptamine receptors, ionotropic |172
+5.8S ribosomal RNAs|1384
+5S ribosomal RNAs|1380
+6-phosphofructo-2-kinases/fructose-2,6-biphosphatases|1077
+7BS 2'O-ribose DNA/RNA methyltransferases|2062
+7BS C5-cytosine DNA/RNA methyltransferases|2060
+7BS C5-uridine RNA methyltransferases|3365
+7BS DNA/RNA methyltransferases|2059
+7BS N1-adenosine RNA methyltransferases|3362
+7BS N2-guanosine RNA methyltransferases|3363
+7BS N3-cytosine RNA methyltransferases|3361
+7BS N6-adenosine DNA/RNA methyltransferases|2061
+7BS N7-guanosine RNA methyltransferases|3364
+7BS non-methyltransferases|3462
+7BS orphan methyltransferases|2066
+7BS protein arginine methyltranferases|2057
+7BS protein histidine methyltransferases|3367
+7BS protein lysine methyltransferases|2056
+7BS protein methyltransferases|2058
+7BS small molecule methyltransferases|2063
+7D cadherins|1187
+7SK snRNP complex|1676
+7TM uncharacterized proteins|310
+A-kinase anchoring proteins|396
+AAA ATPases|413
+ACF complex|3337
+ADAM metallopeptidase domain containing|47
+ADAM metallopeptidases with thrombospondin type 1 motif|50
+ADAMTS like|947
+ADP-ribosyltransferase family|2030
+AF4/FMR2 family|1145
+AH domain containing|1921
+AH/BAR family Rho GTPase activating proteins|1923
+AKT kinase family|1900
+ANP32 acidic nuclear phosphoproteins|27
+APC membrane recruitment proteins|2002
+ARF GTPase family|357
+ASAP complex subunits|1236
+AT-rich interaction domain containing|418
+ATAC complex|1058
+ATP binding cassette subfamily A|805
+ATP binding cassette subfamily B|806
+ATP binding cassette subfamily C|807
+ATP binding cassette subfamily D|808
+ATP binding cassette subfamily E|809
+ATP binding cassette subfamily F|810
+ATP binding cassette subfamily G|811
+ATPase F1/V1 alpha/A and beta/B subunit family|2053
+ATPase H+/K+ transporting|1211
+ATPase Na+/K+ transporting subunits|1208
+ATPase copper transporting|1212
+ATPase orphan transporters|1213
+ATPase phospholipid transporting|1210
+ATPases Ca2+ transporting|1209
+Abhydrolase domain containing|4
+Abl family tyrosine kinases|1463
+Acetyl-CoA carboxylase family|3437
+Acid phosphatases|1071
+Acid sensing ion channel subunits|290
+Actin related protein 2/3 complex subunits|39
+Actin related proteins|1436
+Actinins|1112
+Actins|929
+Activating leukocyte immunoglobulin like receptors|1181
+Activating signal cointegrator 1 complex|1916
+Acyl-CoA dehydrogenase family|974
+Acyl-CoA synthetase family|40
+Acyl-CoA thioesterases|41
+Adaptor related protein complex 1|1671
+Adaptor related protein complex 2|1672
+Adaptor related protein complex 3|1673
+Adaptor related protein complex 4|1674
+Adaptor related protein complex 5|1675
+Adducin family|2050
+Adenosine deaminase family|1302
+Adenosine deaminases acting on RNA|1303
+Adenosine receptors|211
+Adenylate cyclases|53
+Adenylate kinases|356
+Adhesion G protein-coupled receptors, subfamily A|911
+Adhesion G protein-coupled receptors, subfamily B|912
+Adhesion G protein-coupled receptors, subfamily C|913
+Adhesion G protein-coupled receptors, subfamily D|914
+Adhesion G protein-coupled receptors, subfamily E|915
+Adhesion G protein-coupled receptors, subfamily F|916
+Adhesion G protein-coupled receptors, subfamily G|917
+Adhesion G protein-coupled receptors, subfamily L|918
+Adhesion G protein-coupled receptors, subfamily V|919
+Adiponectin receptors|293
+Adrenoceptors|169
+Ajuba family|1403
+Albuminoid family|1620
+Alcohol dehydrogenases|397
+Aldehyde dehydrogenases|398
+Aldo-keto reductases|399
+Aldolases|1903
+Alkaline ceramidases|400
+Alkaline phosphatases|1072
+Alkylation repair homologs|401
+Alpha 1,4-glycosyltransferases|442
+Alpha arrestins|1311
+Alpha catenins|1543
+Alpha-1,2-glucosyltransferases|448
+Alpha-1,3-glucosyltransferases|447
+Alpha-2-macroglobulin family|2148
+Alpha-L-fucosidases|1653
+Aminoacyl tRNA synthetase complex interacting multifunctional proteins|2116
+Aminoacyl tRNA synthetases, Class I|131
+Aminoacyl tRNA synthetases, Class II|132
+Aminopeptidases|104
+Amylases alpha|1648
+Anaphase promoting complex|402
+Angiopoietin like family|905
+Angiopoietins|2327
+Angiotensin receptors|221
+Ankyrin repeat domain containing|403
+Annexins|404
+Anoctamins|865
+Antisense RNAs|1987
+Apelin receptor|2067
+Apolipoprotein B mRNA editing enzyme catalytic subunits|406
+Apolipoproteins|405
+Apoptosome|1341
+Aquaporins|305
+Arachidonate lipoxygenases|407
+ArfGAPs|395
+ArfGEF family|1947
+Arginine methyltransferases|3366
+Arginine vasopressin and oxytocin receptors|259
+Argonaute RISC component family|2037
+Armadillo like helical domain containing|1492
+Armadillo repeat containing|409
+Aromatic amino acid hydroxylase family|3458
+Arylacetamide deacetylase family|465
+Arylamine N-acetyltransferases|1133
+Astacins|894
+Atlastins|1887
+Atrophins|2003
+Atypical chemokine receptors|1090
+Atypical dual specificity phosphatases|896
+Aurora kinase family|3413
+Autophagy related|1022
+Axonemal dynein assembly factors|1627
+Axonemal radial spoke subunits|2046
+B-WICH chromatin-remodelling complex subunits|1787
+B7 family|1824
+B9 domain containing|1535
+BAF complex subunits|1604
+BAG cochaperones|1139
+BAG6 complex|1891
+BAGE family|1848
+BAR and Dbl domain containing|1924
+BAR-PH domain containing|1291
+BBSome|1122
+BCH domain containing |1299
+BCL2 family|1057
+BCL2 homology region 3 (BH3) only|1277
+BEACH domain containing |1230
+BEN domain containing|422
+BLOC-1 related complex subunits|1048
+BPI fold containing|456
+BR serine/threonine kinases|2135
+BRCA1 A complex|1328
+BRCA1 B complex|1335
+BRCA1 C complex|1336
+BRICHOS domain containing|457
+BRISC complex|1375
+BTB domain containing|861
+BTG/Tob family|1309
+BUB1 mitotic checkpoint serine/threonine kinase family|3564
+Baculoviral IAP repeat containing|419
+Basic helix-loop-helix proteins|420
+Basic leucine zipper proteins|506
+Basigin family |1669
+Basonuclin zinc finger proteins|2242
+Beaded filament structural proteins|613
+Bestrophins|866
+Beta 3-glycosyltransferases|426
+Beta 4-glycosyltransferases|425
+Beta catenins|1542
+Beta-1,3-glucuronyltransferases|423
+Beta-gamma crystallin domain containing|1360
+Beta-gamma crystallins|1359
+Biogenesis of lysosomal organelles complex 1 subunits|452
+Biogenesis of lysosomal organelles complex 2 |1038
+Biogenesis of lysosomal organelles complex 3 |1039
+Bisphosphoglycerate phosphatases|1082
+Bivalent Mical/EHBP Rab binding domain containing|1816
+Blood group antigens|454
+Bombesin receptors|222
+Bone morphogenetic proteins|455
+Bradykinin receptors|223
+Brain expressed X-linked family|1217
+Branched chain amino acid transaminase family|3518
+Bridge-like lipid transfer protein family|2141
+Bromodomain and WD repeat domain containing|3400
+Bromodomain and extra-terminal domain family|1231
+Bromodomain containing|1232
+Butyrophilins|458
+C-C motif chemokine receptors|1091
+C-X-3-C motif chemokine receptors|1093
+C-X-C motif chemokine receptors|1094
+C-type lectin domain containing|1298
+C1-set domain containing|591
+C1q and TNF related|1372
+C1q domain containing|1641
+C2 and RasGAP domain containing|830
+C2 and WW domain containing|838
+C2 domain containing|823
+C2 domain containing phospholipases|832
+C2 domain containing protein kinases|835
+C2 tensin-type domain containing|837
+C2-set domain containing|592
+C3 and PZP like, alpha-2-macroglobulin domain containing|1234
+CAMK1 family|3541
+CAMK2 family|3539
+CAMKV family|3550
+CAMSAP family|1812
+CAP and C-type lectin domain containing|1487
+CAP superfamily|1356
+CASK family|3542
+CBM complex|1405
+CCAAT/enhancer binding proteins |1165
+CCC complex|1557
+CCM adhesion complex|1940
+CCR4-NOT transcription complex|1023
+CD molecules|471
+CDC like kinases|480
+CDC14 phosphatases|900
+CDC42 binding protein kinase family|3490
+CDC42 effector proteins|1164
+CDC7 kinase family|3443
+CDGSH iron sulfur domain containing|481
+CDK activating kinase complex|1744
+CEA cell adhesion molecule family|906
+CELSR cadherins|1189
+CERF complex|3335
+CERS class homeoboxes|530
+CILK1, MAK, MOK protein kinase family|3482
+CKLF like MARVEL transmembrane domain containing|978
+CMG helicase complex|1999
+COMM domain containing|979
+COP9 signalosome|932
+CORVET complex|1532
+CREB3 transcription factor family|1970
+CREC family|2042
+CSAG family|1851
+CST complex|1343
+CT antigen family 45|1849
+CT antigen family 47|1850
+CTAGE family|907
+CTD family phosphatases|1041
+CTLH complex subunits|1561
+CUT class homeoboxes and pseudogenes|527
+Cadherin related|24
+Calcitonin receptors|265
+Calcium channel auxiliary gamma subunits|1511
+Calcium homeostasis modulators|1478
+Calcium sensing receptors|279
+Calcium voltage-gated channel alpha1 subunits|1512
+Calcium voltage-gated channel auxiliary alpha2delta subunits|1514
+Calcium voltage-gated channel auxiliary beta subunits|1515
+Calmodulin binding transcription activators |1941
+Calpains|975
+Cannabinoid receptors|202
+Canonical Notch ligands|2279
+Canonical high mobility group|511
+Canopy FGF signaling regulators|2320
+Carbonic anhydrases|460
+Carboxylesterases|461
+Cas scaffold protein family|469
+Casein kinase 1 family|1330
+Caspase recruitment domain containing|959
+Caspase-2 PIDDosome complex|3431
+Caspases|468
+CatSpermasome complex|3451
+Catalase family|3578
+Cathepsins|470
+Cation channels sperm associated|186
+Caveolins|1942
+Cavins|1326
+Cellular communication network factors|1046
+Ceramide synthases|2261
+Chaperonins|587
+Charged multivesicular body proteins|482
+Checkpoint clamp complex|1339
+Checkpoint kinase 1 family|3452
+Checkpoint kinase 2 family|3543
+Chemerin receptors|218
+Chemokine ligands|483
+Chitinases|816
+Chloride channel accessory|867
+Chloride channels, ATP-gated CFTR|309
+Chloride intracellular channels|307
+Chloride voltage-gated channels|302
+Cholecystokinin receptors|224
+Choline kinase family|3533
+Cholinergic receptors muscarinic|180
+Cholinergic receptors nicotinic subunits|173
+Cholinesterase family|3435
+Chordin family|1661
+Chromatin accessibility complex|1633
+Chromobox family|976
+Chromosomal passenger complex|1338
+Chymotrypsin like elastases|1837
+Chymotrypsins|2288
+Cilia and flagella associated|1491
+Ciliogenesis and planar polarity effector complex subunits|1610
+Clarins|1473
+Class II Cys-based phosphatases|712
+Class III Cys-based CDC25 phosphatases|713
+Classical arrestins|1312
+Clathrin subunits|1647
+Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing|1493
+Claudins|488
+Cleavage and polyadenylation specific factor subunits|1450
+Cleavage factor Im complex subunits|2101
+Cleavage stimulation factor subunits|1449
+Clustered protocadherins|20
+Coat protein complex I|1917
+Coat protein complex II|1960
+Cohesin complex|1060
+Coiled-coil-helix-coiled-coil-helix domain containing proteins|489
+Collagen beta(1-O)galactosyltransferases|439
+Collagen proteoglycans|575
+Collagens|490
+Collectins|491
+Complement component GPCRs|196
+Complement system activation components|1638
+Complement system regulators and receptors|1639
+Complexins|2318
+Components of oligomeric golgi complex|493
+Condensin I subunits|1452
+Condensin II subunits|1453
+Constitutive centromere associated network|1576
+Contactin associated protein family|1969
+Contactins|1909
+Copines|829
+Cornichon family|2326
+Cornified envelope precursor family|1352
+Coronins|495
+Corticotropin releasing hormone receptors|266
+Creatine kinase family|3534
+Crumbs complex components|1223
+Csk family tyrosine kinases|1460
+Cullins|1032
+Cupredoxin superfamily|3427
+Cyclic nucleotide gated channels|250
+Cyclin dependent kinases|496
+Cyclins|473
+Cyclophilin peptidylprolyl isomerases|909
+Cystatins, type 1|966
+Cystatins, type 2|965
+Cystatins, type 3|967
+Cystatins, type 4|968
+Cysteine rich secretory protein family|1355
+Cysteine rich transmembrane BMP regulators|1660
+Cytochrome P450 family 1|1000
+Cytochrome P450 family 11|1007
+Cytochrome P450 family 17|1008
+Cytochrome P450 family 19|1009
+Cytochrome P450 family 2|1001
+Cytochrome P450 family 20|1010
+Cytochrome P450 family 21|1011
+Cytochrome P450 family 24|1012
+Cytochrome P450 family 26|1013
+Cytochrome P450 family 27|1014
+Cytochrome P450 family 3|1002
+Cytochrome P450 family 39|1015
+Cytochrome P450 family 4|1003
+Cytochrome P450 family 46|1016
+Cytochrome P450 family 5|1004
+Cytochrome P450 family 51|1017
+Cytochrome P450 family 7|1005
+Cytochrome P450 family 8|1006
+Cytochrome b561|497
+Cytohesins|1946
+Cytoplasmic transfer RNA pseudogenes|1681
+Cytoplasmic transfer RNAs|842
+Cytosolic iron-sulfur assembly components|1028
+D-lactate dehydrogenase family|3558
+DAN family|1246
+DASH family|1205
+DAZ RNA binding protein family |1579
+DDB1 and CUL4 associated factors|498
+DEAD-box helicases|499
+DEAH-box helicases|500
+DECID complex|1964
+DENN domain containing|504
+DEP domain containing|2329
+DMPK kinase family|3489
+DNA cross-link repair family|2035
+DNA glycosylases|1024
+DNA ligases|1247
+DNA polymerases|535
+DNA/RNA methyltransferases|3371
+DNAJ (HSP40) heat shock proteins|584
+DOCK family Rho GEFs|1536
+DREAM complex subunits|2280
+Dbl family Rho GEFs|722
+Death associated protein kinases|1021
+Death effector domain containing|1019
+Death inducing signaling complex|1342
+Defensins, alpha|502
+Defensins, beta|503
+Dehydrodolichyl diphosphate synthase |1733
+Deoxyribonucleoside kinases|1699
+Depalmitoylases|1749
+Desmosomal cadherins|1188
+Desumoylating isopeptidases|986
+DexD/H helicases|3332
+Diacylglycerol O-acyltransferase 2 family|1235
+Diacylglycerol kinases|1178
+Dihydrofolate reductase family|3457
+Diphthamide biosynthesis genes|1808
+Dishevelled binding antagonist of beta catenin family|2033
+Dishevelled segment polarity proteins|505
+Dispanins|1600
+Dispatched RND transporter family |2217
+Divergent protein kinase domain family|1622
+Divergent transcripts|1990
+Dolichyl D-mannosyl phosphate dependent mannosyltransferases|430
+Dolichyl-phosphate mannosyltransferase subunits|1893
+Dopamine receptors|181
+Doublecortin like kinase family|3447
+Doublecortin superfamily|1369
+Dual oxidase family|3536
+Dual oxidase maturation factor family|3538
+Dual-specificity tyrosine-regulated kinase family|3521
+Dynactin subunits|943
+Dynamin superfamily|3567
+Dynamins|3569
+Dynein 1 complex subunits|2028
+Dynein 2 complex subunits|2029
+Dynein regulatory complex|981
+Dyneins, axonemal inner arm I1/f complex subunits|2032
+Dyneins, axonemal outer arm complex subunits|2031
+E2F transcription factors|982
+EF-hand domain containing|863
+ELAV like RNA binding protein family|2291
+ELMO domain containing|1813
+ELOVL fatty acid elongase family|3530
+EMAP like|1679
+EMI domain containing|540
+EMSY complex|1243
+ENAH/VASPs|946
+EPH receptors|1095
+EPS8 signaling adaptor family|2253
+ER membrane protein complex subunits|1911
+ERCC excision repair associated|1268
+ESCRT-0|1115
+ESCRT-I|1116
+ESCRT-II|1117
+ESCRT-III|1118
+ESCRT-III associated factors|1119
+ESCRT-IV|1120
+ETS transcription factor family|534
+EYA transcriptional coactivator and phosphatases|1044
+Early B-cell factors|1646
+Ectonucleoside triphosphate diphosphohydrolase family|1822
+Ectonucleotide pyrophosphatase/phosphodiesterase family|1821
+Elongator acetyltransferase complex |539
+Elongin complex|1392
+Endoplasmic reticulum to nucleus signaling family|3563
+Endoribonucleases|1687
+Endosome-associated recycling protein (EARP) complex|1423
+Endothelin receptors|225
+Endothelins|1908
+Engulfment and cell motility proteins|543
+Enolases|1603
+Envelope ERV derived genes|1412
+Ephrins|546
+Epsin family|3531
+Erb-b2 receptor tyrosine kinases|1096
+Erythrocyte membrane protein band 4.1|951
+Estrogen receptors|2077
+Estrogen related receptors|2078
+Ethanolamine kinase family|3532
+Eukaryotic translation initiation factor 2 alpha kinases|2124
+Eukaryotic translation initiation factor 3|1121
+Exocyst complex|1055
+Exon junction complex|1238
+Exonucleases|544
+Exosome complex|817
+Exostosin glycosyltransferase family|431
+Exportins|547
+Extended synaptotagmins|827
+F-BAR domain containing|1288
+F-box and WD repeat domain containing|559
+F-box and leucine rich repeat proteins|558
+F-boxes other|560
+F2R receptors|219
+FA complementation groups|548
+FA core complex|1751
+FASTK mitochondrial RNA binding family|1538
+FERM domain containing|1293
+FERRY complex subunits|2246
+FET protein family|3416
+FHF complex|2012
+FKBP prolyl isomerase family|910
+FLYWCH family|3468
+FOXM1-MMB complex subunits|2283
+Family with sequence similarity 230|1657
+Family with sequence similarity 83 |1814
+Fascin family|3
+Fatty acid binding protein family|550
+Fatty acid desaturases|553
+Fatty acid hydroxylase domain containing|552
+Fc receptors|2120
+Ferlin family|828
+Fermitins|561
+Ferredoxin family|2115
+Ferritin chains|1455
+Fes family tyrosine kinases|1461
+Fibril associated collagens with interrupted triple helices|2248
+Fibrillar collagens|2247
+Fibrillin family|1888
+Fibrinogen C domain containing|554
+Fibrinogen chains|3481
+Fibroblast growth factor family|1895
+Fibronectin type III domain containing|555
+Fibulins|556
+Filamin family|1889
+Flavin containing monooxygenases|1667
+Flavoproteins|2258
+Flotillins|1114
+Forkhead boxes|508
+Formins|2006
+Formyl peptide receptors|198
+Fos transcription factor family|1256
+Free fatty acid receptors|203
+Fructose-1,6-bisphosphatases|1075
+Fucosyltransferases|434
+G protein subunits alpha, group 12/13|1429
+G protein subunits alpha, group i|1428
+G protein subunits alpha, group q|1427
+G protein subunits alpha, group s|1426
+G protein subunits beta|1430
+G protein subunits gamma|1432
+G protein-coupled bile acid receptor|933
+G protein-coupled estrogen receptor|934
+G protein-coupled receptor kinase family|3487
+G protein-coupled receptors, Class A orphans|262
+G protein-coupled receptors, Class C orphans|285
+G protein-coupled receptors, Class F frizzled|286
+G-patch domain containing|579
+GAGE family|1845
+GATA zinc finger domain containing|82
+GATOR1 subcomplex|1394
+GATOR2 subcomplex|1395
+GBAF complex subunits|1606
+GCN5 related N-acetyltransferases|1134
+GDNF family ligands|1586
+GET4-GET5 transmembrane domain recognition complex subunits|1914
+GINS complex|931
+GIY-YIG endonuclease domain containing|2130
+GLIPR family |1358
+GOLD domain containing|1062
+GPN-loop GTPases|578
+GRAM domain containing|1146
+GTPases, IMAP|580
+Galactosidases alpha|1655
+Galactosidases beta|1654
+Galanin receptors|226
+Galectins|629
+Gamma-aminobutyric acid type A receptor subunits|563
+Gamma-aminobutyric acid type B receptor subunits|280
+Gamma-glutamyltransferases|564
+Gap junction proteins|314
+Gasdermins|1529
+Gelsolin/villins|950
+Gemins|1131
+General transcription factor IIA complex subunits|1748
+General transcription factor IID complex subunits|1878
+General transcription factor IIE complex subunits|1746
+General transcription factor IIF complex subunits|1750
+General transcription factor IIH complex subunits|1745
+General transcription factor IIIB complex subunits|1879
+General transcription factor IIIC complex subunits|1747
+General transcription factors|565
+Gfo/Idh/MocA-like oxidoreductase domain containing|2241
+Gla domain containing|1250
+Glucagon receptor family|269
+Glucosaminyl (N-acetyl) transferases/xylosyltransferases|441
+Glucose 6-phosphatases, catalytic|1074
+Glucosylceramidases|2092
+Glutamate ionotropic receptor AMPA type subunits|1200
+Glutamate ionotropic receptor NMDA type subunits|1201
+Glutamate ionotropic receptor delta type subunits|1202
+Glutamate ionotropic receptor kainate type subunits|1199
+Glutamate metabotropic receptors|281
+Glutamic--pyruvic transaminase family|3520
+Glutamic-oxaloacetic transaminase family|3516
+Glutamine amidotransferase class 1 domain containing|1408
+Glutamine methyltransferases|3369
+Glutamine--fructose-6-phosphate transaminase family|3519
+Glutamyl-tRNA amidotransferase subunits|1663
+Glutaredoxin domain containing|1468
+Glutathione peroxidase family|3475
+Glycerol kinase family|568
+Glycerol-3-phosphate acyltransferases|1035
+Glycine receptors|868
+Glycogen phosphorylases|437
+Glycogen synthase kinase 3 family|3422
+Glycoprotein hormone receptors|199
+Glycoprotein hormone subunits|1896
+Glycoside hydrolase family|1650
+Glycoside hydrolase family 1|1652
+Glycoside hydrolase family 31|1413
+Glycosyl transferases group 1 domain containing|427
+Glycosylphosphatidylinositol transamidase complex|1951
+Glycosylphosphatidylinositol-N-acetylglucosaminyltransferase complex|2223
+Glycosyltransferase family 2|428
+Glycosyltransferase family 6|429
+Glycosyltransferase family 8|436
+Glycosyltransferase family 90|443
+Glyoxalase domain containing|2111
+Glypicans|572
+Golgi associated RAB2 interactor family|2323
+Golgi associated kinase family|1637
+Golgi associated retrograde protein (GARP) complex|1424
+Golgi associated, gamma adaptin ear containing, ARF binding proteins|1031
+Golgin related|1856
+Golgins|1084
+Gonadotropin releasing hormone receptors|227
+Granins|925
+Granule associated serine proteases of immune defence|1636
+Growth hormone family|1175
+Guanosine monophosphate reductase family|3455
+Guanylate binding proteins|1825
+Guided entry of tail-anchored proteins complex subunits|1912
+H/ACA ribonucleoprotein complex|1221
+H1 histones|1935
+H2A histones|1936
+H2B histones|1937
+H3 histones|1938
+H4 histones|1939
+HAD Asp-based non-protein phosphatases|1045
+HAD Asp-based protein phosphatases|702
+HAUS augmin like complex |581
+HECT and RLD domain containing E3 ubiquitin protein ligases|1885
+HECT domain containing|1959
+HIRA histone chaperone complex subunits|1997
+HNF class homeoboxes|524
+HOOK family|3500
+HOOK related protein family|3501
+HOPS complex|1531
+HOXL subclass homeoboxes|518
+HUNK family kinases|3544
+HUSH complex|3512
+Haloacid dehalogenase like hydrolase domain containing|1377
+Harbinger transposase derived genes|3471
+Heat shock 70kDa proteins|583
+Heat shock 90kDa proteins|586
+Hedgehog signaling molecule family|1373
+Helicases|1166
+Helix-turn-helix CENPB type domain family|533
+Helix-turn-helix motif Psq family|3466
+Heme peroxidase family|3476
+Hemoglobin subunits|940
+Heparanases|1651
+Heparin binding growth factor family|1418
+Hepatocyte nuclear factor 4 family|2085
+Heterogeneous nuclear ribonucleoproteins|1950
+Hexokinase family|3429
+Hexosaminidases|1642
+Histamine receptors|187
+Histatins and statherin|971
+Histidine methyltransferases|3368
+Histidine triad superfamily|1811
+Histocompatibility complex|588
+Histone deacetylases, class I|989
+Histone deacetylases, class IIA|992
+Histone deacetylases, class IIB|993
+Histone deacetylases, class IV|991
+Histone lysine methyltransferases|487
+Homeodomain interacting protein kinase family|3446
+Homer scaffold proteins |871
+Homocysteine domain containing methyltransferases|3351
+Hyalectan proteoglycans|574
+Hyaluronidases|1448
+Hydrogen voltage gated channels|254
+Hydroxycarboxylic acid receptors|200
+Hypocretin receptors|228
+I kappa B kinases|1802
+I-BAR domain containing|1287
+I-set domain containing|593
+IFT-A complex|1978
+IFT-B1 complex|1980
+IFT-B2 complex|1981
+IGF like family|1836
+IKK complex|1817
+INHAT complex|1658
+INO80 complex|595
+IPT domain containing|1752
+IQ motif containing GTPase activating protein family|2021
+IQSEC ARFGEF family|1881
+IZUMO family|56
+Ig-like cell adhesion molecule family|1410
+IgCAM CXADR-related subfamily|1414
+IgLON cell adhesion molecules|1052
+Immunoglobulin heavy (IGH) orphons|350
+Immunoglobulin heavy locus at 14q32.33|349
+Immunoglobulin kappa (IGK) orphons|352
+Immunoglobulin kappa locus at 2p11.2|351
+Immunoglobulin lambda (IGL) orphons|354
+Immunoglobulin lambda locus at 22q11.2|353
+Immunoglobulin like domain containing|594
+Importins|596
+Inhibin subunits|1662
+Inhibitory leukocyte immunoglobulin like receptors|1182
+Inosine monophosphate dehydrogenase family|3454
+Inositol 1,4,5-triphosphate receptors|297
+Insulin family|3576
+Insulin like growth factor binding proteins|1065
+Insulin receptor family|3555
+Integrase like retrotransposon derived|2297
+Integrator complex|1366
+Integrin alpha subunits|1160
+Integrin beta subunits|1159
+Inter-alpha-trypsin inhibitor heavy chains|1840
+Interferon induced transmembrane protein family|1598
+Interferon receptors|599
+Interferon regulatory factors |1743
+Interferons|598
+Interleukin 6 type cytokine family|1264
+Interleukin receptors|602
+Interleukins|601
+Intermediate filament family orphans|614
+Intermediate filaments Type III|610
+Intermediate filaments Type IV|611
+Intronic transcripts|1989
+Iron (II) and 2-oxoglutarate dependent oxygenases|1368
+Isoaspartate methyltransferases|3412
+Isocitrate dehydrogenases|1926
+Isthmin family|2232
+JAMM/MPN+ metallopeptidase family|999
+Jak family tyrosine kinases|1459
+JmjC hydroxylases|1346
+Jun transcription factor family|1257
+Junctophilins|1601
+KASH domain containing|2010
+KCTD family|1815
+KDEL endoplasmic reticulum protein retention receptors|1894
+KEOPS complex|1313
+KICSTOR complex|1393
+KLF transcription factors|624
+KN motif and ankyrin repeat domain containing|623
+KNL1 complex|1575
+KRAB domain containing|3480
+Kallikreins|616
+Kelch like|617
+Keratin associated proteins|619
+Keratins|1109
+Keratins, type I|608
+Keratins, type II|609
+Killer cell immunoglobulin like receptors|620
+Killer cell lectin like receptors|621
+Kinesins|622
+Kleisins|1451
+L ribosomal proteins|729
+L-lactate dehydrogenase family|3496
+LAR protein receptor tyrosine phosphatase family|2295
+LEM domain containing|1087
+LGI family|1841
+LHFPL tetraspan proteins|1489
+LIM class homeoboxes|522
+LIM domain containing|1218
+LIMK/TESK kinase family|1617
+LIMS zinc finger family|1163
+LINE1 element derived gene|3467
+LRAT domain containing |1692
+LSm proteins|1505
+LY6/PLAUR domain containing|1226
+LYR motif containing|635
+La ribonucleoproteins|625
+Laminin subunits|626
+Lamins|612
+Large MAF bZIP transcription factor family|2264
+Large ribosomal subunit biogenesis complex|1301
+Large subunit mitochondrial ribosomal proteins|1994
+Large tumor suppressor kinase family|3492
+Late cornified envelope proteins|627
+Latent transforming growth factor beta binding proteins|628
+Leiomodins|2118
+Leucine rich repeats and calponin homology domain containing|2324
+Leucine zipper tumor suppressor family|1314
+Leukotriene receptors|204
+Linear ubiquitin chain assembly complex |1390
+Lipases|464
+Lipid phosphatases|1066
+Lipins|1043
+Lipocalins|631
+Long intergenic non-protein coding RNAs|1986
+Long non-coding RNAs with FAM root symbol|1993
+Long non-coding RNAs with non-systematic symbols|1992
+Long pentraxins|1142
+Low confidence cytoplasmic transfer RNAs|1877
+Low density lipoprotein receptors|634
+LysM domain containing|2328
+Lysine acetyltransferases|486
+Lysine demethylases|485
+Lysophosphatidic acid receptors|205
+Lysophospholipid acyltransferases|2147
+Lysosome associated membrane proteins|1910
+Lysozymes, c-type|1174
+Lysozymes, g-type|1173
+M1 metallopeptidases|1437
+M10 matrix metallopeptidases|891
+M13 metallopeptidases|1439
+M14 carboxypeptidases|1321
+M16 metallopeptidases|1440
+M19 metallopeptidases|1445
+M20 metallopeptidases|1443
+M24 metallopeptidase family|1442
+M28 metallopeptidases|1444
+M3 metallopeptidase family|1438
+M38 metallopeptidases|1446
+M48 metallopeptidase family|2105
+M49 metallopeptidase family|2106
+M54 metallopeptidase family|2107
+M76 metallopeptidase family|2108
+MAB21 family|1882
+MADS box family|1086
+MAGE family|1136
+MAP kinase phosphatases|895
+MAPK activated protein kinases|1156
+MAPK interacting serine/threonine kinase family|3551
+MAPKAPK family|3552
+MARVEL domain containing|1626
+MAX dimerization proteins|637
+MBL domain containing glyoxalase 2 subfamily|1614
+MBL fold containing DNA/RNA interacting subfamily|1615
+MBT domain containing|1263
+MCM family|1085
+MCU complex subunits|3507
+MD-2 related lipid recognition domain containing|2129
+MELK family kinases|2137
+MIA family|1300
+MIF4G domain containing proteins|2128
+MINDY deubiquitinases|1376
+MIS12 kinetochore complex|1322
+MJD deubiquinating enzymes|997
+MKS complex|1545
+MMB complex subunits|2282
+MOB kinase activators|647
+MPP10 subcomplex|1486
+MRH domain containing |1233
+MRN complex|1344
+MSL histone acetyltransferase complex|1481
+MTOR complex 1|1332
+MTOR complex 2|1333
+MX dynamin like GTPase family|3568
+MYST type domain containing lysine acetyltransferases|1584
+Macro domain containing|1693
+Maestro heat like repeat containing|636
+Major cadherins|18
+Malate dehydrogenases|3560
+Mannosidases alpha class 1|1193
+Mannosidases alpha class 2|1194
+Mannosidases endo-alpha|1195
+Mannosidases type beta|1196
+Mannosyl-glycoprotein N-acetylglucosaminyltransferases|435
+Mariner transposase derived genes|3472
+Matrilins|1602
+Mediator complex|1061
+Melanin concentrating hormone receptors|235
+Melanocortin receptors|236
+Melatonin receptors|209
+Membrane Attack complex|3514
+Membrane associated collagens with interrupted triple helices|2250
+Membrane associated guanylate kinases|904
+Membrane associated progesterone receptor family|1282
+Membrane associated ring-CH-type fingers|60
+Membrane bound O-acyltransferase family|1036
+Membrane spanning 4-domains|958
+Membrane-bound methyltransferase family|3353
+Metallo-beta-lactamase fold containing family|1613
+Metallothioneins|638
+Metaxins|1682
+Methionine adenosyltransferase family|2234
+Methyl-CpG binding domain containing|1025
+Methylcrotonyl-CoA carboxylase subunits|2047
+Methyltransferase families grouped by structure|3349
+Methyltransferases with unique structures|3581
+MiDAC complex subunits|2103
+MicroRNA MIR1/206 family|1696
+MicroRNA MIR10/100 family|1700
+MicroRNA MIR101 family|1753
+MicroRNA MIR103/107 family|1754
+MicroRNA MIR105 family|1766
+MicroRNA MIR1184 family|1859
+MicroRNA MIR1233 family|1860
+MicroRNA MIR124 family|1706
+MicroRNA MIR1244 family|1861
+MicroRNA MIR1255 family|1810
+MicroRNA MIR128 family|1712
+MicroRNA MIR1285 family|1863
+MicroRNA MIR1289 family|1864
+MicroRNA MIR129 family|1756
+MicroRNA MIR130 family|1713
+MicroRNA MIR1302 family|1858
+MicroRNA MIR132/212 family|1714
+MicroRNA MIR133 family|1708
+MicroRNA MIR135 family|1757
+MicroRNA MIR138 family|1758
+MicroRNA MIR141/200 family|1709
+MicroRNA MIR146 family|1716
+MicroRNA MIR147 family|1768
+MicroRNA MIR148/152 family|1717
+MicroRNA MIR15/16 family|1737
+MicroRNA MIR153 family|1759
+MicroRNA MIR154 family|1769
+MicroRNA MIR17 family|1703
+MicroRNA MIR181 family|1718
+MicroRNA MIR188/532 family|1805
+MicroRNA MIR19 family|1704
+MicroRNA MIR190 family|1760
+MicroRNA MIR192/215 family|1719
+MicroRNA MIR193 family|1761
+MicroRNA MIR194 family|1720
+MicroRNA MIR196 family|1721
+MicroRNA MIR1972 family|1865
+MicroRNA MIR199 family|1722
+MicroRNA MIR203 family|1723
+MicroRNA MIR204/211 family|1724
+MicroRNA MIR208 family|1725
+MicroRNA MIR216 family|1763
+MicroRNA MIR218 family|1726
+MicroRNA MIR219 family|1710
+MicroRNA MIR23 family|1711
+MicroRNA MIR24 family|1738
+MicroRNA MIR25/92 family|1705
+MicroRNA MIR26 family|1739
+MicroRNA MIR27 family|1740
+MicroRNA MIR28/151 family|1803
+MicroRNA MIR29 family|1701
+MicroRNA MIR30 family|1741
+MicroRNA MIR302 family|1764
+MicroRNA MIR3118 family|1866
+MicroRNA MIR3156 family|1867
+MicroRNA MIR3179 family|1868
+MicroRNA MIR3180 family|1869
+MicroRNA MIR3198 family|1870
+MicroRNA MIR320 family|1804
+MicroRNA MIR329 family|1771
+MicroRNA MIR33 family|1742
+MicroRNA MIR34/449 family|1702
+MicroRNA MIR3648 family|1871
+MicroRNA MIR365 family|1762
+MicroRNA MIR3670 family|1872
+MicroRNA MIR3680 family|1874
+MicroRNA MIR371 family|1779
+MicroRNA MIR374 family|1775
+MicroRNA MIR376 family|1777
+MicroRNA MIR378 family|1778
+MicroRNA MIR379 family|1770
+MicroRNA MIR450 family|1789
+MicroRNA MIR451 family|1727
+MicroRNA MIR486 family|1790
+MicroRNA MIR500 family|1773
+MicroRNA MIR506 family|1788
+MicroRNA MIR515 family|1780
+MicroRNA MIR544 family|1799
+MicroRNA MIR548 family|1806
+MicroRNA MIR550 family|1800
+MicroRNA MIR551 family|1765
+MicroRNA MIR663 family|1807
+MicroRNA MIR664 family|1809
+MicroRNA MIR7 family|1736
+MicroRNA MIR888 family|1796
+MicroRNA MIR891 family|1798
+MicroRNA MIR9 family|1698
+MicroRNA MIR95 family|1767
+MicroRNA MIRLET7 family|1697
+MicroRNA non-coding host genes|1688
+MicroRNA protein coding host genes|1691
+MicroRNAs|476
+Microsomal glutathione S-transferases|1469
+Microtubule affinity regulating kinases|2132
+Microtubule associated protein RP/EB family |1826
+Microtubule associated serine/threonine kinase family|3486
+Minor histocompatibility antigens|870
+Minor spliceosome|1520
+Miro like atypical Rho GTPases|392
+Mitochondrial RNase P complex|1534
+Mitochondrial complex I assembly complex|1387
+Mitochondrial complex II: succinate dehydrogenase subunits|641
+Mitochondrial complex III: ubiquinol-cytochrome c reductase complex subunits|642
+Mitochondrial complex IV: cytochrome c oxidase subunits|643
+Mitochondrial complex V: ATP synthase subunits|644
+Mitochondrial contact site and cristae organizing system subunits|1616
+Mitochondrial iron-sulfur assembly components|1853
+Mitochondrial nucleoid associated proteins|2290
+Mitochondrial respiratory chain complex assembly factors|645
+Mitochondrial ribosomal proteins|646
+Mitochondrial sorting and assembly machinery complex|1685
+Mitochondrial transcription initiation complex subunits|2289
+Mitochondrial translation release factor family|2044
+Mitochondrially encoded long non-coding RNAs|1976
+Mitochondrially encoded protein coding genes|1974
+Mitochondrially encoded regions|1973
+Mitochondrially encoded ribosomal RNAs|1378
+Mitochondrially encoded transfer RNAs|843
+Mitofusin family|2265
+Mitogen-activated protein kinase kinase kinase kinases|655
+Mitogen-activated protein kinase kinase kinases|654
+Mitogen-activated protein kinase kinases|653
+Mitogen-activated protein kinases|651
+Mucins|648
+Multicopper ferroxidase family|3426
+Multicopper oxidase family|3428
+Multiple C2 and transmembrane domain containing|826
+Multiplexin collagens|2252
+MutL homologs|1027
+MutS homologs|1026
+MuvB complex subunits|2281
+My-T-BRC complex|1632
+Myb/SANT domain containing|532
+Myocardin family|1407
+Myocyte enhancer factor 2 proteins|649
+Myogenic regulatory family|1609
+Myosin binding proteins|658
+Myosin heavy chains, class I|1097
+Myosin heavy chains, class II|1098
+Myosin heavy chains, class III|1099
+Myosin heavy chains, class IX|1103
+Myosin heavy chains, class V|1100
+Myosin heavy chains, class VI|1101
+Myosin heavy chains, class VII|1102
+Myosin heavy chains, class X|1104
+Myosin heavy chains, class XIX|1108
+Myosin heavy chains, class XV|1105
+Myosin heavy chains, class XVI|1106
+Myosin heavy chains, class XVIII|1107
+Myosin light chain kinase family|1668
+Myosin light chains, class 1|2039
+Myosin light chains, class 2|2040
+Myosin phosphatase targeting family|1180
+Myotubularins|903
+Myozenins|1607
+N- and C-terminal methyltransferases|3411
+N-BAR domain containing|1289
+N-alpha-acetyltransferase subunits|660
+N-arachidonoylethanolamine hydrolases|3504
+N-myristoyltransferase family|3561
+N-terminal EF-hand calcium binding proteins|663
+NADH oxidase family|3535
+NADH:ubiquinone oxidoreductase core subunits|1149
+NADH:ubiquinone oxidoreductase supernumerary subunits|1150
+NALCN channel complex subunits|3463
+NBPF members|662
+NCoR/SMRT transcriptional repression complex subunits|1875
+NDC80 kinetochore complex |1573
+NDRG family|1842
+NF-kappa B complex subunits|1254
+NHERF family PDZ scaffold proteins|2226
+NHS family|2269
+NIM1K family kinases|3547
+NIMA related kinase family|3420
+NKL subclass homeoboxes and pseudogenes|519
+NLR family|666
+NME/NM23 family|961
+NOP2/Sun RNA methyltransferase family|664
+NPHP complex|1546
+NRZ tethering complex|1931
+NSL histone acetyltransferase complex|1482
+NSP adaptor proteins|1562
+NT-C2 domain containing|1537
+NTC associated proteins|1498
+NUAK family kinases|2136
+NURF complex|1363
+Na+/K+ transporting ATPase interacting|659
+Nebulin family|2240
+Nectins and nectin-like molecules|1855
+Negative elongation factor complex members|1944
+Netrins|661
+Network forming collagens|2249
+Neuraminidases|1649
+Neuregulins|1629
+Neurexins|1582
+Neurexophilin and PC-esterase domain containing|2316
+Neurexophilins|2315
+Neuroligins|1583
+Neuromedin U receptors|239
+Neuropeptide FF receptors|240
+Neuropeptide S receptor|241
+Neuropeptide Y receptors|243
+Neuropeptides|1902
+Neuropeptides B and W receptors|242
+Neurotensin receptors|244
+Neurotrophins|1585
+NineTeen complex|1361
+NoRC complex|3339
+Non-canonical high mobility group|512
+Non-canonical poly(A) polymerases|1318
+Non-clustered protocadherins|21
+Non-histone lysine methyltransferases|3410
+Notch receptors|1689
+NuRD complex subunits|1305
+Nuclear RNase P complex subunits|3374
+Nuclear exosome targeting complex|1316
+Nuclear factor I family|1985
+Nuclear factors of activated T-cells|665
+Nuclear receptor subfamily 0 group B|2068
+Nuclear receptor subfamily 1 group D|2072
+Nuclear receptor subfamily 1 group H|2083
+Nuclear receptor subfamily 1 group I|2084
+Nuclear receptor subfamily 2 group C|2073
+Nuclear receptor subfamily 2 group E|2074
+Nuclear receptor subfamily 2 group F|2075
+Nuclear receptor subfamily 3 group C|2076
+Nuclear receptor subfamily 4 group A|2079
+Nuclear receptor subfamily 5 group A|2080
+Nuclear receptor subfamily 6 group A|2081
+Nuclear-encoded mitochondrial transfer RNAs|841
+Nucleoporins|1051
+Nucleoredoxin family|1466
+Nucleosome assembly protein 1 like family|2304
+Nucleosome assembly protein superfamily|2305
+Nucleotide excision repair|1269
+NudC family|1285
+Nudix hydrolase family|667
+O-linked N-acetylglucosaminyltransferases|446
+OOSP family|1631
+ORAI calcium release-activated calcium modulators|668
+OTU domain containing|669
+Olfactomedin domain containing |2314
+Olfactory receptors, family 1|147
+Olfactory receptors, family 10|157
+Olfactory receptors, family 11|159
+Olfactory receptors, family 12|160
+Olfactory receptors, family 13|162
+Olfactory receptors, family 14|163
+Olfactory receptors, family 2|149
+Olfactory receptors, family 3|150
+Olfactory receptors, family 4|151
+Olfactory receptors, family 5|152
+Olfactory receptors, family 51|164
+Olfactory receptors, family 52|165
+Olfactory receptors, family 55|166
+Olfactory receptors, family 56|167
+Olfactory receptors, family 6|153
+Olfactory receptors, family 7|154
+Olfactory receptors, family 8|155
+Olfactory receptors, family 9|156
+Oligosaccharyltransferase complex subunits|445
+Opioid receptors|245
+Opsin receptors|215
+Origin recognition complex|960
+Outer dynein arm docking complex subunits|2019
+Overlapping transcripts|1988
+Oxoglutarate dehydrogenase complex|2022
+Oxoglutarate dehydrogenase family|1666
+Oxoglutarate receptor|935
+Oxysterol binding proteins|670
+P-TEFb complex subunits|1281
+P2Y receptors|213
+PAGE family|1846
+PAR bZIP family|1248
+PARN exonuclease family|2052
+PAS domain containing|2127
+PASK family kinases|3548
+PATE family|674
+PBAF complex subunits|1605
+PDZ domain containing|1220
+PEAK pseudokinase family|3419
+PHD finger proteins|88
+PI4KA lipid kinase complex|1588
+PIK3C3 complex subunits|1596
+PIM kinase family|3415
+PIN-like domain superfamily|3424
+POTE ankyrin domain containing|685
+POU class homeoboxes and pseudogenes|523
+PPFI scaffold protein family|3460
+PR/SET domain family|1197
+PRAME family|686
+PRD class homeoboxes and pseudogenes|521
+PRELI domain containing|1295
+PROS class homeoboxes|528
+PTEN protein phosphatases|902
+PTF1 complex|1608
+PTK2 family tyrosine kinases|1644
+PTK6 family tyrosine kinases|1645
+PWWP domain containing|1147
+PX-BAR domain containing|1290
+Paf1/RNA polymerase II complex |1029
+Paired boxes|675
+Pannexins|288
+Pantothenate kinase family|1956
+Pappalysins|897
+Paralemmins|1792
+Paraneoplastic Ma antigens|671
+Paraoxonases|463
+Parathyroid hormone receptors|270
+Parvins|673
+Parvulins|920
+Patatin like phospholipase domain containing|466
+PeBoW complex|1732
+Pecanex family|2319
+Pellino E3 ubiquitin protein ligases|676
+Pentatricopeptide repeat containing|1823
+Pepsinogens|1927
+Peptidase family A1|1928
+Peptidase family A22|2099
+Peptidase family A28 |2098
+Peptidase family C1|2109
+Peptide receptors|220
+Peptidoglycan recognition proteins|1397
+Peptidyl arginine deiminases|677
+Perilipins|678
+Peroxins|957
+Peroxiredoxins|953
+Peroxisome proliferator activated receptors|2071
+Phosphatase and actin regulators|679
+Phosphatidylinositol 3-kinase subunits|831
+Phosphatidylinositol glycan anchor biosynthesis|680
+Phosphatidylinositol transfer proteins|1151
+Phosphodiesterases|681
+Phosphofructokinase family|3556
+Phosphoglycerate mutases|1078
+Phosphoinositide phosphatases|1079
+Phospholipase A and acyltransferase family|1227
+Phospholipases|467
+Phospholipid phosphatase related|1127
+Phospholipid phosphatases|1067
+Phospholipid scramblases|954
+Phosphorylase kinase subunits|2140
+Piezo type mechanosensitive ion channel components|3579
+PiggyBac transposable element derived family|3470
+Piwi like RNA-mediated gene silencing family|2038
+Piwi-interacting RNA clusters|851
+Plakins|939
+Plakophilins|1541
+Plastin family|3577
+Platelet activating factor receptor|208
+Pleckstrin and Sec7 domain containing|1948
+Pleckstrin homology domain containing|682
+Plexins|683
+Polo like kinase family|3414
+Poly(ADP-ribose) polymerases|684
+Polycomb group ring fingers|61
+Polycomb repressive complex 2|1347
+Polypeptide N-acetylgalactosaminyltransferases|433
+Potassium calcium-activated channel subfamily M regulatory beta subunits|857
+Potassium calcium-activated channels|255
+Potassium inwardly rectifying channel subfamily J|276
+Potassium sodium-activated channel subfamily T |856
+Potassium two pore domain channel subfamily K|277
+Potassium voltage-gated channel regulatory subunits|858
+Potassium voltage-gated channels|274
+Prefoldin subunits|956
+Pregnancy specific glycoproteins|1315
+Prenyltransferase alpha subunit repeat containing|687
+Prickle planar cell polarity proteins|1184
+Procollagen-lysine,2-oxoglutarate 5-dioxygenase family|2023
+Profilins|1827
+Progestin and adipoQ receptor family|930
+Prokineticin family|2243
+Prokineticin receptors|216
+Proline rich and Gla domain containing|1249
+Proline rich proteins|972
+Prolyl 3-hydroxylase family|1925
+Prominin family|2244
+Propionyl-CoA carboxylase subunits|3436
+Proprotein convertase subtilisin/kexin family|973
+Prostaglandin receptors|207
+Prostaglandin-endoperoxide synthase family|3441
+Proteasome|690
+Protein disulfide isomerases|692
+Protein kinase A family|3509
+Protein kinase A subunits|2144
+Protein kinase AMP-activated catalytic subunit alphas|2134
+Protein kinase C family|3523
+Protein kinase D family|3448
+Protein kinase G family|3510
+Protein kinase N family|3494
+Protein phosphatase 1 regulatory subunits|694
+Protein phosphatase 2 modulatory subunits|1265
+Protein phosphatase 2 regulatory subunits|696
+Protein phosphatase 2 scaffold subunits|1266
+Protein phosphatase 3 regulatory subunits|697
+Protein phosphatase 4 regulatory subunits|698
+Protein phosphatase 6 regulatory subunits|699
+Protein phosphatase catalytic subunits|693
+Protein phosphatases|703
+Protein phosphatases, Mg2+/Mn2+ dependent|701
+Protein serine kinase H family|3449
+Protein tyrosine phosphatase 4A family|899
+Protein tyrosine phosphatases non-receptor type|812
+Protein tyrosine phosphatases receptor type|813
+Proteins encoded by multiple genes|2293
+Proteoglycans|570
+Pseudoautosomal region 1|715
+Pseudoautosomal region 2|716
+Pseudouridine synthases|1665
+Pumilio homology domain containing|1494
+Purinergic receptors P2X|214
+Purinosome|1569
+Putative lysine methyltransferases|3513
+Pyrin and HIN domain family|995
+Pyrin domain containing|994
+Pyruvate carboxylase family|3444
+Pyruvate dehydrogenase complex|1547
+R-spondin family|1898
+R2SP complex|2007
+R2TP complex|1401
+RAB like GTPases|394
+RAB, member RAS oncogene GTPases|388
+RAB11 binding domain containing|1623
+RAF family|1157
+RAG transposon derived genes|3473
+RAN family GTPases|391
+RAR related orphan receptors|2082
+RAS guanyl releasing proteins|2321
+RAS type GTPase family|389
+RBR E3 ubiquitin ligases|1391
+RELT family|1406
+RGK type GTPase family|1260
+RIG-I RNA sensor family|3439
+RISC loading complex subunits|1776
+RNA binding fox-1 homologs|2286
+RNA binding motif containing|725
+RNA polymerase subunits|726
+RNA pseudouridylate synthase domain containing|727
+RNAs, Ro60-associated Y|853
+RNase MRP complex subunits|3375
+ROCO family|1421
+RSF complex|3340
+RZZ complex|1933
+Rad2/XPG endonuclease family|3423
+Radical S-adenosylmethionine domain containing|2036
+Ragulator complex |1040
+Ras association domain family|1198
+Ras related GTP binding proteins|1984
+RecQ like helicases|1049
+Receptor (G protein-coupled) activity modifying proteins|718
+Receptor accessory proteins|717
+Receptor ligands|542
+Receptor transporter proteins|719
+Receptor tyrosine kinases|321
+Regulating synaptic membrane exocytosis family|833
+Regulators of G-protein signaling|720
+Regulatory factor X family|1153
+Regulins|2300
+Relaxin family|1897
+Relaxin family peptide receptors|217
+Repulsive guidance molecule family|1587
+Reticulons|2322
+Retinoic acid receptors|2069
+Retinoid X receptors|2086
+Retriever complex|1556
+Retrotransposon Gag derived ARC|3464
+Retrotransposon Gag like family|1409
+Retrotransposon derived ASPRV1|3465
+Rho GTPase activating proteins|721
+Rho associated coiled-coil containing protein kinase family|3491
+Rho family GTPases|390
+Rhomboid family|926
+Ribonuclease A family|723
+Ribonucleotide reductase subunits|3469
+Ribosomal 45S RNA clusters|1381
+Ribosomal 45S rRNA genes outside of clusters|1528
+Ribosomal biogenesis factors|1729
+Ribosomal protein S6 kinase family|3524
+Ring finger proteins|58
+Ripoptosome|1340
+Runt-related transcription factors|1880
+Ryanodine receptors|287
+S ribosomal proteins|728
+S100 calcium binding proteins|459
+S100 fused type protein family|1350
+SAGA complex|1059
+SAGE family|1847
+SAM and SH3 domain containing|731
+SAND domain containing|3515
+SCAN domain containing|42
+SCAR/WAVE complex|1793
+SCF complex core subunits|2126
+SCY1 like pseudokinases|1033
+SEC14 family|1063
+SET complex|1659
+SET domain containing|1399
+SF3a complex|1555
+SF3b complex|1517
+SH2 domain containing|741
+SH3 and cysteine rich domain family|2308
+SIBLING family|1279
+SIK family kinases|2131
+SIN3 histone deacetylase complex subunits|1306
+SINE class homeoboxes|525
+SKI complex subunits|2119
+SKI transcriptional corepressors|748
+SLIT and NTRK like family|1828
+SMAD family|750
+SMC5/6 complex|1034
+SMG1 complex|1962
+SMN complex|1500
+SNAG transcriptional repressors|1259
+SNAP complex |952
+SNAREs|1124
+SNF2 related family|1190
+SNRK family kinases|3545
+SPANX family|1834
+SPARC family|1278
+SPOUT methyltransferase domain containing|1294
+SRCAP complex|1329
+SRSF protein kinase family|3483
+SRY-box transcription factors|757
+SSU processome|1484
+SSX family|1833
+STAG family cohesin complex components|2239
+STEAP family|1324
+STK11 family kinases|3546
+STK33 family kinases|3549
+STRIPAK complex|1371
+STT3 oligosaccharyltransferase catalytic subunits|444
+SUMO specific peptidases|984
+SUN family|1968
+SURF complex|1963
+SWC tripartite complex|1695
+Scavenger receptor cysteine rich domain containing|1404
+Scavenger receptors|1253
+Schlafen family|1110
+Scribble complex|1224
+Sec7 family|1945
+Secreted frizzled-related proteins|733
+Secretoglobins|734
+Secretory calcium-binding phosphoprotein family|2245
+Secretory carrier membrane proteins|735
+Selectins|945
+Selenoproteins|890
+Semaphorins|736
+Septins|732
+Serine and arginine rich splicing factors|737
+Serine beta lactamase family|1791
+Serine hydroxymethyltransferase family|2142
+Serine peptidase inhibitors, Kazal type|740
+Serine proteases|738
+Serine/threonine kinase 32 family|3508
+Serine/threonine kinase 38 family|3493
+Serine/threonine phosphatases|814
+Serpin peptidase inhibitors|739
+Serum/glucocorticoid regulated kinase family|3485
+Sestrin family|3537
+Shelterin complex|1334
+Shieldin complex|1656
+Shisa family members|742
+Short chain dehydrogenase/reductase superfamily|743
+Short pentraxins|1143
+Shroom family|1971
+Sialic acid binding Ig like lectins|745
+Sialyltransferases|438
+Signal recognition particle|1876
+Signal regulatory proteins|747
+Signal transduction and activation of RNA metabolism family|1275
+Sirtuins|938
+Ski2 like RNA helicases|1559
+Slingshot protein phosphatases|898
+Sm spliceosomal proteins|1255
+Small Cajal body-specific RNAs|847
+Small G protein signaling modulators|751
+Small MAF bZIP transcription factor family|2263
+Small NF90 (ILF3) associated RNAs|1624
+Small heat shock proteins|585
+Small leucine rich repeat proteoglycans|573
+Small molecule methyltransferases|3372
+Small nuclear RNAs|849
+Small nucleolar RNA non-coding host genes|1839
+Small nucleolar RNA protein coding host genes|1835
+Small nucleolar RNAs, C/D box|845
+Small nucleolar RNAs, H/ACA box|846
+Small proline rich proteins|1353
+Small subunit mitochondrial ribosomal proteins|1996
+Sodium channels epithelial|185
+Sodium leak channels, non selective|283
+Sodium voltage-gated channel alpha subunits|1203
+Sodium voltage-gated channel beta subunits|1204
+Soluble glutathione S-transferases|567
+Soluble guanylate cyclases|820
+Solute carrier family 1|2154
+Solute carrier family 10|2163
+Solute carrier family 11|2164
+Solute carrier family 12|2152
+Solute carrier family 13|2165
+Solute carrier family 14|2166
+Solute carrier family 15|2167
+Solute carrier family 16|2168
+Solute carrier family 17|2169
+Solute carrier family 18|2170
+Solute carrier family 19|2171
+Solute carrier family 2|2155
+Solute carrier family 20|2172
+Solute carrier family 22|2173
+Solute carrier family 23|2174
+Solute carrier family 24|2175
+Solute carrier family 25|2176
+Solute carrier family 26|2177
+Solute carrier family 27|2178
+Solute carrier family 28|2179
+Solute carrier family 29|2180
+Solute carrier family 3|2156
+Solute carrier family 30|2181
+Solute carrier family 31|2182
+Solute carrier family 32|2183
+Solute carrier family 33|2184
+Solute carrier family 34|2185
+Solute carrier family 35|2186
+Solute carrier family 36|2187
+Solute carrier family 37|2189
+Solute carrier family 38|2188
+Solute carrier family 39 |2153
+Solute carrier family 4|2157
+Solute carrier family 40|2190
+Solute carrier family 41|2191
+Solute carrier family 42|2192
+Solute carrier family 43|2193
+Solute carrier family 44|2194
+Solute carrier family 45|2195
+Solute carrier family 46|2196
+Solute carrier family 47|2197
+Solute carrier family 48|2198
+Solute carrier family 49|2199
+Solute carrier family 5|2158
+Solute carrier family 50|2200
+Solute carrier family 51|2274
+Solute carrier family 52|2202
+Solute carrier family 53|2203
+Solute carrier family 54, mitochondrial pyruvate carriers|2204
+Solute carrier family 55, LETM mitochondrial cation/proton exchangers|2205
+Solute carrier family 56, sideroflexins|746
+Solute carrier family 57, NIPA-like magnesium transporters|2206
+Solute carrier family 58|2207
+Solute carrier family 59|2208
+Solute carrier family 6|2159
+Solute carrier family 60|2209
+Solute carrier family 61|2210
+Solute carrier family 62|2211
+Solute carrier family 63, sphingosine phosphate transporters|2212
+Solute carrier family 64|2213
+Solute carrier family 65|2214
+Solute carrier family 66|2215
+Solute carrier family 67|2275
+Solute carrier family 68|2276
+Solute carrier family 69|2277
+Solute carrier family 7|2160
+Solute carrier family 70, cyclin and CBS domain divalent metal cation transport mediators|1801
+Solute carrier family 71|2278
+Solute carrier family 72|3356
+Solute carrier family 73|3357
+Solute carrier family 74|3358
+Solute carrier family 75|3359
+Solute carrier family 76|3360
+Solute carrier family 8|2161
+Solute carrier family 9|2162
+Solute carrier organic anion transporter family|2216
+Somatostatin receptors|257
+Sorting nexins|754
+Sp transcription factors|755
+Spectrin repeat containing nuclear envelope family|1252
+Spectrins|1113
+Speedy/RINGO cell cycle regulator family|756
+Sphingosine 1-phosphate receptors|206
+Sphingosine kinase family|3498
+Sphingosine-1-phosphate phosphatases|1070
+Spindlin family|1089
+SplA/ryanodine receptor domain and SOCS box containing family|2312
+Spliceosomal A complex|1504
+Spliceosomal B complex|1507
+Spliceosomal Bact complex|1508
+Spliceosomal C complex|1510
+Spliceosomal E complex|1522
+Spliceosomal P complex|1516
+Sprouty RTK signaling antagonist family|2310
+Sprouty related EVH1 domain containing |2309
+Src family tyrosine kinases|1388
+StAR related lipid transfer domain containing|759
+Stabilizer of axonemal microtubules family|2238
+Stathmins|1138
+Sterile alpha motif domain containing|760
+Steroid 5-alpha reductase family|1967
+Stomatin family|1734
+Storkhead boxes|2307
+Structural maintenance of chromosomes proteins|761
+Subcortical maternal complex|1684
+Succinate receptor|936
+Sugar phosphatases|1073
+Sulfatases|410
+Sulfotransferases, cytosolic|762
+Sulfotransferases, membrane bound|763
+Super elongation complex|1280
+Superoxide dismutases|1929
+Suppressors of cytokine signaling|764
+Sushi domain containing|1179
+Syk family tyrosine kinases|1464
+Synapsins|1325
+Synaptogyrins|1475
+Synaptophysins|1476
+Synaptotagmin like tandem C2 proteins|822
+Synaptotagmins|765
+Syndecans|571
+Syntaxins|818
+Synuclein family|3474
+T cell receptor alpha locus at 14q11.2|371
+T cell receptor beta (TRB) orphons|373
+T cell receptor beta locus at 7q34|372
+T cell receptor delta locus at 14q11.2|374
+T cell receptor gamma locus at 7p14|375
+T-box transcription factors|766
+TACC family|1943
+TAFA chemokine like family|1829
+TALE class homeoboxes and pseudogenes|526
+TCF/LEF transcription factor family|1549
+TEA domain transcription factors|1183
+THAP domain family|65
+THO complex|770
+TIM22 complex|1337
+TIM23 complex|1552
+TIR domain containing|1296
+TLC domain containing|1374
+TLDc domain containing|2055
+TLE family|1680
+TMEM8 family|1957
+TNF receptor associated factors|1056
+TNK family tyrosine kinases|1643
+TNRC6 adaptor family|2051
+TOG domain containing|1495
+TRIO family|3553
+TSC complex|1497
+TSNAXIP1 domain containing|2229
+TSPY family|2303
+TSPYL family|2302
+TTT complex|1320
+Tachykinin precursors|1901
+Tachykinin receptors|258
+Taste 1 receptors|1161
+Taste 2 receptors|1162
+Tec family tyrosine kinases|1457
+Tectonic proteins|767
+Tektins|949
+Telomerase holoenzyme subunits|3438
+Tenascins|1983
+Teneurin transmembrane protein family|2150
+Terminal nucleotidyltransferases|1619
+Testis specific serine kinase family|3450
+Tet methylcytosine dioxygenase family|2049
+Tetrapyrrole methylase domain containing|3354
+Tetraspan junctional complex superfamily|1471
+Tetraspanins|768
+Tetratricopeptide repeat domain containing|769
+Thioesterase superfamily|1832
+Thioredoxin domain containing |1883
+Thrombospondin family|2231
+Thyroid hormone receptors|2070
+Tim17 family|1857
+Tip60/Nua4 histone acetyltransferase complex subunits|1634
+Tissue inhibitor of metallopeptidases|892
+Toll like receptors|948
+Topoisomerases|1050
+Torsins|1831
+Trace amine receptors|188
+Trafficking protein particle complex subunits|772
+Transaminases|3517
+Transcription and export complex 1 subunits|1348
+Transcription and export complex 2|1276
+Transcription elongation factor A like family|1216
+Transcription factor AP-2 family|2048
+Transcription factor Dp family|987
+Transferrins|908
+Transforming growth factor beta family|1664
+Transforming growth factor beta superfamily|1932
+Transglutaminases|773
+Transient receptor potential cation channels|249
+Translational GTPases|3571
+Translocase of outer mitochondrial membrane complex|1229
+Transmembrane 9 superfamily members|1239
+Transmembrane BAX inhibitor motif containing|1215
+Transmembrane O-mannosyltransferase targeting cadherins|1918
+Transmembrane and coiled-coil domain containing|774
+Transmembrane channel like family|1135
+Transmembrane collagens|2251
+Transmembrane guanylate cyclases|343
+Transmembrane p24 trafficking proteins|1064
+Transmembrane protein 14 family|2219
+Tribbles pseudokinase family|3417
+Tripartite motif family|59
+Tropomodulins|1140
+Tropomyosins|777
+Troponin complex subunits|1219
+Tubulin gamma complex component family|2224
+Tubulin polyglutamylase complex subunits|2117
+Tubulin polymerization promoting proteins|1240
+Tubulin tyrosine ligase family|779
+Tubulins|778
+Tudor domain containing|780
+Tumor necrosis factor receptor superfamily|782
+Tumor necrosis factor superfamily|781
+Tweety family|1830
+Two pore segment channels|247
+Type 1 receptor serine/threonine kinases|345
+Type 2 receptor serine/threonine kinases|346
+Type I classical cadherins|1185
+Type II classical cadherins|1186
+Type II transmembrane serine proteases|2020
+Tyrosinase family|3506
+U-box domain containing|365
+U1 small nuclear ribonucleoprotein|1499
+U11 small nuclear ribonucleoprotein|2045
+U11/U12 di-snRNP|1521
+U2 small nuclear ribonucleoprotein|1501
+U3 small nucleolar ribonucleoprotein|1485
+U4/U6 small nuclear ribonucleoprotein particle|1502
+U5 small nuclear ribonucleoprotein|1503
+UBX domain containing|364
+UDP glucuronosyltransferases|363
+UDP-N-acetylglucosaminyltransferase subunits|449
+UDP-glucose ceramide glucosyltransferases|450
+UDP-glucose glycoprotein glucosyltransferases|440
+UNC13 homologs|836
+UPF1 like RNA helicases|1169
+USH2 complex|1244
+UTPa subcomplex|1483
+UTPb subcomplex|1225
+UTPc subcomplex|1490
+Ubiquilin family|783
+Ubiquitin C-terminal hydrolases|998
+Ubiquitin conjugating enzymes E2|102
+Ubiquitin like modifier activating enzymes|100
+Ubiquitin protein ligase E3 component n-recognins|785
+Ubiquitin specific peptidase like |988
+Ubiquitin specific peptidases|366
+Ubiquitins|3484
+Unitary pseudogenes|3418
+V-set domain containing|590
+V-type ATPase subunits|415
+VCP-Ufd1-Npl4 complex subunits|2259
+VEGF family|1267
+VPS9 domain containing|928
+Vanin family|10
+Variable charge X/Y family|368
+Variant U1 small nuclear RNAs|1819
+Vasoactive intestinal peptide family receptors |264
+Vault RNAs|852
+Vesicle associated membrane proteins|12
+Vestigial like family|367
+Vitamin K epoxide reductase complex subunit 1 family|3459
+Voltage dependent anion channels|306
+Volume regulated anion channel subunits|1158
+Vomeronasal receptors|291
+WAP four-disulfide core domain containing|361
+WASH complex|1331
+WBP1/VOPP1 family|1564
+WD repeat domain containing|362
+WICH complex|3338
+WIPI family|1568
+WNK lysine deficient protein kinases|1899
+WRAD complex|1558
+WTAP complex|1420
+WWC family|158
+Wiskott-Aldrich Syndrome protein family|14
+Wnt enhanceosome complex|1677
+Wnt family|360
+X-C motif chemokine receptors|1092
+XAGE family|1844
+XK related family|955
+Xanthine dehydrogenase/aldehyde oxidase family|3505
+Xeroderma pigmentosum complementation groups|1125
+Y-box binding proteins|106
+YEATS domain containing|1283
+YIP superfamily|1144
+YTH domain containing N6-methyladenosine readers|2230
+Yip1 domain containing|105
+Yippee like family|1130
+ZF class homeoboxes and pseudogenes|529
+ZIC family zinc fingers|3477
+ZU5 domain containing |2313
+ZUP1 deubiquitinase|1820
+ZYG11 cell cycle regulator family|6
+Zinc activated channels|176
+Zinc fingers|26
+Zinc fingers 3CxxC-type|137
+Zinc fingers A20-type|2285
+Zinc fingers AN1-type|63
+Zinc fingers BED-type|64
+Zinc fingers C2H2-type|28
+Zinc fingers C2H2C-type|1261
+Zinc fingers C2HC-type|66
+Zinc fingers CCCH-type|73
+Zinc fingers CCHC-type|74
+Zinc fingers CW-type|96
+Zinc fingers CXXC-type|136
+Zinc fingers DBF-type|75
+Zinc fingers DHHC-type|76
+Zinc fingers FYVE-type|81
+Zinc fingers GRF-type|135
+Zinc fingers HIT-type|83
+Zinc fingers MIZ-type|85
+Zinc fingers MYM-type|86
+Zinc fingers MYND-type|87
+Zinc fingers PARP-type|94
+Zinc fingers PCLO-type|2125
+Zinc fingers RANBP2-type|89
+Zinc fingers SWIM-type|90
+Zinc fingers TRAF-type|2139
+Zinc fingers U11-48K-like CHHC-type|3342
+Zinc fingers ZZ-type|91
+Zinc fingers matrin-type|84
+Zn regulated GTPase metalloprotein activator 1 family|3573
+Zona pellucida glycoproteins|8
+Zyxin family|1402
+eNoSC complex|1477
+m6A methyltransferase complex|1419
+minichromosome maintenance 2-7 complex|1998
+nan|nan
+p120 catenin family|1539
+tRNA splicing ligase complex|1345
+tRNA wybutosine-synthesizing protein domain containing|3355
+tRNA-splicing endonuclease subunits|776
+thymocyte selection associated high mobility group box family|2151
+tri-snRP complex|1506

@@ -1,0 +1,76 @@
+[
+    {
+        "Annotation": "bao",
+        "NameString": "BioAssay Ontology",
+        "UsageString": "The BioAssay Ontology (BAO) describes biological screening assays and their results including high-throughput screening (HTS) data for the purpose of categorizing assays and data analysis. BAO is an extensible, knowledge-based, highly expressive (currently SHOIQ(D)) description of biological assays making use of descriptive logic based features of the Web Ontology Language (OWL). BAO currently has over 700 classes and also makes use of several other ontologies. It describes several concepts related to biological screening, including Perturbagen, Format, Meta Target, Design, Detection Technology, and Endpoint. Perturbagens are perturbing agents that are screened in an assay; they are mostly small molecules. Assay Meta Target describes what is known about the biological system and / or its components interrogated in the assay (and influenced by the Perturbagen). Meta target can be directly described as a molecular entity (e.g. a purified protein or a protein complex), or indirectly by a biological process or event (e.g. phosphorylation). Format describes the biological or chemical features common to each test condition in the assay and includes biochemical, cell-based, organism-based, and variations thereof. The assay Design describes the assay methodology and implementation of how the perturbation of the biological system is translated into a detectable signal. Detection Technology relates to the physical method and technical details to detect and record a signal. Endpoints are the final HTS results as they are usually published (such as IC50, percent inhibition, etc). BAO has been designed to accommodate multiplexed assays. All main BAO components include multiple levels of sub-categories and specification classes, which are linked via object property relationships forming an expressive knowledge-based representation.",
+        "DescriptionString": "The BioAssay Ontology (BAO) describes biological screening assays and their results including high-throughput screening (HTS) data for the purpose of categorizing assays and data analysis. BAO is an extensible, knowledge-based, highly expressive (currently SHOIQ(D)) description of biological assays making use of descriptive logic based features of the Web Ontology Language (OWL). BAO currently has over 700 classes and also makes use of several other ontologies. It describes several concepts related to biological screening, including Perturbagen, Format, Meta Target, Design, Detection Technology, and Endpoint. Perturbagens are perturbing agents that are screened in an assay; they are mostly small molecules. Assay Meta Target describes what is known about the biological system and / or its components interrogated in the assay (and influenced by the Perturbagen). Meta target can be directly described as a molecular entity (e.g. a purified protein or a protein complex), or indirectly by a biological process or event (e.g. phosphorylation). Format describes the biological or chemical features common to each test condition in the assay and includes biochemical, cell-based, organism-based, and variations thereof. The assay Design describes the assay methodology and implementation of how the perturbation of the biological system is translated into a detectable signal. Detection Technology relates to the physical method and technical details to detect and record a signal. Endpoints are the final HTS results as they are usually published (such as IC50, percent inhibition, etc). BAO has been designed to accommodate multiplexed assays. All main BAO components include multiple levels of sub-categories and specification classes, which are linked via object property relationships forming an expressive knowledge-based representation.",
+        "URL": "https://data.bioontology.org/ontologies/BAO/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf",
+        "code": "",
+        "VersionString": ""
+    },{
+        "Annotation": "Species",
+        "NameString": "NCBI Taxonomy",
+        "UsageString": "Use this annotation to indicate the species context for a statement.",
+        "DescriptionString": "The annotation values for species provided by NCBI Taxonomy Identifiers.",
+        "URL": "http://purl.obolibrary.org/obo/ncbitaxon/2025-09-11/ncbitaxon.owl",
+        "code": "",
+        "VersionString": ""
+    },
+    {
+        "Annotation": "MESH",
+        "NameString": "MeSH",
+        "UsageString": "Use to annotate a statement demonstrated in the context of a specific ",
+        "DescriptionString": "Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity.",
+        "URL": "https://nlmpubs.nlm.nih.gov/projects/mesh/rdf/2025/mesh2025.nt",
+        "code": "",
+        "VersionString": "",
+        "subcategories": {
+            "Disease": [
+                "C",
+                "F03"
+            ],
+            "Anatomy": [
+                "A"
+            ],
+            "cellular structures": [
+                "A11"
+            ]
+        }
+    },
+    {
+        "Annotation": "CellLine",
+        "NameString": "Cell Line Ontology (CLO)",
+        "UsageString": "this annotation to indicate the cell line context of a statement. Use to annotate a statement that was demonstrated in a given cell line.",
+        "DescriptionString": "Uberon is an integrated cross-species anatomy ontology representing a variety of entities classified according to traditional anatomical criteria such as structure, function and developmental lineage.",
+        "URL": "https://data.bioontology.org/ontologies/CLO/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf",
+        "code": "",
+        "VersionString": "2.1.188 "
+    },
+    {
+        "Annotation": "Anatomy",
+        "NameString": "Uberon",
+        "UsageString": "Use to annotate a statement demonstrated in a specific anatomical entity.",
+        "DescriptionString": "Uberon is an integrated cross-species anatomy ontology representing a variety of entities classified according to traditional anatomical criteria such as structure, function and developmental lineage.",
+        "URL": "https://raw.githubusercontent.com/obophenotype/uberon/refs/heads/master/uberon.obo",
+        "code": "",
+        "VersionString": "2025-08-15"
+    },
+    {
+        "Annotation": "CELL",
+        "NameString": "Cell Ontology",
+        "UsageString": "Use this annotation to indicate the cell type context of a statement. Use to annotate a statement that was demonstrated in a given cell type or where the facts represented in the statement were shown to be relevant to the cell type.",
+        "DescriptionString": "Cell types from the Cell Ontology (CL)",
+        "URL": "https://purl.obolibrary.org/obo/cl.owl",
+        "code": "",
+        "VersionString": ""
+    },
+    {
+        "Annotation": "Disease",
+        "NameString": "Disease Ontology",
+        "UsageString": "to annotate a statement demonstrated in a biological system where the disease state was present or where the facts represented in the statement were shown to be relevant to the disease.",
+        "DescriptionString": "Disease names from the Disease Ontology (DO)",
+        "URL": "https://purl.obolibrary.org/obo/doid.owl",
+        "code": "",
+        "VersionString": ""
+    }
+]

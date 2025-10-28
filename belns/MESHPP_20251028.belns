@@ -1,0 +1,2503 @@
+
+[Namespace]
+Keyword=MESHPP
+NameString=MeSH (PP)
+DomainString=Various
+VersionString=20251028
+CreatedDateTime=2025-10-28T10:19:27
+DescriptionString=Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity. - phenomena and processes
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=MeSH (PP)
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+3' Flanking Region|D024509
+3' Untranslated Regions|D020413
+5' Flanking Region|D024506
+5' Untranslated Regions|D020121
+AAA Domain|OGRPBCAM
+ADP-Ribosylation|OGRPBCAM
+AT Rich Sequence|D020856
+AT-Hook Motifs|D024761
+AU Rich Elements|D063307
+Abnormal Karyotype|D059786
+Abnormalities, Radiation-Induced|D000016
+Abortion, Spontaneous|D000022
+Absinthe|D018646
+Absorption|D000042
+Absorption, Physicochemical|D065966
+Absorption, Physiological|D065567
+Absorption, Radiation|D065638
+Acceleration|D000054
+Acclimatization|D000064
+Accommodation, Ocular|D000065
+Acetylation|D000107
+Achaete-Scute Complex Genome Region|D058145
+Acid Rain|D015258
+Acid-Base Equilibrium|D000136
+Acrosome Reaction|D020101
+Action Potentials|D000200
+Activation, Metabolic|D065767
+Active Transport, Cell Nucleus|D021581
+Activity Cycles|D000204
+Acute Radiation Syndrome|D054508
+Acylation|D000215
+Adaptation, Biological|D000220
+Adaptation, Ocular|D000221
+Adaptation, Physiological|D000222
+Adaptive Algorithms|OGRPBCAM
+Adaptive Immunity|D056704
+Adhesiveness|D000268
+Adipogenesis|D050156
+Adiposity|D050154
+Adolescent Development|D041923
+Adolescent Nutritional Physiological Phenomena|D017195
+Adrenarche|D050499
+Adsorption|D000327
+Advanced Maternal Age|OGRPBCAM
+Aerobiosis|D000332
+Afterimage|D000360
+Agglutination|D000371
+Aging|D000375
+Air|D000388
+Air Ionization|D000390
+Air Movements|D000392
+Air Pressure|D000399
+Airway Remodeling|D056151
+Airway Resistance|D000403
+Alcoholic Beverages|D000434
+Algorithms|D000465
+Alkylation|D000478
+Alleles|D000483
+Allelic Imbalance|D022981
+Allelopathy|D064089
+Allostasis|D052636
+Allosteric Regulation|D000494
+Allosteric Site|D000495
+Alpha Particles|D000512
+Alpha Rhythm|D000513
+Alternative Splicing|D017398
+Altitude|D000531
+Alu Elements|D020087
+Amelogenesis|D000566
+Amination|D000586
+Amino Acid Motifs|D020816
+Amino Acid Sequence|D000595
+Amino Acid Substitution|D019943
+Aminoacylation|D049148
+Ampicillin Resistance|D000668
+Anaerobic Ammonia Oxidation|OGRPBCAM
+Anaerobic Threshold|D015308
+Anaerobiosis|D000693
+Anaphase|D000705
+Anatomic Variation|D063405
+Andropause|D047649
+Anestrus|D000780
+Aneuploidy|D000782
+Angiogenesis|OGRPBCAM
+Animal Distribution|D063147
+Animal Feed|D000821
+Animal Nutritional Physiological Phenomena|D000824
+Animal Proteins, Dietary|OGRPBCAM
+Anisotropy|D016880
+Ankyrin Repeat|D017089
+Anoikis|D023102
+Anovulation|D000858
+Anthropogenic Effects|OGRPBCAM
+Antibiosis|D000898
+Antibody Affinity|D000915
+Antibody Diversity|D000916
+Antibody Formation|D000917
+Antibody Specificity|D000918
+Antibody-Dependent Cell Cytotoxicity|D000920
+Antibody-Dependent Enhancement|D019067
+Anticipation, Genetic|D020132
+Anticodon|D000926
+Antigen Presentation|D017951
+Antigen-Antibody Reactions|D000937
+Antigenic Drift and Shift|OGRPBCAM
+Antigenic Modulation|D016525
+Antigenic Variation|D000940
+Antioxidant Response Elements|D061745
+Apomixis|D060832
+Apoptosis|D017209
+Appetite|D001066
+Appetite Regulation|D001069
+Aquatic Organisms|D059001
+Area Under Curve|D019540
+Arousal|D001143
+Arterial Pressure|D062186
+Arthralgia|D018771
+Arthrometry, Articular|D053587
+Artificial Intelligence|D001185
+Artificially Sweetened Beverages|OGRPBCAM
+Astronomical Objects|D055587
+Astronomical Phenomena|D055580
+Asymmetric Cell Division|D060049
+Atmosphere|D001272
+Atmospheric Pressure|D001274
+Atrial Function|D016275
+Atrial Function, Left|D016279
+Atrial Function, Right|D016280
+Atrial Pressure|D062185
+Atrial Remodeling|D064752
+Atrophic Maxilla|OGRPBCAM
+Attachment Sites, Microbiological|D001287
+Auditory Fatigue|D001305
+Auditory Perception|D001307
+Auditory Threshold|D001309
+Autocrine Communication|D019898
+Autoencoder|OGRPBCAM
+Autoimmunity|D015551
+Autophagic Cell Death|OGRPBCAM
+Autophagy|D001343
+Autotrophic Processes|D052818
+Avalanches|D055875
+Axon Fasciculation|OGRPBCAM
+Axon Guidance|OGRPBCAM
+Axonal Transport|D001370
+B30.2-SPRY Domain|OGRPBCAM
+BTB-POZ Domain|OGRPBCAM
+Background Radiation|D001417
+Backtracking Algorithms|OGRPBCAM
+Bacterial Adhesion|D001422
+Bacterial Load|D058491
+Bacterial Physiological Phenomena|D018407
+Bacterial Shedding|D057138
+Bacterial Translocation|D018988
+Bacteriocin Plasmids|D003086
+Bacteriolysis|D001433
+Baroreflex|D017704
+Basal Metabolism|D001481
+Base Composition|D001482
+Base Pair Mismatch|D020137
+Base Pairing|D020029
+Base Sequence|D001483
+Bay-Region, Polycyclic Aromatic Hydrocarbon|D018383
+Bays|D061006
+Beer|D001515
+Beta Particles|D001610
+Beta Rhythm|D001611
+Beverages|D001628
+Binding Sites|D001665
+Binding Sites, Antibody|D001666
+Binding, Competitive|D001667
+Binomial Distribution|D016010
+Bioaccumulation|OGRPBCAM
+Bioactive Peptides, Dietary|OGRPBCAM
+Biocatalysis|D055162
+Biochemical Phenomena|D001669
+Biodiversity|D044822
+Biofilms|D018441
+Biofouling|D057219
+Biological Availability|D001682
+Biological Clocks|D001683
+Biological Coevolution|OGRPBCAM
+Biological Evolution|D005075
+Biological Mimicry|OGRPBCAM
+Biological Phenomena|D001686
+Biological Transport|D001692
+Biological Transport, Active|D001693
+Biological Variation, Individual|OGRPBCAM
+Biological Variation, Population|OGRPBCAM
+Biomass|D018533
+Biomechanical Phenomena|D001696
+Biomineralization|OGRPBCAM
+Biophysical Phenomena|D055592
+Biosynthetic Pathways|D053898
+Biota|D058448
+Biotinylation|D019921
+Biotransformation|D001711
+Birefringence|D001718
+Birth Setting|OGRPBCAM
+Birth Weight|D001724
+Bisexuality|D001727
+Bleeding Time|D001760
+Blinking|D001767
+Blood Bactericidal Activity|D001770
+Blood Cell Count|D001772
+Blood Circulation|D001775
+Blood Coagulation|D001777
+Blood Flow Velocity|D001783
+Blood Group Incompatibility|D001787
+Blood Physiological Phenomena|D001790
+Blood Pressure|D001794
+Blood Viscosity|D001809
+Blood Volume|D001810
+Blue Light|OGRPBCAM
+Body Composition|D001823
+Body Constitution|D001824
+Body Fat Distribution|D050218
+Body Height|D001827
+Body Mass Index|D015992
+Body Patterning|D019521
+Body Size|D049628
+Body Surface Area|D001830
+Body Temperature|D001831
+Body Temperature Regulation|D001833
+Body Weight|D001835
+Body Weight Changes|D001836
+Body Weight Maintenance|OGRPBCAM
+Body Weights and Measures|D001837
+Body-Weight Trajectory|OGRPBCAM
+Bone Conduction|D001844
+Bone Density|D015519
+Bone Development|D001846
+Bone Regeneration|D001861
+Bone Remodeling|D016723
+Bone Resorption|D001862
+Boosting Machine Learning Algorithms|OGRPBCAM
+Bottle Feeding|D001903
+Brain Chemistry|D001923
+Brain Regeneration|OGRPBCAM
+Brain Waves|D058256
+Brain-Gut Axis|OGRPBCAM
+Bread|D001939
+Breakfast|D062408
+Breakthrough Pain|D059390
+Breast Density|OGRPBCAM
+Breast Feeding|D001942
+Breast Milk Expression|D061186
+Breath Holding|D062485
+Breech Presentation|D001946
+Breeding|D001947
+Bronchoconstriction|D016084
+Butter|D002079
+Buttermilk|OGRPBCAM
+Bystander Effect|D024201
+C2 Domains|OGRPBCAM
+CD4 Lymphocyte Count|D018791
+CD4-CD8 Ratio|D016516
+CRISPR-Cas Systems|D064113
+CYS2-HIS2 Zinc Fingers|OGRPBCAM
+Calcification, Physiologic|D002113
+Calcium Signaling|D020013
+Caloric Restriction|D031204
+Candy|D002182
+Capillary Action|D002197
+Capillary Fragility|D002198
+Capillary Permeability|D002199
+Capillary Resistance|D002200
+Carbohydrate Binding Modules|OGRPBCAM
+Carbohydrate Conformation|D002236
+Carbohydrate Metabolism|D050260
+Carbohydrate Sequence|D002240
+Carbon Cycle|D057486
+Carbon Footprint|D058572
+Carbon Sequestration|D057965
+Carbonated Beverages|D002253
+Carbonated Water|D061545
+Cardiac Output|D002302
+Cardiac Volume|D002306
+Cardiomegaly, Exercise-Induced|D059267
+Cardiorespiratory Fitness|OGRPBCAM
+Cardiotoxicity|D066126
+Cardiovascular Deconditioning|D018493
+Cardiovascular Physiological Phenomena|D002320
+Carnivory|D060435
+Carotid Intima-Media Thickness|D059168
+Caspase Activation and Recruitment Domain|OGRPBCAM
+Caspian Sea|OGRPBCAM
+Catabolite Repression|D057465
+Catalysis|D002384
+Catalytic Domain|D020134
+Caves|D059552
+Cell Adhesion|D002448
+Cell Aggregation|D002449
+Cell Communication|D002450
+Cell Compartmentation|D002451
+Cell Competition|OGRPBCAM
+Cell Count|D002452
+Cell Cycle|D002453
+Cell Cycle Checkpoints|D059447
+Cell Death|D016923
+Cell Death Reversal|OGRPBCAM
+Cell Dedifferentiation|D054337
+Cell Degranulation|D015550
+Cell Differentiation|D002454
+Cell Division|D002455
+Cell Enlargement|D049108
+Cell Fusion|D002459
+Cell Growth Processes|D048708
+Cell Hypoxia|D015687
+Cell Lineage|D019070
+Cell Membrane Permeability|D002463
+Cell Migration Inhibition|D002464
+Cell Movement|D002465
+Cell Nucleus Division|D048750
+Cell Nucleus Shape|D053144
+Cell Nucleus Size|D053145
+Cell Physiological Phenomena|D002468
+Cell Plasticity|OGRPBCAM
+Cell Polarity|D016764
+Cell Proliferation|D049109
+Cell Respiration|D019069
+Cell Self Renewal|OGRPBCAM
+Cell Shape|D048430
+Cell Size|D048429
+Cell Survival|D002470
+Cell Transdifferentiation|D054338
+Cell Transformation, Viral|D002472
+Cell-in-Cell Formation|D057686
+Cellular Microenvironment|D060833
+Cellular Neural Networks, Computer|OGRPBCAM
+Cellular Reprogramming|D065150
+Cellular Senescence|D016922
+Cementogenesis|D025021
+Central Nervous System Sensitization|D059333
+Central Tolerance|D061167
+Central Venous Pressure|D002496
+Centromere|D002503
+Cephalosporin Resistance|D018550
+Cercaria|D058487
+Cerebral Blood Volume|OGRPBCAM
+Cerebrospinal Fluid Pressure|D015170
+Cerebrovascular Circulation|D002560
+Cervical Ripening|D020070
+Chaperone-Mediated Autophagy|OGRPBCAM
+Cheese|D002611
+Chemical Phenomena|D055598
+Chemical Precipitation|D011232
+Chemoautotrophic Growth|D052837
+Chemotaxis|D002633
+Chemotaxis, Leukocyte|D002634
+Chewing Gum|D002638
+Chi-Square Distribution|D016009
+Child Development|D002657
+Child Nutritional Physiological Phenomena|D002664
+Chimerism|D046528
+Chloramphenicol Resistance|D002702
+Chocolate|OGRPBCAM
+Chondrogenesis|D020219
+Chromatids|D002842
+Chromatin|D002843
+Chromatin Assembly and Disassembly|D042002
+Chromosomal Instability|D043171
+Chromosomal Position Effects|D055012
+Chromosome Aberrations|D002869
+Chromosome Breakage|D019457
+Chromosome Breakpoints|D056905
+Chromosome Deletion|D002872
+Chromosome Duplication|D058674
+Chromosome Fragile Sites|D043283
+Chromosome Fragility|D002873
+Chromosome Inversion|D007446
+Chromosome Pairing|D023902
+Chromosome Positioning|D045584
+Chromosome Segregation|D020090
+Chromosome Structures|D022004
+Chromosomes|D002875
+Chromosomes, Archaeal|D019847
+Chromosomes, Artificial|D022201
+Chromosomes, Artificial, Bacterial|D022202
+Chromosomes, Artificial, Human|D022222
+Chromosomes, Artificial, Mammalian|D022221
+Chromosomes, Artificial, P1 Bacteriophage|D027042
+Chromosomes, Artificial, Yeast|D018244
+Chromosomes, Bacterial|D002876
+Chromosomes, Fungal|D015825
+Chromosomes, Human|D002877
+Chromosomes, Human, 1-3|D002900
+Chromosomes, Human, 13-15|D002901
+Chromosomes, Human, 16-18|D002902
+Chromosomes, Human, 19-20|D002903
+Chromosomes, Human, 21-22 and Y|D002904
+Chromosomes, Human, 4-5|D002905
+Chromosomes, Human, 6-12 and X|D002906
+Chromosomes, Human, Pair 1|D002878
+Chromosomes, Human, Pair 10|D002879
+Chromosomes, Human, Pair 11|D002880
+Chromosomes, Human, Pair 12|D002881
+Chromosomes, Human, Pair 13|D002882
+Chromosomes, Human, Pair 14|D002883
+Chromosomes, Human, Pair 15|D002884
+Chromosomes, Human, Pair 16|D002885
+Chromosomes, Human, Pair 17|D002886
+Chromosomes, Human, Pair 18|D002887
+Chromosomes, Human, Pair 19|D002888
+Chromosomes, Human, Pair 2|D002889
+Chromosomes, Human, Pair 20|D002890
+Chromosomes, Human, Pair 21|D002891
+Chromosomes, Human, Pair 22|D002892
+Chromosomes, Human, Pair 3|D002893
+Chromosomes, Human, Pair 4|D002894
+Chromosomes, Human, Pair 5|D002895
+Chromosomes, Human, Pair 6|D002896
+Chromosomes, Human, Pair 7|D002897
+Chromosomes, Human, Pair 8|D002898
+Chromosomes, Human, Pair 9|D002899
+Chromosomes, Human, X|D041321
+Chromosomes, Human, Y|D041322
+Chromosomes, Insect|D059006
+Chromosomes, Mammalian|D033481
+Chromosomes, Plant|D032461
+Chromothripsis|OGRPBCAM
+Chronaxy|D002907
+Chronobiology Phenomena|D002909
+Chronology as Topic|D002910
+Chronopharmacokinetics|OGRPBCAM
+Chronotype|OGRPBCAM
+Cicatrix|D002921
+Circadian Clocks|D057906
+Circadian Rhythm|D002940
+Circuit-Based Exercise|D065327
+Circulatory and Respiratory Physiological Phenomena|D002943
+Cities|D002947
+Citric Acid Cycle|D002952
+Citrullination|OGRPBCAM
+Classification Algorithms|OGRPBCAM
+Clay|OGRPBCAM
+Climacteric|D002979
+Climate|D002980
+Climate Anxiety|OGRPBCAM
+Climate Change|D057231
+Climatic Processes|D055907
+Clonal Anergy|D017635
+Clonal Deletion|D017637
+Clonal Evolution|D060965
+Clonal Hematopoiesis|OGRPBCAM
+Clonal Selection, Antigen-Mediated|D060966
+Closing Volume|D003011
+Clot Retraction|D003018
+Clustered Regularly Interspaced Short Palindromic Repeats|D064112
+Clustering Algorithms|OGRPBCAM
+Clutch Size|D052284
+Cochlear Microphonic Potentials|D003055
+Codon|D003062
+Codon Usage|OGRPBCAM
+Codon, Initiator|D018387
+Codon, Nonsense|D018389
+Codon, Terminator|D018388
+Coffee|D003069
+Cognitive Aging|OGRPBCAM
+Coitus|D003075
+Cold Climate|D003081
+Cold Temperature|D003080
+Cold-Shock Response|D058639
+Collateral Circulation|D003097
+Colony Collapse|D056631
+Color|D003116
+Color Vision|D055253
+Complement Activation|D003167
+Complement Pathway, Alternative|D003170
+Complement Pathway, Classical|D003171
+Complement Pathway, Mannose-Binding Lectin|D037582
+Complementarity Determining Regions|D022801
+Compliance|D003187
+Compressed Air|D058868
+Compression Algorithms|OGRPBCAM
+Compressive Strength|D019245
+Condiments|D003212
+Confined Spaces|D020378
+Conjugation, Genetic|D003227
+Consanguinity|D003241
+Consensus Sequence|D016384
+Conserved Sequence|D017124
+Contact Inhibition|D003260
+Contingent Negative Variation|D003265
+Contraception Behavior|D003268
+Contrast Sensitivity|D015350
+Convection|D018481
+Convergence, Ocular|D003290
+Convolutional Neural Networks|OGRPBCAM
+Cool-Down Exercise|D064590
+Coral Bleaching|OGRPBCAM
+Coral Reefs|D057894
+Core Stability|OGRPBCAM
+Coriolis Force|D003312
+Corn Oil|D003314
+Coronary Circulation|D003326
+Corpus Luteum Maintenance|D003340
+Corrosion|D003343
+Cortical Excitability|OGRPBCAM
+Cortical Spreading Depression|D013181
+Cortical Synchronization|D003344
+Cosmic Dust|D019443
+Cosmic Radiation|D003359
+Cosmids|D003360
+Cottonseed Oil|D003369
+CpG Islands|D018899
+Crassulacean Acid Metabolism|OGRPBCAM
+Crops, Agricultural|D018556
+Cross Protection|D056738
+Cross Reactions|D003429
+Cross-Priming|D045142
+Crossing Over, Genetic|D003434
+Crown-Rump Length|D018568
+Crystallization|D003460
+Cultured Milk Products|D043302
+Cutaneous Elimination|D066238
+Cyclization|D003500
+Cyclonic Storms|D055867
+Cystine Knot Motifs|D047168
+Cytokinesis|D048749
+Cytopathogenic Effect, Viral|D003588
+Cytophagocytosis|D057899
+Cytoplasmic Streaming|D003595
+Cytoprotection|D019610
+Cytotoxicity, Immunologic|D003602
+DNA Adducts|D018736
+DNA Breaks|D053960
+DNA Breaks, Double-Stranded|D053903
+DNA Breaks, Single-Stranded|D053904
+DNA Cleavage|D053837
+DNA Copy Number Variations|D056915
+DNA Damage|D004249
+DNA Damage Tolerance|OGRPBCAM
+DNA Degradation, Necrotic|D053836
+DNA Demethylation|OGRPBCAM
+DNA End-Joining Repair|D059766
+DNA Fragmentation|D053938
+DNA Methylation|D019175
+DNA Mismatch Repair|D053843
+DNA Packaging|D042003
+DNA Repair|D004260
+DNA Repeat Expansion|D042622
+DNA Replication|D004261
+DNA Replication Timing|D042522
+DNA Sequence, Unstable|D043243
+DNA Transformation Competence|D061269
+DNA Transposable Elements|D004251
+DNA, A-Form|D044704
+DNA, B-Form|D059371
+DNA, C-Form|D044705
+DNA, Catenated|D043864
+DNA, Circular|D004270
+DNA, Concatenated|D044708
+DNA, Cruciform|D045566
+DNA, Intergenic|D021901
+DNA, Satellite|D004276
+DNA, Single-Stranded|D004277
+DNA, Superhelical|D004278
+DNA, Z-Form|D043542
+Dairy Products|D003611
+Dark Adaptation|D003623
+Darkness|D003624
+Dealkylation|D003640
+Deamination|D003641
+Death Domain|OGRPBCAM
+Death Domain Superfamily|OGRPBCAM
+Death Effector Domain|OGRPBCAM
+Decarboxylation|D003653
+Deceleration|D003654
+Decision Theory|D003662
+Decision Trees|D003663
+Decompression|D003664
+Decompression, Explosive|D019646
+Deep Learning|OGRPBCAM
+Defecation|D003672
+Deglutition|D003679
+Degrons|OGRPBCAM
+Delta Rhythm|D003700
+Demethylation|OGRPBCAM
+Denitrification|D058440
+Dental Caries Susceptibility|D003733
+Dental Enamel Permeability|D003745
+Dental Enamel Solubility|D003747
+Dental Occlusion|D003766
+Dental Physiological Phenomena|D009063
+Dentin Permeability|D003806
+Dentin Solubility|D003808
+Dentinogenesis|D003810
+Dependent Ambulation|D051341
+Depression, Chemical|D003864
+Desert Climate|D003889
+Desiccation|D003890
+Detection Algorithms|OGRPBCAM
+Dialysis|D003956
+Diapause|OGRPBCAM
+Diapause, Insect|D064666
+Diastole|D003971
+Diestrus|D004031
+Diet|D004032
+Diet Fads|D004033
+Diet, Atherogenic|D004036
+Diet, Carbohydrate Loading|OGRPBCAM
+Diet, Carbohydrate-Restricted|D050528
+Diet, Cariogenic|D004037
+Diet, Diabetic|D003927
+Diet, Fat-Restricted|D018752
+Diet, Food, and Nutrition|OGRPBCAM
+Diet, Gluten-Free|D055050
+Diet, Healthy|OGRPBCAM
+Diet, High-Fat|D059305
+Diet, High-Protein|OGRPBCAM
+Diet, High-Protein Low-Carbohydrate|OGRPBCAM
+Diet, Ketogenic|D055423
+Diet, Macrobiotic|D015623
+Diet, Mediterranean|D038441
+Diet, Paleolithic|D066046
+Diet, Plant-Based|OGRPBCAM
+Diet, Protein-Restricted|D018753
+Diet, Reducing|D004038
+Diet, Sodium-Restricted|D004039
+Diet, Vegan|OGRPBCAM
+Diet, Vegetarian|D014676
+Diet, Western|D066273
+Dietary Advanced Glycation End Products|OGRPBCAM
+Dietary Approaches To Stop Hypertension|OGRPBCAM
+Dietary Carbohydrates|D004040
+Dietary Fats|D004041
+Dietary Fats, Unsaturated|D004042
+Dietary Fiber|D004043
+Dietary Patterns|OGRPBCAM
+Dietary Proteins|D004044
+Dietary Sucrose|D019422
+Dietary Sugars|OGRPBCAM
+Dietary Supplements|D019587
+Diffusion|D004058
+Digestion|D004063
+Digestive System Physiological Phenomena|D004068
+Digestive System and Oral Physiological Phenomena|D055688
+Dimensionality Reduction|OGRPBCAM
+Dimerization|D019281
+Dinucleotide Repeats|D018900
+Diploidy|D004171
+Discoidin Domain|OGRPBCAM
+Disease Resistance|D060467
+Disease Susceptibility|D004198
+Disulfidptosis|OGRPBCAM
+Diuresis|D004231
+Diving Reflex|D065508
+Dominance, Cerebral|D004292
+Dominance, Ocular|D023882
+Doppler Effect|D004301
+Dosage Compensation, Genetic|D004303
+Dose-Response Relationship, Drug|D004305
+Dose-Response Relationship, Immunologic|D004306
+Dose-Response Relationship, Radiation|D004307
+Double-Stranded RNA Binding Motif|OGRPBCAM
+Down-Regulation|D015536
+Drinking|D004326
+Drinking Water|D060766
+Drought Resistance|OGRPBCAM
+Droughts|D055864
+Drug Agonism|D054313
+Drug Antagonism|D004336
+Drug Collateral Sensitivity|OGRPBCAM
+Drug Elimination Routes|OGRPBCAM
+Drug Interactions|D004347
+Drug Inverse Agonism|D054314
+Drug Liberation|D065546
+Drug Partial Agonism|D054333
+Drug Resistance|D004351
+Drug Resistance, Bacterial|D024881
+Drug Resistance, Fungal|D025141
+Drug Resistance, Microbial|D004352
+Drug Resistance, Multiple|D018432
+Drug Resistance, Multiple, Bacterial|D024901
+Drug Resistance, Multiple, Fungal|D026141
+Drug Resistance, Multiple, Viral|D024921
+Drug Resistance, Neoplasm|D019008
+Drug Resistance, Viral|D024882
+Drug Synergism|D004357
+Drug Tolerance|D004361
+Dynamic Programming|OGRPBCAM
+E-Box Elements|D024721
+EF Hand Motifs|D020832
+ETS Motif|OGRPBCAM
+Earth, Planet|D018534
+Earthquakes|D055866
+Eating|D004435
+Ecological Systems, Closed|D018504
+Ecological and Environmental Phenomena|D055669
+Ecosystem|D017753
+Ecotype|D060146
+Ectogenesis|D004477
+Ectopic Gene Expression|OGRPBCAM
+Edible Grain|D002523
+Edible Insects|OGRPBCAM
+Efferocytosis|OGRPBCAM
+Egg Proteins, Dietary|D015387
+Egg White|D004529
+Egg Yolk|D004530
+Eggs|D004531
+Ejaculation|D004542
+El Nino-Southern Oscillation|D059000
+Elastic Modulus|D055119
+Elasticity|D004548
+Elder Nutritional Physiological Phenomena|D058620
+Electric Capacitance|D025802
+Electric Conductivity|D004553
+Electric Impedance|D017097
+Electricity|D004560
+Electroencephalography Phase Synchronization|D058407
+Electromagnetic Fields|D004574
+Electromagnetic Phenomena|D055590
+Electromagnetic Radiation|D060733
+Electron Transport|D004579
+Electrons|D004583
+Electroosmosis|D053841
+Electrophysiological Phenomena|D055724
+Elementary Particle Interactions|D019471
+Elementary Particles|D004601
+Elimination Diets|OGRPBCAM
+Embryo Implantation|D010064
+Embryo Implantation, Delayed|D010065
+Embryonic Development|D047108
+Embryonic Induction|D004627
+Embryonic and Fetal Development|D005314
+Emmetropia|D058453
+Emperipolesis|D057687
+Endangered Species|D056727
+Endocytosis|D004705
+Endogenous Retroviruses|D020077
+Endophenotypes|D058068
+Endoplasmic Reticulum Stress|D059865
+Endoplasmic Reticulum-Associated Degradation|D060746
+Endoreduplication|D062951
+Endothelial-Mesenchymal Transition|OGRPBCAM
+Endotoxin Tolerance|OGRPBCAM
+Endurance Training|OGRPBCAM
+Energy Drinks|D061215
+Energy Intake|D002149
+Energy Metabolism|D004734
+Energy Transfer|D004735
+Enhancer Elements, Genetic|D004742
+Ensemble Learning|OGRPBCAM
+Enterohepatic Circulation|D004764
+Entosis|D057691
+Entropy|D019277
+Environment|D004777
+Environmental Biomarkers|OGRPBCAM
+Enzyme Activation|D004789
+Enzyme Induction|D004790
+Enzyme Repression|D004794
+Enzyme Stability|D004795
+Epigenesis, Genetic|D044127
+Epigenetic Memory|OGRPBCAM
+Epigenetic Repression|D063185
+Epigenome|OGRPBCAM
+Epistasis, Genetic|D004843
+Epithelial-Mesenchymal Transition|D058750
+Eryptosis|OGRPBCAM
+Erythrocyte Aggregation|D004903
+Erythrocyte Aging|D004905
+Erythrocyte Count|D004906
+Erythrocyte Deformability|D004907
+Erythrocyte Indices|D004909
+Erythrocyte Volume|D004911
+Erythropoiesis|D004920
+Escape Reaction|D004924
+Esterification|D004951
+Estivation|D004956
+Estrous Cycle|D030762
+Estrus|D004971
+Estrus Synchronization|D004973
+Estuaries|D063366
+Etiolation|D064527
+Euchromatin|D022041
+Eutrophication|D005068
+Event-Related Potentials, P300|D018913
+Evoked Potentials|D005071
+Evoked Potentials, Auditory|D005072
+Evoked Potentials, Auditory, Brain Stem|D016057
+Evoked Potentials, Motor|D019054
+Evoked Potentials, Somatosensory|D005073
+Evoked Potentials, Visual|D005074
+Evolution, Chemical|D019418
+Evolution, Molecular|D019143
+Evolution, Planetary|D019419
+Excision Repair|OGRPBCAM
+Excitation Contraction Coupling|D056966
+Excitatory Postsynaptic Potentials|D019706
+Exercise|D015444
+Exercise Tolerance|D017079
+Exergaming|OGRPBCAM
+Exhalation|D045853
+Exocytosis|D005089
+Exome|D059472
+Exons|D005091
+Expiratory Reserve Volume|D005105
+Expressed Sequence Tags|D020224
+Exteins|D047669
+Extinction, Biological|D053476
+Extracellular Polymeric Substance Matrix|OGRPBCAM
+Extrachromosomal Inheritance|D005111
+Extraterrestrial Environment|D005118
+Extreme Cold|D055873
+Extreme Environments|OGRPBCAM
+Extreme Heat|D055874
+Extreme Learning Machines|OGRPBCAM
+Extreme Weather|OGRPBCAM
+Eye Color|D005127
+Eye Movements|D005133
+F Factor|D005144
+F-Box Motifs|D044782
+FERM Domains|OGRPBCAM
+FODMAP Diet|OGRPBCAM
+Facilitated Diffusion|D055459
+Fast Foods|D057140
+Fast Neutrons|D005214
+Fasting|D005215
+Fat Substitutes|D019358
+Federated Learning|OGRPBCAM
+Feedback, Physiological|D025461
+Feedback, Sensory|D056228
+Feedforward Neural Networks|OGRPBCAM
+Feeding Behavior|D005247
+Fermentation|D005285
+Fermented Beverages|OGRPBCAM
+Fermented Foods|OGRPBCAM
+Ferroptosis|OGRPBCAM
+Fertile Period|D046910
+Fertility|D005298
+Fertilization|D005306
+Fetal Development|D047109
+Fetal Movement|D005324
+Fetal Organ Maturity|D005325
+Fetal Viability|D005328
+Fetal Weight|D020567
+Fibrin Clot Lysis Time|D063285
+Fibrinolysis|D005342
+Fibronectin Type III Domain|OGRPBCAM
+Figural Aftereffect|D005366
+Filtration|D005374
+Fish Flour|D005394
+Fish Products|D005396
+Fish Proteins, Dietary|OGRPBCAM
+Fixation, Ocular|D005403
+Flavoring Agents|D005421
+Flexural Strength|OGRPBCAM
+Flicker Fusion|D005425
+Flight, Animal|D005426
+Flocculation|D005427
+Floods|D055868
+Flour|D005433
+Fluid Shifts|D018495
+Fluorescence|D005453
+Fluorescence Resonance Energy Transfer|D031541
+Follicular Atresia|D005496
+Follicular Phase|D005498
+Food|D005502
+Food Additives|D005503
+Food Chain|D020387
+Food Ingredients|OGRPBCAM
+Food Preferences|D005518
+Food Preservatives|D005520
+Food, Formulated|D005526
+Food, Fortified|D005527
+Food, Genetically Modified|D030841
+Food, Organic|D058870
+Food, Preserved|D057141
+Food, Processed|OGRPBCAM
+Food-Drug Interactions|D018565
+Foods, Specialized|D019648
+Forced Expiratory Flow Rates|D005540
+Forced Expiratory Volume|D005541
+Forests|D065928
+Founder Effect|D018703
+Fourier Analysis|D005583
+Foveomacular Retinitis|OGRPBCAM
+Fractals|D017709
+Fractional Flow Reserve, Myocardial|D053805
+Fracture Healing|D017102
+Frameshift Mutation|D016368
+Frameshifting, Ribosomal|D018965
+Freezing|D005615
+Freezing Reaction, Cataleptic|D046352
+Fresh Water|D005618
+Friction|D017276
+Frozen Foods|D005628
+Fruit|D005638
+Fruit Proteins|OGRPBCAM
+Fruit and Vegetable Juices|OGRPBCAM
+Functional Food|D055951
+Functional Laterality|D007839
+Functional Residual Capacity|D005652
+G-Quadruplexes|D054856
+G1 Phase|D016193
+G1 Phase Cell Cycle Checkpoints|D059585
+G2 Phase|D016195
+G2 Phase Cell Cycle Checkpoints|D059565
+GC Rich Sequence|D020862
+Gagging|D005683
+Gain of Function Mutation|OGRPBCAM
+Gait|D005684
+Galaxies|D055608
+Gallbladder Emptying|D016473
+Galvanic Skin Response|D005712
+Game Theory|D005716
+Gametogenesis|D005718
+Gametogenesis, Plant|D056130
+Gamma Rays|D005720
+Gamma Rhythm|D065818
+Gastric Absorption|D065570
+Gastric Emptying|D005746
+Gastrointestinal Absorption|D065569
+Gastrointestinal Microbiome|OGRPBCAM
+Gastrointestinal Motility|D005769
+Gastrointestinal Transit|D005772
+Gastrulation|D054262
+Gene Amplification|D005784
+Gene Components|D040461
+Gene Conversion|D005785
+Gene Deletion|D017353
+Gene Dosage|D018628
+Gene Duplication|D020440
+Gene Expression|D015870
+Gene Expression Regulation|D005786
+Gene Expression Regulation, Archaeal|D019848
+Gene Expression Regulation, Bacterial|D015964
+Gene Expression Regulation, Developmental|D018507
+Gene Expression Regulation, Enzymologic|D015971
+Gene Expression Regulation, Fungal|D015966
+Gene Expression Regulation, Leukemic|D015973
+Gene Expression Regulation, Neoplastic|D015972
+Gene Expression Regulation, Plant|D018506
+Gene Expression Regulation, Viral|D015967
+Gene Flow|D051456
+Gene Frequency|D005787
+Gene Fusion|D050939
+Gene Library|D015723
+Gene Order|D023061
+Gene Pool|D005788
+Gene Rearrangement|D015321
+Gene Rearrangement, B-Lymphocyte|D015322
+Gene Rearrangement, B-Lymphocyte, Heavy Chain|D015326
+Gene Rearrangement, B-Lymphocyte, Light Chain|D015328
+Gene Rearrangement, T-Lymphocyte|D015329
+Gene Rearrangement, alpha-Chain T-Cell Antigen Receptor|D015332
+Gene Rearrangement, beta-Chain T-Cell Antigen Receptor|D015333
+Gene Rearrangement, delta-Chain T-Cell Antigen Receptor|D016694
+Gene Rearrangement, gamma-Chain T-Cell Antigen Receptor|D015334
+Gene Regulatory Networks|D053263
+Gene Silencing|D020868
+Gene Transfer, Horizontal|D022761
+Gene-Environment Interaction|D059647
+Generative Adversarial Networks|OGRPBCAM
+Genes|D005796
+Genes, APC|D017491
+Genes, Archaeal|D019766
+Genes, BRCA1|D019398
+Genes, BRCA2|D024522
+Genes, Bacterial|D005798
+Genes, Chloroplast|D061125
+Genes, DCC|D016163
+Genes, Developmental|D050437
+Genes, Dominant|D005799
+Genes, Duplicate|D020131
+Genes, Essential|D020043
+Genes, Fungal|D005800
+Genes, Helminth|D017238
+Genes, Homeobox|D005801
+Genes, Immediate-Early|D017781
+Genes, Immunoglobulin|D005803
+Genes, Immunoglobulin Heavy Chain|D050438
+Genes, Immunoglobulin Light Chain|D050439
+Genes, Insect|D017344
+Genes, Intracisternal A-Particle|D007426
+Genes, Lethal|D005804
+Genes, MCC|D017431
+Genes, MDR|D019450
+Genes, MHC Class I|D005805
+Genes, MHC Class II|D005802
+Genes, Mating Type, Fungal|D049770
+Genes, Microbial|D064351
+Genes, Mitochondrial|D050259
+Genes, Modifier|D060045
+Genes, Neoplasm|D052138
+Genes, Neurofibromatosis 1|D016514
+Genes, Neurofibromatosis 2|D016515
+Genes, Overlapping|D005807
+Genes, Plant|D017343
+Genes, Protozoan|D017125
+Genes, RAG-1|D016654
+Genes, Recessive|D005808
+Genes, Regulator|D005809
+Genes, Reporter|D017930
+Genes, Retinoblastoma|D016161
+Genes, Suppressor|D016153
+Genes, Switch|D005812
+Genes, Synthetic|D005813
+Genes, T-Cell Receptor|D019672
+Genes, T-Cell Receptor alpha|D019673
+Genes, T-Cell Receptor beta|D019674
+Genes, T-Cell Receptor delta|D019676
+Genes, T-Cell Receptor gamma|D019675
+Genes, Transgenic, Suicide|D041722
+Genes, Tumor Suppressor|D016147
+Genes, Viral|D005814
+Genes, Wilms Tumor|D016162
+Genes, X-Linked|D050172
+Genes, Y-Linked|D050173
+Genes, abl|D016313
+Genes, araC|D005797
+Genes, bcl-1|D019940
+Genes, bcl-2|D019254
+Genes, cdc|D018816
+Genes, env|D015752
+Genes, erbA|D018776
+Genes, erbB|D018815
+Genes, erbB-1|D018773
+Genes, erbB-2|D018734
+Genes, fms|D016236
+Genes, fos|D016762
+Genes, gag|D015750
+Genes, jun|D016758
+Genes, mos|D016258
+Genes, myb|D020570
+Genes, myc|D016259
+Genes, nef|D015754
+Genes, p16|D019942
+Genes, p53|D016158
+Genes, pX|D016355
+Genes, pol|D015751
+Genes, rRNA|D020459
+Genes, ras|D011905
+Genes, rel|D020573
+Genes, rev|D015757
+Genes, sis|D020571
+Genes, src|D016391
+Genes, sry|D024282
+Genes, tat|D015756
+Genes, vif|D016341
+Genes, vpr|D016334
+Genes, vpu|D016338
+Genetic Algorithms|OGRPBCAM
+Genetic Background|OGRPBCAM
+Genetic Code|D005815
+Genetic Drift|D040961
+Genetic Fitness|D056084
+Genetic Heterogeneity|D018740
+Genetic Introgression|OGRPBCAM
+Genetic Linkage|D008040
+Genetic Load|D040741
+Genetic Loci|D056426
+Genetic Markers|D005819
+Genetic Phenomena|D055614
+Genetic Pleiotropy|D058685
+Genetic Predisposition to Disease|D020022
+Genetic Profile|OGRPBCAM
+Genetic Risk Score|OGRPBCAM
+Genetic Speciation|D049810
+Genetic Structures|D040342
+Genetic Variation|D014644
+Genetic Vectors|D005822
+Genome|D016678
+Genome Components|D040481
+Genome Size|D059646
+Genome, Archaeal|D020745
+Genome, Bacterial|D016680
+Genome, Chloroplast|D054628
+Genome, Fungal|D016681
+Genome, Helminth|D049751
+Genome, Human|D015894
+Genome, Insect|D049750
+Genome, Microbial|D064349
+Genome, Mitochondrial|D054629
+Genome, Plant|D018745
+Genome, Plastid|D054627
+Genome, Protozoan|D018503
+Genome, Viral|D016679
+Genomic Imprinting|D018392
+Genomic Instability|D042822
+Genomic Islands|D044404
+Genomic Library|D015698
+Genomic Structural Variation|D056914
+Genotype|D005838
+Geologic Sediments|D019015
+Geological Phenomena|D055593
+Germ-Free Life|D005856
+Germ-Line Mutation|D018095
+Germination|D018525
+Gestational Age|D005865
+Gestational Weight Gain|OGRPBCAM
+Ghee|OGRPBCAM
+Glare|D019466
+Global Longitudinal Strain|OGRPBCAM
+Global Warming|D057232
+Glomerular Filtration Rate|D005919
+Gluconeogenesis|D005943
+Glycemic Index|D038321
+Glycemic Load|OGRPBCAM
+Glycogenolysis|D050261
+Glycolysis|D006019
+Glycosylation|D006031
+Graft Rejection|D006084
+Graft Survival|D006085
+Graft vs Host Reaction|D006087
+Graft vs Leukemia Effect|D020544
+Graft vs Tumor Effect|D020350
+Grain Proteins|OGRPBCAM
+Graph Neural Networks|OGRPBCAM
+Grassland|D065948
+Gravidity|D020073
+Gravitation|D006112
+Gravitropism|D018522
+Gravity Sensing|D018466
+Gravity, Altered|D018470
+Green Light|OGRPBCAM
+Greenhouse Effect|D017752
+Groundwater|D060587
+Growth|D006128
+Growth and Development|D048788
+Gymnastics|D006173
+H-Reflex|D006181
+HIV Enhancer|D016322
+HIV Long Terminal Repeat|D016325
+HIV Seronegativity|D018023
+HMG-Box Domains|D024742
+Habituation, Psychophysiologic|D006185
+Hair Color|D006200
+Half-Life|D006207
+Halogenation|D054879
+Hand Strength|D018737
+Haploidy|D006238
+Haploinsufficiency|D057895
+Haplotypes|D006239
+Hardness|D006244
+Harmful Algal Bloom|D057097
+Head Movements|D019416
+Head-Down Tilt|D018475
+Hearing|D006309
+Heart Rate|D006339
+Heart Rate, Fetal|D006340
+Heart Sounds|D006347
+Heat-Shock Response|D018869
+Heavy Ions|D020450
+Helix-Loop-Helix Motifs|D018257
+Helix-Turn-Helix Motifs|D019077
+Hemadsorption|D006382
+Hemagglutination|D006384
+Hemagglutination, Viral|D006387
+Hematocrit|D006400
+Hematopoiesis|D006410
+Hematopoiesis, Extramedullary|D006411
+Hemizygote|D057898
+Hemodynamics|D006439
+Hemolysin Factors|D006459
+Hemolysis|D006461
+Hemorheology|D018056
+Hemostasis|D006487
+Hepatobiliary Elimination|D065669
+Herb-Drug Interactions|D041743
+Herbicide Resistance|D053209
+Herbivory|D060434
+Heredity|D040941
+Heterochromatin|D006570
+Heteroplasmy|OGRPBCAM
+Heterosexuality|D020010
+Heterotrophic Processes|D052836
+Heterozygote|D006579
+Hibernation|D006605
+Hidden Markov Models|OGRPBCAM
+High Fructose Corn Syrup|D066248
+High-Energy Shock Waves|D019220
+High-Intensity Interval Training|OGRPBCAM
+Higher Nervous Activity|D006613
+Hinge Exons|D052058
+Hippo Signaling Pathway|OGRPBCAM
+Histamine Release|D006636
+Histocompatibility|D006648
+Histocompatibility, Maternal-Fetal|D054502
+Histone Code|D042421
+Home Childbirth|D006700
+Homeostasis|D006706
+Homologous Recombination|D059765
+Homosexuality|D006716
+Homosexuality, Female|D018452
+Homosexuality, Male|D018451
+Homozygote|D006720
+Honey|D006722
+Hopfield Neural Networks|OGRPBCAM
+Hormesis|D059165
+Host Adaptation|OGRPBCAM
+Host Microbial Interactions|OGRPBCAM
+Host Specificity|D058507
+Host Tropism|OGRPBCAM
+Host vs Graft Reaction|D006789
+Host-Parasite Interactions|D006790
+Host-Pathogen Interactions|D054884
+Host-Seeking Behavior|OGRPBCAM
+Hot Springs|D045482
+Hot Temperature|D006358
+Human Development|D006803
+Humidity|D006813
+Hunger|D006815
+Hybrid Vigor|D006823
+Hybridization, Genetic|D006824
+Hydrodynamics|D057446
+Hydrogen Bonding|D006860
+Hydrogen-Ion Concentration|D006863
+Hydrogenation|D006865
+Hydrolysis|D006868
+Hydrophobic and Hydrophilic Interactions|D057927
+Hydrostatic Pressure|D006874
+Hydrothermal Vents|D060086
+Hydroxylation|D006900
+Hypergravity|D018471
+Hypogravity|D018472
+INDEL Mutation|D054643
+Ice|D007053
+Ice Cover|D046448
+Ice Cream|D007054
+Ideal Body Weight|D056865
+Immobility Response, Tonic|D046353
+Immune Evasion|D057131
+Immune Privilege|OGRPBCAM
+Immune Reconstitution|OGRPBCAM
+Immune System Exhaustion|OGRPBCAM
+Immune System Phenomena|D055633
+Immune Tolerance|D007108
+Immunity|D007109
+Immunity, Active|D007110
+Immunity, Cellular|D007111
+Immunity, Herd|D032521
+Immunity, Heterologous|D064789
+Immunity, Humoral|D056724
+Immunity, Innate|D007113
+Immunity, Maternally-Acquired|D007112
+Immunity, Mucosal|D018928
+Immunocompetence|D007121
+Immunocompromised Host|D016867
+Immunogenetic Phenomena|D055261
+Immunogenic Cell Death|OGRPBCAM
+Immunogenicity, Vaccine|OGRPBCAM
+Immunoglobulin Allotypes|D007126
+Immunoglobulin Class Switching|D017578
+Immunoglobulin Domains|OGRPBCAM
+Immunoglobulin Gm Allotypes|D007129
+Immunoglobulin Idiotypes|D007130
+Immunoglobulin Km Allotypes|D007131
+Immunoglobulin Switch Region|D007134
+Immunoglobulin Variable Region|D007135
+Immunologic Capping|D007152
+Immunologic Memory|D007156
+Immunologic Surveillance|D007157
+Immunomodulation|D056747
+Immunonutrition Diet|OGRPBCAM
+Immunoreceptor Tyrosine-Based Activation Motif|D061625
+Immunoreceptor Tyrosine-Based Inhibition Motif|D061626
+Immunosenescence|OGRPBCAM
+In Vitro Meat|OGRPBCAM
+Inactivation, Metabolic|D008658
+Inbreeding|D007178
+Inbreeding Depression|OGRPBCAM
+Incandescence|D049450
+Inclusion Bodies, Viral|D007181
+Infant Food|D007225
+Infant Formula|D041943
+Infant Nutritional Physiological Phenomena|D007227
+Infradian Rhythm|OGRPBCAM
+Infrared Rays|D007259
+Inhalation|D001239
+Inheritance Patterns|D040582
+Inhibitory Concentration 50|D020128
+Inhibitory Postsynaptic Potentials|D053444
+Innate Immunity Recognition|OGRPBCAM
+Insecticide Resistance|D007305
+Insemination|D007314
+Insemination, Artificial|D007315
+Insemination, Artificial, Heterologous|D007316
+Insemination, Artificial, Homologous|D007317
+Inspiratory Capacity|D007320
+Inspiratory Reserve Volume|D007321
+Insulator Elements|D038101
+Insulin Resistance|D007333
+Insulin Secretion|OGRPBCAM
+Integrons|D032023
+Integumentary System Physiological Phenomena|D055827
+Inteins|D047668
+Intelligent Systems|OGRPBCAM
+Intermittent Fasting|OGRPBCAM
+Internal Ribosome Entry Sites|OGRPBCAM
+Interphase|D007399
+Interspersed Repetitive Sequences|D020071
+Intestinal Absorption|D007408
+Intestinal Barrier Function|OGRPBCAM
+Intestinal Elimination|D066237
+Intestinal Reabsorption|D065628
+Intracranial Pressure|D007427
+Intramuscular Absorption|D065586
+Intraocular Pressure|D007429
+Introduced Species|D058865
+Introns|D007438
+Inverted Repeat Sequences|D055029
+Ion Channel Gating|D015640
+Ion Exchange|D007474
+Ion Transport|D017136
+Iridescence|OGRPBCAM
+Islands|D062312
+Isochores|D032085
+Isochromosomes|D018404
+Isoelectric Point|D007526
+Isomerism|D007536
+Isometric Contraction|D007537
+Isotonic Contraction|D007551
+Jogging|D007590
+Jupiter|D018538
+Kallikrein-Kinin System|D016234
+Kanamycin Resistance|D007613
+Karyotype|D059785
+Kazal Motifs|OGRPBCAM
+Kefir|OGRPBCAM
+Kelch Repeat|OGRPBCAM
+Kidney Concentrating Ability|D007671
+Kindling, Neurologic|D007696
+Kinesthesis|D007699
+Kinetics|D007700
+Kinetochores|D018386
+Knee-Chest Position|D056446
+Kombucha Tea|OGRPBCAM
+Koumiss|OGRPBCAM
+Kringles|D018082
+Labor Onset|D007745
+Labor Presentation|D007746
+Labor Stage, First|D007747
+Labor Stage, Second|D007748
+Labor Stage, Third|D007749
+Labor, Obstetric|D007743
+Lac Operon|D007763
+Lacrimal Elimination|D066234
+Lactation|D007774
+Lacteal Elimination|D066239
+Lactose Factors|D007786
+Lakes|D060106
+Landslides|D055876
+Large Language Models|OGRPBCAM
+Larva|D007814
+Laser-Evoked Potentials|D066331
+Latent Class Analysis|OGRPBCAM
+Lethal Dose 50|D007928
+Leucine Zippers|D016350
+Leukemia, Radiation-Induced|D007953
+Leukocyte Count|D007958
+Leukocyte Rolling|D036904
+Leukopoiesis|D019891
+Life Cycle Stages|D008018
+Life History Traits|OGRPBCAM
+Lifting|D017770
+Light|D008027
+Light Signal Transduction|D055537
+Lightning|D008030
+Linear Energy Transfer|D018499
+Linkage Disequilibrium|D015810
+Lipid Metabolism|D050356
+Lipid Mobilization|D008053
+Lipid Peroxidation|D015227
+Lipogenesis|D050155
+Lipolysis|D008066
+Lipoylation|D054878
+Listening Effort|OGRPBCAM
+Litter Size|D008098
+Live Birth|D050498
+Liver Circulation|D008102
+Liver Regeneration|D008115
+Locomotion|D008124
+Locus Control Region|D019901
+Lod Score|D008126
+Long Interspersed Nucleotide Elements|D020084
+Long Short Term Memory|OGRPBCAM
+Long-Term Potentiation|D017774
+Long-Term Synaptic Depression|D036881
+Longevity|D008136
+Loss of Function Mutation|OGRPBCAM
+Loss of Heterozygosity|D019656
+Loudness Perception|D008144
+Luminescence|D049449
+Lunch|D062409
+Lung Compliance|D008170
+Luteal Phase|D008183
+Luteinization|D034461
+Luteolysis|D003341
+Lymphangiogenesis|D042583
+Lymphocyte Activation|D008213
+Lymphocyte Cooperation|D008211
+Lymphocyte Count|D018655
+Lymphopoiesis|D038041
+Lysogeny|D008242
+M Phase Cell Cycle Checkpoints|D059566
+MAP Kinase Signaling System|D020935
+MYND Domains|OGRPBCAM
+Machine Learning|OGRPBCAM
+Machine Learning Algorithms|OGRPBCAM
+Macroautophagy|OGRPBCAM
+Macrophage Activation|D008262
+Magnetic Fields|D060526
+Magnetic Phenomena|D060328
+Maillard Reaction|D015416
+Major Histocompatibility Complex|D008285
+Marathon Running|OGRPBCAM
+Margarine|D008383
+Markov Chains|D008390
+Mars|D018535
+Mastication|D008409
+Mastodynia|D059373
+Maternal Age|D008423
+Maternal Inheritance|OGRPBCAM
+Maternal Nutritional Physiological Phenomena|D039382
+Maternal-Fetal Exchange|D008431
+Mathematical Concepts|D055641
+Matrix Attachment Regions|D045170
+Maxillofacial Development|D008445
+Maximal Expiratory Flow Rate|D008448
+Maximal Expiratory Flow-Volume Curves|D008449
+Maximal Midexpiratory Flow Rate|D008450
+Maximal Voluntary Ventilation|D008451
+Maximum Tolerated Dose|D020714
+Meals|D062407
+Mean Platelet Volume|D063847
+Meat|D008460
+Meat Products|D008461
+Meat Proteins|OGRPBCAM
+Meat Substitutes|OGRPBCAM
+Mechanical Phenomena|D055595
+Mechanotransduction, Cellular|D040542
+Meiosis|D008540
+Meiotic Prophase I|D049469
+Melanogenesis|OGRPBCAM
+Membrane Fluidity|D008560
+Membrane Fusion|D008561
+Membrane Potential, Mitochondrial|D053078
+Membrane Potentials|D008564
+Menarche|D008572
+Menopause|D008593
+Menopause, Premature|D008594
+Menstrual Cycle|D008597
+Menstruation|D008598
+Mercury, Planet|D018537
+Merozoites|D052940
+Mesial Movement of Teeth|D008644
+Mesons|D008651
+Mesopic Vision|D055255
+Metabolic Clearance Rate|D008657
+Metabolic Detoxication, Phase I|D050216
+Metabolic Detoxication, Phase II|D050217
+Metabolic Equivalent|D055686
+Metabolic Networks and Pathways|D053858
+Metabolic Reprogramming|OGRPBCAM
+Metabolism|D008660
+Metabolome|D055442
+Metacercariae|D058488
+Metagenome|D054892
+Metamorphosis, Biological|D008675
+Metaphase|D008677
+Meteoroids|D019110
+Meteorological Concepts|D008685
+Metestrus|D008686
+Methicillin Resistance|D016106
+Methyl CpG Binding Domain|OGRPBCAM
+Methylation|D008745
+Microautophagy|OGRPBCAM
+Microbial Consortia|D059013
+Microbial Interactions|D056265
+Microbial Viability|D050296
+Microbiological Phenomena|D008827
+Microbiota|D064307
+Microcirculation|D008833
+Microclimate|D008834
+Micronuclei, Chromosome-Defective|D048629
+Micronutrients|D018977
+Microsatellite Instability|D053842
+Microsatellite Repeats|D018895
+Microvascular Density|OGRPBCAM
+Microwaves|D008872
+Milk|D008892
+Milk Ejection|D008893
+Milk Proteins|D008894
+Milk Substitutes|D041941
+Milk, Human|D008895
+Miniature Postsynaptic Potentials|D055369
+Minisatellite Repeats|D018598
+Minor Histocompatibility Loci|D008912
+Minor Lymphocyte Stimulatory Loci|D016744
+Minor Planets|D018543
+Mitochondrial Dynamics|D063154
+Mitochondrial Size|D053142
+Mitochondrial Swelling|D008933
+Mitochondrial Transmembrane Permeability-Driven Necrosis|OGRPBCAM
+Mitochondrial Turnover|D063269
+Mitophagy|D063306
+Mitosis|D008938
+Molasses|D008965
+Molecular Conformation|D008968
+Molecular Dynamics Simulation|D056004
+Molecular Mimicry|D018716
+Molecular Structure|D015394
+Molecular Weight|D008970
+Molting|D018978
+Monosomy|D009006
+Moon|D016081
+Morphogenesis|D009024
+Mosaicism|D009030
+Motion|D009038
+Motor Activity|D009043
+Movement|D009068
+Mucociliary Clearance|D009079
+Multifactor Dimensionality Reduction|D058011
+Multifactorial Inheritance|D020412
+Multigene Family|D005810
+Multilayer Perceptrons|OGRPBCAM
+Multiple-Instance Learning Algorithms|OGRPBCAM
+Muscle Contraction|D009119
+Muscle Development|D024510
+Muscle Fatigue|D018763
+Muscle Relaxation|D009126
+Muscle Strength|D053580
+Muscle Stretching Exercises|D052580
+Muscle Tonus|D009129
+Musculoskeletal Development|D041641
+Musculoskeletal Pain|D059352
+Musculoskeletal Physiological Phenomena|D009142
+Musculoskeletal and Neural Physiological Phenomena|D055687
+Mutagenesis|D016296
+Mutagenesis, Insertional|D016254
+Mutation|D009154
+Mutation Accumulation|OGRPBCAM
+Mutation Rate|D059645
+Mutation, Missense|D020125
+Myalgia|D063806
+Mycobiome|OGRPBCAM
+Myelopoiesis|D038042
+Myocardial Contraction|D009200
+Myoelectric Complex, Migrating|D016065
+Myotoxicity|OGRPBCAM
+Nasal Absorption|D065588
+Natriuresis|D009318
+Natural Childbirth|D009321
+Natural Resources|OGRPBCAM
+Natural Springs|D060985
+Necroptosis|OGRPBCAM
+Neoplasm Regression, Spontaneous|D009365
+Neoplasms, Radiation-Induced|D009381
+Neovascularization, Pathologic|D009389
+Neovascularization, Physiologic|D018919
+Neptune|D018541
+Nerve Regeneration|D009416
+Nervous System Physiological Phenomena|D009424
+Nested Genes|D032041
+Neural Conduction|D009431
+Neural Inhibition|D009433
+Neural Networks, Computer|D016571
+Neurogenesis|D055495
+Neuroimmunomodulation|D015213
+Neuronal Outgrowth|OGRPBCAM
+Neuronal Plasticity|D009473
+Neuroprotection|OGRPBCAM
+Neurosecretion|D009489
+Neurovascular Coupling|OGRPBCAM
+Neurulation|D054261
+Neutron Diffraction|D033363
+Neutrons|D009502
+Neutrophil Activation|D018375
+Neutrophil Infiltration|D020556
+Nicotine Chewing Gum|OGRPBCAM
+Night Vision|D055254
+Nitrification|D058465
+Nitrogen Cycle|D058458
+Nitrogen Fixation|D009586
+Nitrosation|D015538
+Nitrosative Stress|OGRPBCAM
+No-Observed-Adverse-Effect Level|D019055
+Nociplastic Pain|OGRPBCAM
+Noise|D009622
+Nomograms|D049451
+Non-Neuronal Cholinergic System|OGRPBCAM
+Non-Nutritive Sweeteners|D064306
+Nondisjunction, Genetic|D009630
+Nonsense Mediated mRNA Decay|D059365
+Nordic Walking|OGRPBCAM
+Normal Distribution|D016011
+Nuclear Energy|D009678
+Nuclear Export Signals|D049790
+Nuclear Fission|D009680
+Nuclear Fusion|D009681
+Nuclear Localization Signals|D019913
+Nucleic Acid Conformation|D009690
+Nucleic Acid Denaturation|D009691
+Nucleic Acid Hybridization|D009693
+Nucleic Acid Renaturation|D009695
+Nucleolus Organizer Region|D009697
+Nucleons|OGRPBCAM
+Nucleosomes|D009707
+Nucleotide Motifs|D059372
+Nut Proteins|OGRPBCAM
+Nutrients|OGRPBCAM
+Nutritional Physiological Phenomena|D009747
+Nutritional Requirements|D009751
+Nutritional Status|D009752
+Nutritive Sweeteners|D064427
+Nutritive Value|D009753
+Nuts|D009754
+Nymph|D009758
+Nystagmus, Optokinetic|D017120
+Nystagmus, Physiologic|D009760
+Ocean Acidification|OGRPBCAM
+Oceans and Seas|D009792
+Ocular Absorption|D065587
+Ocular Physiological Phenomena|D009799
+Odds Ratio|D016017
+Odontogenesis|D009805
+Odorants|D009812
+Oil and Gas Fields|D061329
+Olive Oil|OGRPBCAM
+Oncogene Fusion|D050596
+Oncogenes|D009857
+Oocysts|D033661
+Oogenesis|D009866
+Open Reading Frames|D016366
+Operator Regions, Genetic|D009875
+Operon|D009876
+Opsonization|OGRPBCAM
+Optic Flow|D057849
+Optical Phenomena|D055620
+Optical Rotation|D009904
+Oral Mucosal Absorption|D065568
+Organ Motion|OGRPBCAM
+Organ Size|D009929
+Organ Specificity|D009928
+Organelle Biogenesis|D001678
+Organelle Shape|D053140
+Organelle Size|D053141
+Organic Chemistry Phenomena|D055601
+Organism Hydration Status|OGRPBCAM
+Organogenesis|D038081
+Organogenesis, Plant|D063246
+Orgasm|D009948
+Origin of Life|OGRPBCAM
+Orthodontic Friction|OGRPBCAM
+Osmolar Concentration|D009994
+Osmoregulation|D064587
+Osmosis|D009995
+Osmotic Fragility|D009996
+Osmotic Pressure|D009997
+Osseointegration|D016348
+Osteogenesis|D010012
+Osteolysis|D010014
+Osteoradionecrosis|D010025
+Otoacoustic Emissions, Spontaneous|D017084
+Ototoxicity|OGRPBCAM
+Ovarian Reserve|D065851
+Overweight|D050177
+Oviparity|D052287
+Oviposition|D010058
+Ovoviviparity|D052285
+Ovulation|D010060
+Ovulation Inhibition|D034445
+Ovum Transport|D010066
+Oxidation-Reduction|D010084
+Oxidative Coupling|D058451
+Oxidative Phosphorylation|D010085
+Oxidative Stress|D018384
+Oxygen Consumption|D010101
+Oxygen Saturation|OGRPBCAM
+Ozone Depletion|D062966
+PDZ Domains|D054731
+PHD Zinc Fingers|OGRPBCAM
+PR-SET Domains|OGRPBCAM
+Pachytene Stage|D049471
+Pain|D010146
+Pain Threshold|D017288
+Paracrine Communication|D019899
+Parallel Algorithms|OGRPBCAM
+Paraptosis|OGRPBCAM
+Parasite Encystment|OGRPBCAM
+Parity|D010298
+Parthanatos|OGRPBCAM
+Parthenogenesis|D010312
+Partial Pressure|D010313
+Partial Thromboplastin Time|D010314
+Partial Weight-Bearing|OGRPBCAM
+Particle Size|D010316
+Particle Swarm Optimization|OGRPBCAM
+Parturition|D036801
+Passive Cutaneous Anaphylaxis|D010323
+Paternal Age|D010331
+Paternal Inheritance|OGRPBCAM
+Pattern Analysis, Machine|OGRPBCAM
+Pea Proteins|OGRPBCAM
+Peak Expiratory Flow Rate|D010366
+Penetrance|D019683
+Penicillin Resistance|D010403
+Penile Erection|D010410
+Pentose Phosphate Pathway|D010427
+Peptide Biosynthesis|D010452
+Peptide Biosynthesis, Nucleic Acid-Independent|D046908
+Peptide Chain Elongation, Translational|D010441
+Peptide Chain Initiation, Translational|D010442
+Peptide Chain Termination, Translational|D010443
+Peptide Library|D019151
+Perceptual Masking|D010470
+Perimenopause|D047648
+Periodicity|D010507
+Periodization|OGRPBCAM
+Peripartum Period|D058725
+Peripheral Tolerance|D061166
+Periphyton|OGRPBCAM
+Peristalsis|D010528
+Peritoneal Absorption|D065629
+Permafrost|D065946
+Permeability|D010539
+Peroxisomal Targeting Signals|OGRPBCAM
+Phagocytosis|D010587
+Pharmacogenomic Variants|OGRPBCAM
+Pharmacokinetics|D010599
+Pharmacological Phenomena|OGRPBCAM
+Pharmacological and Toxicological Phenomena|D002620
+Phase Separation|OGRPBCAM
+Phase Transition|D044367
+Phase Variation|OGRPBCAM
+Phenotype|D010641
+Philadelphia Chromosome|D010677
+Phonation|D010699
+Phonons|D060739
+Phosphenes|D010719
+Phosphorylation|D010766
+Photobleaching|D038761
+Photochemical Processes|D055668
+Photolysis|D010782
+Photons|D017785
+Photoperiod|D017440
+Photophosphorylation|D010785
+Photosynthesis|D010788
+Phototaxis|OGRPBCAM
+Phototrophic Processes|D052817
+Phototropism|D018524
+Phylogeny|D010802
+Physical Appearance, Body|OGRPBCAM
+Physical Conditioning, Animal|D010805
+Physical Conditioning, Human|D064797
+Physical Endurance|D010807
+Physical Exertion|D005082
+Physical Fitness|D010809
+Physical Phenomena|D055585
+Physiological Phenomena|D010829
+Phytoplasma Disease|OGRPBCAM
+Pigmentation|D010858
+Piloerection|D010863
+Pinch Strength|D052581
+Pinocytosis|D010873
+Pitch Discrimination|D010897
+Pitch Perception|D010898
+Placental Circulation|D021041
+Placentation|D010929
+Planets|D016083
+Plant Defense Against Herbivory|OGRPBCAM
+Plant Development|D063245
+Plant Diseases|D010935
+Plant Dispersal|D063148
+Plant Dormancy|D057445
+Plant Immunity|D057865
+Plant Infertility|D051479
+Plant Necrosis and Chlorosis|OGRPBCAM
+Plant Physiological Phenomena|D018521
+Plant Proteins, Dietary|D014674
+Plant Root Nodulation|D055170
+Plant Senescence|OGRPBCAM
+Plant Somatic Embryogenesis Techniques|D058439
+Plant Systemic Acquired Resistance|OGRPBCAM
+Plant Transpiration|D018526
+Plant Tumor-Inducing Plasmids|D036741
+Plant Tumors|D010941
+Plasma Volume|D010953
+Plasmids|D010957
+Platelet Activation|D015539
+Platelet Adhesiveness|D010973
+Platelet Aggregation|D010974
+Platelet Count|D010976
+Pleckstrin Homology Domains|OGRPBCAM
+Pliability|D018583
+Ploidies|D011003
+Pluto|D018542
+Plyometric Exercise|D059385
+Point Mutation|D017354
+Poisson Distribution|D016012
+Pollination|D054817
+Poly ADP Ribosylation|OGRPBCAM
+Poly-ADP-Ribose Binding Motif|OGRPBCAM
+Polyadenylation|D026723
+Polymerization|D058105
+Polymorphism, Genetic|D011110
+Polymorphism, Restriction Fragment Length|D012150
+Polymorphism, Single Nucleotide|D020641
+Polymorphism, Single-Stranded Conformational|D018807
+Polyploidy|D011123
+Polytene Chromosomes|D059007
+Ponds|D061005
+Pork Meat|OGRPBCAM
+Porosity|D016062
+Portal Pressure|D017082
+Portion Size|D064787
+Position-Specific Scoring Matrices|D056510
+Post-Exercise Recovery|OGRPBCAM
+Postmenopause|D017698
+Postpartum Period|D049590
+Postprandial Period|D019518
+Postsynaptic Potential Summation|D059227
+Postural Balance|D004856
+Posture|D011187
+Poultry|D011200
+Poultry Products|D011202
+Poultry Proteins|OGRPBCAM
+Prebiotics|D056692
+Prediction Algorithms|OGRPBCAM
+Prediction Methods, Machine|OGRPBCAM
+Predictive Learning Models|OGRPBCAM
+Pregnancy|D011247
+Pregnancy Maintenance|D011255
+Pregnancy Outcome|D011256
+Pregnancy Rate|D018873
+Pregnancy Trimester, First|D011261
+Pregnancy Trimester, Second|D011262
+Pregnancy Trimester, Third|D011263
+Pregnancy Trimesters|D011264
+Pregnancy in Adolescence|D011253
+Pregnancy, Animal|D011270
+Pregnancy, High-Risk|D018566
+Pregnancy, Multiple|D011272
+Pregnancy, Quadruplet|D059287
+Pregnancy, Quintuplet|D059288
+Pregnancy, Triplet|D059286
+Pregnancy, Twin|D059285
+Pregnancy, Unplanned|D049168
+Pregnancy, Unwanted|D011275
+Premenopause|D017697
+Prenatal Nutritional Physiological Phenomena|D039401
+Prenylation|D054876
+Preoperative Exercise|OGRPBCAM
+Prepulse Inhibition|D065808
+Pressure|D011312
+Probability|D011336
+Probiotics|D019936
+Proestrus|D011359
+Proline-Rich Protein Domains|D055232
+Prometaphase|D049468
+Promoter Regions, Genetic|D011401
+Pronation|D011403
+Prone Position|D016684
+Prophase|D011418
+Proprioception|D011434
+Protein Aggregation, Pathological|D066263
+Protein Binding|D011485
+Protein Biosynthesis|D014176
+Protein Carbamylation|OGRPBCAM
+Protein Carbonylation|D050050
+Protein Conformation|D011487
+Protein Conformation, alpha-Helical|OGRPBCAM
+Protein Conformation, beta-Strand|OGRPBCAM
+Protein Denaturation|D011489
+Protein Domains|OGRPBCAM
+Protein Folding|D017510
+Protein Interaction Domains and Motifs|D054730
+Protein Interaction Maps|D060066
+Protein Modification, Translational|D046188
+Protein Multimerization|D055503
+Protein Prenylation|D017368
+Protein Processing, Post-Translational|D011499
+Protein Refolding|D058849
+Protein Renaturation|D020673
+Protein Sorting Signals|D021382
+Protein Splicing|D019154
+Protein Stability|D055550
+Protein Structural Elements|OGRPBCAM
+Protein Structure, Quaternary|D020836
+Protein Structure, Secondary|D017433
+Protein Structure, Tertiary|D017434
+Protein Transport|D021381
+Protein Unfolding|D058767
+Proteolysis|D059748
+Proteostasis|OGRPBCAM
+Proteotoxic Stress|OGRPBCAM
+Prothrombin Time|D011517
+Proto-Oncogenes|D011519
+Proton-Motive Force|D018892
+Protons|D011522
+Provitamins|OGRPBCAM
+Pseudoautosomal Regions|OGRPBCAM
+Pseudogenes|D011544
+Pseudopregnancy|D011555
+Psychomotor Performance|D011597
+Puberty|D011627
+Pulmonary Circulation|D011652
+Pulmonary Diffusing Capacity|D011653
+Pulmonary Elimination|D066232
+Pulmonary Gas Exchange|D011659
+Pulmonary Ventilation|D012123
+Pulmonary Wedge Pressure|D011669
+Pulsatile Flow|D011673
+Pulse|D011674
+Pupa|D011679
+Pursuit, Smooth|D011698
+Pyrimidine Dimers|D011740
+Pyrin Domain|OGRPBCAM
+Pyrolysis|OGRPBCAM
+Pyroptosis|OGRPBCAM
+Quantitative Structure-Activity Relationship|D021281
+Quantitative Trait Loci|D040641
+Quantitative Trait, Heritable|D019655
+Quasispecies|OGRPBCAM
+Quorum Sensing|D053038
+R Factors|D011815
+R-Loop Structures|OGRPBCAM
+RING Finger Domains|D054829
+RNA 3' End Processing|D026721
+RNA 3' Polyadenylation Signals|D039104
+RNA 5' Terminal Oligopyrimidine Sequence|D038641
+RNA Cleavage|D059367
+RNA Damage|OGRPBCAM
+RNA Editing|D017393
+RNA Folding|D059370
+RNA Interference|D034622
+RNA Methylation|OGRPBCAM
+RNA Processing, Post-Transcriptional|D012323
+RNA Recognition Motif|OGRPBCAM
+RNA Replication|OGRPBCAM
+RNA Splice Sites|D022821
+RNA Splicing|D012326
+RNA Stability|D020871
+RNA Transport|D034443
+RNA, Double-Stranded|D012330
+RNA, Z-Form|OGRPBCAM
+RNA-Binding Motifs|OGRPBCAM
+Radial Basis Function Networks|OGRPBCAM
+Radiation|D011827
+Radiation Chimera|D011828
+Radiation Dosage|D011829
+Radiation Effects|D011830
+Radiation Exposure|OGRPBCAM
+Radiation Fibrosis Syndrome|OGRPBCAM
+Radiation Injuries|D011832
+Radiation Injuries, Experimental|D011833
+Radiation Pneumonitis|D017564
+Radiation Tolerance|D011836
+Radiation, Ionizing|D011839
+Radiation, Nonionizing|D011840
+Radio Waves|D011846
+Radioactivity|D011851
+Radiodermatitis|D011855
+Rain|D011891
+Rainforest|D065947
+Random Forest|OGRPBCAM
+Range of Motion, Articular|D016059
+Raw Foods|D066256
+Re-Epithelialization|D062326
+Reaction Time|D011930
+Reading Frames|D016364
+Receptor Aggregation|D011940
+Receptor Cross-Talk|D020239
+Recombination, Genetic|D011995
+Recombinational DNA Repair|D059767
+Recommended Dietary Allowances|D064167
+Recovery of Function|D020127
+Recruitment, Neurophysiological|D011999
+Rectal Absorption|D065590
+Recurrent Neural Networks|OGRPBCAM
+Red Light|OGRPBCAM
+Red Meat|OGRPBCAM
+Reflex|D012018
+Reflex, Abdominal|D012020
+Reflex, Abnormal|D012021
+Reflex, Acoustic|D012022
+Reflex, Babinski|D001405
+Reflex, Monosynaptic|D012023
+Reflex, Oculocardiac|D012024
+Reflex, Pupillary|D012025
+Reflex, Righting|D057897
+Reflex, Startle|D013216
+Reflex, Stretch|D012026
+Reflex, Trigeminocardiac|D059230
+Reflex, Vestibulo-Ocular|D012027
+Refraction, Ocular|D012029
+Refractory Period, Electrophysiological|D012032
+Refugium|OGRPBCAM
+Regeneration|D012038
+Regional Blood Flow|D012039
+Regulated Cell Death|OGRPBCAM
+Regulatory Elements, Transcriptional|D050436
+Regulatory Sequences, Nucleic Acid|D012045
+Regulatory Sequences, Ribonucleic Acid|D038621
+Regulon|D018085
+Reinforcement Machine Learning|OGRPBCAM
+Remission, Spontaneous|D012075
+Remyelination|OGRPBCAM
+Renal Blood Flow, Effective|D017597
+Renal Circulation|D012079
+Renal Colic|D056844
+Renal Elimination|D065667
+Renal Plasma Flow|D017595
+Renal Plasma Flow, Effective|D017596
+Renal Reabsorption|D065608
+Renin-Angiotensin System|D012084
+Repetitive Sequences, Amino Acid|D020449
+Repetitive Sequences, Nucleic Acid|D012091
+Replication Origin|D018741
+Replicon|D012093
+Representation Machine Learning|OGRPBCAM
+Reproduction|D012098
+Reproduction, Asexual|D012100
+Reproductive Behavior|D043762
+Reproductive Isolation|D060047
+Reproductive Physiological Phenomena|D055703
+Reproductive and Urinary Physiological Phenomena|D012101
+Residual Volume|D012115
+Resistance Training|D055070
+Resistant Starch|OGRPBCAM
+Respiration|D012119
+Respiratory Burst|D016897
+Respiratory Dead Space|D012126
+Respiratory Mechanics|D015656
+Respiratory Physiological Phenomena|D012143
+Respiratory Rate|D056152
+Respiratory Sinus Arrhythmia|D065809
+Respiratory Sounds|D012135
+Respiratory Tract Absorption|D065589
+Respiratory Transport|D015657
+Response Elements|D020218
+Resting Phase, Cell Cycle|D016192
+Reticulocyte Count|D017701
+Reticulocytosis|D045262
+Retroelements|D018626
+Return of Spontaneous Circulation|OGRPBCAM
+Reverse Transcription|D048348
+Rh Isoimmunization|D012203
+Rhizosphere|D058441
+Ribosome Shunting|OGRPBCAM
+Riboswitch|D058928
+Ring Chromosomes|D012303
+Risk|D012306
+Rivers|D045483
+Rod-Cone Interaction|D055258
+Root Resorption|D012391
+Rotation|D012399
+Rumination, Digestive|OGRPBCAM
+Running|D012420
+S Phase|D016196
+S Phase Cell Cycle Checkpoints|D059807
+SOS Response, Genetics|D013014
+Saccades|D012438
+Safflower Oil|D012450
+Sagittal Abdominal Diameter|D064346
+Salads|OGRPBCAM
+Saline Waters|OGRPBCAM
+Salinity|D054712
+Salivary Elimination|D065787
+Salivation|D012472
+Salt Stress|OGRPBCAM
+Salt Tolerance|D055049
+Sand|OGRPBCAM
+Saturn|D018539
+Scattering, Radiation|D012542
+Scattering, Small Angle|D053838
+Schizonts|D052939
+Sea Level Rise|OGRPBCAM
+Seafood|D017747
+Seashore|OGRPBCAM
+Seasons|D012621
+Seawater|D012623
+Second Messenger Systems|D015290
+Secondary Metabolism|D064210
+Secretome|OGRPBCAM
+Secretory Pathway|D055571
+Secretory Rate|D012636
+Seed Dispersal|D058614
+Seeds|D012639
+Segmental Duplications, Genomic|D056916
+Selection, Genetic|D012641
+Selective Breeding|OGRPBCAM
+Self Tolerance|D017634
+Self-Fertilization|D057945
+Self-Incompatibility in Flowering Plants|D060436
+Senescence-Associated Secretory Phenotype|OGRPBCAM
+Sensation|D012677
+Sensitivity and Specificity|D012680
+Sensory Gating|D055139
+Sentiment Analysis|OGRPBCAM
+Sequence Deletion|D017384
+Sequence Homology|D017385
+Sequence Homology, Amino Acid|D017386
+Sequence Homology, Nucleic Acid|D012689
+Sequence Inversion|D057345
+Sequence Tagged Sites|D016324
+Seroconversion|OGRPBCAM
+Serogroup|D065288
+Serum Response Element|D027602
+Serving Size|D064788
+Sesame Oil|D012715
+Sex|D012723
+Sex Characteristics|D012727
+Sex Chromatin|D012728
+Sex Chromosome Aberrations|D012729
+Sex Chromosomes|D012730
+Sex Determination Processes|D019849
+Sex Differentiation|D012733
+Sex Ratio|D012744
+Sexual Arousal|OGRPBCAM
+Sexual Development|D046468
+Sexual Maturation|D012741
+Sexual Selection|OGRPBCAM
+Sexuality|D019529
+Shear Strength|D033081
+Shellfish|D012758
+Shellfish Proteins|OGRPBCAM
+Shelterin Complex|OGRPBCAM
+Shivering|D012768
+Short Interspersed Nucleotide Elements|D020086
+Shoulder Pain|D020069
+Signal Transduction|D015398
+Signal-To-Noise Ratio|D059629
+Silage|D012820
+Silencer Elements, Transcriptional|D037941
+Silent Mutation|OGRPBCAM
+Singing|D063346
+Sister Chromatid Exchange|D012854
+Sitting Position|OGRPBCAM
+Skeletal Muscle Enlargement|OGRPBCAM
+Skin Absorption|D012869
+Skin Aging|D015595
+Skin Microbiome|OGRPBCAM
+Skin Physiological Phenomena|D012879
+Skin Pigmentation|D012880
+Skin Temperature|D012881
+Skinfold Thickness|D012885
+Sleep|D012890
+Sleep Duration|OGRPBCAM
+Sleep Latency|OGRPBCAM
+Sleep Stages|D012894
+Sleep, REM|D012895
+Sleep, Slow-Wave|OGRPBCAM
+Sleepiness|OGRPBCAM
+Smell|D012903
+Snacks|D062410
+Sneezing|D012912
+Snow|D012914
+Soil|D012987
+Soil Erosion|OGRPBCAM
+Solar Activity|D019445
+Solar Energy|D012993
+Solar System|D016082
+Solubility|D012995
+Somatic Hypermutation, Immunoglobulin|D027041
+Somatotypes|D013008
+Sound|D013016
+Sound Localization|D013017
+Soy Foods|D045730
+Soy Milk|D041942
+Soybean Oil|D013024
+Soybean Proteins|D030262
+Species Specificity|D013045
+Specific Gravity|D013046
+Specific Pathogen-Free Organisms|D013047
+Speech|D013060
+Speech Acoustics|D013061
+Speech Intelligibility|D013065
+Speech Perception|D013067
+Sperm Agglutination|D013073
+Sperm Capacitation|D013075
+Sperm Count|D013076
+Sperm Maturation|D013079
+Sperm Motility|D013081
+Sperm Transport|D013083
+Sperm-Ovum Interactions|D013084
+Spermatogenesis|D013091
+Spices|D017365
+Spinal Cord Regeneration|D058630
+Splanchnic Circulation|D013152
+Spontaneous Combustion|D018605
+Sporozoites|D034101
+Sports Nutritional Physiological Phenomena|D064133
+Stair Climbing|OGRPBCAM
+Standing Position|OGRPBCAM
+Stars, Celestial|D055609
+Static Electricity|D055672
+Statistical Distributions|D016008
+Steam|D013227
+Stem Cell Niche|D055153
+Stereoisomerism|D013237
+Sterile Alpha Motif|OGRPBCAM
+Sterilizing Immunity|OGRPBCAM
+Stillbirth|D050497
+Stimulation, Chemical|D013268
+Stochastic Processes|D013269
+Stratospheric Ozone|D062952
+Street Food|OGRPBCAM
+Stress, Mechanical|D013314
+Stress, Physiological|D013312
+Stroke Volume|D013318
+Structural Homology, Protein|D040681
+Structure-Activity Relationship|D013329
+Subcutaneous Absorption|D065566
+Sublimation, Chemical|OGRPBCAM
+Substrate Cycling|D015219
+Substrate Specificity|D013379
+Sugar-Sweetened Beverages|OGRPBCAM
+Sumoylation|D058207
+Sunlight|D013472
+Suntan|D055107
+Super Enhancers|OGRPBCAM
+Superconductivity|OGRPBCAM
+Superfetation|D013476
+Superovulation|D013480
+Supervised Machine Learning|OGRPBCAM
+Supination|D013484
+Supine Position|D016683
+Support Vector Machine|D060388
+Suppression, Genetic|D013489
+Surface Properties|D013499
+Surface Tension|D013500
+Sweating|D013546
+Sweetening Agents|D013549
+Swimming|D013550
+Symbiont Induced Cytoplasmic Incompatibility|OGRPBCAM
+Symbiosis|D013559
+Sympatry|D061350
+Synaptic Potentials|D055366
+Synaptic Transmission|D009435
+Synaptonemal Complex|D013573
+Synbiotics|D058616
+Synteny|D026801
+Synthetic Lethal Mutations|OGRPBCAM
+Systole|D013599
+T-Cell Antigen Receptor Specificity|D037182
+T-Cell Exhaustion|OGRPBCAM
+T-Cell Senescence|OGRPBCAM
+TATA Box|D016385
+Tachyphylaxis|D013618
+Taiga|D066188
+Tandem Repeat Sequences|D020080
+Taste|D013649
+Taste Threshold|D013652
+Taxis Response|OGRPBCAM
+Tea|D013662
+Teas, Herbal|OGRPBCAM
+Teas, Medicinal|OGRPBCAM
+Telomere|D016615
+Telomere Homeostasis|D059505
+Telomere Shortening|D059506
+Telomeric Repeat Binding Protein 2|D035341
+Telophase|D013692
+Temperature|D013696
+Templates, Genetic|D013698
+Tensile Strength|D013718
+Terahertz Radiation|D055053
+Term Birth|D047929
+Terminal Repeat Sequences|D020079
+Terminator Regions, Genetic|D013728
+Tetracycline Resistance|D013753
+Tetraploidy|D057891
+Tetrasomy|D058670
+Tetratricopeptide Repeat|OGRPBCAM
+Th1-Th2 Balance|D058408
+Therapeutic Equivalency|D013810
+Thermal Conductivity|D013814
+Thermal Diffusion|D055471
+Thermodynamics|D013816
+Thermogenesis|D022722
+Thermosensing|D013697
+Thermotolerance|OGRPBCAM
+Theta Rhythm|D013826
+Thinness|D013851
+Thrombin Time|D013918
+Thrombopoiesis|D034061
+Tidal Volume|D013990
+Tidal Waves|D055871
+Timbre Perception|OGRPBCAM
+Time|D013995
+Time Factors|D013997
+Time-to-Pregnancy|D061685
+Tissue Distribution|D014018
+Tissue Survival|D014022
+Tooth Calcification|D014074
+Tooth Eruption|D014078
+Tooth Exfoliation|D014080
+Tooth Migration|D014085
+Tooth Mobility|D014086
+Tooth Permeability|D014088
+Tooth Resorption|D014091
+Tornadoes|D055869
+Torpor|D064348
+Torque|D019415
+Torsion, Mechanical|D054159
+Total Lung Capacity|D014109
+Touch|D014110
+Toxic Optic Neuropathy|OGRPBCAM
+Toxicokinetics|D066007
+Toxicological Phenomena|OGRPBCAM
+Toxin-Antitoxin Systems|OGRPBCAM
+Trace Elements|D014131
+Trained Immunity|OGRPBCAM
+Trans-Splicing|D020040
+Transcellular Cell Migration|D057688
+Transcription Elongation, Genetic|D061805
+Transcription Initiation Site|D024363
+Transcription Initiation, Genetic|D061785
+Transcription Termination, Genetic|D061806
+Transcription, Genetic|D014158
+Transcriptional Activation|D015533
+Transcriptome|D059467
+Transcytosis|D057900
+Transduction, Genetic|D014161
+Transendothelial and Transepithelial Migration|D057705
+Transfection|D014162
+Transfer Machine Learning|OGRPBCAM
+Transfer RNA Aminoacylation|D046249
+Transformation, Bacterial|D014169
+Transformation, Genetic|D014170
+Transgenes|D019076
+Transition Temperature|D044366
+Translesion DNA Synthesis|OGRPBCAM
+Translocation, Genetic|D014178
+Transplantation Immunology|D014181
+Transplantation Tolerance|D023001
+Trial of Labor|D014219
+Trimethoprim Resistance|D014296
+Trinucleotide Repeat Expansion|D019680
+Trinucleotide Repeats|D018911
+Triploidy|D057885
+Trisomy|D014314
+Trogocytosis|OGRPBCAM
+Trophozoites|D053058
+Tropical Climate|D014329
+Tropism|D018523
+Tsunamis|D057192
+Tudor Domain|OGRPBCAM
+Tumor Escape|D019139
+Tumor Hypoxia|OGRPBCAM
+Tumor Microenvironment|D059016
+Tundra|D065929
+Twinning, Dizygotic|OGRPBCAM
+Twinning, Embryonic|OGRPBCAM
+Twinning, Monozygotic|D038522
+Ubiquitination|D054875
+Ultradian Rhythm|OGRPBCAM
+Ultrafiltration|D014462
+Ultrasonic Waves|OGRPBCAM
+Ultraviolet Rays|D014466
+Uncertainty|D035501
+Unfolded Protein Response|D056811
+Uniparental Disomy|D024182
+Unsupervised Machine Learning|OGRPBCAM
+Untranslated Regions|D020506
+Up-Regulation|D015854
+Uranus|D018540
+Urinary Tract Physiological Phenomena|D014553
+Urination|D014554
+Urodynamics|D014563
+Uterine Contraction|D014590
+V(D)J Recombination|D060152
+VDJ Exons|D050441
+Vaccine Potency|D064166
+Vacuum|D014618
+Vaginal Absorption|D066228
+Valsalva Maneuver|D014636
+Vancomycin Resistance|D020713
+Vapor Pressure|D055548
+Vascular Capacitance|D018924
+Vascular Patency|D014654
+Vascular Remodeling|D066253
+Vascular Resistance|D014655
+Vascular Stiffness|D059289
+Vasoconstriction|D014661
+Vasodilation|D014664
+Vegetable Products|OGRPBCAM
+Vegetables|D014675
+Venous Pressure|D014690
+Ventilation-Perfusion Ratio|D014692
+Ventricular Function|D016276
+Ventricular Function, Left|D016277
+Ventricular Function, Right|D016278
+Ventricular Pressure|D017725
+Ventricular Remodeling|D020257
+Venus|D018536
+Vernalization|OGRPBCAM
+Vestibular Evoked Myogenic Potentials|D058585
+Vestibulocochlear Physiological Phenomena|OGRPBCAM
+Vibration|D014732
+Viral Genome Packaging|OGRPBCAM
+Viral Interference|D014762
+Viral Load|D019562
+Viral Packaging Sequence|OGRPBCAM
+Viral Replication Compartments|OGRPBCAM
+Viral Transcription|OGRPBCAM
+Viral Tropism|D056189
+Virome|OGRPBCAM
+Virulence|D014774
+Virus Activation|D014775
+Virus Assembly|D019065
+Virus Attachment|D053585
+Virus Inactivation|D038301
+Virus Integration|D016662
+Virus Internalization|D053586
+Virus Latency|D017735
+Virus Physiological Phenomena|D018406
+Virus Release|D057074
+Virus Replication|D014779
+Virus Shedding|D017201
+Virus Uncoating|D057646
+Viscosity|D014783
+Vision Disparity|D015357
+Vision, Entoptic|D014788
+Vision, Ocular|D014785
+Visual Acuity|D014792
+Visual Fields|D014794
+Vital Capacity|D014797
+Vitamin D Response Element|D030181
+Vitamins|D014815
+Vitellogenesis|D014818
+Vitrification|D058989
+Viviparity, Nonmammalian|D052286
+Voice|D014831
+Voice Quality|D014833
+Voice Recognition|OGRPBCAM
+Volatilization|D014835
+Volcanic Eruptions|D018707
+WD40 Repeats|OGRPBCAM
+WW Domains|OGRPBCAM
+Waist Circumference|D055105
+Waist-Hip Ratio|D049629
+Wakefulness|D014851
+Walking|D016138
+Walking Speed|OGRPBCAM
+Warburg Effect, Oncologic|OGRPBCAM
+Warm-Up Exercise|D063996
+Water Cycle|D058438
+Water Insecurity|OGRPBCAM
+Water Loss, Insensible|D014870
+Water Movements|D014872
+Water Resources|D062066
+Water-Electrolyte Balance|D014882
+Wavelet Analysis|D058067
+Weaning|D014886
+Weather|D014887
+Weight Cycling|OGRPBCAM
+Weight Gain|D015430
+Weight Loss|D015431
+Weight-Bearing|D016474
+Weightlessness|D014893
+Wetlands|D053833
+Wettability|D017155
+Whey|OGRPBCAM
+Whey Proteins|OGRPBCAM
+Whole Blood Coagulation Time|D014914
+Whole Grains|OGRPBCAM
+Wilderness|D055814
+Wildfires|OGRPBCAM
+Wind|D014919
+Wine|D014920
+Wnt Signaling Pathway|D060449
+Work of Breathing|D014939
+Wound Healing|D014945
+X Chromosome|D014960
+X Chromosome Inactivation|D049951
+X-Ray Diffraction|D014961
+X-Rays|D014965
+XYY Karyotype|D014997
+Y Chromosome|D014998
+Yawning|D015000
+Yeast, Dried|D015002
+Yogurt|D015014
+Zinc Fingers|D016335
+beta-Lactam Resistance|D018440
+rRNA Operon|D012407
+src Homology Domains|D018909
+t-Complex Genome Region|D056427

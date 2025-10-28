@@ -1,0 +1,628 @@
+
+[Namespace]
+Keyword=MESHCS
+NameString=MeSH (CS)
+DomainString=Various
+VersionString=20251028
+CreatedDateTime=2025-10-28T10:19:28
+DescriptionString=Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity. - cellular structures
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=MeSH (CS)
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+3T3 Cells|D016475
+3T3-L1 Cells|D041721
+A549 Cells|OGRPBCAM
+APUD Cells|D001078
+Acanthocytes|D000050
+Acinar Cells|D061354
+Acrosome|D000177
+Actin Cytoskeleton|D008841
+Adherens Junctions|D022005
+Adipocytes|D017667
+Adipocytes, Beige|OGRPBCAM
+Adipocytes, Brown|D052437
+Adipocytes, White|D052438
+Adrenergic Fibers|D000320
+Adrenergic Neurons|D059331
+Adult Germline Stem Cells|OGRPBCAM
+Adult Stem Cells|D053687
+Allogeneic Cells|OGRPBCAM
+Alveolar Epithelial Cells|D056809
+Amacrine Cells|D025042
+Ameloblasts|D000565
+Anterior Horn Cells|D000870
+Antibody-Producing Cells|D000921
+Antigen-Presenting Cells|D000938
+Aortic Bodies|D001016
+Apicoplasts|D063546
+Astrocytes|D001253
+Atypical Squamous Cells of the Cervix|D065309
+Autonomic Fibers, Postganglionic|D001338
+Autonomic Fibers, Preganglionic|D001339
+Autophagosomes|OGRPBCAM
+Axon Initial Segment|OGRPBCAM
+Axoneme|D054468
+Axons|D001369
+B-Lymphocyte Subsets|D016175
+B-Lymphocytes|D001402
+B-Lymphocytes, Regulatory|D060151
+BALB 3T3 Cells|D041702
+Bacterial Chromatophores|D020130
+Bacterial Outer Membrane|OGRPBCAM
+Basal Bodies|D064652
+Basement Membrane|D001485
+Basophils|D001491
+Biomolecular Condensates|OGRPBCAM
+Blastomeres|D001757
+Blood Cells|D001773
+Blood Platelets|D001792
+Bone Marrow Cells|D001854
+CD4-Positive T-Lymphocytes|D015496
+CD8-Positive T-Lymphocytes|D018414
+CHO Cells|D016466
+COP-Coated Vesicles|D022181
+COS Cells|D019556
+Caco-2 Cells|D018938
+Cancer-Associated Fibroblasts|OGRPBCAM
+Carotid Body|D002344
+Caveolae|D021941
+Cell Body|D066146
+Cell Line|D002460
+Cell Line, Transformed|D002461
+Cell Line, Tumor|D045744
+Cell Membrane|D002462
+Cell Membrane Structures|D021961
+Cell Nucleolus|D002466
+Cell Nucleus|D002467
+Cell Nucleus Structures|D022003
+Cell Surface Extensions|D022081
+Cell Wall|D002473
+Cell Wall Skeleton|D017358
+Cell-Derived Microparticles|D055252
+Cell-Free System|D002474
+Cell-Matrix Junctions|D021982
+Cells|D002477
+Cells, Cultured|D002478
+Cells, Immobilized|D018914
+Cellular Structures|D022082
+Cellulosomes|D044603
+Centrioles|D002502
+Centromere|D002503
+Centrosome|D018385
+Cerebellar Golgi Cells|OGRPBCAM
+Chemoreceptor Cells|D002628
+Chief Cells, Gastric|D019872
+Chloroplasts|D002736
+Cholinergic Fibers|D002799
+Cholinergic Neurons|D059329
+Chondrocytes|D019902
+Chromaffin Cells|D019439
+Chromaffin Granules|D002837
+Chromatids|D002842
+Chromatin|D002843
+Chromatophores|D002856
+Chromosomal Puffs|D059045
+Chromosome Structures|D022004
+Chromosomes|D002875
+Chromosomes, Archaeal|D019847
+Chromosomes, Artificial|D022201
+Chromosomes, Artificial, Bacterial|D022202
+Chromosomes, Artificial, Human|D022222
+Chromosomes, Artificial, Mammalian|D022221
+Chromosomes, Artificial, P1 Bacteriophage|D027042
+Chromosomes, Artificial, Yeast|D018244
+Chromosomes, Bacterial|D002876
+Chromosomes, Fungal|D015825
+Chromosomes, Human|D002877
+Chromosomes, Human, 1-3|D002900
+Chromosomes, Human, 13-15|D002901
+Chromosomes, Human, 16-18|D002902
+Chromosomes, Human, 19-20|D002903
+Chromosomes, Human, 21-22 and Y|D002904
+Chromosomes, Human, 4-5|D002905
+Chromosomes, Human, 6-12 and X|D002906
+Chromosomes, Human, Pair 1|D002878
+Chromosomes, Human, Pair 10|D002879
+Chromosomes, Human, Pair 11|D002880
+Chromosomes, Human, Pair 12|D002881
+Chromosomes, Human, Pair 13|D002882
+Chromosomes, Human, Pair 14|D002883
+Chromosomes, Human, Pair 15|D002884
+Chromosomes, Human, Pair 16|D002885
+Chromosomes, Human, Pair 17|D002886
+Chromosomes, Human, Pair 18|D002887
+Chromosomes, Human, Pair 19|D002888
+Chromosomes, Human, Pair 2|D002889
+Chromosomes, Human, Pair 20|D002890
+Chromosomes, Human, Pair 21|D002891
+Chromosomes, Human, Pair 22|D002892
+Chromosomes, Human, Pair 3|D002893
+Chromosomes, Human, Pair 4|D002894
+Chromosomes, Human, Pair 5|D002895
+Chromosomes, Human, Pair 6|D002896
+Chromosomes, Human, Pair 7|D002897
+Chromosomes, Human, Pair 8|D002898
+Chromosomes, Human, Pair 9|D002899
+Chromosomes, Human, X|D041321
+Chromosomes, Human, Y|D041322
+Chromosomes, Insect|D059006
+Chromosomes, Mammalian|D033481
+Chromosomes, Plant|D032461
+Cilia|D002923
+Clathrin-Coated Vesicles|D022163
+Clone Cells|D002999
+Coated Pits, Cell-Membrane|D003034
+Coated Vesicles|D018699
+Coiled Bodies|D020541
+Commissural Interneurons|D066294
+Connective Tissue Cells|D003239
+Corneal Keratocytes|D060527
+Corticotrophs|D052680
+Costameres|D054974
+Cumulus Cells|D054885
+Cytokine-Induced Killer Cells|D055612
+Cytoplasm|D003593
+Cytoplasmic Granules|D003594
+Cytoplasmic Ribonucleoprotein Granules|OGRPBCAM
+Cytoplasmic Structures|D022083
+Cytoplasmic Vesicles|D022162
+Cytoskeleton|D003599
+Cytosol|D003600
+Decellularized Extracellular Matrix|OGRPBCAM
+Dendrites|D003712
+Dendritic Cells|D003713
+Dendritic Cells, Follicular|D020566
+Dendritic Spines|D049229
+Dense Core Vesicles|OGRPBCAM
+Desmosomes|D003896
+Dopaminergic Neurons|D059290
+Electrical Synapses|D054351
+Embryoid Bodies|D058732
+Embryonal Carcinoma Stem Cells|D054278
+Embryonic Germ Cells|OGRPBCAM
+Embryonic Stem Cells|D053595
+Endocrine Cells|D055098
+Endoplasmic Reticulum|D004721
+Endoplasmic Reticulum, Rough|D018870
+Endoplasmic Reticulum, Smooth|D018871
+Endosomes|D011992
+Endothelial Cells|D042783
+Endothelial Progenitor Cells|D066026
+Enterochromaffin Cells|D004759
+Enterochromaffin-like Cells|D019861
+Enterocytes|D020895
+Enteroendocrine Cells|D019858
+Eosinophils|D004804
+Ependymoglial Cells|D063928
+Epidermal Cells|OGRPBCAM
+Epithelial Cells|D004847
+Epithelioid Cells|D015622
+Erythroblasts|D004900
+Erythrocyte Inclusions|D004908
+Erythrocyte Membrane|D004910
+Erythrocytes|D004912
+Erythrocytes, Abnormal|D004913
+Erythroid Cells|D041905
+Erythroid Precursor Cells|D015672
+Euchromatin|D022041
+Eukaryotic Cells|D005057
+Exosomes|D055354
+Extracellular Fluid|D045604
+Extracellular Matrix|D005109
+Extracellular Space|D005110
+Extracellular Traps|D065206
+Extracellular Vesicles|OGRPBCAM
+Extravillous Trophoblasts|OGRPBCAM
+Feeder Cells|D061252
+Fetal Stem Cells|D053686
+Fibroblasts|D005347
+Filamins|D064448
+Fimbriae, Bacterial|D010861
+Flagella|D005407
+Foam Cells|D005487
+Focal Adhesions|D022001
+GABAergic Neurons|D059330
+Gap Junctions|D017629
+Gastrin-Secreting Cells|D019863
+Gemini of Coiled Bodies|D055531
+Germ Cell Ribonucleoprotein Granules|OGRPBCAM
+Germ Cells|D005854
+Germ Cells, Plant|D055993
+Giant Cells|D015726
+Giant Cells, Foreign-Body|D015743
+Giant Cells, Langhans|D015744
+Glomerular Basement Membrane|D050533
+Glomus Jugulare|D005924
+Glomus Tympanicum|D043485
+Glucagon-Secreting Cells|D050416
+Glycocalyx|D019276
+Glyoxysomes|D020676
+Goblet Cells|D020397
+Golgi Apparatus|D006056
+Golgi-Mazzoni Corpuscles|D006057
+Gonadotrophs|D052681
+Granulocyte Precursor Cells|D042381
+Granulocyte-Macrophage Progenitor Cells|D055014
+Granulocytes|D006098
+Granulosa Cells|D006107
+Grid Cells|OGRPBCAM
+Growth Cones|D020439
+HCT116 Cells|D045325
+HEK293 Cells|D057809
+HL-60 Cells|D018922
+HT29 Cells|D019073
+HaCaT Cells|OGRPBCAM
+Hair Cells, Auditory|D006198
+Hair Cells, Auditory, Inner|D006199
+Hair Cells, Auditory, Outer|D018072
+Hair Cells, Vestibular|D018069
+HeLa Cells|D006367
+Heinz Bodies|D006366
+Hemangioblasts|D055018
+Hematopoietic Stem Cells|D006412
+Hemidesmosomes|D022002
+Hemocytes|D006434
+Hep G2 Cells|D056945
+Hepatic Stellate Cells|D055166
+Hepatocytes|D022781
+Heterochromatin|D006570
+Histiocytes|D006644
+Human Embryonic Stem Cells|OGRPBCAM
+Human Umbilical Vein Endothelial Cells|D061307
+Hybrid Cells|D006822
+Hybridomas|D006825
+Immunological Memory Cells|OGRPBCAM
+Immunological Synapses|D054992
+Inclusion Bodies|D002479
+Inclusion Bodies, Viral|D007181
+Induced Pluripotent Stem Cells|D057026
+Insulin-Secreting Cells|D050417
+Intercellular Junctions|D007365
+Intermediate Filaments|D007382
+Interneurons|D007395
+Interstitial Cells of Cajal|D056885
+Intracellular Fluid|D007424
+Intracellular Membranes|D007425
+Intracellular Space|D042541
+Intraepithelial Lymphocytes|OGRPBCAM
+Intranuclear Inclusion Bodies|D045586
+Intranuclear Space|D042581
+Isochromosomes|D018404
+Jurkat Cells|D019169
+K562 Cells|D020014
+KB Cells|D007624
+Keratinocytes|D015603
+Killer Cells, Lymphokine-Activated|D015979
+Killer Cells, Natural|D007694
+Kinetochores|D018386
+Kupffer Cells|D007728
+L Cells|D007739
+LLC-PK1 Cells|D018374
+Labyrinth Supporting Cells|D007760
+Lactotrophs|D052682
+Lamellar Bodies|OGRPBCAM
+Langerhans Cells|D007801
+Leukocytes|D007962
+Leukocytes, Mononuclear|D007963
+Lewy Bodies|D016631
+Leydig Cells|D007985
+Limbal Stem Cells|OGRPBCAM
+Lipid Droplets|D066292
+Luteal Cells|D008184
+Lymphocyte Subsets|D016131
+Lymphocytes|D008214
+Lymphocytes, Null|D008215
+Lymphocytes, Tumor-Infiltrating|D016246
+Lymphoid Progenitor Cells|D054503
+Lysosomes|D008247
+M Cells|OGRPBCAM
+MCF-7 Cells|D061986
+MDA-MB-231 Cells|OGRPBCAM
+Macronucleus|D048648
+Macrophages|D008264
+Macrophages, Alveolar|D016676
+Macrophages, Peritoneal|D017737
+Madin Darby Canine Kidney Cells|D061985
+Magnetosomes|D055944
+Mallory Bodies|D059609
+Mast Cells|D008407
+Mechanoreceptors|D008465
+Medium Spiny Neurons|OGRPBCAM
+Megakaryocyte Progenitor Cells|D055016
+Megakaryocyte-Erythroid Progenitor Cells|D055015
+Megakaryocytes|D008533
+Megaloblasts|D008534
+Melanocytes|D008544
+Melanophores|D008547
+Melanosomes|D020460
+Melanotrophs|D052717
+Membrane Microdomains|D021962
+Memory B Cells|OGRPBCAM
+Memory T Cells|OGRPBCAM
+Merkel Cells|D018862
+Merozoites|D052940
+Mesangial Cells|D050527
+Mesenchymal Stem Cells|D059630
+Mesophyll Cells|D058503
+Microbodies|D008830
+Microfibrils|D020894
+Microglia|D017628
+Microneme|OGRPBCAM
+Micronuclei, Chromosome-Defective|D048629
+Micronucleus, Germline|D048631
+Microsomes|D008861
+Microsomes, Liver|D008862
+Microtubule-Organizing Center|D022101
+Microtubules|D008870
+Microvilli|D008871
+Mirror Neurons|D059167
+Mitochondria|D008928
+Mitochondria Associated Membranes|OGRPBCAM
+Mitochondria, Heart|D008929
+Mitochondria, Liver|D008930
+Mitochondria, Muscle|D008931
+Mitochondrial Membranes|D051336
+Mitochondrial Ribosomes|OGRPBCAM
+Monocyte-Macrophage Precursor Cells|D055017
+Monocytes|D009000
+Monocytes, Activated Killer|D016260
+Mossy Fibers, Hippocampal|D019599
+Motor Endplate|D009045
+Motor Neurons|D009046
+Motor Neurons, Gamma|D009047
+Mouse Embryonic Stem Cells|OGRPBCAM
+Mucosal-Associated Invariant T Cells|OGRPBCAM
+Multipotent Stem Cells|D039902
+Multivesicular Bodies|D057146
+Muscle Cells|D032342
+Muscle Fibers, Fast-Twitch|D018656
+Muscle Fibers, Skeletal|D018485
+Muscle Fibers, Slow-Twitch|D018657
+Muscle Spindles|D009470
+Myelin Sheath|D009186
+Myeloid Cells|D022423
+Myeloid Progenitor Cells|D023461
+Myeloid-Derived Suppressor Cells|OGRPBCAM
+Myoblasts|D032446
+Myoblasts, Cardiac|D032386
+Myoblasts, Skeletal|D032448
+Myoblasts, Smooth Muscle|D032390
+Myocytes, Cardiac|D032383
+Myocytes, Smooth Muscle|D032389
+Myofibrils|D009210
+Myofibroblasts|D058628
+NIH 3T3 Cells|D041681
+Natural Killer T-Cells|D055611
+Neoplastic Cells, Circulating|D009360
+Neoplastic Stem Cells|D014411
+Nerve Fibers|D009412
+Nerve Fibers, Myelinated|D009413
+Nerve Fibers, Unmyelinated|D036421
+Neural Stem Cells|D058953
+Neurilemma|D009441
+Neurites|D016501
+Neuroeffector Junction|D009451
+Neuroendocrine Cells|D055099
+Neuroepithelial Bodies|D046568
+Neuroepithelial Cells|D046569
+Neurofibrillary Tangles|D016874
+Neurofibrils|D009454
+Neuroglia|D009457
+Neuromuscular Junction|D009469
+Neurons|D009474
+Neurons, Afferent|D009475
+Neurons, Efferent|D009476
+Neuropil|D019581
+Neuropil Threads|D019600
+Neutrophils|D009504
+Nissl Bodies|D009562
+Nitrergic Neurons|D026602
+Nociceptors|D009619
+Nuclear Bodies|OGRPBCAM
+Nuclear Envelope|D009685
+Nuclear Lamina|D034881
+Nuclear Matrix|D015530
+Nuclear Pore|D022022
+Nuclear Speckles|OGRPBCAM
+Nucleolus Organizer Region|D009697
+Nucleosomes|D009707
+Odontoblasts|D009804
+Olfactory Receptor Neurons|D018034
+Oligodendrocyte Precursor Cells|OGRPBCAM
+Oligodendroglia|D009836
+Oocysts|D033661
+Oocytes|D009865
+Oogonia|D009867
+Oogonial Stem Cells|OGRPBCAM
+Organelles|D015388
+Osteoblasts|D010006
+Osteoclasts|D010010
+Osteocytes|D010011
+Ovum|D010063
+Oxyphil Cells|D024862
+PC-3 Cells|OGRPBCAM
+PC12 Cells|D016716
+Pacinian Corpuscles|D010141
+Pancreatic Polypeptide-Secreting Cells|D050418
+Pancreatic Stellate Cells|D058954
+Paneth Cells|D019879
+Paraganglia, Nonchromaffin|D010234
+Paraspeckles|OGRPBCAM
+Parasympathetic Fibers, Postganglionic|D017777
+Parietal Cells, Gastric|D010295
+Pericytes|D020286
+Peripheral Blood Stem Cells|OGRPBCAM
+Periplasm|D019897
+Peroxisomes|D020675
+Phagocytes|D010586
+Phagosomes|D010588
+Philadelphia Chromosome|D010677
+Photoreceptor Cells|D010786
+Photoreceptor Cells, Invertebrate|D017956
+Photoreceptor Cells, Vertebrate|D020419
+Photoreceptor Connecting Cilium|D055212
+Phycobilisomes|D045524
+Pili, Sex|D018933
+Place Cells|OGRPBCAM
+Plant Cells|D059828
+Plasma Cells|D010950
+Plasmodesmata|D031425
+Plastids|D018087
+Pluripotent Stem Cells|D039904
+Podocytes|D050199
+Podosomes|OGRPBCAM
+Polar Bodies|D059705
+Polyribosomes|D011132
+Polytene Chromosomes|D059007
+Post-Synaptic Density|D057907
+Posterior Horn Cells|D020671
+Precursor Cells, B-Lymphoid|D054448
+Precursor Cells, T-Lymphoid|D054504
+Pressoreceptors|D011311
+Presynaptic Terminals|D017729
+Processing Bodies|OGRPBCAM
+Prokaryotic Cells|D011387
+Promyelocytic Leukemia Nuclear Bodies|OGRPBCAM
+Protoplasts|D011523
+Pseudoautosomal Regions|OGRPBCAM
+Pseudopodia|D011554
+Pulmonary Stretch Receptors|D011661
+Purkinje Cells|D011689
+Purple Membrane|D018717
+Pyramidal Cells|D017966
+RAW 264.7 Cells|OGRPBCAM
+Ranvier's Nodes|D011901
+Reed-Sternberg Cells|D016539
+Renshaw Cells|D066293
+Reticulocytes|D012156
+Retinal Bipolar Cells|D051245
+Retinal Cone Photoreceptor Cells|D017949
+Retinal Ganglion Cells|D012165
+Retinal Horizontal Cells|D051248
+Retinal Neurons|D055351
+Retinal Photoreceptor Cell Inner Segment|D055211
+Retinal Photoreceptor Cell Outer Segment|D055214
+Retinal Rod Photoreceptor Cells|D017948
+Ribosomal Protein L10|OGRPBCAM
+Ribosome Subunits|D054657
+Ribosome Subunits, Large|D054658
+Ribosome Subunits, Large, Archaeal|D054748
+Ribosome Subunits, Large, Bacterial|D054681
+Ribosome Subunits, Large, Eukaryotic|D054683
+Ribosome Subunits, Small|D054679
+Ribosome Subunits, Small, Archaeal|D054749
+Ribosome Subunits, Small, Bacterial|D054680
+Ribosome Subunits, Small, Eukaryotic|D054682
+Ribosomes|D012270
+Ring Chromosomes|D012303
+Rod Cell Outer Segment|D012374
+Sarcolemma|D012508
+Sarcomeres|D012518
+Sarcoplasmic Reticulum|D012519
+Satellite Cells, Perineuronal|D027161
+Satellite Cells, Skeletal Muscle|D032496
+Schaffer Collaterals|OGRPBCAM
+Schizonts|D052939
+Schwann Cells|D012583
+Secretory Vesicles|D022142
+Sensory Receptor Cells|D011984
+Serotonergic Neurons|D059326
+Sertoli Cells|D012708
+Sex Chromatin|D012728
+Sex Chromosomes|D012730
+Sf9 Cells|D061987
+Shelterin Complex|OGRPBCAM
+Side-Population Cells|D058985
+Somatostatin-Secreting Cells|D019864
+Somatotrophs|D052683
+Sperm Head|D013077
+Sperm Midpiece|D032961
+Sperm Tail|D013082
+Spermatids|D013087
+Spermatocytes|D013090
+Spermatogonia|D013093
+Spermatozoa|D013094
+Spherocytes|D013102
+Spheroids, Cellular|D018874
+Spheroplasts|D013104
+Spindle Apparatus|D008941
+Spindle Pole Bodies|D064048
+Spindle Poles|D064047
+Spliceosomes|D017381
+Spores|D013170
+Spores, Bacterial|D013171
+Spores, Fungal|D013172
+Spores, Protozoan|D033761
+Sporozoites|D034101
+Stem Cells|D013234
+Stereocilia|D059547
+Stress Fibers|D022502
+Stress Granules|OGRPBCAM
+Stromal Cells|D017154
+Stromal Vascular Fraction|OGRPBCAM
+Subcellular Fractions|D013347
+Submitochondrial Particles|D013367
+Substantia Gelatinosa|D013376
+Suprachiasmatic Nucleus Neurons|OGRPBCAM
+Swiss 3T3 Cells|D041701
+Sympathetic Fibers, Postganglionic|D017779
+Synapses|D013569
+Synaptic Membranes|D013570
+Synaptic Vesicles|D013572
+Synaptonemal Complex|D013573
+Synaptosomes|D013574
+Synoviocytes|OGRPBCAM
+T Follicular Helper Cells|OGRPBCAM
+T-Lymphocyte Subsets|D016176
+T-Lymphocytes|D013601
+T-Lymphocytes, Cytotoxic|D013602
+T-Lymphocytes, Helper-Inducer|D006377
+T-Lymphocytes, Regulatory|D050378
+THP-1 Cells|OGRPBCAM
+Taste Buds|D013650
+Telocytes|OGRPBCAM
+Telomere|D016615
+Telomeric Repeat Binding Protein 1|D035321
+Telomeric Repeat Binding Protein 2|D035341
+Telopodes|OGRPBCAM
+Tenocytes|OGRPBCAM
+Th1 Cells|D018417
+Th17 Cells|D058504
+Th2 Cells|D018418
+Theca Cells|D013799
+Thermoreceptors|D013823
+Thylakoids|D020524
+Thymocytes|D060168
+Thyroid Epithelial Cells|OGRPBCAM
+Thyrotrophs|D052684
+Tight Junctions|D019108
+Totipotent Stem Cells|D039901
+Transport Vesicles|D022161
+Trichomes|D064201
+Trophoblasts|D014327
+Trophozoites|D053058
+Tuft Cells|OGRPBCAM
+Tumor Cells, Cultured|D014407
+Tumor-Associated Macrophages|OGRPBCAM
+U937 Cells|D020298
+Vacuoles|D014617
+Vero Cells|D014709
+Viral Replication Compartments|OGRPBCAM
+Weibel-Palade Bodies|D020302
+X Chromosome|D014960
+Y Chromosome|D014998
+Zona Pellucida|D015044
+Zygote|D015053
+trans-Golgi Network|D021601

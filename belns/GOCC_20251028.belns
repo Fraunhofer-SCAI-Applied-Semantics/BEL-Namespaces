@@ -1,0 +1,4080 @@
+
+[Namespace]
+Keyword=GOCC
+NameString=Gene Ontology (CC)
+DomainString=Gene and Gene Products
+VersionString=20251028
+CreatedDateTime=2025-10-28T10:20:09
+DescriptionString=The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes. - cellular_component
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=Gene Ontology (CC)
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+1,3-beta-D-glucan synthase complex|OGRPBCAM
+1-alkyl-2-acetylglycerophosphocholine esterase complex|OGRPBCAM
+2-(3-amino-3-carboxypropyl)histidine synthase complex|OGRPBCAM
+2-iminoacetate synthase complex|OGRPBCAM
+2-micrometer circle DNA|OGRPBCAM
+3-isopropylmalate dehydratase complex|OGRPBCAM
+3-phenylpropionate dioxygenase complex|OGRPBCAM
+3M complex|OGRPBCAM
+4-aminobutyrate transaminase complex|OGRPBCAM
+5-lipoxygenase complex|OGRPBCAM
+6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex|OGRPBCAM
+6-phosphofructokinase complex|OGRPBCAM
+7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase complex|OGRPBCAM
+7SK snRNP|OGRPBCAM
+9+0 motile cilium|OGRPBCAM
+9+0 non-motile cilium|OGRPBCAM
+9+2 motile cilium|OGRPBCAM
+9+2 non-motile cilium|OGRPBCAM
+90S preribosome|OGRPBCAM
+A axonemal microtubule|OGRPBCAM
+A band|OGRPBCAM
+ABIN2-NFKB1-MAP3K8 complex|OGRPBCAM
+ACF complex|OGRPBCAM
+ADA complex|OGRPBCAM
+ADPG pyrophosphorylase complex|OGRPBCAM
+AIM2 inflammasome complex|OGRPBCAM
+AIP1-IRE1 complex|OGRPBCAM
+AMPA glutamate receptor complex|OGRPBCAM
+ANPR-A receptor complex|OGRPBCAM
+AP-1 adaptor complex|OGRPBCAM
+AP-2 adaptor complex|OGRPBCAM
+AP-3 adaptor complex|OGRPBCAM
+AP-4 adaptor complex|OGRPBCAM
+AP-5 adaptor complex|OGRPBCAM
+AP-type membrane coat adaptor complex|OGRPBCAM
+APC-IQGAP complex|OGRPBCAM
+APC-IQGAP1-CLIP-170 complex|OGRPBCAM
+APC-IQGAP1-Cdc42 complex|OGRPBCAM
+APC-IQGAP1-Rac1 complex|OGRPBCAM
+APC-tubulin-IQGAP1 complex|OGRPBCAM
+ARC complex|OGRPBCAM
+ASAP complex|OGRPBCAM
+ATAC complex|OGRPBCAM
+ATF1-ATF4 transcription factor complex|OGRPBCAM
+ATF4-CREB1 transcription factor complex|OGRPBCAM
+ATG2-ATG18 complex|OGRPBCAM
+ATP-binding cassette (ABC) transporter complex|OGRPBCAM
+ATP-binding cassette (ABC) transporter complex, integrated substrate binding|OGRPBCAM
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing|OGRPBCAM
+ATP-binding cassette (ABC) transporter complex, transmembrane substrate-binding subunit-containing|OGRPBCAM
+ATP-dependent citrate lyase complex|OGRPBCAM
+ATP-independent citrate lyase complex|OGRPBCAM
+ATPase complex|OGRPBCAM
+ATPase dependent transmembrane transport complex|OGRPBCAM
+ATPase inhibitor complex|OGRPBCAM
+ATR-ATRIP complex|OGRPBCAM
+Aim21-Tda2 complex|OGRPBCAM
+AnxA2-p11 complex|OGRPBCAM
+Arp2/3 protein complex|OGRPBCAM
+Asi complex|OGRPBCAM
+Atg1/ULK1 kinase complex|OGRPBCAM
+Atg12-Atg5-Atg16 complex|OGRPBCAM
+B axonemal microtubule|OGRPBCAM
+B cell receptor complex|OGRPBCAM
+B-WICH complex|OGRPBCAM
+B800-820 antenna complex|OGRPBCAM
+B800-850 antenna complex|OGRPBCAM
+B875 antenna complex|OGRPBCAM
+BAD-BCL-2 complex|OGRPBCAM
+BAD-BCL-xl complex|OGRPBCAM
+BAK complex|OGRPBCAM
+BAT3 complex|OGRPBCAM
+BAX complex|OGRPBCAM
+BBSome|OGRPBCAM
+BCL-2 complex|OGRPBCAM
+BCOR complex|OGRPBCAM
+BID-BCL-2 complex|OGRPBCAM
+BID-BCL-xl complex|OGRPBCAM
+BIM-BCL-2 complex|OGRPBCAM
+BIM-BCL-xl complex|OGRPBCAM
+BLOC complex|OGRPBCAM
+BLOC-1 complex|OGRPBCAM
+BLOC-2 complex|OGRPBCAM
+BLOC-3 complex|OGRPBCAM
+BMP receptor complex|OGRPBCAM
+BORC complex|OGRPBCAM
+BRCA1-A complex|OGRPBCAM
+BRCA1-B complex|OGRPBCAM
+BRCA1-BARD1 complex|OGRPBCAM
+BRCA1-C complex|OGRPBCAM
+BRCA1-Rad51 complex|OGRPBCAM
+BRCA2-BRAF35 complex|OGRPBCAM
+BRCA2-MAGE-D1 complex|OGRPBCAM
+BRE1 E3 ubiquitin ligase complex|OGRPBCAM
+BRISC complex|OGRPBCAM
+Bam protein complex|OGRPBCAM
+Barr body|OGRPBCAM
+Bcl-2 family protein complex|OGRPBCAM
+Bcl3-Bcl10 complex|OGRPBCAM
+Bcl3/NF-kappaB2 complex|OGRPBCAM
+Bfa1-Bub2 complex|OGRPBCAM
+Bre1-Rad6 ubiquitin ligase complex|OGRPBCAM
+BtuCD complex|OGRPBCAM
+Bunina body|OGRPBCAM
+C bouton|OGRPBCAM
+C zone|OGRPBCAM
+C-fiber|OGRPBCAM
+C/EBP complex|OGRPBCAM
+C1 axonemal microtubule|OGRPBCAM
+C2 axonemal microtubule|OGRPBCAM
+CA3 pyramidal cell dendrite|OGRPBCAM
+CAAX-protein geranylgeranyltransferase complex|OGRPBCAM
+CAF-1 complex|OGRPBCAM
+CAK-ERCC2 complex|OGRPBCAM
+CARD8 inflammasome complex|OGRPBCAM
+CBF3 complex|OGRPBCAM
+CBM complex|OGRPBCAM
+CCAAT-binding factor complex|OGRPBCAM
+CCR4-NOT complex|OGRPBCAM
+CCR4-NOT core complex|OGRPBCAM
+CD19-Vav-PIK3R1 complex|OGRPBCAM
+CD20-Lck-Fyn complex|OGRPBCAM
+CD20-Lck-Lyn-Fyn complex|OGRPBCAM
+CD40 receptor complex|OGRPBCAM
+CD95 death-inducing signaling complex|OGRPBCAM
+CENP-A containing chromatin|OGRPBCAM
+CENP-A containing nucleosome|OGRPBCAM
+CENP-A recruiting complex|OGRPBCAM
+CENP-T-W-S-X complex|OGRPBCAM
+CERF complex|OGRPBCAM
+CFTR-NHERF-ezrin complex|OGRPBCAM
+CGRP receptor complex|OGRPBCAM
+CHD-type complex|OGRPBCAM
+CHOP-ATF3 complex|OGRPBCAM
+CHOP-ATF4 complex|OGRPBCAM
+CHOP-C/EBP complex|OGRPBCAM
+CHRAC|OGRPBCAM
+CKM complex|OGRPBCAM
+CLOCK-BMAL transcription complex|OGRPBCAM
+CLRC complex|OGRPBCAM
+CMG complex|OGRPBCAM
+CNTFR-CLCF1 complex|OGRPBCAM
+COMA complex|OGRPBCAM
+COP9 signalosome|OGRPBCAM
+COPI vesicle coat|OGRPBCAM
+COPI-coated Golgi to ER transport vesicle|OGRPBCAM
+COPI-coated inter-Golgi transport vesicle|OGRPBCAM
+COPI-coated vesicle|OGRPBCAM
+COPI-coated vesicle lumen|OGRPBCAM
+COPI-coated vesicle membrane|OGRPBCAM
+COPII vesicle coat|OGRPBCAM
+COPII vesicles tethering complex|OGRPBCAM
+COPII-coated ER to Golgi transport vesicle|OGRPBCAM
+COPII-coated vesicle lumen|OGRPBCAM
+CORVET complex|OGRPBCAM
+CRD-mediated mRNA stability complex|OGRPBCAM
+CRLF-CLCF1 complex|OGRPBCAM
+CROP complex|OGRPBCAM
+CSF1-CSF1R complex|OGRPBCAM
+CSK-GAP-A.p62 complex|OGRPBCAM
+CSL-Notch-Mastermind transcription factor complex|OGRPBCAM
+CST complex|OGRPBCAM
+CTDK-1 complex|OGRPBCAM
+CUE1-UBC7 ubiquitin-conjugating enzyme complex|OGRPBCAM
+CUGBP1-eIF2 complex|OGRPBCAM
+CURI complex|OGRPBCAM
+Cajal body|OGRPBCAM
+Casparian strip|OGRPBCAM
+CatSper complex|OGRPBCAM
+Cbf1-Met4-Met28 complex|OGRPBCAM
+Cbp3p-Cbp6 complex|OGRPBCAM
+Cdc24p-Far1p-Gbetagamma complex|OGRPBCAM
+Cdc42 GTPase complex|OGRPBCAM
+Cdc48p-Npl4p-Vms1p AAA ATPase complex|OGRPBCAM
+Cdc50p-Drs2p complex|OGRPBCAM
+Cdc73/Paf1 complex|OGRPBCAM
+Cdr2 medial cortical node complex|OGRPBCAM
+CoA-synthesizing protein complex|OGRPBCAM
+CoB-CoM heterodisulfide reductase complex|OGRPBCAM
+Cry-Per complex|OGRPBCAM
+Ctf18 RFC-like complex|OGRPBCAM
+Cul2-RING ubiquitin ligase complex|OGRPBCAM
+Cul3-RING ubiquitin ligase complex|OGRPBCAM
+Cul4-RING E3 ubiquitin ligase complex|OGRPBCAM
+Cul4A-RING E3 ubiquitin ligase complex|OGRPBCAM
+Cul4B-RING E3 ubiquitin ligase complex|OGRPBCAM
+Cul5-RING ubiquitin ligase complex|OGRPBCAM
+Cul7-RING ubiquitin ligase complex|OGRPBCAM
+Cul8-RING ubiquitin ligase complex|OGRPBCAM
+Cus cation efflux complex|OGRPBCAM
+Cvt complex|OGRPBCAM
+Cvt vesicle|OGRPBCAM
+Cvt vesicle membrane|OGRPBCAM
+Cyc8(Ssn6)-Tup1 general repressor complex|OGRPBCAM
+D-amino-acid dehydrogenase complex|OGRPBCAM
+DAPK1-calmodulin complex|OGRPBCAM
+DASH complex|OGRPBCAM
+DBIRD complex|OGRPBCAM
+DIM/DIP cell wall layer|OGRPBCAM
+DNA bending complex|OGRPBCAM
+DNA gyrase complex|OGRPBCAM
+DNA helicase A complex|OGRPBCAM
+DNA helicase complex|OGRPBCAM
+DNA ligase III-XRCC1 complex|OGRPBCAM
+DNA ligase IV complex|OGRPBCAM
+DNA methyltransferase complex|OGRPBCAM
+DNA polymerase III complex|OGRPBCAM
+DNA polymerase III, beta sliding clamp processivity factor complex|OGRPBCAM
+DNA polymerase III, clamp loader chi/psi subcomplex|OGRPBCAM
+DNA polymerase III, clamp loader complex|OGRPBCAM
+DNA polymerase III, core complex|OGRPBCAM
+DNA polymerase III, proofreading complex|OGRPBCAM
+DNA polymerase V complex|OGRPBCAM
+DNA polymerase complex|OGRPBCAM
+DNA polymerase processivity factor complex|OGRPBCAM
+DNA recombinase auxiliary factor complex|OGRPBCAM
+DNA recombinase complex|OGRPBCAM
+DNA recombinase mediator complex|OGRPBCAM
+DNA repair complex|OGRPBCAM
+DNA replication factor A complex|OGRPBCAM
+DNA replication factor C complex|OGRPBCAM
+DNA replication factor C core complex|OGRPBCAM
+DNA replication preinitiation complex|OGRPBCAM
+DNA replication termination region|OGRPBCAM
+DNA topoisomerase III-beta-TDRD3 complex|OGRPBCAM
+DNA topoisomerase IV complex|OGRPBCAM
+DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex|OGRPBCAM
+DNA-dependent protein kinase complex|OGRPBCAM
+DNA-dependent protein kinase-DNA ligase 4 complex|OGRPBCAM
+DNA-directed RNA polymerase complex|OGRPBCAM
+DPS complex|OGRPBCAM
+DRM complex|OGRPBCAM
+DSIF complex|OGRPBCAM
+DUBm complex|OGRPBCAM
+Dbf4-dependent protein kinase complex|OGRPBCAM
+Ddb1-Ckn1 complex|OGRPBCAM
+Ddb1-Wdr21 complex|OGRPBCAM
+Delta1 complex|OGRPBCAM
+Derlin-1 retrotranslocation complex|OGRPBCAM
+Derlin-1-VIMP complex|OGRPBCAM
+DiaA complex|OGRPBCAM
+DnaA-DiaA complex|OGRPBCAM
+DnaA-DnaB-DnaC complex|OGRPBCAM
+DnaA-Dps complex|OGRPBCAM
+DnaA-HU complex|OGRPBCAM
+DnaA-Hda complex|OGRPBCAM
+DnaA-L2 complex|OGRPBCAM
+DnaA-oriC complex|OGRPBCAM
+DnaB helicase complex|OGRPBCAM
+DnaB-DnaC complex|OGRPBCAM
+DnaB-DnaC-DnaT-PriA-PriB complex|OGRPBCAM
+DnaB-DnaC-DnaT-PriA-PriC complex|OGRPBCAM
+DnaB-DnaC-Rep-PriC complex|OGRPBCAM
+DnaB-DnaG complex|OGRPBCAM
+Doa10p ubiquitin ligase complex|OGRPBCAM
+Dom34-Hbs1 complex|OGRPBCAM
+Dsc E3 ubiquitin ligase complex|OGRPBCAM
+Dsl1/NZR complex|OGRPBCAM
+Dxr protein complex|OGRPBCAM
+E.F.G complex|OGRPBCAM
+EARP complex|OGRPBCAM
+EDS1 disease-resistance complex|OGRPBCAM
+EFF-1 complex|OGRPBCAM
+EGFR-Grb2-Sos complex|OGRPBCAM
+EGFR-Shc-Grb2-Sos complex|OGRPBCAM
+EGFR:ERBB2 complex|OGRPBCAM
+EKC/KEOPS complex|OGRPBCAM
+EMC complex|OGRPBCAM
+EMILIN complex|OGRPBCAM
+ER body|OGRPBCAM
+ER membrane insertion complex|OGRPBCAM
+ER to Golgi transport vesicle membrane|OGRPBCAM
+ER ubiquitin ligase complex|OGRPBCAM
+ER-to-endosome phospholipid transfer complex|OGRPBCAM
+ERBB3:ERBB2 complex|OGRPBCAM
+ERBB4-EGFR complex|OGRPBCAM
+ERBB4-ERBB3 complex|OGRPBCAM
+ERBB4-ERBB4 complex|OGRPBCAM
+ERBB4:ERBB2 complex|OGRPBCAM
+ERCC4-ERCC1 complex|OGRPBCAM
+ERMES complex|OGRPBCAM
+ESC/E(Z) complex|OGRPBCAM
+ESCRT I complex|OGRPBCAM
+ESCRT II complex|OGRPBCAM
+ESCRT III complex|OGRPBCAM
+ESCRT IV complex|OGRPBCAM
+ESCRT complex|OGRPBCAM
+ESCRT-0 complex|OGRPBCAM
+EXT1-EXT2 complex|OGRPBCAM
+Ecsit-NDUFAF1 complex|OGRPBCAM
+Elg1 RFC-like complex|OGRPBCAM
+EmrE multidrug transporter complex|OGRPBCAM
+F bouton|OGRPBCAM
+F-actin capping protein complex|OGRPBCAM
+FACIT collagen complex|OGRPBCAM
+FACIT collagen trimer|OGRPBCAM
+FACT complex|OGRPBCAM
+FAL1-SGD1 complex|OGRPBCAM
+FANCM-MHF complex|OGRPBCAM
+FAR/SIN/STRIPAK complex|OGRPBCAM
+FERRY complex|OGRPBCAM
+FHF complex|OGRPBCAM
+FHL2-CREB complex|OGRPBCAM
+FHL3-CREB complex|OGRPBCAM
+FMN reductase complex|OGRPBCAM
+FMRP-CYFIP1 complex|OGRPBCAM
+FNIP-folliculin RagC/D GAP|OGRPBCAM
+Fanconi anaemia nuclear complex|OGRPBCAM
+Fc receptor complex|OGRPBCAM
+Fc-alpha receptor I complex|OGRPBCAM
+Fc-epsilon receptor I complex|OGRPBCAM
+Fc-gamma receptor I complex|OGRPBCAM
+Fc-gamma receptor III complex|OGRPBCAM
+Flemming body|OGRPBCAM
+FtsBL complex|OGRPBCAM
+FtsQBL complex|OGRPBCAM
+Fused-Smurf ubiquitin ligase complex|OGRPBCAM
+G protein-coupled GABA receptor complex|OGRPBCAM
+G protein-coupled receptor complex|OGRPBCAM
+G protein-coupled receptor dimeric complex|OGRPBCAM
+G protein-coupled receptor heterodimeric complex|OGRPBCAM
+G protein-coupled receptor homodimeric complex|OGRPBCAM
+G protein-coupled serotonin receptor complex|OGRPBCAM
+G-protein alpha(13)-synembrin complex|OGRPBCAM
+G-protein alpha(i)1-synembrin complex|OGRPBCAM
+G-protein alpha(o)-synembrin complex|OGRPBCAM
+G-protein alpha(q)-synembrin complex|OGRPBCAM
+G-protein beta/gamma-Btk complex|OGRPBCAM
+G-protein beta/gamma-Raf-1 complex|OGRPBCAM
+G-protein beta/gamma-subunit complex|OGRPBCAM
+GABA receptor complex|OGRPBCAM
+GABA-A receptor complex|OGRPBCAM
+GABA-ergic synapse|OGRPBCAM
+GAIT complex|OGRPBCAM
+GARP complex|OGRPBCAM
+GATA1-TAL1-TCF3-Lmo2 complex|OGRPBCAM
+GATA2-TAL1-TCF3-Lmo2 complex|OGRPBCAM
+GATOR1 complex|OGRPBCAM
+GATOR2 complex|OGRPBCAM
+GBAF complex|OGRPBCAM
+GCH1 complex|OGRPBCAM
+GDP-mannose pyrophosphorylase complex|OGRPBCAM
+GET complex|OGRPBCAM
+GID complex|OGRPBCAM
+GINS complex|OGRPBCAM
+GLI-SUFU complex|OGRPBCAM
+GMP reductase complex|OGRPBCAM
+GPI-anchor transamidase complex|OGRPBCAM
+GTPBP3-MTO1 complex|OGRPBCAM
+GTPase activator complex|OGRPBCAM
+GTPase complex|OGRPBCAM
+GW body|OGRPBCAM
+Gemin3-Gemin4-Gemin5 complex|OGRPBCAM
+Gemin6-Gemin7-unrip complex|OGRPBCAM
+Gemini of Cajal bodies|OGRPBCAM
+Gin4 complex|OGRPBCAM
+Golgi apparatus|OGRPBCAM
+Golgi apparatus subcompartment|OGRPBCAM
+Golgi cis cisterna|OGRPBCAM
+Golgi cis cisterna membrane|OGRPBCAM
+Golgi cisterna|OGRPBCAM
+Golgi cisterna membrane|OGRPBCAM
+Golgi lumen|OGRPBCAM
+Golgi medial cisterna|OGRPBCAM
+Golgi medial cisterna membrane|OGRPBCAM
+Golgi membrane|OGRPBCAM
+Golgi stack|OGRPBCAM
+Golgi stack lumen|OGRPBCAM
+Golgi to ER transport vesicle membrane|OGRPBCAM
+Golgi to plasma membrane transport vesicle|OGRPBCAM
+Golgi trans cisterna|OGRPBCAM
+Golgi trans cisterna membrane|OGRPBCAM
+Golgi transport complex|OGRPBCAM
+Golgi-associated vesicle|OGRPBCAM
+Golgi-associated vesicle lumen|OGRPBCAM
+Golgi-associated vesicle membrane|OGRPBCAM
+Gram-negative-bacterium-type cell wall|OGRPBCAM
+Gram-positive-bacterium-type cell wall|OGRPBCAM
+Grb2-EGFR complex|OGRPBCAM
+Grb2-SHP-2 complex|OGRPBCAM
+Grb2-Shc complex|OGRPBCAM
+Grb2-Sos complex|OGRPBCAM
+GroEL-GroES complex|OGRPBCAM
+Gtr1-Gtr2 GTPase complex|OGRPBCAM
+H zone|OGRPBCAM
+H-NS complex|OGRPBCAM
+H-NS-Cnu complex|OGRPBCAM
+H-NS-Hha complex|OGRPBCAM
+H-gal-GP complex|OGRPBCAM
+H3 histone acetyltransferase complex|OGRPBCAM
+H4 histone acetyltransferase complex|OGRPBCAM
+H4/H2A histone acetyltransferase complex|OGRPBCAM
+HAUS complex|OGRPBCAM
+HCN channel complex|OGRPBCAM
+HDA1 complex|OGRPBCAM
+HDL-containing protein-lipid-RNA complex|OGRPBCAM
+HFE-transferrin receptor complex|OGRPBCAM
+HICS complex|OGRPBCAM
+HIR complex|OGRPBCAM
+HOPS complex|OGRPBCAM
+HSP90-CDC37 chaperone complex|OGRPBCAM
+HU-DNA complex|OGRPBCAM
+HULC complex|OGRPBCAM
+HUSH complex|OGRPBCAM
+HUSH2 complex|OGRPBCAM
+Hda-beta clamp complex|OGRPBCAM
+Hechtian strand|OGRPBCAM
+Hedgehog signaling complex|OGRPBCAM
+Herring body|OGRPBCAM
+Holliday junction helicase complex|OGRPBCAM
+Holliday junction resolvase complex|OGRPBCAM
+Hpa2 acetyltransferase complex|OGRPBCAM
+Hrd1p ubiquitin ligase ERAD-L complex|OGRPBCAM
+Hrd1p ubiquitin ligase ERAD-M complex|OGRPBCAM
+Hrd1p ubiquitin ligase complex|OGRPBCAM
+HslUV protease complex|OGRPBCAM
+I band|OGRPBCAM
+I(KACh) inward rectifier potassium channel complex|OGRPBCAM
+I-kappaB/NF-kappaB complex|OGRPBCAM
+IHF-DNA complex|OGRPBCAM
+IKKalpha-IKKalpha complex|OGRPBCAM
+INA complex|OGRPBCAM
+INO80-type complex|OGRPBCAM
+INTAC complex|OGRPBCAM
+IPAF inflammasome complex|OGRPBCAM
+IRE1-RACK1-PP2A complex|OGRPBCAM
+IRE1-TRAF2-ASK1 complex|OGRPBCAM
+ISGF3 complex|OGRPBCAM
+ISWI-type complex|OGRPBCAM
+Ig heavy chain-bound endoplasmic reticulum chaperone complex|OGRPBCAM
+IgA B cell receptor complex|OGRPBCAM
+IgA immunoglobulin complex|OGRPBCAM
+IgA immunoglobulin complex, circulating|OGRPBCAM
+IgD B cell receptor complex|OGRPBCAM
+IgD immunoglobulin complex|OGRPBCAM
+IgD immunoglobulin complex, GPI-anchored|OGRPBCAM
+IgD immunoglobulin complex, circulating|OGRPBCAM
+IgE B cell receptor complex|OGRPBCAM
+IgE immunoglobulin complex|OGRPBCAM
+IgE immunoglobulin complex, circulating|OGRPBCAM
+IgG B cell receptor complex|OGRPBCAM
+IgG immunoglobulin complex|OGRPBCAM
+IgG immunoglobulin complex, circulating|OGRPBCAM
+IgM B cell receptor complex|OGRPBCAM
+IgM immunoglobulin complex|OGRPBCAM
+IgM immunoglobulin complex, circulating|OGRPBCAM
+IgW immunoglobulin complex|OGRPBCAM
+IgX immunoglobulin complex|OGRPBCAM
+IgY immunoglobulin complex|OGRPBCAM
+IgZ immunoglobulin complex|OGRPBCAM
+IkappaB kinase complex|OGRPBCAM
+Ino80 complex|OGRPBCAM
+Ire1 complex|OGRPBCAM
+IscS-IscU complex|OGRPBCAM
+IscS-TusA complex|OGRPBCAM
+Isp3 layer of spore wall|OGRPBCAM
+Isw1 complex|OGRPBCAM
+Isw1a complex|OGRPBCAM
+Isw1b complex|OGRPBCAM
+KICSTOR complex|OGRPBCAM
+Kelch-containing formin regulatory complex|OGRPBCAM
+Kibra-Ex-Mer complex|OGRPBCAM
+Kir2 inward rectifier potassium channel complex|OGRPBCAM
+Knl1/Spc105 complex|OGRPBCAM
+Ku-DNA ligase complex|OGRPBCAM
+Ku70:Ku80 complex|OGRPBCAM
+Kv4.1-DPP10 channel complex|OGRPBCAM
+Kv4.1-DPP6 channel complex|OGRPBCAM
+Kv4.2-DPP6 channel complex|OGRPBCAM
+Kv4.2-KChIP1 channel complex|OGRPBCAM
+Kv4.2-KChIP2 channel complex|OGRPBCAM
+Kv4.2-KChIP3 channel complex|OGRPBCAM
+Kv4.2-KChIP4 channel complex|OGRPBCAM
+Kv4.2-Kv4.3 channel complex|OGRPBCAM
+Kv4.3-DPP10 channel complex|OGRPBCAM
+Kv4.3-DPP6 channel complex|OGRPBCAM
+Kv4.3-KChIP1 channel complex|OGRPBCAM
+L-cysteine desulfurase complex|OGRPBCAM
+L-type voltage-gated calcium channel complex|OGRPBCAM
+LDL-containing protein-lipid-RNA complex|OGRPBCAM
+LUBAC complex|OGRPBCAM
+LYSP100-associated nuclear domain|OGRPBCAM
+Las1 complex|OGRPBCAM
+Lewy body|OGRPBCAM
+Lewy body core|OGRPBCAM
+Lewy body corona|OGRPBCAM
+Lewy body-like hyaline inclusion|OGRPBCAM
+Lewy neurite|OGRPBCAM
+Lid2 complex|OGRPBCAM
+LinE complex|OGRPBCAM
+Lsd1/2 complex|OGRPBCAM
+Lsm-containing SMN-Sm protein complex|OGRPBCAM
+Lsm1-7-Pat1 complex|OGRPBCAM
+Lsm2-8 complex|OGRPBCAM
+M band|OGRPBCAM
+M/G1 phase-specific MADS box-forkhead transcription factor complex|OGRPBCAM
+MAD1 complex|OGRPBCAM
+MAML1-RBP-Jkappa- ICN1 complex|OGRPBCAM
+MAML2-RBP-Jkappa-ICN1 complex|OGRPBCAM
+MAML2-RBP-Jkappa-ICN2 complex|OGRPBCAM
+MAML2-RBP-Jkappa-ICN3 complex|OGRPBCAM
+MAML2-RBP-Jkappa-ICN4 complex|OGRPBCAM
+MAML3-RBP-Jkappa-ICN1 complex|OGRPBCAM
+MAML3-RBP-Jkappa-ICN2 complex|OGRPBCAM
+MAML3-RBP-Jkappa-ICN3 complex|OGRPBCAM
+MAML3-RBP-Jkappa-ICN4 complex|OGRPBCAM
+MBF transcription complex|OGRPBCAM
+MCM complex|OGRPBCAM
+MCM core complex|OGRPBCAM
+MCM8-MCM9 complex|OGRPBCAM
+MECO complex|OGRPBCAM
+MHC class I peptide loading complex|OGRPBCAM
+MHC class I protein complex|OGRPBCAM
+MHC class II protein complex|OGRPBCAM
+MHC class Ib protein complex|OGRPBCAM
+MHC protein complex|OGRPBCAM
+MIB complex|OGRPBCAM
+MICOS complex|OGRPBCAM
+MIH complex|OGRPBCAM
+MIM complex|OGRPBCAM
+MIS12/MIND type complex|OGRPBCAM
+MKS complex|OGRPBCAM
+MLL1 complex|OGRPBCAM
+MLL1/2 complex|OGRPBCAM
+MLL3/4 complex|OGRPBCAM
+MMXD complex|OGRPBCAM
+MOZ/MORF histone acetyltransferase complex|OGRPBCAM
+MPF complex|OGRPBCAM
+MPP7-DLG1-LIN7 complex|OGRPBCAM
+MSL complex|OGRPBCAM
+MTREC complex|OGRPBCAM
+MUB1-RAD6-UBR2 ubiquitin ligase complex|OGRPBCAM
+MWP complex|OGRPBCAM
+MacAB-TolC complex|OGRPBCAM
+Mad-Max complex|OGRPBCAM
+Mad-Max-mSin3A complex|OGRPBCAM
+Mad-Max-mSin3B complex|OGRPBCAM
+MalFGK2 complex|OGRPBCAM
+Maurer's cleft|OGRPBCAM
+Mcs4 RR-MAPKKK complex|OGRPBCAM
+MdtBC Complex|OGRPBCAM
+Mei2 nuclear dot complex|OGRPBCAM
+Mis6-Sim4 complex|OGRPBCAM
+ModE complex|OGRPBCAM
+Mon1-Ccz1 complex|OGRPBCAM
+Mpp10 complex|OGRPBCAM
+Mre11 complex|OGRPBCAM
+Mrh5C translation activator complex|OGRPBCAM
+MsbA transporter complex|OGRPBCAM
+Mst2 histone acetyltransferase complex|OGRPBCAM
+MutLalpha complex|OGRPBCAM
+MutLbeta complex|OGRPBCAM
+MutLgamma complex|OGRPBCAM
+MutS complex|OGRPBCAM
+MutSalpha complex|OGRPBCAM
+MutSbeta complex|OGRPBCAM
+MutSgamma complex|OGRPBCAM
+Myb complex|OGRPBCAM
+Myc-Max complex|OGRPBCAM
+Myo2p-Vac17p-Vac8p transport complex|OGRPBCAM
+N-terminal protein acetyltransferase complex|OGRPBCAM
+NAD(P)H dehydrogenase complex (plastoquinone)|OGRPBCAM
+NADH dehydrogenase complex|OGRPBCAM
+NADH dehydrogenase complex (plastoquinone)|OGRPBCAM
+NADPH oxidase complex|OGRPBCAM
+NAE1-UBA3 complex|OGRPBCAM
+NAGS/NAGK complex|OGRPBCAM
+NELF complex|OGRPBCAM
+NF-kappaB complex|OGRPBCAM
+NF-kappaB p50/p65 complex|OGRPBCAM
+NHE3/E3KARP/ACTN4 complex|OGRPBCAM
+NLRP1 inflammasome complex|OGRPBCAM
+NLRP3 inflammasome complex|OGRPBCAM
+NLRP6 inflammasome complex|OGRPBCAM
+NLS-dependent protein nuclear import complex|OGRPBCAM
+NMDA selective glutamate receptor complex|OGRPBCAM
+NOS2-CD74 complex|OGRPBCAM
+NOXA-BCL-2 complex|OGRPBCAM
+NOXA-BCL-xl complex|OGRPBCAM
+NPHP complex|OGRPBCAM
+NSL complex|OGRPBCAM
+NURF complex|OGRPBCAM
+NVT complex|OGRPBCAM
+NarGHI complex|OGRPBCAM
+NatA complex|OGRPBCAM
+NatB complex|OGRPBCAM
+NatC complex|OGRPBCAM
+Ndc80 complex|OGRPBCAM
+Nebenkern|OGRPBCAM
+Nem1-Spo7 phosphatase complex|OGRPBCAM
+Nicalin-NOMO complex|OGRPBCAM
+Nkx-2.5 complex|OGRPBCAM
+NoRC complex|OGRPBCAM
+Noc complex|OGRPBCAM
+Noc1p-Noc2p complex|OGRPBCAM
+Noc2p-Noc3p complex|OGRPBCAM
+Noc4p-Nop14p complex|OGRPBCAM
+Nrd1 complex|OGRPBCAM
+Nsk1-Dlc1 complex|OGRPBCAM
+NuA3 histone acetyltransferase complex|OGRPBCAM
+NuA3a histone acetyltransferase complex|OGRPBCAM
+NuA3b histone acetyltransferase complex|OGRPBCAM
+NuA4 histone acetyltransferase complex|OGRPBCAM
+NuRD complex|OGRPBCAM
+Ost-alpha/Ost-beta complex|OGRPBCAM
+P granule|OGRPBCAM
+P-TEFb complex|OGRPBCAM
+P-TEFb-cap methyltransferase complex|OGRPBCAM
+P-body|OGRPBCAM
+P1 peroxisome|OGRPBCAM
+P2 peroxisome|OGRPBCAM
+P3 peroxisome|OGRPBCAM
+P4 peroxisome|OGRPBCAM
+P5 peroxisome|OGRPBCAM
+P6 peroxisome|OGRPBCAM
+PAK family kinase-Sog2 complex|OGRPBCAM
+PAM complex, Tim23 associated import motor|OGRPBCAM
+PAN complex|OGRPBCAM
+PAR polarity complex|OGRPBCAM
+PAS complex|OGRPBCAM
+PAT complex|OGRPBCAM
+PCNA complex|OGRPBCAM
+PCNA-p21 complex|OGRPBCAM
+PCSK9-AnxA2 complex|OGRPBCAM
+PCSK9-LDLR complex|OGRPBCAM
+PDX1-PBX1b-MRG1 complex|OGRPBCAM
+PET complex|OGRPBCAM
+PKM2 protein kinase complex|OGRPBCAM
+PKM2 pyruvate kinase complex|OGRPBCAM
+PML body|OGRPBCAM
+PNGase complex|OGRPBCAM
+PR-DUB complex|OGRPBCAM
+PRC1 complex|OGRPBCAM
+PSI associated light-harvesting complex I|OGRPBCAM
+PSI associated light-harvesting complex I, LHCIa subcomplex|OGRPBCAM
+PSI associated light-harvesting complex I, LHCIb subcomplex|OGRPBCAM
+PSII associated light-harvesting complex II|OGRPBCAM
+PSII associated light-harvesting complex II, core complex|OGRPBCAM
+PSII associated light-harvesting complex II, peripheral complex|OGRPBCAM
+PSII associated light-harvesting complex II, peripheral complex, LHCIIb subcomplex|OGRPBCAM
+PTEN phosphatase complex|OGRPBCAM
+PTEX complex|OGRPBCAM
+PTW/PP1 phosphatase complex|OGRPBCAM
+PUMA-BCL-2 complex|OGRPBCAM
+PUMA-BCL-xl complex|OGRPBCAM
+PYM-mago-Y14 complex|OGRPBCAM
+Par3-APC-KIF3A complex|OGRPBCAM
+Parkin-FBXW7-Cul1 ubiquitin ligase complex|OGRPBCAM
+PcG protein complex|OGRPBCAM
+PeBoW complex|OGRPBCAM
+Pho85-Pho80 CDK-cyclin complex|OGRPBCAM
+Pi Mi complex|OGRPBCAM
+Pick body|OGRPBCAM
+Pip2-Oaf1 complex|OGRPBCAM
+ProVWX complex|OGRPBCAM
+Prp19 complex|OGRPBCAM
+Pwp2p-containing subcomplex of 90S preribosome|OGRPBCAM
+R2TP complex|OGRPBCAM
+RAD52-ERCC4-ERCC1 complex|OGRPBCAM
+RAD6-UBR2 ubiquitin ligase complex|OGRPBCAM
+RAVE complex|OGRPBCAM
+RC-1 DNA recombination complex|OGRPBCAM
+RCAF complex|OGRPBCAM
+RENT complex|OGRPBCAM
+RES complex|OGRPBCAM
+RGS6-DNMT1-DMAP1 complex|OGRPBCAM
+RISC complex|OGRPBCAM
+RISC-loading complex|OGRPBCAM
+RITS complex|OGRPBCAM
+RNA N6-methyladenosine methyltransferase complex|OGRPBCAM
+RNA cap binding complex|OGRPBCAM
+RNA decapping complex|OGRPBCAM
+RNA nuclear export complex|OGRPBCAM
+RNA polymerase I complex|OGRPBCAM
+RNA polymerase I core factor complex|OGRPBCAM
+RNA polymerase I transcription regulator complex|OGRPBCAM
+RNA polymerase I transcription repressor complex|OGRPBCAM
+RNA polymerase I upstream activating factor complex|OGRPBCAM
+RNA polymerase II termination complex|OGRPBCAM
+RNA polymerase II transcription regulator complex|OGRPBCAM
+RNA polymerase II transcription repressor complex|OGRPBCAM
+RNA polymerase II, core complex|OGRPBCAM
+RNA polymerase II, holoenzyme|OGRPBCAM
+RNA polymerase III complex|OGRPBCAM
+RNA polymerase III transcription regulator complex|OGRPBCAM
+RNA polymerase III transcription repressor complex|OGRPBCAM
+RNA polymerase IV complex|OGRPBCAM
+RNA polymerase IV transcription regulator complex|OGRPBCAM
+RNA polymerase IV transcription repressor complex|OGRPBCAM
+RNA polymerase V complex|OGRPBCAM
+RNA polymerase V transcription regulator complex|OGRPBCAM
+RNA polymerase V transcription repressor complex|OGRPBCAM
+RNA polymerase complex|OGRPBCAM
+RNA polymerase transcription factor SL1 complex|OGRPBCAM
+RNA-directed RNA polymerase complex|OGRPBCAM
+RNAi effector complex|OGRPBCAM
+RNP body|OGRPBCAM
+RPAP3/R2TP/prefoldin-like complex|OGRPBCAM
+RPB4-RPB7 complex|OGRPBCAM
+RQC complex|OGRPBCAM
+RQC-trigger complex|OGRPBCAM
+RSC-type complex|OGRPBCAM
+RSF complex|OGRPBCAM
+RSP5-BUL ubiquitin ligase complex|OGRPBCAM
+RZZ complex|OGRPBCAM
+Rab-protein geranylgeranyltransferase complex|OGRPBCAM
+Rad17 RFC-like complex|OGRPBCAM
+Rad51B-Rad51C complex|OGRPBCAM
+Rad51B-Rad51C-Rad51D-XRCC2 complex|OGRPBCAM
+Rad51C-XRCC3 complex|OGRPBCAM
+Rad6-Rad18 complex|OGRPBCAM
+Ragulator complex|OGRPBCAM
+Ras guanyl-nucleotide exchange factor complex|OGRPBCAM
+RasGAP-Fyn-Lyn-Yes complex|OGRPBCAM
+Rb-E2F complex|OGRPBCAM
+RecFOR complex|OGRPBCAM
+RecQ family helicase-topoisomerase III complex|OGRPBCAM
+Rhino-Deadlock-Cutoff Complex|OGRPBCAM
+Ric1-Rgp1 guanyl-nucleotide exchange factor complex|OGRPBCAM
+Rpd3L complex|OGRPBCAM
+Rpd3L-Expanded complex|OGRPBCAM
+Rpd3S complex|OGRPBCAM
+Rvs161p-Rvs167p complex|OGRPBCAM
+S bouton|OGRPBCAM
+S-layer|OGRPBCAM
+S100A8 complex|OGRPBCAM
+S100A9 complex|OGRPBCAM
+SAGA complex|OGRPBCAM
+SAGA-type complex|OGRPBCAM
+SAM complex|OGRPBCAM
+SAS acetyltransferase complex|OGRPBCAM
+SBF transcription complex|OGRPBCAM
+SC5b-7 complex|OGRPBCAM
+SCAR complex|OGRPBCAM
+SCF ubiquitin ligase complex|OGRPBCAM
+SCF-Cdc4 ubiquitin ligase complex|OGRPBCAM
+SCF-Ctf13 ubiquitin ligase complex|OGRPBCAM
+SCF-Das1 ubiquitin ligase complex|OGRPBCAM
+SCF-Dia2/Pof3 ubiquitin ligase complex|OGRPBCAM
+SCF-Grr1/Pof2 ubiquitin ligase complex|OGRPBCAM
+SCF-Hrt3/Pof7 ubiquitin ligase complex|OGRPBCAM
+SCF-Mdm30 ubiquitin ligase complex|OGRPBCAM
+SCF-Met30/Pof1 ubiquitin ligase complex|OGRPBCAM
+SCF-Pof5 ubiquitin ligase complex|OGRPBCAM
+SCF-Rcy1/Pof6 ubiquitin ligase complex|OGRPBCAM
+SCF-Saf1/Pof9 ubiquitin ligase complex|OGRPBCAM
+SCF-Skp2 ubiquitin ligase complex|OGRPBCAM
+SCF-Ucc1 ubiquitin ligase complex|OGRPBCAM
+SCF-Ufo1/Pof10 ubiquitin ligase complex|OGRPBCAM
+SCF-YDR131C ubiquitin ligase complex|OGRPBCAM
+SCF-YLR352W ubiquitin ligase complex|OGRPBCAM
+SHREC complex|OGRPBCAM
+SIN/MEN signaling complex|OGRPBCAM
+SKA complex|OGRPBCAM
+SL snRNP|OGRPBCAM
+SLAC complex|OGRPBCAM
+SLIK (SAGA-like) complex|OGRPBCAM
+SMAD protein complex|OGRPBCAM
+SMC loading complex|OGRPBCAM
+SMN complex|OGRPBCAM
+SMN-Gemin2 complex|OGRPBCAM
+SMN-Sm protein complex|OGRPBCAM
+SNARE complex|OGRPBCAM
+SOD1-Bcl-2 complex|OGRPBCAM
+SOD1-calcineurin complex|OGRPBCAM
+SOSS complex|OGRPBCAM
+SREBP-SCAP complex|OGRPBCAM
+SREBP-SCAP-Insig complex|OGRPBCAM
+SRF-myogenin-E12 complex|OGRPBCAM
+STING complex|OGRPBCAM
+SUMO activating enzyme complex|OGRPBCAM
+SUMO ligase complex|OGRPBCAM
+SUMO-targeted ubiquitin ligase complex|OGRPBCAM
+SWI/SNF complex|OGRPBCAM
+SWI/SNF superfamily-type complex|OGRPBCAM
+Sad1-Kms1 LINC complex|OGRPBCAM
+Scc2-Scc4 cohesin loading complex|OGRPBCAM
+Schaffer axon collateral|OGRPBCAM
+Schaffer collateral - CA1 synapse|OGRPBCAM
+Schmidt-Lanterman incisure|OGRPBCAM
+Schwann cell microvillus|OGRPBCAM
+Scrib-APC complex|OGRPBCAM
+Scrib-APC-beta-catenin complex|OGRPBCAM
+Sec61 translocon complex|OGRPBCAM
+Sec62/Sec63 complex|OGRPBCAM
+Seh1-associated complex|OGRPBCAM
+SeqA-DNA complex|OGRPBCAM
+Set1C/COMPASS complex|OGRPBCAM
+Set3 complex|OGRPBCAM
+Shc-EGFR complex|OGRPBCAM
+Shc-Grb2-Sos complex|OGRPBCAM
+Shu complex|OGRPBCAM
+Sid2-Mob1 complex|OGRPBCAM
+Sin3-type complex|OGRPBCAM
+Ski complex|OGRPBCAM
+Slit-Robo signaling complex|OGRPBCAM
+Slx1-Slx4 complex|OGRPBCAM
+Sm-like protein family complex|OGRPBCAM
+SmD-containing SMN-Sm protein complex|OGRPBCAM
+Smc5-Smc6 complex|OGRPBCAM
+Smp focus|OGRPBCAM
+Snt2C complex|OGRPBCAM
+Ssh1 translocon complex|OGRPBCAM
+SsuD-SsuE complex|OGRPBCAM
+Ste12p-Dig1p-Dig2p complex|OGRPBCAM
+Swi5-Sfr1 complex|OGRPBCAM
+Swi5-Swi2 complex|OGRPBCAM
+Swr1 complex|OGRPBCAM
+Syp1 complex|OGRPBCAM
+T cell receptor complex|OGRPBCAM
+T-bar|OGRPBCAM
+T-tubule|OGRPBCAM
+T=1 icosahedral viral capsid|OGRPBCAM
+T=13 icosahedral viral capsid|OGRPBCAM
+T=147 icosahedral capsid|OGRPBCAM
+T=16 icosahedral viral capsid|OGRPBCAM
+T=169 icosahedral viral capsid|OGRPBCAM
+T=2 icosahedral viral capsid|OGRPBCAM
+T=21/pseudo21 icosahedral capsid|OGRPBCAM
+T=219 icosahedral capsid|OGRPBCAM
+T=25 icosahedral viral capsid|OGRPBCAM
+T=27/pseudo27 icosahedral capsid|OGRPBCAM
+T=28 icosahedral capsid|OGRPBCAM
+T=3 icosahedral viral capsid|OGRPBCAM
+T=31/pseudo31 icosahedral capsid|OGRPBCAM
+T=4 icosahedral viral capsid|OGRPBCAM
+T=7 icosahedral viral capsid|OGRPBCAM
+T=9 icosahedral viral capsid|OGRPBCAM
+T=pseudo3 icosahedral viral capsid|OGRPBCAM
+TACC/TOG complex|OGRPBCAM
+TAF4B-containing transcription factor TFIID complex|OGRPBCAM
+TAM protein secretion complex|OGRPBCAM
+TAP complex|OGRPBCAM
+TAT protein transport complex|OGRPBCAM
+TBK1-IKKE-DDX3 complex|OGRPBCAM
+TCR signalosome|OGRPBCAM
+TEAD-YAP complex|OGRPBCAM
+TERT-RMRP complex|OGRPBCAM
+TFIIIC-TOP1-SUB1 complex|OGRPBCAM
+THO complex|OGRPBCAM
+THO complex part of transcription export complex|OGRPBCAM
+TIM22 mitochondrial import inner membrane insertion complex|OGRPBCAM
+TIM23 mitochondrial import inner membrane translocase complex|OGRPBCAM
+TIS granule|OGRPBCAM
+TMEM240-body|OGRPBCAM
+TOC-TIC supercomplex I|OGRPBCAM
+TOM complex|OGRPBCAM
+TOR complex|OGRPBCAM
+TORC1 complex|OGRPBCAM
+TORC2 complex|OGRPBCAM
+TRAF2-GSTP1 complex|OGRPBCAM
+TRAIL death-inducing signaling complex|OGRPBCAM
+TRAMP complex|OGRPBCAM
+TRAPP complex|OGRPBCAM
+TRAPPI protein complex|OGRPBCAM
+TRAPPII protein complex|OGRPBCAM
+TRAPPIII protein complex|OGRPBCAM
+TRC complex|OGRPBCAM
+TSC1-TSC2 complex|OGRPBCAM
+TTT Hsp90 cochaperone complex|OGRPBCAM
+Tapasin-ERp57 complex|OGRPBCAM
+Tea1 cell-end complex|OGRPBCAM
+Tec1p-Ste12p-Dig1p complex|OGRPBCAM
+Tic complex|OGRPBCAM
+Tle3-Aes complex|OGRPBCAM
+Toc complex|OGRPBCAM
+Toll-like receptor 1-Toll-like receptor 2 protein complex|OGRPBCAM
+Toll-like receptor 2-Toll-like receptor 6 protein complex|OGRPBCAM
+Tor2-Mei2-Ste11 complex|OGRPBCAM
+Tpg-containing telomere binding complex|OGRPBCAM
+U1 snRNP|OGRPBCAM
+U11 snRNP|OGRPBCAM
+U11/U12 snRNP|OGRPBCAM
+U12 snRNP|OGRPBCAM
+U12-type catalytic step 1 spliceosome|OGRPBCAM
+U12-type catalytic step 2 spliceosome|OGRPBCAM
+U12-type post-mRNA release spliceosomal complex|OGRPBCAM
+U12-type post-spliceosomal complex|OGRPBCAM
+U12-type precatalytic spliceosome|OGRPBCAM
+U12-type prespliceosome|OGRPBCAM
+U12-type spliceosomal complex|OGRPBCAM
+U2 snRNP|OGRPBCAM
+U2-type catalytic step 1 spliceosome|OGRPBCAM
+U2-type catalytic step 2 spliceosome|OGRPBCAM
+U2-type post-mRNA release spliceosomal complex|OGRPBCAM
+U2-type post-spliceosomal complex|OGRPBCAM
+U2-type precatalytic spliceosome|OGRPBCAM
+U2-type prespliceosome|OGRPBCAM
+U2-type spliceosomal complex|OGRPBCAM
+U2AF complex|OGRPBCAM
+U4 snRNP|OGRPBCAM
+U4/U6 snRNP|OGRPBCAM
+U4/U6 x U5 tri-snRNP complex|OGRPBCAM
+U4atac snRNP|OGRPBCAM
+U4atac/U6atac snRNP|OGRPBCAM
+U4atac/U6atac x U5 tri-snRNP complex|OGRPBCAM
+U5 snRNP|OGRPBCAM
+U6 snRNP|OGRPBCAM
+U6atac snRNP|OGRPBCAM
+U7 snRNP|OGRPBCAM
+UBC13-MMS2 complex|OGRPBCAM
+UBR1-RAD6 ubiquitin ligase complex|OGRPBCAM
+UDP-N-acetylglucosamine transferase complex|OGRPBCAM
+UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase complex|OGRPBCAM
+UFD1-NPL4 complex|OGRPBCAM
+USH2 complex|OGRPBCAM
+UTP-C complex|OGRPBCAM
+Ubisch body|OGRPBCAM
+Ubp3-Bre5 deubiquitination complex|OGRPBCAM
+VAMP4-syntaxin-6-syntaxin-16-Vti1a complex|OGRPBCAM
+VCB complex|OGRPBCAM
+VCP-NPL4-UFD1 AAA ATPase complex|OGRPBCAM
+VCP-NSFL1C complex|OGRPBCAM
+VEGF-A complex|OGRPBCAM
+VRK3/VHR/ERK complex|OGRPBCAM
+Vma12-Vma22 assembly complex|OGRPBCAM
+Vps55/Vps68 complex|OGRPBCAM
+W chromosome|OGRPBCAM
+WASH complex|OGRPBCAM
+WICH complex|OGRPBCAM
+Weibel-Palade body|OGRPBCAM
+Wnt signalosome|OGRPBCAM
+Wnt-Frizzled-LRP5/6 complex|OGRPBCAM
+Woronin body|OGRPBCAM
+Wpl/Pds5 cohesin loading/unloading complex|OGRPBCAM
+X chromosome|OGRPBCAM
+X chromosome located dosage compensation complex, transcription activating|OGRPBCAM
+XPC complex|OGRPBCAM
+XRCC2-RAD51D complex|OGRPBCAM
+XY body|OGRPBCAM
+Y chromosome|OGRPBCAM
+Y-shaped link|OGRPBCAM
+Yae1-Lto1 complex|OGRPBCAM
+Yb body|OGRPBCAM
+Ycf2/FtsHi complex|OGRPBCAM
+Z chromosome|OGRPBCAM
+Z disc|OGRPBCAM
+Z granule|OGRPBCAM
+[Ni-Fe] hydrogenase complex|OGRPBCAM
+accessory outer segment|OGRPBCAM
+acetate CoA-transferase complex|OGRPBCAM
+acetolactate synthase complex|OGRPBCAM
+acetyl-CoA carboxylase complex|OGRPBCAM
+acetyl-CoA decarbonylase/synthase-carbon monoxide dehydrogenase complex|OGRPBCAM
+acetylcholine-gated channel complex|OGRPBCAM
+acetyltransferase complex|OGRPBCAM
+acid phosphatase complex|OGRPBCAM
+acidocalcisome|OGRPBCAM
+acidocalcisome lumen|OGRPBCAM
+acidocalcisome membrane|OGRPBCAM
+acroblast|OGRPBCAM
+acrosomal lumen|OGRPBCAM
+acrosomal matrix|OGRPBCAM
+acrosomal membrane|OGRPBCAM
+acrosomal vesicle|OGRPBCAM
+actin body|OGRPBCAM
+actin cap|OGRPBCAM
+actin capping protein of dynactin complex|OGRPBCAM
+actin cortical patch|OGRPBCAM
+actin cytoskeleton|OGRPBCAM
+actin cytoskeleton of dendritic spine|OGRPBCAM
+actin cytoskeleton-regulatory complex|OGRPBCAM
+actin filament|OGRPBCAM
+actin filament branch point|OGRPBCAM
+actin filament bundle|OGRPBCAM
+actin filament bundle of actin-based cell projection|OGRPBCAM
+actin filament bundle of filopodium|OGRPBCAM
+actin filament bundle of stereocilium|OGRPBCAM
+actin filament of cell cortex of cell tip|OGRPBCAM
+actin rod|OGRPBCAM
+actin tubule|OGRPBCAM
+actin wave|OGRPBCAM
+actin-based cell projection|OGRPBCAM
+activated SUMO-E1 ligase complex|OGRPBCAM
+activator ecdysone receptor complex|OGRPBCAM
+active sex chromosome|OGRPBCAM
+activin A complex|OGRPBCAM
+activin AB complex|OGRPBCAM
+activin B complex|OGRPBCAM
+activin complex|OGRPBCAM
+activin receptor complex|OGRPBCAM
+activin responsive factor complex|OGRPBCAM
+actomyosin|OGRPBCAM
+actomyosin contractile ring|OGRPBCAM
+actomyosin contractile ring actin filament|OGRPBCAM
+actomyosin, myosin complex part|OGRPBCAM
+acyl-CoA ceramide synthase complex|OGRPBCAM
+adenylyltransferase complex|OGRPBCAM
+adherens junction|OGRPBCAM
+adrenomedullin receptor complex|OGRPBCAM
+adventitious septum|OGRPBCAM
+aggresome|OGRPBCAM
+alae of collagen and cuticulin-based cuticle extracellular matrix|OGRPBCAM
+aleurone grain|OGRPBCAM
+aleurone grain lumen|OGRPBCAM
+aleurone grain membrane|OGRPBCAM
+alkanesulfonate monooxygenase complex|OGRPBCAM
+alkyl hydroperoxide reductase complex|OGRPBCAM
+alpha DNA polymerase:primase complex|OGRPBCAM
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)|OGRPBCAM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase complex|OGRPBCAM
+alpha-beta T cell receptor complex|OGRPBCAM
+alpha-heterochromatin|OGRPBCAM
+alpha-ketoacid dehydrogenase complex|OGRPBCAM
+alpha1-beta1 integrin-alpha3(VI) complex|OGRPBCAM
+alpha1-beta1 integrin-tissue transglutaminase complex|OGRPBCAM
+alpha1-beta1 integrin-tyrosine-protein phosphatase non-receptor type 2 complex|OGRPBCAM
+alpha11-beta1 integrin-collagen type I complex|OGRPBCAM
+alpha2-beta1 integrin-CD47 complex|OGRPBCAM
+alpha2-beta1 integrin-alpha3(VI) complex|OGRPBCAM
+alpha2-beta1 integrin-chondroadherin complex|OGRPBCAM
+alpha3-beta1 integrin-CD151 complex|OGRPBCAM
+alpha3-beta1 integrin-CD63 complex|OGRPBCAM
+alpha3-beta1 integrin-basigin complex|OGRPBCAM
+alpha3-beta1 integrin-thrombospondin complex|OGRPBCAM
+alpha3-beta1 integrin-tissue transglutaminase complex|OGRPBCAM
+alpha4-beta1 integrin-CD47 complex|OGRPBCAM
+alpha4-beta1 integrin-CD53 complex|OGRPBCAM
+alpha4-beta1 integrin-CD63 complex|OGRPBCAM
+alpha4-beta1 integrin-CD81 complex|OGRPBCAM
+alpha4-beta1 integrin-CD82 complex|OGRPBCAM
+alpha4-beta1 integrin-JAM2 complex|OGRPBCAM
+alpha4-beta1 integrin-paxillin complex|OGRPBCAM
+alpha4-beta1 integrin-thrombospondin-1 complex|OGRPBCAM
+alpha4-beta1 integrin-thrombospondin-2 complex|OGRPBCAM
+alpha4-beta4 integrin-EMILIN-1 complex|OGRPBCAM
+alpha5-beta1 integrin-LPP3 complex|OGRPBCAM
+alpha5-beta1 integrin-endostatin complex|OGRPBCAM
+alpha5-beta1 integrin-fibronectin-NOV complex|OGRPBCAM
+alpha5-beta1 integrin-fibronectin-tissue transglutaminase complex|OGRPBCAM
+alpha5-beta1 integrin-osteopontin complex|OGRPBCAM
+alpha5-beta1 integrin-tissue transglutaminase complex|OGRPBCAM
+alpha5-beta5-fibronectin-SFRP2 complex|OGRPBCAM
+alpha6-beta1 integrin-CD151 complex|OGRPBCAM
+alpha6-beta1 integrin-CYR61 complex|OGRPBCAM
+alpha6-beta4 integrin-CD151 complex|OGRPBCAM
+alpha6-beta4 integrin-CD9 complex|OGRPBCAM
+alpha6-beta4 integrin-Fyn complex|OGRPBCAM
+alpha6-beta4 integrin-Shc-Grb2 complex|OGRPBCAM
+alpha6-beta4 integrin-laminin 5 complex|OGRPBCAM
+alpha7-beta1 integrin-CD151 complex|OGRPBCAM
+alpha7-beta1 integrin-focal adhesion kinase complex|OGRPBCAM
+alpha7-beta1 integrin-laminin alpha-2 complex|OGRPBCAM
+alpha7-beta1 integrin-nicotinamide riboside kinase complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM1 complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM12 complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM15 complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM2 complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM3 complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM8 complex|OGRPBCAM
+alpha9-beta1 integrin-ADAM9 complex|OGRPBCAM
+alpha9-beta1 integrin-VEGF-A complex|OGRPBCAM
+alpha9-beta1 integrin-VEGF-C complex|OGRPBCAM
+alpha9-beta1 integrin-VEGF-D complex|OGRPBCAM
+alpha9-beta1 integrin-osteopontin complex|OGRPBCAM
+alpha9-beta1 integrin-tenascin complex|OGRPBCAM
+alpha9-beta1 integrin-thrombospondin-1 complex|OGRPBCAM
+alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex|OGRPBCAM
+alphaE-beta7 integrin-E-cadherin complex|OGRPBCAM
+alphaIIb-beta3 integrin-CD47-FAK complex|OGRPBCAM
+alphaIIb-beta3 integrin-CD47-Src complex|OGRPBCAM
+alphaIIb-beta3 integrin-CD9 complex|OGRPBCAM
+alphaIIb-beta3 integrin-CD9-CD47-platelet glycoprotein Ib complex|OGRPBCAM
+alphaIIb-beta3 integrin-CIB complex|OGRPBCAM
+alphaIIb-beta3 integrin-ICAM-4 complex|OGRPBCAM
+alphaIIb-beta3 integrin-fibronectin-tissue transglutaminase complex|OGRPBCAM
+alphaIIb-beta3 integrin-talin complex|OGRPBCAM
+alphaM-beta2 integrin-CD63 complex|OGRPBCAM
+alphaPDGFR-PLC-gamma-1-PI3K-SHP-2 complex|OGRPBCAM
+alphaPDGFR-SHP-2 complex|OGRPBCAM
+alphaV-beta3 integrin-CD47-FCER2 complex|OGRPBCAM
+alphaV-beta3 integrin-CD98 complex|OGRPBCAM
+alphaV-beta3 integrin-EGFR complex|OGRPBCAM
+alphaV-beta3 integrin-LPP3 complex|OGRPBCAM
+alphaV-beta3 integrin-NOV complex|OGRPBCAM
+alphaV-beta3 integrin-gelsolin complex|OGRPBCAM
+alphaV-beta3 integrin-laminin alpha-4 complex|OGRPBCAM
+alphaV-beta3 integrin-paxillin-Pyk2 complex|OGRPBCAM
+alphaV-beta3 integrin-tissue transglutaminase complex|OGRPBCAM
+alphaV-beta3 integrin-tumstatin complex|OGRPBCAM
+alphaV-beta6 integrin-TGFbeta-3 complex|OGRPBCAM
+alphaV-beta6 integrin-osteopontin complex|OGRPBCAM
+alphaV-beta8 integrin-MMP14-TGFbeta-1 complex|OGRPBCAM
+alphaX-beta2 integrin-ICAM-4 complex|OGRPBCAM
+alphav-beta1 integrin-osteopontin complex|OGRPBCAM
+alphav-beta3 integrin-ADAM15 complex|OGRPBCAM
+alphav-beta3 integrin-ADAM23 complex|OGRPBCAM
+alphav-beta3 integrin-CD47 complex|OGRPBCAM
+alphav-beta3 integrin-HMGB1 complex|OGRPBCAM
+alphav-beta3 integrin-IGF-1-IGF1R complex|OGRPBCAM
+alphav-beta3 integrin-PKCalpha complex|OGRPBCAM
+alphav-beta3 integrin-collagen alpha3(VI) complex|OGRPBCAM
+alphav-beta3 integrin-osteopontin complex|OGRPBCAM
+alphav-beta3 integrin-thrombospondin complex|OGRPBCAM
+alphav-beta3 integrin-vitronectin complex|OGRPBCAM
+alphav-beta5 integrin-osteopontin complex|OGRPBCAM
+alphav-beta5 integrin-vitronectin complex|OGRPBCAM
+alveolar lamellar body|OGRPBCAM
+alveolar lamellar body membrane|OGRPBCAM
+amino acid transport complex|OGRPBCAM
+aminoacyl-tRNA synthetase multienzyme complex|OGRPBCAM
+aminodeoxychorismate synthase complex|OGRPBCAM
+ammonium transmembrane transporter complex|OGRPBCAM
+amorphous vesicle|OGRPBCAM
+amphisome|OGRPBCAM
+amphisome membrane|OGRPBCAM
+amylin receptor complex|OGRPBCAM
+amylin receptor complex 1|OGRPBCAM
+amylin receptor complex 2|OGRPBCAM
+amylin receptor complex 3|OGRPBCAM
+amyloid-beta complex|OGRPBCAM
+amyloplast|OGRPBCAM
+amyloplast ADPG pyrophosphorylase complex|OGRPBCAM
+amyloplast envelope|OGRPBCAM
+amyloplast inner membrane|OGRPBCAM
+amyloplast membrane|OGRPBCAM
+amyloplast starch grain|OGRPBCAM
+anaerobic ribonucleoside-triphosphate reductase complex|OGRPBCAM
+anammoxosome|OGRPBCAM
+anaphase-promoting complex|OGRPBCAM
+anchoring junction|OGRPBCAM
+angiogenin-PRI complex|OGRPBCAM
+ankyrin-1 complex|OGRPBCAM
+annular furrow extracellular matrix|OGRPBCAM
+annulate lamellae|OGRPBCAM
+annuli extracellular matrix|OGRPBCAM
+anterior cell cortex|OGRPBCAM
+anthranilate synthase complex|OGRPBCAM
+antipodal cell nucleus|OGRPBCAM
+antipodal site|OGRPBCAM
+apical complex|OGRPBCAM
+apical cortex|OGRPBCAM
+apical cytoplasm|OGRPBCAM
+apical dendrite|OGRPBCAM
+apical distal dendrite|OGRPBCAM
+apical ectoplasmic specialization|OGRPBCAM
+apical junction complex|OGRPBCAM
+apical lamina of hyaline layer|OGRPBCAM
+apical part of cell|OGRPBCAM
+apical plasma membrane|OGRPBCAM
+apical plasma membrane urothelial plaque|OGRPBCAM
+apical pole of neuron|OGRPBCAM
+apical proximal dendrite|OGRPBCAM
+apical recycling endosome|OGRPBCAM
+apical tubulobulbar complex|OGRPBCAM
+apicolateral plasma membrane|OGRPBCAM
+apicomedial cortex|OGRPBCAM
+apicomplexan dense granule|OGRPBCAM
+apicomplexan dense granule membrane|OGRPBCAM
+apicoplast|OGRPBCAM
+apicoplast membrane|OGRPBCAM
+apolipoprotein B mRNA editing enzyme complex|OGRPBCAM
+apoplast|OGRPBCAM
+apoptosome|OGRPBCAM
+apoptotic body|OGRPBCAM
+arbuscule|OGRPBCAM
+archaeal proton-transporting A-type ATPase complex|OGRPBCAM
+archaeal-type flagellum|OGRPBCAM
+arciform density|OGRPBCAM
+aryl hydrocarbon receptor complex|OGRPBCAM
+ascospore wall|OGRPBCAM
+ascospore-type prospore|OGRPBCAM
+ascospore-type prospore nucleus|OGRPBCAM
+ascus epiplasm|OGRPBCAM
+ascus lipid droplet|OGRPBCAM
+ascus membrane|OGRPBCAM
+asexual spore wall|OGRPBCAM
+aspartate carbamoyltransferase complex|OGRPBCAM
+aster|OGRPBCAM
+astral microtubule|OGRPBCAM
+astrocyte end-foot|OGRPBCAM
+astrocyte projection|OGRPBCAM
+asymmetric synapse|OGRPBCAM
+asymmetric, glutamatergic, excitatory synapse|OGRPBCAM
+atf1-pcr1 complex|OGRPBCAM
+attachment organelle|OGRPBCAM
+attachment organelle membrane|OGRPBCAM
+autolysosome|OGRPBCAM
+autolysosome lumen|OGRPBCAM
+autolysosome membrane|OGRPBCAM
+autophagosome|OGRPBCAM
+autophagosome lumen|OGRPBCAM
+autophagosome membrane|OGRPBCAM
+autosome|OGRPBCAM
+auxin efflux carrier complex|OGRPBCAM
+axolemma|OGRPBCAM
+axon|OGRPBCAM
+axon collateral|OGRPBCAM
+axon cytoplasm|OGRPBCAM
+axon hillock|OGRPBCAM
+axon initial segment|OGRPBCAM
+axon microtubule bundle|OGRPBCAM
+axon terminus|OGRPBCAM
+axonal growth cone|OGRPBCAM
+axonal spine|OGRPBCAM
+axonemal A tubule inner sheath|OGRPBCAM
+axonemal B tubule inner sheath|OGRPBCAM
+axonemal basal plate|OGRPBCAM
+axonemal central apparatus|OGRPBCAM
+axonemal central bridge|OGRPBCAM
+axonemal central pair|OGRPBCAM
+axonemal central pair projection|OGRPBCAM
+axonemal doublet microtubule|OGRPBCAM
+axonemal dynein complex|OGRPBCAM
+axonemal heterotrimeric kinesin-II complex|OGRPBCAM
+axonemal microtubule|OGRPBCAM
+axonemal microtubule doublet inner junction|OGRPBCAM
+axonemal microtubule doublet inner sheath|OGRPBCAM
+axonemal microtubule doublet outer junction|OGRPBCAM
+axonemal microtubule doublet ribbon|OGRPBCAM
+axonemal nexin link|OGRPBCAM
+axoneme|OGRPBCAM
+azurophil granule|OGRPBCAM
+azurophil granule lumen|OGRPBCAM
+azurophil granule membrane|OGRPBCAM
+bBAF complex|OGRPBCAM
+bI3 intron splicing complex|OGRPBCAM
+bI4 intron splicing complex|OGRPBCAM
+bacterial biofilm matrix|OGRPBCAM
+bacterial biofilm matrix surface|OGRPBCAM
+bacterial degradosome|OGRPBCAM
+bacterial extracellular vesicle|OGRPBCAM
+bacterial microcompartment|OGRPBCAM
+bacterial nucleoid|OGRPBCAM
+bacterial outer membrane vesicle|OGRPBCAM
+bacterial pre-replicative complex|OGRPBCAM
+bacterial thylakoid|OGRPBCAM
+bacterial-type flagellum|OGRPBCAM
+bacterial-type flagellum basal body|OGRPBCAM
+bacterial-type flagellum basal body, C ring|OGRPBCAM
+bacterial-type flagellum basal body, MS ring|OGRPBCAM
+bacterial-type flagellum basal body, distal rod|OGRPBCAM
+bacterial-type flagellum basal body, distal rod, L ring|OGRPBCAM
+bacterial-type flagellum basal body, distal rod, P ring|OGRPBCAM
+bacterial-type flagellum basal body, proximal rod|OGRPBCAM
+bacterial-type flagellum basal body, rod|OGRPBCAM
+bacterial-type flagellum filament|OGRPBCAM
+bacterial-type flagellum filament cap|OGRPBCAM
+bacterial-type flagellum hook|OGRPBCAM
+bacterial-type flagellum hook-filament junction|OGRPBCAM
+bacterial-type flagellum motor|OGRPBCAM
+bacterial-type flagellum rotor complex|OGRPBCAM
+bacterial-type flagellum secretion apparatus|OGRPBCAM
+bacterial-type flagellum stator complex|OGRPBCAM
+bacteroid-containing symbiosome|OGRPBCAM
+basal body patch|OGRPBCAM
+basal cortex|OGRPBCAM
+basal dendrite|OGRPBCAM
+basal distal dendrite|OGRPBCAM
+basal ectoplasmic specialization|OGRPBCAM
+basal labyrinth|OGRPBCAM
+basal layer of collagen and cuticulin-based cuticle extracellular matrix|OGRPBCAM
+basal part of cell|OGRPBCAM
+basal plasma membrane|OGRPBCAM
+basal pole of neuron|OGRPBCAM
+basal pole of outer hair cell|OGRPBCAM
+basal proximal dendrite|OGRPBCAM
+basal ring of apical complex|OGRPBCAM
+basal tubulobulbar complex|OGRPBCAM
+basement membrane|OGRPBCAM
+basement membrane/interstitial matrix interface|OGRPBCAM
+basolateral cytoplasm|OGRPBCAM
+basolateral part of cell|OGRPBCAM
+basolateral plasma membrane|OGRPBCAM
+basolateral recycling endosome|OGRPBCAM
+beta-N-acetylhexosaminidase complex|OGRPBCAM
+beta-catenin destruction complex|OGRPBCAM
+beta-catenin-ICAT complex|OGRPBCAM
+beta-catenin-TCF complex|OGRPBCAM
+beta-catenin-TCF7L2 complex|OGRPBCAM
+beta-galactosidase complex|OGRPBCAM
+beta-heterochromatin|OGRPBCAM
+bicellular tight junction|OGRPBCAM
+bilobe structure|OGRPBCAM
+biofilm matrix|OGRPBCAM
+bleb|OGRPBCAM
+blepharoplast|OGRPBCAM
+blood microparticle|OGRPBCAM
+bounding membrane of organelle|OGRPBCAM
+box C/D RNP complex|OGRPBCAM
+box C/D methylation guide RNP complex|OGRPBCAM
+box C/D methylation guide scaRNP complex|OGRPBCAM
+box C/D methylation guide snoRNP complex|OGRPBCAM
+box C/D pre-rRNA cleavage RNP complex|OGRPBCAM
+box H/ACA RNP complex|OGRPBCAM
+box H/ACA scaRNP complex|OGRPBCAM
+box H/ACA snoRNP complex|OGRPBCAM
+box H/ACA telomerase RNP complex|OGRPBCAM
+brahma complex|OGRPBCAM
+branched-chain alpha-ketoacid dehydrogenase complex|OGRPBCAM
+brush border|OGRPBCAM
+brush border membrane|OGRPBCAM
+bub1-bub3 complex|OGRPBCAM
+bursicon neuropeptide hormone complex|OGRPBCAM
+cAMP-dependent protein kinase complex|OGRPBCAM
+calcineurin complex|OGRPBCAM
+calcitonin family receptor complex|OGRPBCAM
+calcium channel complex|OGRPBCAM
+calcium ion-transporting ATPase complex|OGRPBCAM
+calcium- and calmodulin-dependent protein kinase complex|OGRPBCAM
+calcium:proton antiporter complex|OGRPBCAM
+calpain complex|OGRPBCAM
+calprotectin complex|OGRPBCAM
+calyx of Held|OGRPBCAM
+canonical inflammasome complex|OGRPBCAM
+capitate projection|OGRPBCAM
+capsomere|OGRPBCAM
+capsule|OGRPBCAM
+carbamoyl-phosphate synthase complex|OGRPBCAM
+carbon phosphorus lyase complex|OGRPBCAM
+carboxy-terminal domain protein kinase complex|OGRPBCAM
+carboxysome|OGRPBCAM
+cardiac Troponin complex|OGRPBCAM
+cardiac myofibril|OGRPBCAM
+cargo receptor complex|OGRPBCAM
+carotenoid vesicle|OGRPBCAM
+caspase complex|OGRPBCAM
+catalase complex|OGRPBCAM
+catalytic complex|OGRPBCAM
+catalytic step 1 spliceosome|OGRPBCAM
+catalytic step 2 spliceosome|OGRPBCAM
+catenin complex|OGRPBCAM
+catenin-TCF7L2 complex|OGRPBCAM
+cation channel complex|OGRPBCAM
+cation-transporting ATPase complex|OGRPBCAM
+caveola|OGRPBCAM
+caveola bulb|OGRPBCAM
+caveola neck|OGRPBCAM
+caveolar macromolecular signaling complex|OGRPBCAM
+cell body|OGRPBCAM
+cell body fiber|OGRPBCAM
+cell body membrane|OGRPBCAM
+cell cortex|OGRPBCAM
+cell cortex of cell tip|OGRPBCAM
+cell cortex of growing cell tip|OGRPBCAM
+cell cortex of non-growing cell tip|OGRPBCAM
+cell cortex region|OGRPBCAM
+cell division site|OGRPBCAM
+cell envelope|OGRPBCAM
+cell envelope Sec protein transport complex|OGRPBCAM
+cell hair|OGRPBCAM
+cell junction|OGRPBCAM
+cell leading edge|OGRPBCAM
+cell leading edge cell cortex|OGRPBCAM
+cell outer membrane|OGRPBCAM
+cell periphery|OGRPBCAM
+cell plate|OGRPBCAM
+cell pole|OGRPBCAM
+cell projection|OGRPBCAM
+cell projection membrane|OGRPBCAM
+cell septum|OGRPBCAM
+cell septum edging|OGRPBCAM
+cell surface|OGRPBCAM
+cell surface furrow|OGRPBCAM
+cell tip|OGRPBCAM
+cell trailing edge|OGRPBCAM
+cell trailing edge membrane|OGRPBCAM
+cell wall|OGRPBCAM
+cell wall-bounded periplasmic space|OGRPBCAM
+cell-cell contact zone|OGRPBCAM
+cell-cell junction|OGRPBCAM
+cell-substrate junction|OGRPBCAM
+cellubrevin-VAMP4-endobrevin-syntaxin-6 complex|OGRPBCAM
+cellubrevin-VAMP4-syntaxin-16 complex|OGRPBCAM
+cellular anatomical structure|OGRPBCAM
+cellular birth scar|OGRPBCAM
+cellular bud|OGRPBCAM
+cellular bud membrane|OGRPBCAM
+cellular bud neck|OGRPBCAM
+cellular bud neck contractile ring|OGRPBCAM
+cellular bud neck polarisome|OGRPBCAM
+cellular bud neck septin collar|OGRPBCAM
+cellular bud neck septin ring|OGRPBCAM
+cellular bud neck septin structure|OGRPBCAM
+cellular bud neck split septin rings|OGRPBCAM
+cellular bud scar|OGRPBCAM
+cellular bud tip|OGRPBCAM
+cellular bud tip polarisome|OGRPBCAM
+cellularization cleavage furrow|OGRPBCAM
+cellularization cleavage furrow invagination front|OGRPBCAM
+cellulose microfibril|OGRPBCAM
+cellulose synthase complex|OGRPBCAM
+cellulosome|OGRPBCAM
+central cylinder|OGRPBCAM
+central element|OGRPBCAM
+central plaque of mitotic spindle pole body|OGRPBCAM
+central plaque of spindle pole body|OGRPBCAM
+central region of growth cone|OGRPBCAM
+central vacuole|OGRPBCAM
+centralspindlin complex|OGRPBCAM
+centriolar satellite|OGRPBCAM
+centriolar subdistal appendage|OGRPBCAM
+centriole|OGRPBCAM
+centrosomal core|OGRPBCAM
+centrosomal corona|OGRPBCAM
+centrosome|OGRPBCAM
+cerebellar Golgi cell to granule cell synapse|OGRPBCAM
+cerebellar climbing fiber to Purkinje cell synapse|OGRPBCAM
+cerebellar granule cell to Purkinje cell synapse|OGRPBCAM
+cerebellar mossy fiber|OGRPBCAM
+channel complex|OGRPBCAM
+chaperone-mediated autophagy translocation complex|OGRPBCAM
+chaperonin ATPase complex|OGRPBCAM
+chaperonin-containing T-complex|OGRPBCAM
+checkpoint clamp complex|OGRPBCAM
+chiasma|OGRPBCAM
+chicken-wire-like collagen network|OGRPBCAM
+chitin-based extracellular matrix|OGRPBCAM
+chitosan layer of spore wall|OGRPBCAM
+chitosome|OGRPBCAM
+chitosome membrane|OGRPBCAM
+chlamydospore septin filament array|OGRPBCAM
+chloride channel complex|OGRPBCAM
+chloroplast|OGRPBCAM
+chloroplast ADPG pyrophosphorylase complex|OGRPBCAM
+chloroplast chromosome|OGRPBCAM
+chloroplast envelope|OGRPBCAM
+chloroplast inner membrane|OGRPBCAM
+chloroplast intermembrane space|OGRPBCAM
+chloroplast isoamylase complex|OGRPBCAM
+chloroplast large ribosomal subunit|OGRPBCAM
+chloroplast membrane|OGRPBCAM
+chloroplast nucleoid|OGRPBCAM
+chloroplast outer membrane|OGRPBCAM
+chloroplast outer membrane translocon|OGRPBCAM
+chloroplast photosystem I|OGRPBCAM
+chloroplast photosystem II|OGRPBCAM
+chloroplast ribosome|OGRPBCAM
+chloroplast ribulose bisphosphate carboxylase complex|OGRPBCAM
+chloroplast small ribosomal subunit|OGRPBCAM
+chloroplast starch grain|OGRPBCAM
+chloroplast stroma|OGRPBCAM
+chloroplast stromal thylakoid|OGRPBCAM
+chloroplast thylakoid|OGRPBCAM
+chloroplast thylakoid lumen|OGRPBCAM
+chloroplast thylakoid membrane|OGRPBCAM
+chloroplast thylakoid membrane protein complex|OGRPBCAM
+chloroplast vesicle|OGRPBCAM
+chloroplastic endopeptidase Clp complex|OGRPBCAM
+chlorosome|OGRPBCAM
+chlorosome envelope|OGRPBCAM
+cholinergic synapse|OGRPBCAM
+chromaffin granule|OGRPBCAM
+chromaffin granule lumen|OGRPBCAM
+chromaffin granule membrane|OGRPBCAM
+chromatin|OGRPBCAM
+chromatin lock complex|OGRPBCAM
+chromatin silencing complex|OGRPBCAM
+chromatoid body|OGRPBCAM
+chromatophore ribulose bisphosphate carboxylase complex|OGRPBCAM
+chromocenter|OGRPBCAM
+chromoplast|OGRPBCAM
+chromoplast envelope|OGRPBCAM
+chromoplast inner membrane|OGRPBCAM
+chromoplast intermembrane space|OGRPBCAM
+chromoplast membrane|OGRPBCAM
+chromoplast outer membrane|OGRPBCAM
+chromoplast stroma|OGRPBCAM
+chromosomal region|OGRPBCAM
+chromosome|OGRPBCAM
+chromosome passenger complex|OGRPBCAM
+chromosome, centromeric core domain|OGRPBCAM
+chromosome, centromeric region|OGRPBCAM
+chromosome, subtelomeric region|OGRPBCAM
+chromosome, telomeric region|OGRPBCAM
+chromosome, telomeric repeat region|OGRPBCAM
+chrorion micropyle|OGRPBCAM
+chylomicron|OGRPBCAM
+chylomicron remnant|OGRPBCAM
+ciliary basal body|OGRPBCAM
+ciliary base|OGRPBCAM
+ciliary cap|OGRPBCAM
+ciliary centrin arm|OGRPBCAM
+ciliary inversin compartment|OGRPBCAM
+ciliary membrane|OGRPBCAM
+ciliary microtubule quartet|OGRPBCAM
+ciliary necklace|OGRPBCAM
+ciliary neurotrophic factor receptor complex|OGRPBCAM
+ciliary plasm|OGRPBCAM
+ciliary pocket|OGRPBCAM
+ciliary pocket collar|OGRPBCAM
+ciliary pocket membrane|OGRPBCAM
+ciliary pro-basal body|OGRPBCAM
+ciliary rootlet|OGRPBCAM
+ciliary shaft|OGRPBCAM
+ciliary tip|OGRPBCAM
+ciliary transition fiber|OGRPBCAM
+ciliary transition zone|OGRPBCAM
+ciliary vesicle|OGRPBCAM
+cilium|OGRPBCAM
+cis-Golgi network|OGRPBCAM
+cis-Golgi network membrane|OGRPBCAM
+classical Lewy body|OGRPBCAM
+classical-complement-pathway C3/C5 convertase complex|OGRPBCAM
+clathrin adaptor complex|OGRPBCAM
+clathrin coat|OGRPBCAM
+clathrin coat of coated pit|OGRPBCAM
+clathrin coat of endocytic vesicle|OGRPBCAM
+clathrin coat of synaptic vesicle|OGRPBCAM
+clathrin coat of trans-Golgi network vesicle|OGRPBCAM
+clathrin complex|OGRPBCAM
+clathrin vesicle coat|OGRPBCAM
+clathrin-coated endocytic vesicle|OGRPBCAM
+clathrin-coated endocytic vesicle lumen|OGRPBCAM
+clathrin-coated endocytic vesicle membrane|OGRPBCAM
+clathrin-coated phagocytic vesicle|OGRPBCAM
+clathrin-coated phagocytic vesicle membrane|OGRPBCAM
+clathrin-coated pit|OGRPBCAM
+clathrin-coated vesicle|OGRPBCAM
+clathrin-coated vesicle membrane|OGRPBCAM
+clathrin-sculpted acetylcholine transport vesicle|OGRPBCAM
+clathrin-sculpted acetylcholine transport vesicle lumen|OGRPBCAM
+clathrin-sculpted acetylcholine transport vesicle membrane|OGRPBCAM
+clathrin-sculpted gamma-aminobutyric acid transport vesicle|OGRPBCAM
+clathrin-sculpted gamma-aminobutyric acid transport vesicle lumen|OGRPBCAM
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane|OGRPBCAM
+clathrin-sculpted glutamate transport vesicle|OGRPBCAM
+clathrin-sculpted glutamate transport vesicle lumen|OGRPBCAM
+clathrin-sculpted glutamate transport vesicle membrane|OGRPBCAM
+clathrin-sculpted monoamine transport vesicle|OGRPBCAM
+clathrin-sculpted monoamine transport vesicle lumen|OGRPBCAM
+clathrin-sculpted monoamine transport vesicle membrane|OGRPBCAM
+clathrin-sculpted vesicle|OGRPBCAM
+cleavage apparatus septin structure|OGRPBCAM
+cleavage body|OGRPBCAM
+cleavage furrow|OGRPBCAM
+cleavage furrow leading edge|OGRPBCAM
+cleavage furrow rim|OGRPBCAM
+climbing fiber|OGRPBCAM
+cluster of actin-based cell projections|OGRPBCAM
+cnida|OGRPBCAM
+coated membrane|OGRPBCAM
+coated vesicle|OGRPBCAM
+coated vesicle membrane|OGRPBCAM
+cobalamin transport complex|OGRPBCAM
+cochlear hair cell ribbon synapse|OGRPBCAM
+cofilin-actin rod|OGRPBCAM
+cohesin complex|OGRPBCAM
+collagen anchoring fibril|OGRPBCAM
+collagen beaded filament|OGRPBCAM
+collagen network|OGRPBCAM
+collagen trimer|OGRPBCAM
+collagen type I trimer|OGRPBCAM
+collagen type II trimer|OGRPBCAM
+collagen type III trimer|OGRPBCAM
+collagen type IV trimer|OGRPBCAM
+collagen type IX trimer|OGRPBCAM
+collagen type V trimer|OGRPBCAM
+collagen type VI trimer|OGRPBCAM
+collagen type VII anchoring fibril|OGRPBCAM
+collagen type VII trimer|OGRPBCAM
+collagen type VIII trimer|OGRPBCAM
+collagen type X trimer|OGRPBCAM
+collagen type XI trimer|OGRPBCAM
+collagen type XII trimer|OGRPBCAM
+collagen type XIII trimer|OGRPBCAM
+collagen type XIV trimer|OGRPBCAM
+collagen type XIX trimer|OGRPBCAM
+collagen type XV trimer|OGRPBCAM
+collagen type XVI trimer|OGRPBCAM
+collagen type XVII trimer|OGRPBCAM
+collagen type XVIII trimer|OGRPBCAM
+collagen type XX trimer|OGRPBCAM
+collagen type XXI trimer|OGRPBCAM
+collagen type XXII trimer|OGRPBCAM
+collagen type XXIII trimer|OGRPBCAM
+collagen type XXIV trimer|OGRPBCAM
+collagen type XXV trimer|OGRPBCAM
+collagen type XXVI trimer|OGRPBCAM
+collagen type XXVII trimer|OGRPBCAM
+collagen type XXVIII trimer|OGRPBCAM
+collagenous component of basement membrane|OGRPBCAM
+collagenous component of interstitial matrix|OGRPBCAM
+columella|OGRPBCAM
+commitment complex|OGRPBCAM
+compact myelin|OGRPBCAM
+complement component C1 complex|OGRPBCAM
+complement component C1q complex|OGRPBCAM
+complex laminated body|OGRPBCAM
+complex of collagen trimers|OGRPBCAM
+compound sieve plate|OGRPBCAM
+concave side of sperm head|OGRPBCAM
+condensed chromatin of inactivated sex chromosome|OGRPBCAM
+condensed chromosome|OGRPBCAM
+condensed chromosome, centromeric region|OGRPBCAM
+condensed nuclear chromosome|OGRPBCAM
+condensin complex|OGRPBCAM
+cone cell pedicle|OGRPBCAM
+cone matrix sheath|OGRPBCAM
+cone photoreceptor disc membrane|OGRPBCAM
+cone photoreceptor outer segment|OGRPBCAM
+cone telodendria|OGRPBCAM
+connexin complex|OGRPBCAM
+conoid|OGRPBCAM
+contractile actin filament bundle|OGRPBCAM
+contractile muscle fiber|OGRPBCAM
+contractile ring|OGRPBCAM
+contractile vacuolar membrane|OGRPBCAM
+contractile vacuole|OGRPBCAM
+contractile vacuole complex|OGRPBCAM
+contractile vacuole pore|OGRPBCAM
+copper ion transmembrane transporter complex|OGRPBCAM
+core TFIIH complex portion of NEF3 complex|OGRPBCAM
+core TFIIH complex portion of holo TFIIH complex|OGRPBCAM
+core mediator complex|OGRPBCAM
+core primosome complex|OGRPBCAM
+core-binding factor complex|OGRPBCAM
+cornified envelope|OGRPBCAM
+cortical Lewy body|OGRPBCAM
+cortical actin cytoskeleton|OGRPBCAM
+cortical cytoskeleton|OGRPBCAM
+cortical dynamic polarity patch|OGRPBCAM
+cortical endoplasmic reticulum|OGRPBCAM
+cortical endoplasmic reticulum lumen|OGRPBCAM
+cortical endoplasmic reticulum membrane|OGRPBCAM
+cortical granule|OGRPBCAM
+cortical layer of collagen and cuticulin-based cuticle extracellular matrix|OGRPBCAM
+cortical microtubule|OGRPBCAM
+cortical microtubule cytoskeleton|OGRPBCAM
+cortical microtubule plus-end|OGRPBCAM
+cortical microtubule, transverse to long axis|OGRPBCAM
+costamere|OGRPBCAM
+counting factor complex|OGRPBCAM
+creatine kinase complex|OGRPBCAM
+crystalloid|OGRPBCAM
+cullin-RING ubiquitin ligase complex|OGRPBCAM
+curli|OGRPBCAM
+curli secretion complex|OGRPBCAM
+cuticular extracellular matrix|OGRPBCAM
+cuticular plate|OGRPBCAM
+cyanelle|OGRPBCAM
+cyanelle envelope|OGRPBCAM
+cyanelle inner membrane|OGRPBCAM
+cyanelle intermembrane space|OGRPBCAM
+cyanelle membrane|OGRPBCAM
+cyanelle outer membrane|OGRPBCAM
+cyanelle ribonuclease P complex|OGRPBCAM
+cyanelle stroma|OGRPBCAM
+cyanelle thylakoid|OGRPBCAM
+cyanelle thylakoid lumen|OGRPBCAM
+cyanelle thylakoid membrane|OGRPBCAM
+cyanosome|OGRPBCAM
+cyclin A1-CDK1 complex|OGRPBCAM
+cyclin A1-CDK2 complex|OGRPBCAM
+cyclin A2-CDK1 complex|OGRPBCAM
+cyclin A2-CDK2 complex|OGRPBCAM
+cyclin B1-CDK1 complex|OGRPBCAM
+cyclin B2-CDK1 complex|OGRPBCAM
+cyclin B3-CDK2 complex|OGRPBCAM
+cyclin D1-CDK4 complex|OGRPBCAM
+cyclin D1-CDK6 complex|OGRPBCAM
+cyclin D2-CDK4 complex|OGRPBCAM
+cyclin D2-CDK6 complex|OGRPBCAM
+cyclin D3-CDK4 complex|OGRPBCAM
+cyclin D3-CDK6 complex|OGRPBCAM
+cyclin E1-CDK2 complex|OGRPBCAM
+cyclin E2-CDK2 complex|OGRPBCAM
+cyclin K-CDK12 complex|OGRPBCAM
+cyclin K-CDK13 complex|OGRPBCAM
+cyclin L-CDK11 complex|OGRPBCAM
+cyclin-dependent protein kinase holoenzyme complex|OGRPBCAM
+cyclin/CDK positive transcription elongation factor complex|OGRPBCAM
+cyst wall|OGRPBCAM
+cysteine synthase complex|OGRPBCAM
+cytochrome b6f complex|OGRPBCAM
+cytochrome complex|OGRPBCAM
+cytochrome o ubiquinol oxidase complex|OGRPBCAM
+cytolytic granule|OGRPBCAM
+cytolytic granule lumen|OGRPBCAM
+cytolytic granule membrane|OGRPBCAM
+cytoneme|OGRPBCAM
+cytoophidium|OGRPBCAM
+cytoplasm|OGRPBCAM
+cytoplasmic DNA replication factor C complex|OGRPBCAM
+cytoplasmic SCF ubiquitin ligase complex|OGRPBCAM
+cytoplasmic U snRNP body|OGRPBCAM
+cytoplasmic cyclin-dependent protein kinase holoenzyme complex|OGRPBCAM
+cytoplasmic dynein complex|OGRPBCAM
+cytoplasmic exosome (RNase complex)|OGRPBCAM
+cytoplasmic lattice|OGRPBCAM
+cytoplasmic microtubule|OGRPBCAM
+cytoplasmic microtubule bundle|OGRPBCAM
+cytoplasmic microtubule minus-end|OGRPBCAM
+cytoplasmic microtubule plus-end|OGRPBCAM
+cytoplasmic origin of replication recognition complex|OGRPBCAM
+cytoplasmic periphery of the nuclear pore complex|OGRPBCAM
+cytoplasmic region|OGRPBCAM
+cytoplasmic replication fork|OGRPBCAM
+cytoplasmic replisome|OGRPBCAM
+cytoplasmic ribonucleoprotein granule|OGRPBCAM
+cytoplasmic side of Golgi membrane|OGRPBCAM
+cytoplasmic side of apical plasma membrane|OGRPBCAM
+cytoplasmic side of cis-Golgi cisternae membrane|OGRPBCAM
+cytoplasmic side of cis-Golgi network membrane|OGRPBCAM
+cytoplasmic side of dendritic spine plasma membrane|OGRPBCAM
+cytoplasmic side of early endosome membrane|OGRPBCAM
+cytoplasmic side of endoplasmic reticulum membrane|OGRPBCAM
+cytoplasmic side of endosome membrane|OGRPBCAM
+cytoplasmic side of late endosome membrane|OGRPBCAM
+cytoplasmic side of lysosomal membrane|OGRPBCAM
+cytoplasmic side of medial-Golgi cisterna membrane|OGRPBCAM
+cytoplasmic side of membrane|OGRPBCAM
+cytoplasmic side of mitochondrial outer membrane|OGRPBCAM
+cytoplasmic side of nuclear pore|OGRPBCAM
+cytoplasmic side of plasma membrane|OGRPBCAM
+cytoplasmic side of plasma membrane, cell tip|OGRPBCAM
+cytoplasmic side of rough endoplasmic reticulum membrane|OGRPBCAM
+cytoplasmic side of smooth endoplasmic reticulum membrane|OGRPBCAM
+cytoplasmic side of trans-Golgi cisterna membrane|OGRPBCAM
+cytoplasmic side of trans-Golgi network membrane|OGRPBCAM
+cytoplasmic side of trans-Golgi network transport vesicle membrane|OGRPBCAM
+cytoplasmic side of transport vesicle membrane|OGRPBCAM
+cytoplasmic stress granule|OGRPBCAM
+cytoplasmic ubiquitin ligase complex|OGRPBCAM
+cytoplasmic vesicle|OGRPBCAM
+cytoplasmic vesicle lumen|OGRPBCAM
+cytoplasmic vesicle membrane|OGRPBCAM
+cytoplasmic viral factory|OGRPBCAM
+cytoproct|OGRPBCAM
+cytoskeletal calyx|OGRPBCAM
+cytoskeleton|OGRPBCAM
+cytoskeleton of dendritic spine|OGRPBCAM
+cytoskeleton of presynaptic active zone|OGRPBCAM
+cytosol|OGRPBCAM
+cytosol pyruvate dehydrogenase (lipoamide) phosphatase complex|OGRPBCAM
+cytosolic DNA-directed RNA polymerase complex|OGRPBCAM
+cytosolic [4Fe-4S] assembly scaffold complex|OGRPBCAM
+cytosolic [4Fe-4S] assembly targeting complex|OGRPBCAM
+cytosolic aryl hydrocarbon receptor complex|OGRPBCAM
+cytosolic creatine kinase complex|OGRPBCAM
+cytosolic electron transfer flavoprotein complex|OGRPBCAM
+cytosolic large ribosomal subunit|OGRPBCAM
+cytosolic proteasome complex|OGRPBCAM
+cytosolic proteasome core complex|OGRPBCAM
+cytosolic proteasome core complex, alpha-subunit complex|OGRPBCAM
+cytosolic proteasome core complex, beta-subunit complex|OGRPBCAM
+cytosolic proteasome regulatory particle|OGRPBCAM
+cytosolic proteasome regulatory particle, base subcomplex|OGRPBCAM
+cytosolic proteasome regulatory particle, lid subcomplex|OGRPBCAM
+cytosolic region|OGRPBCAM
+cytosolic ribosome|OGRPBCAM
+cytosolic small ribosomal subunit|OGRPBCAM
+cytosolic tRNA wobble base thiouridylase complex|OGRPBCAM
+cytosolic translation preinitiation complex|OGRPBCAM
+cytospinule|OGRPBCAM
+cytostome|OGRPBCAM
+death-inducing signaling complex|OGRPBCAM
+decoy receptor complex|OGRPBCAM
+deep fiber|OGRPBCAM
+dehydrodolichyl diphosphate synthase complex|OGRPBCAM
+delta DNA polymerase complex|OGRPBCAM
+dendriole|OGRPBCAM
+dendrite|OGRPBCAM
+dendrite cytoplasm|OGRPBCAM
+dendrite membrane|OGRPBCAM
+dendrite terminus|OGRPBCAM
+dendritic branch|OGRPBCAM
+dendritic branch point|OGRPBCAM
+dendritic cell dendrite|OGRPBCAM
+dendritic filopodium|OGRPBCAM
+dendritic growth cone|OGRPBCAM
+dendritic knob|OGRPBCAM
+dendritic lamellar body|OGRPBCAM
+dendritic microtubule|OGRPBCAM
+dendritic shaft|OGRPBCAM
+dendritic spine|OGRPBCAM
+dendritic spine cytoplasm|OGRPBCAM
+dendritic spine head|OGRPBCAM
+dendritic spine membrane|OGRPBCAM
+dendritic spine neck|OGRPBCAM
+dendritic spine origin|OGRPBCAM
+dendritic tree|OGRPBCAM
+dendritic tuft|OGRPBCAM
+dense body|OGRPBCAM
+dense core granule|OGRPBCAM
+dense core granule lumen|OGRPBCAM
+dense core granule membrane|OGRPBCAM
+dense fibrillar component|OGRPBCAM
+dense nuclear body|OGRPBCAM
+dentate gyrus mossy fiber|OGRPBCAM
+desmosome|OGRPBCAM
+deuterosome|OGRPBCAM
+diamine N-acetyltransferase complex|OGRPBCAM
+dihydropyrimidine dehydrogenase (NAD+) complex|OGRPBCAM
+dimeric IgA immunoglobulin complex|OGRPBCAM
+dimeric ribonuclease P complex|OGRPBCAM
+dimethyl sulfoxide reductase complex|OGRPBCAM
+dinoflagellate antapex|OGRPBCAM
+dinoflagellate antapical horn|OGRPBCAM
+dinoflagellate apex|OGRPBCAM
+dinoflagellate apical groove|OGRPBCAM
+dinoflagellate apical horn|OGRPBCAM
+dinoflagellate cingulum|OGRPBCAM
+dinoflagellate epicone|OGRPBCAM
+dinoflagellate hypocone|OGRPBCAM
+dinoflagellate peduncle|OGRPBCAM
+dinoflagellate sulcal notch|OGRPBCAM
+dinoflagellate sulcus|OGRPBCAM
+discoidal high-density lipoprotein particle|OGRPBCAM
+distal axon|OGRPBCAM
+distal dendrite|OGRPBCAM
+distal portion of axoneme|OGRPBCAM
+dityrosine layer of spore wall|OGRPBCAM
+division septum|OGRPBCAM
+divisome complex|OGRPBCAM
+dolichol-phosphate-mannose synthase complex|OGRPBCAM
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt2p dimer complex|OGRPBCAM
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt3p dimer complex|OGRPBCAM
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt4p homodimer complex|OGRPBCAM
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt2p dimer complex|OGRPBCAM
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt3p dimer complex|OGRPBCAM
+dolichyl-phosphate-mannose-protein mannosyltransferase complex|OGRPBCAM
+dolipore septum|OGRPBCAM
+dopaminergic synapse|OGRPBCAM
+dosage compensation complex|OGRPBCAM
+double membrane vesicle viral factory|OGRPBCAM
+double membrane vesicle viral factory inner membrane|OGRPBCAM
+double membrane vesicle viral factory lumen|OGRPBCAM
+double membrane vesicle viral factory membrane|OGRPBCAM
+double membrane vesicle viral factory outer membrane|OGRPBCAM
+dynactin complex|OGRPBCAM
+dynamic microtubule bundle|OGRPBCAM
+dynein axonemal particle|OGRPBCAM
+dynein complex|OGRPBCAM
+dystrobrevin complex|OGRPBCAM
+dystroglycan complex|OGRPBCAM
+dystrophin-associated glycoprotein complex|OGRPBCAM
+eNoSc complex|OGRPBCAM
+eRF1 methyltransferase complex|OGRPBCAM
+early endosome|OGRPBCAM
+early endosome lumen|OGRPBCAM
+early endosome membrane|OGRPBCAM
+early phagosome|OGRPBCAM
+early phagosome lumen|OGRPBCAM
+early phagosome membrane|OGRPBCAM
+early recombination nodule|OGRPBCAM
+ecdysone receptor holocomplex|OGRPBCAM
+ectexine|OGRPBCAM
+efflux pump complex|OGRPBCAM
+egasyn-beta-glucuronidase complex|OGRPBCAM
+egg chorion|OGRPBCAM
+egg coat|OGRPBCAM
+eif4e-cup complex|OGRPBCAM
+eisosome|OGRPBCAM
+eisosome filament|OGRPBCAM
+eisosome membrane domain/MCC|OGRPBCAM
+elaioplast|OGRPBCAM
+elaioplast stroma|OGRPBCAM
+elastic fiber|OGRPBCAM
+electron transfer flavoprotein complex|OGRPBCAM
+elongator holoenzyme complex|OGRPBCAM
+elongin complex|OGRPBCAM
+encapsulin nanocompartment|OGRPBCAM
+endexine|OGRPBCAM
+endobrevin-SNAP-25-syntaxin-1a complex|OGRPBCAM
+endobrevin-SNAP-25-syntaxin-2 complex|OGRPBCAM
+endobrevin-synaptobrevin 2-alpha-SNAP-NSF-syntaxin-4 complex|OGRPBCAM
+endocytic patch|OGRPBCAM
+endocytic vesicle|OGRPBCAM
+endocytic vesicle lumen|OGRPBCAM
+endocytic vesicle membrane|OGRPBCAM
+endodeoxyribonuclease complex|OGRPBCAM
+endolysosome|OGRPBCAM
+endolysosome lumen|OGRPBCAM
+endolysosome membrane|OGRPBCAM
+endomembrane system|OGRPBCAM
+endonuclear canal|OGRPBCAM
+endonuclease complex|OGRPBCAM
+endopeptidase Clp complex|OGRPBCAM
+endopeptidase complex|OGRPBCAM
+endoplasmic reticulum|OGRPBCAM
+endoplasmic reticulum Sec complex|OGRPBCAM
+endoplasmic reticulum chaperone complex|OGRPBCAM
+endoplasmic reticulum cisternal network|OGRPBCAM
+endoplasmic reticulum exit site|OGRPBCAM
+endoplasmic reticulum lumen|OGRPBCAM
+endoplasmic reticulum membrane|OGRPBCAM
+endoplasmic reticulum membrane-lipid droplet contact site|OGRPBCAM
+endoplasmic reticulum palmitoyltransferase complex|OGRPBCAM
+endoplasmic reticulum protein-containing complex|OGRPBCAM
+endoplasmic reticulum quality control compartment|OGRPBCAM
+endoplasmic reticulum subcompartment|OGRPBCAM
+endoplasmic reticulum tubular network|OGRPBCAM
+endoplasmic reticulum tubular network membrane|OGRPBCAM
+endoplasmic reticulum-Golgi intermediate compartment|OGRPBCAM
+endoplasmic reticulum-Golgi intermediate compartment membrane|OGRPBCAM
+endoplasmic reticulum-endosome membrane contact site|OGRPBCAM
+endoplasmic reticulum-plasma membrane contact site|OGRPBCAM
+endoplasmic reticulum-trans-Golgi network membrane contact site|OGRPBCAM
+endoplasmic reticulum-vacuole membrane contact site|OGRPBCAM
+endoribonuclease complex|OGRPBCAM
+endosomal scaffold complex|OGRPBCAM
+endosome|OGRPBCAM
+endosome lumen|OGRPBCAM
+endosome membrane|OGRPBCAM
+endosome to plasma membrane transport vesicle|OGRPBCAM
+endosperm protein body|OGRPBCAM
+endospore coat|OGRPBCAM
+endospore core|OGRPBCAM
+endospore cortex|OGRPBCAM
+endospore external encapsulating structure|OGRPBCAM
+endospore-forming forespore|OGRPBCAM
+endothelial microparticle|OGRPBCAM
+enhanceosome|OGRPBCAM
+ensheathing process|OGRPBCAM
+enterobactin synthetase complex|OGRPBCAM
+enzyme IIA-maltose transporter complex|OGRPBCAM
+enzyme activator complex|OGRPBCAM
+epicuticle of collagen and cuticulin-based cuticle extracellular matrix|OGRPBCAM
+epidermal lamellar body|OGRPBCAM
+epidermal lamellar body membrane|OGRPBCAM
+epididymosome|OGRPBCAM
+epsilon DNA polymerase complex|OGRPBCAM
+equatorial cell cortex|OGRPBCAM
+equatorial microtubule organizing center|OGRPBCAM
+esBAF complex|OGRPBCAM
+esterosome|OGRPBCAM
+esterosome lumen|OGRPBCAM
+esterosome membrane|OGRPBCAM
+ethanolamine ammonia-lyase complex|OGRPBCAM
+ethanolamine degradation polyhedral organelle|OGRPBCAM
+etioplast|OGRPBCAM
+etioplast envelope|OGRPBCAM
+etioplast membrane|OGRPBCAM
+etioplast prolamellar body|OGRPBCAM
+etioplast stroma|OGRPBCAM
+euchromatin|OGRPBCAM
+eukaryotic 43S preinitiation complex|OGRPBCAM
+eukaryotic 48S preinitiation complex|OGRPBCAM
+eukaryotic 80S initiation complex|OGRPBCAM
+eukaryotic translation elongation factor 1 complex|OGRPBCAM
+eukaryotic translation initiation factor 2 complex|OGRPBCAM
+eukaryotic translation initiation factor 2B complex|OGRPBCAM
+eukaryotic translation initiation factor 3 complex|OGRPBCAM
+eukaryotic translation initiation factor 3 complex, eIF3e|OGRPBCAM
+eukaryotic translation initiation factor 3 complex, eIF3m|OGRPBCAM
+eukaryotic translation initiation factor 4F complex|OGRPBCAM
+excinuclease repair complex|OGRPBCAM
+excitatory neuromuscular junction|OGRPBCAM
+excitatory neuromuscular junction of somatic myotube|OGRPBCAM
+excitatory synapse|OGRPBCAM
+exine|OGRPBCAM
+exocyst|OGRPBCAM
+exocytic vesicle|OGRPBCAM
+exocytic vesicle lumen|OGRPBCAM
+exocytic vesicle membrane|OGRPBCAM
+exodeoxyribonuclease V complex|OGRPBCAM
+exodeoxyribonuclease VII complex|OGRPBCAM
+exomer complex|OGRPBCAM
+exon-exon junction complex|OGRPBCAM
+exon-exon junction subcomplex mago-y14|OGRPBCAM
+exoneme|OGRPBCAM
+exopher|OGRPBCAM
+exoribonuclease complex|OGRPBCAM
+exosome (RNase complex)|OGRPBCAM
+exosporium|OGRPBCAM
+external encapsulating structure|OGRPBCAM
+external side of apical plasma membrane|OGRPBCAM
+external side of cell outer membrane|OGRPBCAM
+external side of cell wall|OGRPBCAM
+external side of fungal-type cell wall|OGRPBCAM
+external side of mycolate outer membrane|OGRPBCAM
+external side of plasma membrane|OGRPBCAM
+extracellular core region of desmosome|OGRPBCAM
+extracellular exosome|OGRPBCAM
+extracellular exosome complex|OGRPBCAM
+extracellular isoamylase complex|OGRPBCAM
+extracellular matrix|OGRPBCAM
+extracellular matrix of synaptic cleft|OGRPBCAM
+extracellular membrane-bounded organelle|OGRPBCAM
+extracellular membraneless organelle|OGRPBCAM
+extracellular organelle|OGRPBCAM
+extracellular region|OGRPBCAM
+extracellular space|OGRPBCAM
+extracellular vesicle|OGRPBCAM
+extrachromosomal DNA|OGRPBCAM
+extrachromosomal circular DNA|OGRPBCAM
+extrachromosomal rDNA circle|OGRPBCAM
+extrahaustorial matrix|OGRPBCAM
+extrahaustorial membrane|OGRPBCAM
+extraorganismal space|OGRPBCAM
+extrinsic component of Golgi membrane|OGRPBCAM
+extrinsic component of cell outer membrane|OGRPBCAM
+extrinsic component of cytoplasmic side of plasma membrane|OGRPBCAM
+extrinsic component of dense core granule membrane|OGRPBCAM
+extrinsic component of endoplasmic reticulum membrane|OGRPBCAM
+extrinsic component of endosome membrane|OGRPBCAM
+extrinsic component of external side of cell outer membrane|OGRPBCAM
+extrinsic component of external side of mycolate outer membrane|OGRPBCAM
+extrinsic component of external side of plasma membrane|OGRPBCAM
+extrinsic component of intraperoxisomal membrane|OGRPBCAM
+extrinsic component of lumenal side of plastid thylakoid membrane|OGRPBCAM
+extrinsic component of matrix side of mitochondrial inner membrane|OGRPBCAM
+extrinsic component of membrane|OGRPBCAM
+extrinsic component of mitochondrial inner membrane|OGRPBCAM
+extrinsic component of mitochondrial outer membrane|OGRPBCAM
+extrinsic component of mycolate outer membrane|OGRPBCAM
+extrinsic component of neuronal dense core vesicle membrane|OGRPBCAM
+extrinsic component of nuclear outer membrane|OGRPBCAM
+extrinsic component of omegasome membrane|OGRPBCAM
+extrinsic component of organelle membrane|OGRPBCAM
+extrinsic component of periplasmic side of cell outer membrane|OGRPBCAM
+extrinsic component of periplasmic side of plasma membrane|OGRPBCAM
+extrinsic component of phagophore assembly site membrane|OGRPBCAM
+extrinsic component of plasma membrane|OGRPBCAM
+extrinsic component of plastid inner membrane|OGRPBCAM
+extrinsic component of plastid membrane|OGRPBCAM
+extrinsic component of plastid thylakoid membrane|OGRPBCAM
+extrinsic component of postsynaptic density membrane|OGRPBCAM
+extrinsic component of postsynaptic early endosome membrane|OGRPBCAM
+extrinsic component of postsynaptic endocytic zone|OGRPBCAM
+extrinsic component of postsynaptic endosome membrane|OGRPBCAM
+extrinsic component of postsynaptic membrane|OGRPBCAM
+extrinsic component of postsynaptic recycling endosome membrane|OGRPBCAM
+extrinsic component of postsynaptic specialization membrane|OGRPBCAM
+extrinsic component of presynaptic active zone membrane|OGRPBCAM
+extrinsic component of presynaptic endocytic zone membrane|OGRPBCAM
+extrinsic component of presynaptic endosome membrane|OGRPBCAM
+extrinsic component of presynaptic membrane|OGRPBCAM
+extrinsic component of stromal side of plastid inner membrane|OGRPBCAM
+extrinsic component of stromal side of plastid thylakoid membrane|OGRPBCAM
+extrinsic component of synaptic membrane|OGRPBCAM
+extrinsic component of synaptic vesicle membrane|OGRPBCAM
+extrinsic component of thylakoid membrane|OGRPBCAM
+eyespot apparatus|OGRPBCAM
+fascia adherens|OGRPBCAM
+fatty acid beta-oxidation multienzyme complex|OGRPBCAM
+fatty acid elongase complex|OGRPBCAM
+fatty acid synthase complex|OGRPBCAM
+fatty-acyl-CoA synthase complex|OGRPBCAM
+female germ cell nucleus|OGRPBCAM
+female germline ring canal|OGRPBCAM
+female germline ring canal inner rim|OGRPBCAM
+female germline ring canal outer rim|OGRPBCAM
+female pronucleus|OGRPBCAM
+ferredoxin hydrogenase complex|OGRPBCAM
+ferredoxin-thioredoxin reductase complex|OGRPBCAM
+ferritin complex|OGRPBCAM
+ferroxidase complex|OGRPBCAM
+fertilization envelope|OGRPBCAM
+fibrillar center|OGRPBCAM
+fibrillar collagen|OGRPBCAM
+fibrillar collagen trimer|OGRPBCAM
+fibrillary inclusion|OGRPBCAM
+fibrinogen complex|OGRPBCAM
+fibronectin fibril|OGRPBCAM
+fibronectin-tissue transglutaminase complex|OGRPBCAM
+fibrous body-membranous organelle|OGRPBCAM
+ficolin-1-rich granule|OGRPBCAM
+ficolin-1-rich granule lumen|OGRPBCAM
+ficolin-1-rich granule membrane|OGRPBCAM
+filamentous actin|OGRPBCAM
+filiform apparatus|OGRPBCAM
+filopodium|OGRPBCAM
+filopodium membrane|OGRPBCAM
+filopodium tip|OGRPBCAM
+filtration diaphragm|OGRPBCAM
+flagella connector|OGRPBCAM
+flagellum attachment zone|OGRPBCAM
+flotillin complex|OGRPBCAM
+focal adhesion|OGRPBCAM
+follicle-stimulating hormone complex|OGRPBCAM
+food vacuole|OGRPBCAM
+foot layer|OGRPBCAM
+formate dehydrogenase complex|OGRPBCAM
+formin-nucleated actin cable|OGRPBCAM
+formyl-methanofuran dehydrogenase (molybdenum enzyme) complex|OGRPBCAM
+formyl-methanofuran dehydrogenase (tungsten enzyme) complex|OGRPBCAM
+free sarcoplasmic reticulum membrane|OGRPBCAM
+fumarate reductase complex|OGRPBCAM
+fungal biofilm matrix|OGRPBCAM
+fungal-type cell wall|OGRPBCAM
+fungal-type vacuole|OGRPBCAM
+fungal-type vacuole lumen|OGRPBCAM
+fungal-type vacuole membrane|OGRPBCAM
+fusiform vesicle|OGRPBCAM
+fusome|OGRPBCAM
+galectin complex|OGRPBCAM
+galectin lattice|OGRPBCAM
+gamma DNA polymerase complex|OGRPBCAM
+gamma-catenin-TCF7L2 complex|OGRPBCAM
+gamma-delta T cell receptor complex|OGRPBCAM
+gamma-secretase complex|OGRPBCAM
+gamma-secretase-Delta1 complex|OGRPBCAM
+gamma-tubulin complex|OGRPBCAM
+gamma-tubulin ring complex|OGRPBCAM
+gamma-tubulin small complex|OGRPBCAM
+gap junction|OGRPBCAM
+gas vesicle|OGRPBCAM
+gas vesicle shell|OGRPBCAM
+gel phase of basement membrane|OGRPBCAM
+gel phase of interstitial matrix|OGRPBCAM
+gemmule|OGRPBCAM
+generative cell nucleus|OGRPBCAM
+geranylgeranyltransferase-III complex|OGRPBCAM
+germ cell nucleus|OGRPBCAM
+germ plasm|OGRPBCAM
+germ tube|OGRPBCAM
+germ tube septin cap|OGRPBCAM
+germ tube septin ring|OGRPBCAM
+germinal vesicle|OGRPBCAM
+germline ring canal|OGRPBCAM
+gerontoplast|OGRPBCAM
+gerontoplast stroma|OGRPBCAM
+giant axon|OGRPBCAM
+glial cell projection|OGRPBCAM
+glial cytoplasmic inclusion|OGRPBCAM
+glial filament|OGRPBCAM
+glial limiting end-foot|OGRPBCAM
+glideosome|OGRPBCAM
+glomerular endothelium fenestra|OGRPBCAM
+glucose transporter complex|OGRPBCAM
+glucose-1-phosphate adenylyltransferase complex|OGRPBCAM
+glucosidase II complex|OGRPBCAM
+glucosidase complex|OGRPBCAM
+glutamate decarboxylase complex|OGRPBCAM
+glutamate dehydrogenase complex|OGRPBCAM
+glutamate synthase complex|OGRPBCAM
+glutamate synthase complex (NADH)|OGRPBCAM
+glutamate synthase complex (NADPH)|OGRPBCAM
+glutamate-cysteine ligase complex|OGRPBCAM
+glutamate-tRNA ligase complex|OGRPBCAM
+glutamatergic postsynaptic density|OGRPBCAM
+glutamatergic synapse|OGRPBCAM
+glutaminase complex|OGRPBCAM
+glutamyl-tRNA(Gln) amidotransferase complex|OGRPBCAM
+glutathione hydrolase complex|OGRPBCAM
+glutathione synthase complex|OGRPBCAM
+glycerol-3-phosphate dehydrogenase (FAD) complex|OGRPBCAM
+glycerol-3-phosphate-transporting ATPase complex|OGRPBCAM
+glycine cleavage complex|OGRPBCAM
+glycine reductase complex|OGRPBCAM
+glycine-gated chloride channel complex|OGRPBCAM
+glycine-tRNA ligase complex|OGRPBCAM
+glycinergic synapse|OGRPBCAM
+glycocalyx|OGRPBCAM
+glycogen granule|OGRPBCAM
+glycolate oxidase complex|OGRPBCAM
+glycoprotein Ib-IX-V complex|OGRPBCAM
+glycoprotein complex|OGRPBCAM
+glycoprotein network|OGRPBCAM
+glycosome|OGRPBCAM
+glycosome lumen|OGRPBCAM
+glycosome membrane|OGRPBCAM
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex|OGRPBCAM
+glycosylphosphatidylinositol-mannosyltransferase I complex|OGRPBCAM
+glycosylphosphatidylinositol-mannosyltransferase II complex|OGRPBCAM
+glyoxysomal lumen|OGRPBCAM
+glyoxysomal membrane|OGRPBCAM
+glyoxysome|OGRPBCAM
+goblet cell theca|OGRPBCAM
+granal stacked thylakoid|OGRPBCAM
+granular component|OGRPBCAM
+granular vesicle|OGRPBCAM
+granulocyte macrophage colony-stimulating factor receptor complex|OGRPBCAM
+granum|OGRPBCAM
+growing cell tip|OGRPBCAM
+growth cone|OGRPBCAM
+growth cone filopodium|OGRPBCAM
+growth cone lamellipodium|OGRPBCAM
+growth cone leading edge|OGRPBCAM
+growth cone membrane|OGRPBCAM
+growth factor complex|OGRPBCAM
+growth hormone receptor complex|OGRPBCAM
+guanyl-nucleotide exchange factor complex|OGRPBCAM
+guanylate cyclase complex, soluble|OGRPBCAM
+gut granule|OGRPBCAM
+gut granule lumen|OGRPBCAM
+gut granule membrane|OGRPBCAM
+half bridge of mitotic spindle pole body|OGRPBCAM
+half bridge of spindle pole body|OGRPBCAM
+haptoglobin-hemoglobin complex|OGRPBCAM
+haustorium|OGRPBCAM
+heavy chain immunoglobulin complex|OGRPBCAM
+helical viral capsid|OGRPBCAM
+hemicellulose network|OGRPBCAM
+hemidesmosome|OGRPBCAM
+hemidesmosome associated protein complex|OGRPBCAM
+hemoglobin complex|OGRPBCAM
+hemozoin formation complex|OGRPBCAM
+heparanase complex|OGRPBCAM
+heterochromatin|OGRPBCAM
+heterochromatin domain|OGRPBCAM
+heterochromatin island|OGRPBCAM
+heteromeric SMAD protein complex|OGRPBCAM
+heterotetrameric ADPG pyrophosphorylase complex|OGRPBCAM
+heterotetrameric polyprenyl diphosphate synthase complex|OGRPBCAM
+heterotrimeric G-protein complex|OGRPBCAM
+hexagonal collagen network of basement membrane|OGRPBCAM
+hexameric IgM immunoglobulin complex|OGRPBCAM
+high molecular weight kininogen receptor complex|OGRPBCAM
+high-affinity iron exporter complex|OGRPBCAM
+high-affinity iron permease complex|OGRPBCAM
+high-density lipoprotein particle|OGRPBCAM
+hinge region between urothelial plaques of apical plasma membrane|OGRPBCAM
+hippocampal mossy fiber|OGRPBCAM
+hippocampal mossy fiber expansion|OGRPBCAM
+hippocampal mossy fiber to CA3 synapse|OGRPBCAM
+histamine-gated chloride channel complex|OGRPBCAM
+histone H3-K14 acetyltransferase complex|OGRPBCAM
+histone H3-containing nucleosome|OGRPBCAM
+histone acetyltransferase complex|OGRPBCAM
+histone deacetylase complex|OGRPBCAM
+histone locus body|OGRPBCAM
+histone mRNA stem-loop binding complex|OGRPBCAM
+histone methyltransferase complex|OGRPBCAM
+histone pre-mRNA 3'end processing complex|OGRPBCAM
+homodimeric polyprenyl diphosphate synthase complex|OGRPBCAM
+homodimeric serine palmitoyltransferase complex|OGRPBCAM
+homomeric SMAD protein complex|OGRPBCAM
+homotetrameric ADPG pyrophosphorylase complex|OGRPBCAM
+horsetail-astral microtubule array|OGRPBCAM
+host apoplast|OGRPBCAM
+host bacteroid-containing symbiosome|OGRPBCAM
+host caveola|OGRPBCAM
+host cell|OGRPBCAM
+host cell Cajal body|OGRPBCAM
+host cell Golgi apparatus|OGRPBCAM
+host cell Golgi membrane|OGRPBCAM
+host cell PML body|OGRPBCAM
+host cell centrosome|OGRPBCAM
+host cell chloroplast|OGRPBCAM
+host cell chloroplast part|OGRPBCAM
+host cell chloroplast thylakoid membrane|OGRPBCAM
+host cell cytoplasm|OGRPBCAM
+host cell cytoplasm part|OGRPBCAM
+host cell cytoplasmic vesicle|OGRPBCAM
+host cell cytoplasmic vesicle membrane|OGRPBCAM
+host cell cytosol|OGRPBCAM
+host cell endocytic vesicle membrane|OGRPBCAM
+host cell endomembrane system|OGRPBCAM
+host cell endoplasmic reticulum|OGRPBCAM
+host cell endoplasmic reticulum lumen|OGRPBCAM
+host cell endoplasmic reticulum membrane|OGRPBCAM
+host cell endoplasmic reticulum-Golgi intermediate compartment|OGRPBCAM
+host cell endoplasmic reticulum-Golgi intermediate compartment membrane|OGRPBCAM
+host cell endosome|OGRPBCAM
+host cell endosome lumen|OGRPBCAM
+host cell endosome membrane|OGRPBCAM
+host cell envelope|OGRPBCAM
+host cell filopodium|OGRPBCAM
+host cell junction|OGRPBCAM
+host cell late endosome|OGRPBCAM
+host cell late endosome membrane|OGRPBCAM
+host cell lipid droplet|OGRPBCAM
+host cell lysosomal membrane|OGRPBCAM
+host cell lysosome|OGRPBCAM
+host cell membrane|OGRPBCAM
+host cell membrane pore complex|OGRPBCAM
+host cell mitochondrial envelope|OGRPBCAM
+host cell mitochondrial inner membrane|OGRPBCAM
+host cell mitochondrial intermembrane space|OGRPBCAM
+host cell mitochondrial membrane|OGRPBCAM
+host cell mitochondrial outer membrane|OGRPBCAM
+host cell mitochondrion|OGRPBCAM
+host cell nuclear envelope|OGRPBCAM
+host cell nuclear inner membrane|OGRPBCAM
+host cell nuclear lamina|OGRPBCAM
+host cell nuclear matrix|OGRPBCAM
+host cell nuclear membrane|OGRPBCAM
+host cell nuclear outer membrane|OGRPBCAM
+host cell nuclear part|OGRPBCAM
+host cell nucleolus|OGRPBCAM
+host cell nucleoplasm|OGRPBCAM
+host cell nucleus|OGRPBCAM
+host cell outer membrane|OGRPBCAM
+host cell part|OGRPBCAM
+host cell perinuclear region of cytoplasm|OGRPBCAM
+host cell periphery|OGRPBCAM
+host cell periplasmic space|OGRPBCAM
+host cell peroxisome|OGRPBCAM
+host cell plasma membrane|OGRPBCAM
+host cell plasmodesma|OGRPBCAM
+host cell plastid|OGRPBCAM
+host cell postsynaptic membrane|OGRPBCAM
+host cell presynaptic membrane|OGRPBCAM
+host cell projection|OGRPBCAM
+host cell rough endoplasmic reticulum|OGRPBCAM
+host cell rough endoplasmic reticulum membrane|OGRPBCAM
+host cell smooth endoplasmic reticulum|OGRPBCAM
+host cell smooth endoplasmic reticulum membrane|OGRPBCAM
+host cell surface|OGRPBCAM
+host cell synapse|OGRPBCAM
+host cell synaptic vesicle|OGRPBCAM
+host cell synaptic vesicle membrane|OGRPBCAM
+host cell uropod|OGRPBCAM
+host cell viral assembly compartment|OGRPBCAM
+host cell viral nucleoid|OGRPBCAM
+host cell wall|OGRPBCAM
+host cellular component|OGRPBCAM
+host chromosome|OGRPBCAM
+host cytoskeleton|OGRPBCAM
+host extracellular space|OGRPBCAM
+host intracellular membrane-bounded organelle|OGRPBCAM
+host intracellular organelle|OGRPBCAM
+host intracellular part|OGRPBCAM
+host intracellular region|OGRPBCAM
+host multivesicular body|OGRPBCAM
+host organelle outer membrane|OGRPBCAM
+host outer membrane|OGRPBCAM
+host peribacteroid fluid|OGRPBCAM
+host peribacteroid membrane|OGRPBCAM
+host symbiosome|OGRPBCAM
+host thylakoid|OGRPBCAM
+host thylakoid membrane|OGRPBCAM
+host-symbiont bicellular tight junction|OGRPBCAM
+humanin receptor complex|OGRPBCAM
+hyaline inclusion|OGRPBCAM
+hyaline layer|OGRPBCAM
+hyaluranon cable|OGRPBCAM
+hydrogenosomal membrane|OGRPBCAM
+hydrogenosome|OGRPBCAM
+hydrogenosome lumen|OGRPBCAM
+hydroxyisourate hydrolase complex|OGRPBCAM
+hyphae septin collar|OGRPBCAM
+hyphal cell wall|OGRPBCAM
+hyphal membrane|OGRPBCAM
+hyphal septin band|OGRPBCAM
+hyphal septin cap|OGRPBCAM
+hyphal septin ring|OGRPBCAM
+hyphal tip|OGRPBCAM
+hyphal tip polarisome|OGRPBCAM
+hypolemmal cisterna|OGRPBCAM
+i-AAA complex|OGRPBCAM
+iNOS-S100A8/A9 complex|OGRPBCAM
+iRhom2/ADAM17 sheddase complex|OGRPBCAM
+icosahedral viral capsid|OGRPBCAM
+icosahedral viral capsid, collar|OGRPBCAM
+icosahedral viral capsid, collar fiber|OGRPBCAM
+icosahedral viral capsid, neck|OGRPBCAM
+icosahedral viral capsid, neck fiber|OGRPBCAM
+icosahedral viral capsid, spike|OGRPBCAM
+imidazoleglycerol-phosphate synthase complex|OGRPBCAM
+immunoglobulin complex|OGRPBCAM
+immunoglobulin complex, circulating|OGRPBCAM
+immunological synapse|OGRPBCAM
+inaD signaling complex|OGRPBCAM
+inactive sex chromosome|OGRPBCAM
+incipient cellular bud site|OGRPBCAM
+inclusion body|OGRPBCAM
+infected host cell surface knob|OGRPBCAM
+inhibin A complex|OGRPBCAM
+inhibin B complex|OGRPBCAM
+inhibin complex|OGRPBCAM
+inhibin-betaglycan-ActRII complex|OGRPBCAM
+inhibitory neuromuscular junction|OGRPBCAM
+inhibitory neuromuscular junction of somatic myotube|OGRPBCAM
+inhibitory synapse|OGRPBCAM
+inner acrosomal membrane|OGRPBCAM
+inner dense plaque of desmosome|OGRPBCAM
+inner dynein arm|OGRPBCAM
+inner kinetochore|OGRPBCAM
+inner layer of spore wall|OGRPBCAM
+inner membrane pellicle complex|OGRPBCAM
+inner mitochondrial membrane protein complex|OGRPBCAM
+inner mucus layer|OGRPBCAM
+inner plaque of mitotic spindle pole body|OGRPBCAM
+inner plaque of spindle pole body|OGRPBCAM
+inositol phosphoceramide synthase complex|OGRPBCAM
+insulin control element activator complex|OGRPBCAM
+insulin receptor complex|OGRPBCAM
+insulin-like growth factor binary complex|OGRPBCAM
+insulin-like growth factor binding protein complex|OGRPBCAM
+insulin-like growth factor ternary complex|OGRPBCAM
+insulin-responsive compartment|OGRPBCAM
+integrator complex|OGRPBCAM
+integrin alpha1-beta1 complex|OGRPBCAM
+integrin alpha10-beta1 complex|OGRPBCAM
+integrin alpha11-beta1 complex|OGRPBCAM
+integrin alpha2-beta1 complex|OGRPBCAM
+integrin alpha3-beta1 complex|OGRPBCAM
+integrin alpha4-beta1 complex|OGRPBCAM
+integrin alpha4-beta7 complex|OGRPBCAM
+integrin alpha5-beta1 complex|OGRPBCAM
+integrin alpha6-beta1 complex|OGRPBCAM
+integrin alpha6-beta4 complex|OGRPBCAM
+integrin alpha7-beta1 complex|OGRPBCAM
+integrin alpha8-beta1 complex|OGRPBCAM
+integrin alpha9-beta1 complex|OGRPBCAM
+integrin alphaD-beta2 complex|OGRPBCAM
+integrin alphaE-beta7 complex|OGRPBCAM
+integrin alphaIIb-beta3 complex|OGRPBCAM
+integrin alphaL-beta2 complex|OGRPBCAM
+integrin alphaM-beta2 complex|OGRPBCAM
+integrin alphaX-beta2 complex|OGRPBCAM
+integrin alphav-beta1 complex|OGRPBCAM
+integrin alphav-beta3 complex|OGRPBCAM
+integrin alphav-beta5 complex|OGRPBCAM
+integrin alphav-beta6 complex|OGRPBCAM
+integrin alphav-beta8 complex|OGRPBCAM
+integrin complex|OGRPBCAM
+inter-Golgi transport vesicle membrane|OGRPBCAM
+intercalary heterochromatin|OGRPBCAM
+intercalated disc|OGRPBCAM
+intercellular bridge|OGRPBCAM
+intercellular canaliculus|OGRPBCAM
+interchromatin granule|OGRPBCAM
+interferon regulatory factor 3 complex|OGRPBCAM
+interferon regulatory factor 3-interferon regulatory factor 5 complex|OGRPBCAM
+interferon regulatory factor 3-interferon regulatory factor 7 complex|OGRPBCAM
+interferon regulatory factor 5 complex|OGRPBCAM
+interferon regulatory factor 7 complex|OGRPBCAM
+interferon regulatory factor complex|OGRPBCAM
+interleukin-1 receptor complex|OGRPBCAM
+interleukin-10 receptor complex|OGRPBCAM
+interleukin-12 complex|OGRPBCAM
+interleukin-12 receptor complex|OGRPBCAM
+interleukin-12-interleukin-12 receptor complex|OGRPBCAM
+interleukin-13 receptor complex|OGRPBCAM
+interleukin-15 receptor complex|OGRPBCAM
+interleukin-18 receptor complex|OGRPBCAM
+interleukin-2 receptor complex|OGRPBCAM
+interleukin-20 receptor complex|OGRPBCAM
+interleukin-23 complex|OGRPBCAM
+interleukin-23 receptor complex|OGRPBCAM
+interleukin-27 complex|OGRPBCAM
+interleukin-28 receptor complex|OGRPBCAM
+interleukin-3 receptor complex|OGRPBCAM
+interleukin-35 complex|OGRPBCAM
+interleukin-4 receptor complex|OGRPBCAM
+interleukin-5 receptor complex|OGRPBCAM
+interleukin-6 receptor complex|OGRPBCAM
+interleukin-7 receptor complex|OGRPBCAM
+interleukin-9 receptor complex|OGRPBCAM
+interleukin4-interleukin-4 receptor complex|OGRPBCAM
+intermediate filament|OGRPBCAM
+intermediate filament cytoskeleton|OGRPBCAM
+intermediate layer of mitotic spindle pole body|OGRPBCAM
+intermediate layer of spindle pole body|OGRPBCAM
+intermediate-density lipoprotein particle|OGRPBCAM
+internal side of mycolate outer membrane|OGRPBCAM
+internode region of axon|OGRPBCAM
+interphase SIN signaling complex|OGRPBCAM
+interphase microtubule organizing center|OGRPBCAM
+interphotoreceptor matrix|OGRPBCAM
+interstitial hexagonal collagen network|OGRPBCAM
+interstitial matrix|OGRPBCAM
+intine|OGRPBCAM
+intracellular anatomical structure|OGRPBCAM
+intracellular canaliculus|OGRPBCAM
+intracellular cyclic nucleotide activated cation channel complex|OGRPBCAM
+intracellular immature spore|OGRPBCAM
+intracellular membrane-bounded organelle|OGRPBCAM
+intracellular membraneless organelle|OGRPBCAM
+intracellular organelle|OGRPBCAM
+intracellular organelle lumen|OGRPBCAM
+intracellular protein-containing complex|OGRPBCAM
+intracellular vesicle|OGRPBCAM
+intraciliary transport particle|OGRPBCAM
+intraciliary transport particle A|OGRPBCAM
+intraciliary transport particle B|OGRPBCAM
+intraconoid microtubule|OGRPBCAM
+intramolecular phosphotransferase complex|OGRPBCAM
+intranuclear rod|OGRPBCAM
+invertasome|OGRPBCAM
+investment cone|OGRPBCAM
+inward rectifier potassium channel complex|OGRPBCAM
+inward rectifying potassium channel|OGRPBCAM
+ionotropic glutamate receptor complex|OGRPBCAM
+iridosome|OGRPBCAM
+iron-iron nitrogenase complex|OGRPBCAM
+iron-sulfur cluster assembly complex|OGRPBCAM
+iron-sulfur cluster transfer complex|OGRPBCAM
+isoamylase complex|OGRPBCAM
+isocitrate dehydrogenase complex (NAD+)|OGRPBCAM
+junctional membrane complex|OGRPBCAM
+junctional sarcoplasmic reticulum membrane|OGRPBCAM
+juxtaparanode region of axon|OGRPBCAM
+kainate selective glutamate receptor complex|OGRPBCAM
+karyomere|OGRPBCAM
+katanin complex|OGRPBCAM
+keratin filament|OGRPBCAM
+keratohyalin granule|OGRPBCAM
+kinesin I complex|OGRPBCAM
+kinesin II complex|OGRPBCAM
+kinesin complex|OGRPBCAM
+kinetochore|OGRPBCAM
+kinetochore microtubule|OGRPBCAM
+kinetoplast|OGRPBCAM
+kinociliary basal body|OGRPBCAM
+kinocilium|OGRPBCAM
+lamellar body|OGRPBCAM
+lamellar body membrane|OGRPBCAM
+lamellipodium|OGRPBCAM
+lamellipodium membrane|OGRPBCAM
+lamin filament|OGRPBCAM
+laminated body|OGRPBCAM
+laminin complex|OGRPBCAM
+laminin-1 complex|OGRPBCAM
+laminin-10 complex|OGRPBCAM
+laminin-11 complex|OGRPBCAM
+laminin-12 complex|OGRPBCAM
+laminin-14 complex|OGRPBCAM
+laminin-15 complex|OGRPBCAM
+laminin-2 complex|OGRPBCAM
+laminin-3 complex|OGRPBCAM
+laminin-4 complex|OGRPBCAM
+laminin-5 complex|OGRPBCAM
+laminin-522 complex|OGRPBCAM
+laminin-5B complex|OGRPBCAM
+laminin-6 complex|OGRPBCAM
+laminin-7 complex|OGRPBCAM
+laminin-8 complex|OGRPBCAM
+laminin-9 complex|OGRPBCAM
+large latent transforming growth factor-beta complex|OGRPBCAM
+large ribosomal subunit|OGRPBCAM
+large ribosomal subunit pre-assembly complex|OGRPBCAM
+larval serum protein complex|OGRPBCAM
+late endosome|OGRPBCAM
+late endosome lumen|OGRPBCAM
+late endosome membrane|OGRPBCAM
+late recombination nodule|OGRPBCAM
+lateral cell cortex|OGRPBCAM
+lateral cortical node|OGRPBCAM
+lateral element|OGRPBCAM
+lateral loop|OGRPBCAM
+lateral part of cell|OGRPBCAM
+lateral part of motile cell|OGRPBCAM
+lateral plasma membrane|OGRPBCAM
+lateral shield|OGRPBCAM
+lateral wall of outer hair cell|OGRPBCAM
+leading edge membrane|OGRPBCAM
+leading edge of axonal growth cone|OGRPBCAM
+leading edge of dendritic growth cone|OGRPBCAM
+leading edge of lamellipodium|OGRPBCAM
+leaf papilla|OGRPBCAM
+leaflet of membrane bilayer|OGRPBCAM
+left anterior basal body|OGRPBCAM
+left anterior flagellum|OGRPBCAM
+left caudal basal body|OGRPBCAM
+left caudal flagellum|OGRPBCAM
+left lateral basal body pair|OGRPBCAM
+left middle basal body pair|OGRPBCAM
+left nucleus|OGRPBCAM
+left posteriolateral basal body|OGRPBCAM
+left posteriolateral flagellum|OGRPBCAM
+left tetrad|OGRPBCAM
+left ventral basal body|OGRPBCAM
+left ventral flagellum|OGRPBCAM
+leucoplast|OGRPBCAM
+leucoplast stroma|OGRPBCAM
+leucosome|OGRPBCAM
+light-activated voltage-gated calcium channel complex|OGRPBCAM
+light-harvesting complex|OGRPBCAM
+light-harvesting complex, core complex|OGRPBCAM
+light-harvesting complex, peripheral complex|OGRPBCAM
+lignin network|OGRPBCAM
+linear element|OGRPBCAM
+lipid droplet|OGRPBCAM
+lipid tube|OGRPBCAM
+lipopolysaccharide receptor complex|OGRPBCAM
+lipopolysaccharide transport system|OGRPBCAM
+lipoprotein particle|OGRPBCAM
+longitudinal flagellum|OGRPBCAM
+longitudinal sarcoplasmic reticulum|OGRPBCAM
+longitudinal sarcoplasmic reticulum lumen|OGRPBCAM
+longitudinal side of cell surface|OGRPBCAM
+low-density lipoprotein particle|OGRPBCAM
+low-density lipoprotein receptor complex|OGRPBCAM
+lower tip-link density|OGRPBCAM
+lumenal side of Golgi membrane|OGRPBCAM
+lumenal side of cis-Golgi cisternae membrane|OGRPBCAM
+lumenal side of cis-Golgi network membrane|OGRPBCAM
+lumenal side of early endosome membrane|OGRPBCAM
+lumenal side of endoplasmic reticulum membrane|OGRPBCAM
+lumenal side of endosome membrane|OGRPBCAM
+lumenal side of late endosome membrane|OGRPBCAM
+lumenal side of lysosomal membrane|OGRPBCAM
+lumenal side of medial-Golgi cisterna membrane|OGRPBCAM
+lumenal side of membrane|OGRPBCAM
+lumenal side of plastid thylakoid membrane|OGRPBCAM
+lumenal side of rough endoplasmic reticulum membrane|OGRPBCAM
+lumenal side of smooth endoplasmic reticulum membrane|OGRPBCAM
+lumenal side of trans-Golgi cisternae membrane|OGRPBCAM
+lumenal side of trans-Golgi network membrane|OGRPBCAM
+lumenal side of trans-Golgi network transport vesicle membrane|OGRPBCAM
+lumenal side of transport vesicle membrane|OGRPBCAM
+luminal surveillance complex|OGRPBCAM
+lymphotoxin complex|OGRPBCAM
+lysosomal HOPS complex|OGRPBCAM
+lysosomal glycocalyx|OGRPBCAM
+lysosomal lumen|OGRPBCAM
+lysosomal matrix|OGRPBCAM
+lysosomal membrane|OGRPBCAM
+lysosomal multienzyme complex|OGRPBCAM
+lysosomal proton-transporting V-type ATPase complex|OGRPBCAM
+lysosomal proton-transporting V-type ATPase, V0 domain|OGRPBCAM
+lysosomal proton-transporting V-type ATPase, V1 domain|OGRPBCAM
+lysosome|OGRPBCAM
+lytic vacuole|OGRPBCAM
+lytic vacuole membrane|OGRPBCAM
+lytic vacuole within protein storage vacuole|OGRPBCAM
+m-AAA complex|OGRPBCAM
+m7G(5')pppN diphosphatase complex|OGRPBCAM
+mBAF complex|OGRPBCAM
+mCRD-mediated mRNA stability complex|OGRPBCAM
+mRNA cap methyltransferase RNMT:RAMAC complex|OGRPBCAM
+mRNA capping enzyme complex|OGRPBCAM
+mRNA cleavage and polyadenylation specificity factor complex|OGRPBCAM
+mRNA cleavage factor complex|OGRPBCAM
+mRNA cleavage stimulating factor complex|OGRPBCAM
+mRNA editing complex|OGRPBCAM
+macrolide transmembrane transporter complex|OGRPBCAM
+macronucleus|OGRPBCAM
+macrophage migration inhibitory factor receptor complex|OGRPBCAM
+macropinocytic cup|OGRPBCAM
+macropinocytic cup cytoskeleton|OGRPBCAM
+macropinocytic cup membrane|OGRPBCAM
+macropinosome|OGRPBCAM
+macropinosome membrane|OGRPBCAM
+magnesium chelatase complex|OGRPBCAM
+magnesium-dependent protein serine/threonine phosphatase complex|OGRPBCAM
+magnetosome|OGRPBCAM
+magnetosome lumen|OGRPBCAM
+magnetosome membrane|OGRPBCAM
+main axon|OGRPBCAM
+major mitochondrial derivative|OGRPBCAM
+male germ cell nucleus|OGRPBCAM
+male germline ring canal|OGRPBCAM
+male pronucleus|OGRPBCAM
+maltose transport complex|OGRPBCAM
+manchette|OGRPBCAM
+mannan polymerase I complex|OGRPBCAM
+mannan polymerase II complex|OGRPBCAM
+mannan polymerase complex|OGRPBCAM
+mannosome|OGRPBCAM
+mannosyl-oligosaccharide 1,2-alpha-mannosidase complex|OGRPBCAM
+mannosyltransferase complex|OGRPBCAM
+mast cell granule|OGRPBCAM
+mastigoneme|OGRPBCAM
+mating projection|OGRPBCAM
+mating projection actin fusion focus|OGRPBCAM
+mating projection base|OGRPBCAM
+mating projection membrane|OGRPBCAM
+mating projection septin band|OGRPBCAM
+mating projection septin ring|OGRPBCAM
+mating projection tip|OGRPBCAM
+mating projection tip membrane|OGRPBCAM
+mating projection tip polarisome|OGRPBCAM
+mating-type region heterochromatin|OGRPBCAM
+matrilin complex|OGRPBCAM
+matrix side of mitochondrial inner membrane|OGRPBCAM
+mature chylomicron|OGRPBCAM
+medial cortex|OGRPBCAM
+medial cortex septin ring|OGRPBCAM
+medial cortical node|OGRPBCAM
+medial layer of collagen and cuticulin-based cuticle extracellular matrix|OGRPBCAM
+medial membrane band|OGRPBCAM
+median body|OGRPBCAM
+mediator complex|OGRPBCAM
+megagametophyte egg cell nucleus|OGRPBCAM
+megasome|OGRPBCAM
+megasporocyte nucleus|OGRPBCAM
+meiotic actomyosin contractile ring|OGRPBCAM
+meiotic cohesin complex|OGRPBCAM
+meiotic nuclear membrane microtubule tethering complex|OGRPBCAM
+meiotic recombination initiation complex|OGRPBCAM
+meiotic septin complex|OGRPBCAM
+meiotic spindle|OGRPBCAM
+meiotic spindle astral microtubule|OGRPBCAM
+meiotic spindle midzone|OGRPBCAM
+meiotic spindle pole|OGRPBCAM
+meiotic spindle pole body|OGRPBCAM
+meisosome|OGRPBCAM
+melanosome|OGRPBCAM
+melanosome lumen|OGRPBCAM
+melanosome membrane|OGRPBCAM
+membrane|OGRPBCAM
+membrane attack complex|OGRPBCAM
+membrane coat|OGRPBCAM
+membrane fusion priming complex|OGRPBCAM
+membrane microdomain|OGRPBCAM
+membrane protein complex|OGRPBCAM
+membrane raft|OGRPBCAM
+membrane stack|OGRPBCAM
+membrane-bounded organelle|OGRPBCAM
+membrane-enclosed lumen|OGRPBCAM
+membraneless organelle|OGRPBCAM
+meprin A complex|OGRPBCAM
+mesaxon|OGRPBCAM
+mesosome|OGRPBCAM
+metallochaperone complex|OGRPBCAM
+metaphase plate|OGRPBCAM
+methane monooxygenase complex|OGRPBCAM
+methane-oxidizing organelle|OGRPBCAM
+methanol-CoM methyltransferase complex|OGRPBCAM
+methanophenazine reducing hydrogenase complex|OGRPBCAM
+methionine adenosyltransferase complex|OGRPBCAM
+methionine-importing ABC transporter complex|OGRPBCAM
+methionine-importing complex|OGRPBCAM
+methionyl glutamyl tRNA synthetase complex|OGRPBCAM
+methyl accepting chemotaxis protein complex|OGRPBCAM
+methyl coenzyme M reductase complex|OGRPBCAM
+methyl-tetrahydromethanopterin:coenzyme M methyltransferase complex|OGRPBCAM
+methylcrotonoyl-CoA carboxylase complex|OGRPBCAM
+methylosome|OGRPBCAM
+methylthiol:coenzyme M methyltransferase complex|OGRPBCAM
+methyltransferase complex|OGRPBCAM
+microbody|OGRPBCAM
+microbody lumen|OGRPBCAM
+microbody membrane|OGRPBCAM
+microfibril|OGRPBCAM
+microneme|OGRPBCAM
+microneme lumen|OGRPBCAM
+microneme membrane|OGRPBCAM
+micronucleus|OGRPBCAM
+micropexophagy-specific membrane apparatus|OGRPBCAM
+micropinosome|OGRPBCAM
+microprocessor complex|OGRPBCAM
+microspike|OGRPBCAM
+microsporidian-type endospore|OGRPBCAM
+microsporidian-type exospore|OGRPBCAM
+microsporocyte nucleus|OGRPBCAM
+microtubule|OGRPBCAM
+microtubule associated complex|OGRPBCAM
+microtubule bundle|OGRPBCAM
+microtubule cytoskeleton|OGRPBCAM
+microtubule end|OGRPBCAM
+microtubule minus-end|OGRPBCAM
+microtubule organizing center|OGRPBCAM
+microtubule organizing center attachment site|OGRPBCAM
+microtubule plus-end|OGRPBCAM
+microvesicle|OGRPBCAM
+microvillar actin bundle|OGRPBCAM
+microvillus|OGRPBCAM
+microvillus membrane|OGRPBCAM
+midbody|OGRPBCAM
+middle lamella|OGRPBCAM
+migrasome|OGRPBCAM
+minor mitochondrial derivative|OGRPBCAM
+minus-end kinesin complex|OGRPBCAM
+mismatch repair complex|OGRPBCAM
+mitochondria-associated endoplasmic reticulum membrane contact site|OGRPBCAM
+mitochondrial ATP-gated potassium channel complex|OGRPBCAM
+mitochondrial DNA-directed RNA polymerase complex|OGRPBCAM
+mitochondrial [2Fe-2S] assembly complex|OGRPBCAM
+mitochondrial [4Fe-4S] assembly complex|OGRPBCAM
+mitochondrial chromosome|OGRPBCAM
+mitochondrial cloud|OGRPBCAM
+mitochondrial complex I intermediate assembly complex|OGRPBCAM
+mitochondrial creatine kinase complex|OGRPBCAM
+mitochondrial crista|OGRPBCAM
+mitochondrial crista junction|OGRPBCAM
+mitochondrial degradosome|OGRPBCAM
+mitochondrial derivative|OGRPBCAM
+mitochondrial electron transfer flavoprotein complex|OGRPBCAM
+mitochondrial endopeptidase Clp complex|OGRPBCAM
+mitochondrial envelope|OGRPBCAM
+mitochondrial fatty acid beta-oxidation multienzyme complex|OGRPBCAM
+mitochondrial glutamate synthase complex (NADH)|OGRPBCAM
+mitochondrial inner boundary membrane|OGRPBCAM
+mitochondrial inner membrane|OGRPBCAM
+mitochondrial inner membrane assembly complex|OGRPBCAM
+mitochondrial inner membrane peptidase complex|OGRPBCAM
+mitochondrial inner-outer membrane contact site|OGRPBCAM
+mitochondrial intermembrane space|OGRPBCAM
+mitochondrial intermembrane space chaperone complex|OGRPBCAM
+mitochondrial intracristal space|OGRPBCAM
+mitochondrial large ribosomal subunit|OGRPBCAM
+mitochondrial mRNA editing complex|OGRPBCAM
+mitochondrial matrix|OGRPBCAM
+mitochondrial membrane|OGRPBCAM
+mitochondrial membrane scission site|OGRPBCAM
+mitochondrial nucleoid|OGRPBCAM
+mitochondrial outer membrane|OGRPBCAM
+mitochondrial outer membrane translocase complex|OGRPBCAM
+mitochondrial permeability transition pore complex|OGRPBCAM
+mitochondrial processing peptidase complex|OGRPBCAM
+mitochondrial prohibitin complex|OGRPBCAM
+mitochondrial protein-containing complex|OGRPBCAM
+mitochondrial pyruvate carrier complex|OGRPBCAM
+mitochondrial pyruvate dehydrogenase (lipoamide) phosphatase complex|OGRPBCAM
+mitochondrial respiratory chain complex IV pre-assembly complex|OGRPBCAM
+mitochondrial ribonuclease P complex|OGRPBCAM
+mitochondrial ribosome|OGRPBCAM
+mitochondrial small ribosomal subunit|OGRPBCAM
+mitochondrial translation initiation complex|OGRPBCAM
+mitochondrial translation preinitiation complex|OGRPBCAM
+mitochondrion|OGRPBCAM
+mitochondrion-associated adherens complex|OGRPBCAM
+mitochondrion-derived vesicle|OGRPBCAM
+mitosome|OGRPBCAM
+mitotic actomyosin contractile ring|OGRPBCAM
+mitotic actomyosin contractile ring, distal actin filament layer|OGRPBCAM
+mitotic actomyosin contractile ring, intermediate layer|OGRPBCAM
+mitotic actomyosin contractile ring, proximal layer|OGRPBCAM
+mitotic checkpoint complex|OGRPBCAM
+mitotic checkpoint complex, CDC20-MAD2 subcomplex|OGRPBCAM
+mitotic cohesin complex|OGRPBCAM
+mitotic nuclear bridge|OGRPBCAM
+mitotic nuclear bridge midzone|OGRPBCAM
+mitotic nuclear bridge midzone membrane domain|OGRPBCAM
+mitotic nuclear bridge stalk|OGRPBCAM
+mitotic nuclear membrane microtubule tethering complex|OGRPBCAM
+mitotic septin complex|OGRPBCAM
+mitotic spindle|OGRPBCAM
+mitotic spindle assembly checkpoint MAD1-MAD2 complex|OGRPBCAM
+mitotic spindle astral microtubule|OGRPBCAM
+mitotic spindle astral microtubule end|OGRPBCAM
+mitotic spindle kinetochore microtubule|OGRPBCAM
+mitotic spindle microtubule|OGRPBCAM
+mitotic spindle midzone|OGRPBCAM
+mitotic spindle polar microtubule|OGRPBCAM
+mitotic spindle pole|OGRPBCAM
+mitotic spindle pole body|OGRPBCAM
+mitotic spindle pole body attachment site|OGRPBCAM
+molybdenum-iron nitrogenase complex|OGRPBCAM
+molybdopterin adenylyltransferase complex|OGRPBCAM
+molybdopterin synthase complex|OGRPBCAM
+monoatomic ion channel complex|OGRPBCAM
+monolayer-surrounded lipid storage body|OGRPBCAM
+monolayer-surrounded lipid storage body outer lipid monolayer|OGRPBCAM
+monomeric IgA immunoglobulin complex|OGRPBCAM
+mononeme|OGRPBCAM
+monopolin complex|OGRPBCAM
+mossy fiber rosette|OGRPBCAM
+motile cilium|OGRPBCAM
+mucin granule|OGRPBCAM
+mucocyst|OGRPBCAM
+mucus layer|OGRPBCAM
+multi-eIF complex|OGRPBCAM
+multi-pass translocon complex|OGRPBCAM
+multimeric ribonuclease P complex|OGRPBCAM
+multimerin complex|OGRPBCAM
+multiple synapse bouton|OGRPBCAM
+multiple synapse bouton, contacting multiple dendrites|OGRPBCAM
+multiple synapse bouton, contacting single dendrite|OGRPBCAM
+multiplexin collagen trimer|OGRPBCAM
+multivesicular body|OGRPBCAM
+multivesicular body HOPS complex|OGRPBCAM
+multivesicular body lumen|OGRPBCAM
+multivesicular body membrane|OGRPBCAM
+multivesicular body, internal vesicle|OGRPBCAM
+multivesicular body, internal vesicle lumen|OGRPBCAM
+multivesicular body, internal vesicle membrane|OGRPBCAM
+muscle cell postsynaptic specialization|OGRPBCAM
+muscle cell projection|OGRPBCAM
+muscle cell projection membrane|OGRPBCAM
+muscle myosin complex|OGRPBCAM
+muscle tendon junction|OGRPBCAM
+muscle thin filament tropomyosin|OGRPBCAM
+mutator focus|OGRPBCAM
+mycolate outer membrane|OGRPBCAM
+myelin sheath|OGRPBCAM
+myelin sheath abaxonal region|OGRPBCAM
+myelin sheath adaxonal region|OGRPBCAM
+myofibril|OGRPBCAM
+myofilament|OGRPBCAM
+myosin I complex|OGRPBCAM
+myosin II complex|OGRPBCAM
+myosin II filament|OGRPBCAM
+myosin III complex|OGRPBCAM
+myosin IV complex|OGRPBCAM
+myosin IX complex|OGRPBCAM
+myosin V complex|OGRPBCAM
+myosin VI complex|OGRPBCAM
+myosin VII complex|OGRPBCAM
+myosin VIII complex|OGRPBCAM
+myosin X complex|OGRPBCAM
+myosin XI complex|OGRPBCAM
+myosin XII complex|OGRPBCAM
+myosin XIII complex|OGRPBCAM
+myosin XIV complex|OGRPBCAM
+myosin XV complex|OGRPBCAM
+myosin XVI complex|OGRPBCAM
+myosin XVII complex|OGRPBCAM
+myosin XVIII complex|OGRPBCAM
+myosin complex|OGRPBCAM
+myosin filament|OGRPBCAM
+myosin phosphatase complex|OGRPBCAM
+nBAF complex|OGRPBCAM
+nascent polypeptide-associated complex|OGRPBCAM
+neck portion of tanycyte|OGRPBCAM
+negative cofactor 2 complex|OGRPBCAM
+nematocyst|OGRPBCAM
+nematosome|OGRPBCAM
+nephrocyte diaphragm|OGRPBCAM
+network-forming collagen trimer|OGRPBCAM
+neurofibrillary tangle|OGRPBCAM
+neurofilament|OGRPBCAM
+neurofilament cytoskeleton|OGRPBCAM
+neuromuscular junction|OGRPBCAM
+neuromuscular junction of myotube|OGRPBCAM
+neuromuscular junction of skeletal muscle fiber|OGRPBCAM
+neuromuscular junction of somatic muscle|OGRPBCAM
+neuromuscular junction of somatic muscle myotube|OGRPBCAM
+neuron projection|OGRPBCAM
+neuron projection branch point|OGRPBCAM
+neuron projection cytoplasm|OGRPBCAM
+neuron projection membrane|OGRPBCAM
+neuron projection terminus|OGRPBCAM
+neuron spine|OGRPBCAM
+neuron to neuron synapse|OGRPBCAM
+neuronal cell body|OGRPBCAM
+neuronal cell body membrane|OGRPBCAM
+neuronal dense core vesicle|OGRPBCAM
+neuronal dense core vesicle lumen|OGRPBCAM
+neuronal dense core vesicle membrane|OGRPBCAM
+neuronal ribonucleoprotein granule|OGRPBCAM
+neurosecretory vesicle|OGRPBCAM
+neurotransmitter receptor complex|OGRPBCAM
+neutrophil extracellular trap|OGRPBCAM
+new cell pole|OGRPBCAM
+new growing cell tip|OGRPBCAM
+new mitotic spindle pole body|OGRPBCAM
+new spindle pole body SIN signaling complex|OGRPBCAM
+nexine|OGRPBCAM
+nitrate reductase complex|OGRPBCAM
+nitric-oxide synthase complex|OGRPBCAM
+nitrite reductase complex [NAD(P)H]|OGRPBCAM
+nitrogenase complex|OGRPBCAM
+nodal receptor complex|OGRPBCAM
+node of Ranvier|OGRPBCAM
+non-canonical inflammasome complex|OGRPBCAM
+non-collagenous component of basement membrane|OGRPBCAM
+non-collagenous component of interstitial matrix|OGRPBCAM
+non-growing cell tip|OGRPBCAM
+non-motile cilium|OGRPBCAM
+non-motile cilium membrane|OGRPBCAM
+nonhomologous end joining complex|OGRPBCAM
+nonsense-mediated decay complex|OGRPBCAM
+noradrenergic synapse|OGRPBCAM
+npBAF complex|OGRPBCAM
+nuclear DNA replication factor C complex|OGRPBCAM
+nuclear DNA-directed RNA polymerase complex|OGRPBCAM
+nuclear RNA export factor complex|OGRPBCAM
+nuclear RNA-directed RNA polymerase complex|OGRPBCAM
+nuclear SCF ubiquitin ligase complex|OGRPBCAM
+nuclear aryl hydrocarbon receptor complex|OGRPBCAM
+nuclear body|OGRPBCAM
+nuclear cap binding complex|OGRPBCAM
+nuclear chromosome|OGRPBCAM
+nuclear cyclin-dependent protein kinase holoenzyme complex|OGRPBCAM
+nuclear dicing body|OGRPBCAM
+nuclear envelope|OGRPBCAM
+nuclear envelope adjacent to nuclear pore complex|OGRPBCAM
+nuclear envelope lumen|OGRPBCAM
+nuclear exosome (RNase complex)|OGRPBCAM
+nuclear exosome focus|OGRPBCAM
+nuclear exosome targeting complex|OGRPBCAM
+nuclear inclusion body|OGRPBCAM
+nuclear inner membrane|OGRPBCAM
+nuclear lamina|OGRPBCAM
+nuclear lumen|OGRPBCAM
+nuclear matrix|OGRPBCAM
+nuclear membrane|OGRPBCAM
+nuclear membrane complex Bqt3-Bqt4|OGRPBCAM
+nuclear membrane microtubule tethering complex|OGRPBCAM
+nuclear membrane protein complex|OGRPBCAM
+nuclear microtubule|OGRPBCAM
+nuclear origin of replication recognition complex|OGRPBCAM
+nuclear outer membrane|OGRPBCAM
+nuclear outer membrane-endoplasmic reticulum membrane network|OGRPBCAM
+nuclear periphery|OGRPBCAM
+nuclear pore|OGRPBCAM
+nuclear pore central transport channel|OGRPBCAM
+nuclear pore cytoplasmic filaments|OGRPBCAM
+nuclear pore inner ring|OGRPBCAM
+nuclear pore linkers|OGRPBCAM
+nuclear pore nuclear basket|OGRPBCAM
+nuclear pore outer ring|OGRPBCAM
+nuclear pore transmembrane ring|OGRPBCAM
+nuclear pre-replicative complex|OGRPBCAM
+nuclear proteasome complex|OGRPBCAM
+nuclear proteasome core complex|OGRPBCAM
+nuclear proteasome core complex, alpha-subunit complex|OGRPBCAM
+nuclear proteasome core complex, beta-subunit complex|OGRPBCAM
+nuclear proteasome regulatory particle|OGRPBCAM
+nuclear proteasome regulatory particle, base subcomplex|OGRPBCAM
+nuclear proteasome regulatory particle, lid subcomplex|OGRPBCAM
+nuclear protein-containing complex|OGRPBCAM
+nuclear replication fork|OGRPBCAM
+nuclear replisome|OGRPBCAM
+nuclear ribonucleoprotein granule|OGRPBCAM
+nuclear speck|OGRPBCAM
+nuclear stress granule|OGRPBCAM
+nuclear telomere cap complex|OGRPBCAM
+nuclear ubiquitin ligase complex|OGRPBCAM
+nuclear viral factory|OGRPBCAM
+nucleocytoplasmic transport complex|OGRPBCAM
+nucleoid|OGRPBCAM
+nucleolar chromatin|OGRPBCAM
+nucleolar exosome (RNase complex)|OGRPBCAM
+nucleolar peripheral inclusion body|OGRPBCAM
+nucleolar ribonuclease P complex|OGRPBCAM
+nucleolus|OGRPBCAM
+nucleolus organizer region|OGRPBCAM
+nucleolus-associated heterochromatin|OGRPBCAM
+nucleolus-like body|OGRPBCAM
+nucleomorph|OGRPBCAM
+nucleoplasm|OGRPBCAM
+nucleoplasmic THO complex|OGRPBCAM
+nucleoplasmic periphery of the nuclear pore complex|OGRPBCAM
+nucleoplasmic reticulum|OGRPBCAM
+nucleoplasmic side of nuclear pore|OGRPBCAM
+nucleosomal methylation activator complex|OGRPBCAM
+nucleosome|OGRPBCAM
+nucleosome disassembly/reassembly complex|OGRPBCAM
+nucleotide-activated protein kinase complex|OGRPBCAM
+nucleotide-excision repair complex|OGRPBCAM
+nucleotide-excision repair factor 1 complex|OGRPBCAM
+nucleotide-excision repair factor 2 complex|OGRPBCAM
+nucleotide-excision repair factor 3 complex|OGRPBCAM
+nucleotide-excision repair factor 4 complex|OGRPBCAM
+nucleotide-excision repair, DNA damage recognition complex|OGRPBCAM
+nucleotide-excision repair, preincision complex|OGRPBCAM
+nucleus|OGRPBCAM
+nucleus lagging edge|OGRPBCAM
+nucleus leading edge|OGRPBCAM
+nucleus-vacuole junction|OGRPBCAM
+ocelloid|OGRPBCAM
+old cell pole|OGRPBCAM
+old cell tip after activation of bipolar cell growth|OGRPBCAM
+old growing cell tip|OGRPBCAM
+old mitotic spindle pole body|OGRPBCAM
+oligosaccharyltransferase complex|OGRPBCAM
+oligosaccharyltransferase complex A|OGRPBCAM
+oligosaccharyltransferase complex B|OGRPBCAM
+omega speckle|OGRPBCAM
+omegasome|OGRPBCAM
+omegasome membrane|OGRPBCAM
+oncostatin-M receptor complex|OGRPBCAM
+ooplasm|OGRPBCAM
+oral apparatus|OGRPBCAM
+organellar chromatophore|OGRPBCAM
+organellar chromatophore inner membrane|OGRPBCAM
+organellar chromatophore intermembrane space|OGRPBCAM
+organellar chromatophore membrane|OGRPBCAM
+organellar chromatophore outer membrane|OGRPBCAM
+organellar chromatophore thylakoid|OGRPBCAM
+organellar chromatophore thylakoid lumen|OGRPBCAM
+organellar chromatophore thylakoid membrane|OGRPBCAM
+organellar large ribosomal subunit|OGRPBCAM
+organellar ribosome|OGRPBCAM
+organellar small ribosomal subunit|OGRPBCAM
+organelle|OGRPBCAM
+organelle envelope|OGRPBCAM
+organelle envelope lumen|OGRPBCAM
+organelle inner membrane|OGRPBCAM
+organelle lumen|OGRPBCAM
+organelle membrane|OGRPBCAM
+organelle membrane contact site|OGRPBCAM
+organelle outer membrane|OGRPBCAM
+organelle subcompartment|OGRPBCAM
+organelle-enclosing lipid monolayer|OGRPBCAM
+organomineral extracellular matrix|OGRPBCAM
+origin recognition complex|OGRPBCAM
+ornithine carbamoyltransferase inhibitor complex|OGRPBCAM
+orthogonal array|OGRPBCAM
+osmiophilic body|OGRPBCAM
+other organism cell membrane|OGRPBCAM
+other organism part|OGRPBCAM
+outer acrosomal membrane|OGRPBCAM
+outer dense fiber|OGRPBCAM
+outer dense plaque of desmosome|OGRPBCAM
+outer dynein arm|OGRPBCAM
+outer dynein arm docking complex|OGRPBCAM
+outer endospore membrane|OGRPBCAM
+outer kinetochore|OGRPBCAM
+outer membrane|OGRPBCAM
+outer membrane protein complex|OGRPBCAM
+outer membrane-bounded periplasmic space|OGRPBCAM
+outer mitochondrial membrane protein complex|OGRPBCAM
+outer mucus layer|OGRPBCAM
+outer plaque of mitotic spindle pole body|OGRPBCAM
+outer plaque of spindle pole body|OGRPBCAM
+oxidoreductase complex|OGRPBCAM
+oxoadipate dehydrogenase complex|OGRPBCAM
+oxoglutarate dehydrogenase complex|OGRPBCAM
+pICln-Sm protein complex|OGRPBCAM
+pairing center|OGRPBCAM
+palmitoyltransferase complex|OGRPBCAM
+paraferritin complex|OGRPBCAM
+paraflagellar rod|OGRPBCAM
+parallel actin filament bundle|OGRPBCAM
+parallel fiber|OGRPBCAM
+parallel fiber to Purkinje cell synapse|OGRPBCAM
+paranodal junction|OGRPBCAM
+paranode region of axon|OGRPBCAM
+paraspeckles|OGRPBCAM
+pathogen-containing vacuole|OGRPBCAM
+pathogen-containing vacuole lumen|OGRPBCAM
+pathogen-containing vacuole membrane|OGRPBCAM
+pectic matrix|OGRPBCAM
+peg and socket contact|OGRPBCAM
+pellicle|OGRPBCAM
+pellicular membrane|OGRPBCAM
+penta-snRNP complex|OGRPBCAM
+pentameric IgM immunoglobulin complex|OGRPBCAM
+peptidase complex|OGRPBCAM
+peptidase inhibitor complex|OGRPBCAM
+peptidoglycan-based cell wall|OGRPBCAM
+perforant pathway to dendrate granule cell synapse|OGRPBCAM
+perforation plate|OGRPBCAM
+peri-centrosomal recycling endosome|OGRPBCAM
+periarbuscular membrane|OGRPBCAM
+peribacteroid fluid|OGRPBCAM
+peribacteroid membrane|OGRPBCAM
+pericanalicular vesicle|OGRPBCAM
+pericellular basket|OGRPBCAM
+pericentric heterochromatin|OGRPBCAM
+pericentriolar material|OGRPBCAM
+perichromatin fibrils|OGRPBCAM
+periciliary membrane compartment|OGRPBCAM
+perikaryon|OGRPBCAM
+perineuronal net|OGRPBCAM
+perinuclear endoplasmic reticulum|OGRPBCAM
+perinuclear endoplasmic reticulum lumen|OGRPBCAM
+perinuclear endoplasmic reticulum membrane|OGRPBCAM
+perinuclear region of cytoplasm|OGRPBCAM
+perinuclear theca|OGRPBCAM
+perinucleolar chromocenter|OGRPBCAM
+perinucleolar compartment|OGRPBCAM
+periphagosomal region of cytoplasm|OGRPBCAM
+peripheral region of growth cone|OGRPBCAM
+periplasmic flagellum|OGRPBCAM
+periplasmic side of cell outer membrane|OGRPBCAM
+periplasmic side of plasma membrane|OGRPBCAM
+periplasmic space|OGRPBCAM
+peristromal region viral factory|OGRPBCAM
+perisynaptic extracellular matrix|OGRPBCAM
+perisynaptic space|OGRPBCAM
+perivitelline space|OGRPBCAM
+peroxisomal importomer complex|OGRPBCAM
+peroxisomal matrix|OGRPBCAM
+peroxisomal membrane|OGRPBCAM
+peroxisomal-mitochondrial contact site|OGRPBCAM
+peroxisome|OGRPBCAM
+pexophagosome|OGRPBCAM
+phagocytic cup|OGRPBCAM
+phagocytic cup base|OGRPBCAM
+phagocytic cup lip|OGRPBCAM
+phagocytic vesicle|OGRPBCAM
+phagocytic vesicle lumen|OGRPBCAM
+phagocytic vesicle membrane|OGRPBCAM
+phagolysosome|OGRPBCAM
+phagolysosome membrane|OGRPBCAM
+phagolysosome vesicle lumen|OGRPBCAM
+phagolysosome vesicle membrane|OGRPBCAM
+phagophore|OGRPBCAM
+phagophore assembly site|OGRPBCAM
+phagophore assembly site membrane|OGRPBCAM
+phenylacetyl-CoA 1,2-epoxidase complex|OGRPBCAM
+phenylalanine-tRNA ligase complex|OGRPBCAM
+phenyloplast|OGRPBCAM
+phosphatase complex|OGRPBCAM
+phosphatidylinositol 3-kinase complex|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class I|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class IA|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class IB|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class II|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class III|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class III, type I|OGRPBCAM
+phosphatidylinositol 3-kinase complex, class III, type II|OGRPBCAM
+phosphatidylinositol phosphate phosphatase complex|OGRPBCAM
+phosphatidylinositol transporter complex|OGRPBCAM
+phosphoenolpyruvate-dependent sugar phosphotransferase complex|OGRPBCAM
+phospholamban complex|OGRPBCAM
+phospholipid-translocating ATPase complex|OGRPBCAM
+phosphomannomutase complex|OGRPBCAM
+phosphopantothenoylcysteine decarboxylase complex|OGRPBCAM
+phosphopyruvate hydratase complex|OGRPBCAM
+phosphoribosylaminoimidazole carboxylase complex|OGRPBCAM
+phosphorylase kinase complex|OGRPBCAM
+photoreceptor cell cilium|OGRPBCAM
+photoreceptor cell terminal bouton|OGRPBCAM
+photoreceptor connecting cilium|OGRPBCAM
+photoreceptor disc membrane|OGRPBCAM
+photoreceptor distal connecting cilium|OGRPBCAM
+photoreceptor inner segment|OGRPBCAM
+photoreceptor inner segment membrane|OGRPBCAM
+photoreceptor outer segment|OGRPBCAM
+photoreceptor outer segment membrane|OGRPBCAM
+photoreceptor proximal connecting cilium|OGRPBCAM
+photoreceptor ribbon synapse|OGRPBCAM
+photosynthetic membrane|OGRPBCAM
+photosystem|OGRPBCAM
+photosystem I|OGRPBCAM
+photosystem I antenna complex|OGRPBCAM
+photosystem I reaction center|OGRPBCAM
+photosystem II|OGRPBCAM
+photosystem II antenna complex|OGRPBCAM
+photosystem II oxygen evolving complex|OGRPBCAM
+photosystem II reaction center|OGRPBCAM
+phragmoplast|OGRPBCAM
+phragmosome|OGRPBCAM
+phycobilisome|OGRPBCAM
+pi-body|OGRPBCAM
+piP-body|OGRPBCAM
+piccolo histone acetyltransferase complex|OGRPBCAM
+piccolo-bassoon transport vesicle|OGRPBCAM
+pigment granule|OGRPBCAM
+pigment granule membrane|OGRPBCAM
+pilus|OGRPBCAM
+pilus shaft|OGRPBCAM
+pilus tip|OGRPBCAM
+pinceau fiber|OGRPBCAM
+pinosome|OGRPBCAM
+pirellulosome|OGRPBCAM
+pituitary gonadotropin complex|OGRPBCAM
+plant cell papilla|OGRPBCAM
+plant-type cell wall|OGRPBCAM
+plant-type vacuole|OGRPBCAM
+plant-type vacuole lumen|OGRPBCAM
+plant-type vacuole membrane|OGRPBCAM
+plasma lipoprotein particle|OGRPBCAM
+plasma membrane|OGRPBCAM
+plasma membrane bounded cell projection|OGRPBCAM
+plasma membrane bounded cell projection cytoplasm|OGRPBCAM
+plasma membrane light-harvesting complex|OGRPBCAM
+plasma membrane of cell tip|OGRPBCAM
+plasma membrane of growing cell tip|OGRPBCAM
+plasma membrane protein complex|OGRPBCAM
+plasma membrane proton-transporting V-type ATPase complex|OGRPBCAM
+plasma membrane proton-transporting V-type ATPase, V0 domain|OGRPBCAM
+plasma membrane proton-transporting V-type ATPase, V1 domain|OGRPBCAM
+plasma membrane raft|OGRPBCAM
+plasma membrane region|OGRPBCAM
+plasma membrane signaling receptor complex|OGRPBCAM
+plasma membrane-derived chromatophore|OGRPBCAM
+plasma membrane-derived chromatophore membrane|OGRPBCAM
+plasma membrane-derived photosystem I|OGRPBCAM
+plasma membrane-derived thylakoid lumen|OGRPBCAM
+plasma membrane-derived thylakoid membrane|OGRPBCAM
+plasma membrane-derived thylakoid photosystem II|OGRPBCAM
+plasma membrane-derived thylakoid ribulose bisphosphate carboxylase complex|OGRPBCAM
+plasmodesma|OGRPBCAM
+plasmodesmatal cytoplasmic sleeve|OGRPBCAM
+plasmodesmatal desmotubule|OGRPBCAM
+plasmodesmatal endoplasmic reticulum|OGRPBCAM
+plasmodesmatal plasma membrane|OGRPBCAM
+plastid|OGRPBCAM
+plastid ADPG pyrophosphorylase complex|OGRPBCAM
+plastid acetate CoA-transferase complex|OGRPBCAM
+plastid acetyl-CoA carboxylase complex|OGRPBCAM
+plastid chromosome|OGRPBCAM
+plastid envelope|OGRPBCAM
+plastid inner membrane|OGRPBCAM
+plastid intermembrane space|OGRPBCAM
+plastid large ribosomal subunit|OGRPBCAM
+plastid mRNA editing complex|OGRPBCAM
+plastid membrane|OGRPBCAM
+plastid nucleoid|OGRPBCAM
+plastid outer membrane|OGRPBCAM
+plastid ribosome|OGRPBCAM
+plastid small ribosomal subunit|OGRPBCAM
+plastid stroma|OGRPBCAM
+plastid thylakoid|OGRPBCAM
+plastid thylakoid lumen|OGRPBCAM
+plastid thylakoid membrane|OGRPBCAM
+plastid-encoded plastid RNA polymerase complex|OGRPBCAM
+plastid-encoded plastid RNA polymerase complex A|OGRPBCAM
+plastid-encoded plastid RNA polymerase complex B|OGRPBCAM
+plastoglobule|OGRPBCAM
+platelet SNARE complex|OGRPBCAM
+platelet alpha granule|OGRPBCAM
+platelet alpha granule lumen|OGRPBCAM
+platelet alpha granule membrane|OGRPBCAM
+platelet dense granule|OGRPBCAM
+platelet dense granule lumen|OGRPBCAM
+platelet dense granule membrane|OGRPBCAM
+platelet dense tubular network|OGRPBCAM
+platelet dense tubular network lumen|OGRPBCAM
+platelet dense tubular network membrane|OGRPBCAM
+platelet glycocalyx|OGRPBCAM
+platelet-derived growth factor complex|OGRPBCAM
+platelet-derived growth factor receptor-ligand complex|OGRPBCAM
+pleated septate junction|OGRPBCAM
+plus-end kinesin complex|OGRPBCAM
+podocyte foot|OGRPBCAM
+podocyte primary projection|OGRPBCAM
+podosome|OGRPBCAM
+podosome core|OGRPBCAM
+podosome ring|OGRPBCAM
+polar microtubule|OGRPBCAM
+polar nucleus|OGRPBCAM
+polar ring of apical complex|OGRPBCAM
+polar tube|OGRPBCAM
+polar tube anchoring disc|OGRPBCAM
+polarisome|OGRPBCAM
+polaroplast|OGRPBCAM
+pole plasm|OGRPBCAM
+polkadots|OGRPBCAM
+pollen aperture|OGRPBCAM
+pollen coat|OGRPBCAM
+pollen tube|OGRPBCAM
+pollen tube tip|OGRPBCAM
+pollen wall|OGRPBCAM
+polyadic synapse|OGRPBCAM
+polycystin complex|OGRPBCAM
+polyhydroxyalkanoate granule|OGRPBCAM
+polyketide synthase complex|OGRPBCAM
+polymeric IgA immunoglobulin complex|OGRPBCAM
+polymeric cytoskeletal fiber|OGRPBCAM
+polyphosphate kinase complex|OGRPBCAM
+polyprenyl diphosphate synthase complex|OGRPBCAM
+polytene chromosome|OGRPBCAM
+polytene chromosome band|OGRPBCAM
+polytene chromosome chromocenter|OGRPBCAM
+polytene chromosome ectopic fiber|OGRPBCAM
+polytene chromosome interband|OGRPBCAM
+polytene chromosome puff|OGRPBCAM
+polytene chromosome weak point|OGRPBCAM
+pore complex|OGRPBCAM
+porosome|OGRPBCAM
+porous cell septum|OGRPBCAM
+post-anaphase array microtubule|OGRPBCAM
+post-anaphase array microtubule end|OGRPBCAM
+post-anaphase microtubule array|OGRPBCAM
+post-lysosomal vacuole|OGRPBCAM
+post-mRNA release spliceosomal complex|OGRPBCAM
+post-spliceosomal complex|OGRPBCAM
+posterior cell cortex|OGRPBCAM
+postsynapse|OGRPBCAM
+postsynapse of neuromuscular junction|OGRPBCAM
+postsynaptic Golgi apparatus|OGRPBCAM
+postsynaptic actin cytoskeleton|OGRPBCAM
+postsynaptic cytoskeleton|OGRPBCAM
+postsynaptic cytosol|OGRPBCAM
+postsynaptic density|OGRPBCAM
+postsynaptic density membrane|OGRPBCAM
+postsynaptic density, intracellular component|OGRPBCAM
+postsynaptic early endosome|OGRPBCAM
+postsynaptic early endosome membrane|OGRPBCAM
+postsynaptic endocytic zone|OGRPBCAM
+postsynaptic endocytic zone cytoplasmic component|OGRPBCAM
+postsynaptic endocytic zone membrane|OGRPBCAM
+postsynaptic endosome|OGRPBCAM
+postsynaptic endosome membrane|OGRPBCAM
+postsynaptic intermediate filament cytoskeleton|OGRPBCAM
+postsynaptic membrane|OGRPBCAM
+postsynaptic recycling endosome|OGRPBCAM
+postsynaptic recycling endosome membrane|OGRPBCAM
+postsynaptic septin cytoskeleton|OGRPBCAM
+postsynaptic specialization|OGRPBCAM
+postsynaptic specialization membrane|OGRPBCAM
+postsynaptic specialization membrane of symmetric synapse|OGRPBCAM
+postsynaptic specialization of symmetric synapse|OGRPBCAM
+postsynaptic specialization of symmetric synapse, intracellular component|OGRPBCAM
+postsynaptic specialization, intracellular component|OGRPBCAM
+postsynaptic spectrin-associated cytoskeleton|OGRPBCAM
+potassium channel complex|OGRPBCAM
+potassium ion-transporting ATPase complex|OGRPBCAM
+potassium:proton antiporter complex|OGRPBCAM
+potassium:proton exchanging ATPase complex|OGRPBCAM
+pre-B cell receptor complex|OGRPBCAM
+pre-T cell receptor complex|OGRPBCAM
+pre-primosome complex|OGRPBCAM
+pre-replicative complex|OGRPBCAM
+pre-snoRNP complex|OGRPBCAM
+precatalytic spliceosome|OGRPBCAM
+prefoldin complex|OGRPBCAM
+preprophase band|OGRPBCAM
+preribosome|OGRPBCAM
+preribosome, large subunit precursor|OGRPBCAM
+preribosome, small subunit precursor|OGRPBCAM
+prespliceosome|OGRPBCAM
+presynapse|OGRPBCAM
+presynaptic actin cytoskeleton|OGRPBCAM
+presynaptic active zone|OGRPBCAM
+presynaptic active zone cytoplasmic component|OGRPBCAM
+presynaptic active zone dense projection|OGRPBCAM
+presynaptic active zone membrane|OGRPBCAM
+presynaptic cytoskeleton|OGRPBCAM
+presynaptic cytosol|OGRPBCAM
+presynaptic density|OGRPBCAM
+presynaptic endocytic zone|OGRPBCAM
+presynaptic endocytic zone cytoplasmic component|OGRPBCAM
+presynaptic endocytic zone membrane|OGRPBCAM
+presynaptic endosome|OGRPBCAM
+presynaptic endosome membrane|OGRPBCAM
+presynaptic grid|OGRPBCAM
+presynaptic intermediate filament cytoskeleton|OGRPBCAM
+presynaptic membrane|OGRPBCAM
+presynaptic periactive zone|OGRPBCAM
+primary cell septum|OGRPBCAM
+primary cell wall|OGRPBCAM
+primary cell wall cellulose synthase complex|OGRPBCAM
+primary dendrite|OGRPBCAM
+primary endosperm nucleus|OGRPBCAM
+primary lysosome|OGRPBCAM
+primary plasmodesma|OGRPBCAM
+primosome complex|OGRPBCAM
+procentriole|OGRPBCAM
+procentriole replication complex|OGRPBCAM
+procollagen-proline 4-dioxygenase complex|OGRPBCAM
+procollagen-proline 4-dioxygenase complex, alpha(I) type|OGRPBCAM
+procollagen-proline 4-dioxygenase complex, alpha(II) type|OGRPBCAM
+procollagen-proline 4-dioxygenase complex, alpha(III) type|OGRPBCAM
+prominosome|OGRPBCAM
+pronucleus|OGRPBCAM
+propanediol degradation polyhedral organelle|OGRPBCAM
+proplastid|OGRPBCAM
+proplastid nucleoid|OGRPBCAM
+proplastid stroma|OGRPBCAM
+prospore contractile ring|OGRPBCAM
+prospore membrane|OGRPBCAM
+prospore membrane leading edge|OGRPBCAM
+prospore membrane spindle pole body attachment site|OGRPBCAM
+prospore septin filament array|OGRPBCAM
+prospore septin ring|OGRPBCAM
+protease inhibitor complex|OGRPBCAM
+proteasome accessory complex|OGRPBCAM
+proteasome activator complex|OGRPBCAM
+proteasome complex|OGRPBCAM
+proteasome core complex|OGRPBCAM
+proteasome core complex, alpha-subunit complex|OGRPBCAM
+proteasome core complex, beta-subunit complex|OGRPBCAM
+proteasome regulatory particle|OGRPBCAM
+proteasome regulatory particle, base subcomplex|OGRPBCAM
+proteasome regulatory particle, lid subcomplex|OGRPBCAM
+proteasome storage granule|OGRPBCAM
+proteasome-activating nucleotidase complex|OGRPBCAM
+protein C inhibitor-KLK3 complex|OGRPBCAM
+protein C inhibitor-PLAT complex|OGRPBCAM
+protein C inhibitor-PLAU complex|OGRPBCAM
+protein C inhibitor-TMPRSS11E complex|OGRPBCAM
+protein C inhibitor-TMPRSS7 complex|OGRPBCAM
+protein C inhibitor-acrosin complex|OGRPBCAM
+protein C inhibitor-coagulation factor V complex|OGRPBCAM
+protein C inhibitor-coagulation factor XI complex|OGRPBCAM
+protein C inhibitor-coagulation factor Xa complex|OGRPBCAM
+protein C inhibitor-plasma kallikrein complex|OGRPBCAM
+protein C inhibitor-thrombin complex|OGRPBCAM
+protein N-acetylglucosaminyltransferase complex|OGRPBCAM
+protein acetyltransferase complex|OGRPBCAM
+protein aggregate center|OGRPBCAM
+protein complex involved in cell adhesion|OGRPBCAM
+protein complex involved in cell-cell adhesion|OGRPBCAM
+protein complex involved in cell-matrix adhesion|OGRPBCAM
+protein farnesyltransferase complex|OGRPBCAM
+protein folding chaperone complex|OGRPBCAM
+protein histidine kinase complex|OGRPBCAM
+protein kinase 5 complex|OGRPBCAM
+protein kinase CK2 complex|OGRPBCAM
+protein kinase complex|OGRPBCAM
+protein phosphatase 4 complex|OGRPBCAM
+protein phosphatase inhibitor complex|OGRPBCAM
+protein phosphatase type 1 complex|OGRPBCAM
+protein phosphatase type 2A complex|OGRPBCAM
+protein serine/threonine phosphatase complex|OGRPBCAM
+protein storage vacuole|OGRPBCAM
+protein storage vacuole lumen|OGRPBCAM
+protein storage vacuole membrane|OGRPBCAM
+protein tyrosine phosphatase complex|OGRPBCAM
+protein-DNA ISRE complex|OGRPBCAM
+protein-DNA complex|OGRPBCAM
+protein-DNA-RNA complex|OGRPBCAM
+protein-N(PI)-phosphohistidine-sugar phosphotransferase complex|OGRPBCAM
+protein-carbohydrate complex|OGRPBCAM
+protein-containing complex|OGRPBCAM
+protein-cysteine S-palmitoyltransferase complex|OGRPBCAM
+protein-lipid complex|OGRPBCAM
+protein-lipid-RNA complex|OGRPBCAM
+proteinoplast|OGRPBCAM
+prothylakoid|OGRPBCAM
+prothylakoid membrane|OGRPBCAM
+protocadherin-alpha-protocadherin-gamma complex|OGRPBCAM
+protocadherin-alpha-v4-protocadherin-gamma-a1 complex|OGRPBCAM
+protocadherin-alpha-v4-protocadherin-gamma-a3 complex|OGRPBCAM
+protocadherin-alpha-v4-protocadherin-gamma-b2 complex|OGRPBCAM
+protocadherin-alpha-v4-protocadherin-gamma-b4 complex|OGRPBCAM
+protocadherin-alpha-v7-protocadherin-gamma-a1 complex|OGRPBCAM
+protocadherin-alpha-v7-protocadherin-gamma-a3 complex|OGRPBCAM
+protocadherin-alpha-v7-protocadherin-gamma-b2 complex|OGRPBCAM
+protocadherin-alpha-v7-protocadherin-gamma-b4 complex|OGRPBCAM
+proton-transporting ATP synthase complex|OGRPBCAM
+proton-transporting V-type ATPase complex|OGRPBCAM
+proton-transporting V-type ATPase, V0 domain|OGRPBCAM
+proton-transporting V-type ATPase, V1 domain|OGRPBCAM
+proton-transporting two-sector ATPase complex|OGRPBCAM
+proton-transporting two-sector ATPase complex, catalytic domain|OGRPBCAM
+proton-transporting two-sector ATPase complex, proton-transporting domain|OGRPBCAM
+proximal dendrite|OGRPBCAM
+proximal neuron projection|OGRPBCAM
+proximal portion of axoneme|OGRPBCAM
+pseudohyphal septin ring|OGRPBCAM
+pseudopodium|OGRPBCAM
+pseudopodium membrane|OGRPBCAM
+pterinosome|OGRPBCAM
+puncta adhaerentia|OGRPBCAM
+pyrenoid|OGRPBCAM
+pyrenoid tubule|OGRPBCAM
+pyrophosphate-dependent phosphofructokinase complex|OGRPBCAM
+pyrophosphate-dependent phosphofructokinase complex, alpha-subunit complex|OGRPBCAM
+pyrophosphate-dependent phosphofructokinase complex, beta-subunit complex|OGRPBCAM
+pyroptosome complex|OGRPBCAM
+pyrroline-5-carboxylate reductase complex|OGRPBCAM
+pyruvate dehydrogenase (lipoamide) phosphatase complex|OGRPBCAM
+pyruvate dehydrogenase complex|OGRPBCAM
+pyruvate kinase complex|OGRPBCAM
+rDNA heterochromatin|OGRPBCAM
+rDNA protrusion|OGRPBCAM
+radial spoke|OGRPBCAM
+radial spoke 1|OGRPBCAM
+radial spoke 2|OGRPBCAM
+radial spoke 3|OGRPBCAM
+radial spoke base|OGRPBCAM
+radial spoke base 1|OGRPBCAM
+radial spoke base 2|OGRPBCAM
+radial spoke base 3|OGRPBCAM
+radial spoke head|OGRPBCAM
+radial spoke head 1|OGRPBCAM
+radial spoke head 2|OGRPBCAM
+radial spoke head 3|OGRPBCAM
+radial spoke neck|OGRPBCAM
+radial spoke stalk|OGRPBCAM
+raps-insc complex|OGRPBCAM
+receptor complex|OGRPBCAM
+recombination nodule|OGRPBCAM
+recurrent axon collateral|OGRPBCAM
+recycling endosome|OGRPBCAM
+recycling endosome lumen|OGRPBCAM
+recycling endosome membrane|OGRPBCAM
+reelin complex|OGRPBCAM
+replication compartment|OGRPBCAM
+replication fork|OGRPBCAM
+replication fork protection complex|OGRPBCAM
+replication inhibiting complex|OGRPBCAM
+replisome|OGRPBCAM
+repressor ecdysone receptor complex|OGRPBCAM
+reservosome|OGRPBCAM
+reservosome lumen|OGRPBCAM
+reservosome matrix|OGRPBCAM
+reservosome membrane|OGRPBCAM
+respiratory chain complex|OGRPBCAM
+respiratory chain complex I|OGRPBCAM
+respiratory chain complex II (succinate dehydrogenase)|OGRPBCAM
+respiratory chain complex III|OGRPBCAM
+respiratory chain complex IV|OGRPBCAM
+retrograde transporter complex, Golgi to ER|OGRPBCAM
+retromer complex|OGRPBCAM
+retromer, cargo-selective complex|OGRPBCAM
+retromer, tubulation complex|OGRPBCAM
+retrotransposon nucleocapsid|OGRPBCAM
+retroviral intasome|OGRPBCAM
+rhabdomere|OGRPBCAM
+rhabdomere membrane|OGRPBCAM
+rhabdomere microvillus|OGRPBCAM
+rhabdomere microvillus membrane|OGRPBCAM
+rhoptry|OGRPBCAM
+rhoptry lumen|OGRPBCAM
+rhoptry membrane|OGRPBCAM
+rhoptry neck|OGRPBCAM
+ribbon synapse|OGRPBCAM
+riboflavin synthase complex|OGRPBCAM
+ribonuclease H2 complex|OGRPBCAM
+ribonuclease III complex|OGRPBCAM
+ribonuclease MRP complex|OGRPBCAM
+ribonuclease P complex|OGRPBCAM
+ribonucleoprotein complex|OGRPBCAM
+ribonucleoprotein granule|OGRPBCAM
+ribonucleoside-diphosphate reductase complex|OGRPBCAM
+ribose phosphate diphosphokinase complex|OGRPBCAM
+ribosomal subunit|OGRPBCAM
+ribosome|OGRPBCAM
+ribulose bisphosphate carboxylase complex|OGRPBCAM
+right anterior basal body|OGRPBCAM
+right anterior flagellum|OGRPBCAM
+right caudal basal body|OGRPBCAM
+right caudal flagellum|OGRPBCAM
+right lateral basal body pair|OGRPBCAM
+right middle basal body pair|OGRPBCAM
+right nucleus|OGRPBCAM
+right posteriolateral basal body|OGRPBCAM
+right posteriolateral flagellum|OGRPBCAM
+right tetrad|OGRPBCAM
+right ventral basal body|OGRPBCAM
+right ventral flagellum|OGRPBCAM
+ring centriole|OGRPBCAM
+ripoptosome|OGRPBCAM
+rixosome complex|OGRPBCAM
+rod bipolar cell terminal bouton|OGRPBCAM
+rod photoreceptor disc lumen|OGRPBCAM
+rod photoreceptor disc membrane|OGRPBCAM
+rod photoreceptor outer segment|OGRPBCAM
+rod spherule|OGRPBCAM
+rod telodendria|OGRPBCAM
+root hair|OGRPBCAM
+root hair tip|OGRPBCAM
+rough endoplasmic reticulum|OGRPBCAM
+rough endoplasmic reticulum cisterna|OGRPBCAM
+rough endoplasmic reticulum lumen|OGRPBCAM
+rough endoplasmic reticulum membrane|OGRPBCAM
+ruffle|OGRPBCAM
+ruffle membrane|OGRPBCAM
+ryanodine receptor complex|OGRPBCAM
+sarcoglycan complex|OGRPBCAM
+sarcolemma|OGRPBCAM
+sarcomere|OGRPBCAM
+sarcoplasm|OGRPBCAM
+sarcoplasmic reticulum|OGRPBCAM
+sarcoplasmic reticulum lumen|OGRPBCAM
+sarcoplasmic reticulum membrane|OGRPBCAM
+sarcosine oxidase complex|OGRPBCAM
+satellite fibril|OGRPBCAM
+scintillon|OGRPBCAM
+sculpture element|OGRPBCAM
+secondary cell septum|OGRPBCAM
+secondary cell wall|OGRPBCAM
+secondary cell wall cellulose synthase complex|OGRPBCAM
+secondary lysosome|OGRPBCAM
+secondary plasmodesma|OGRPBCAM
+secretory IgA immunoglobulin complex|OGRPBCAM
+secretory dimeric IgA immunoglobulin complex|OGRPBCAM
+secretory granule|OGRPBCAM
+secretory granule lumen|OGRPBCAM
+secretory granule membrane|OGRPBCAM
+secretory vesicle|OGRPBCAM
+semaphorin receptor complex|OGRPBCAM
+senescence-associated heterochromatin focus|OGRPBCAM
+senescence-associated vacuole|OGRPBCAM
+sensory dendrite|OGRPBCAM
+separase-securin complex|OGRPBCAM
+septal periplasm|OGRPBCAM
+septate junction|OGRPBCAM
+septin band|OGRPBCAM
+septin cap|OGRPBCAM
+septin collar|OGRPBCAM
+septin complex|OGRPBCAM
+septin cytoskeleton|OGRPBCAM
+septin filament array|OGRPBCAM
+septin ring|OGRPBCAM
+serine palmitoyltransferase complex|OGRPBCAM
+serine protease inhibitor complex|OGRPBCAM
+serine-pyruvate aminotransferase complex|OGRPBCAM
+serine-tRNA ligase complex|OGRPBCAM
+serine-type endopeptidase complex|OGRPBCAM
+serine-type peptidase complex|OGRPBCAM
+serine/threonine protein kinase complex|OGRPBCAM
+serotonergic synapse|OGRPBCAM
+serotonin receptor complex|OGRPBCAM
+serotonin-activated cation-selective channel complex|OGRPBCAM
+sex chromatin|OGRPBCAM
+sex chromosome|OGRPBCAM
+sexine|OGRPBCAM
+sexual spore wall|OGRPBCAM
+shelterin complex|OGRPBCAM
+side of membrane|OGRPBCAM
+sieve area|OGRPBCAM
+sieve plate|OGRPBCAM
+sigma factor antagonist complex|OGRPBCAM
+signal peptidase complex|OGRPBCAM
+signal recognition particle|OGRPBCAM
+signal recognition particle receptor complex|OGRPBCAM
+signal recognition particle, chloroplast targeting|OGRPBCAM
+signal recognition particle, endoplasmic reticulum targeting|OGRPBCAM
+signal recognition particle, plasma membrane targeting|OGRPBCAM
+silver ion transmembrane transporter complex|OGRPBCAM
+simple sieve plate|OGRPBCAM
+single-stranded DNA-binding protein complex|OGRPBCAM
+single-stranded DNA-dependent ATP-dependent DNA helicase complex|OGRPBCAM
+site of DNA damage|OGRPBCAM
+site of double-strand break|OGRPBCAM
+site of polarized growth|OGRPBCAM
+skein-like inclusion|OGRPBCAM
+skeletal muscle myofibril|OGRPBCAM
+slime layer|OGRPBCAM
+slit diaphragm|OGRPBCAM
+small nuclear ribonucleoprotein complex|OGRPBCAM
+small ribosomal subunit|OGRPBCAM
+small ribosomal subunit processing complex|OGRPBCAM
+small-subunit processome|OGRPBCAM
+smooth endoplasmic reticulum|OGRPBCAM
+smooth endoplasmic reticulum cisterna|OGRPBCAM
+smooth endoplasmic reticulum lumen|OGRPBCAM
+smooth endoplasmic reticulum membrane|OGRPBCAM
+smooth muscle contractile fiber|OGRPBCAM
+smooth muscle dense body|OGRPBCAM
+smooth septate junction|OGRPBCAM
+snRNA-activating protein complex|OGRPBCAM
+sno(s)RNA-containing ribonucleoprotein complex|OGRPBCAM
+sodium channel complex|OGRPBCAM
+sodium ion-transporting F-type ATPase complex|OGRPBCAM
+sodium ion-transporting V-type ATPase complex|OGRPBCAM
+sodium ion-transporting two-sector ATPase complex|OGRPBCAM
+sodium-translocating NADH:quinone reductase complex|OGRPBCAM
+sodium:potassium-exchanging ATPase complex|OGRPBCAM
+solid phase of basement membrane|OGRPBCAM
+solid phase of interstitial matrix|OGRPBCAM
+somatic portion of tanycyte|OGRPBCAM
+somatic ring canal|OGRPBCAM
+somatic spine|OGRPBCAM
+somatodendritic compartment|OGRPBCAM
+sorting endosome|OGRPBCAM
+specialized extracellular matrix|OGRPBCAM
+specific granule|OGRPBCAM
+specific granule lumen|OGRPBCAM
+specific granule membrane|OGRPBCAM
+spectrin|OGRPBCAM
+spectrin-associated cytoskeleton|OGRPBCAM
+spectrosome|OGRPBCAM
+sperm annulus|OGRPBCAM
+sperm cytoplasmic droplet|OGRPBCAM
+sperm end piece|OGRPBCAM
+sperm fibrous sheath|OGRPBCAM
+sperm flagellum|OGRPBCAM
+sperm glycocalyx|OGRPBCAM
+sperm head|OGRPBCAM
+sperm head plasma membrane|OGRPBCAM
+sperm head-tail coupling apparatus|OGRPBCAM
+sperm individualization complex|OGRPBCAM
+sperm midpiece|OGRPBCAM
+sperm mitochondrial sheath|OGRPBCAM
+sperm plasma membrane|OGRPBCAM
+sperm principal piece|OGRPBCAM
+spermatoproteasome complex|OGRPBCAM
+sphere organelle|OGRPBCAM
+spherical high-density lipoprotein particle|OGRPBCAM
+spherule viral factory|OGRPBCAM
+spindle|OGRPBCAM
+spindle envelope|OGRPBCAM
+spindle matrix|OGRPBCAM
+spindle microtubule|OGRPBCAM
+spindle midzone|OGRPBCAM
+spindle pole|OGRPBCAM
+spindle pole body|OGRPBCAM
+spindle pole centrosome|OGRPBCAM
+spine apparatus|OGRPBCAM
+spine apparatus lumen|OGRPBCAM
+spine apparatus membrane|OGRPBCAM
+spine mat|OGRPBCAM
+spine synapse|OGRPBCAM
+spiny bracelet of Nageotte|OGRPBCAM
+spitzenkorper|OGRPBCAM
+spliceosomal complex|OGRPBCAM
+spliceosomal snRNP complex|OGRPBCAM
+spliceosomal tri-snRNP complex|OGRPBCAM
+split septin rings|OGRPBCAM
+spongiome|OGRPBCAM
+spore inner membrane|OGRPBCAM
+spore wall|OGRPBCAM
+sporoplasm|OGRPBCAM
+spot adherens junction|OGRPBCAM
+starch grain|OGRPBCAM
+starch utilization system complex|OGRPBCAM
+static microtubule bundle|OGRPBCAM
+stereocilia ankle link|OGRPBCAM
+stereocilia ankle link complex|OGRPBCAM
+stereocilia coupling link|OGRPBCAM
+stereocilia tip link|OGRPBCAM
+stereocilia tip-link density|OGRPBCAM
+stereocilium|OGRPBCAM
+stereocilium base|OGRPBCAM
+stereocilium bundle|OGRPBCAM
+stereocilium coat|OGRPBCAM
+stereocilium membrane|OGRPBCAM
+stereocilium shaft|OGRPBCAM
+stereocilium tip|OGRPBCAM
+steroid hormone aporeceptor complex|OGRPBCAM
+stigma papilla|OGRPBCAM
+storage vacuole|OGRPBCAM
+stress fiber|OGRPBCAM
+striated muscle dense body|OGRPBCAM
+striated muscle myosin thick filament|OGRPBCAM
+striated muscle thin filament|OGRPBCAM
+stromal side of plastid inner membrane|OGRPBCAM
+stromal side of plastid thylakoid membrane|OGRPBCAM
+stromule|OGRPBCAM
+sub-surface cisterna|OGRPBCAM
+subapical complex|OGRPBCAM
+subapical part of cell|OGRPBCAM
+subcortical maternal complex|OGRPBCAM
+suberin network|OGRPBCAM
+subpellicular microtubule|OGRPBCAM
+subpellicular network|OGRPBCAM
+subplasmalemmal coating|OGRPBCAM
+subrhabdomeral cisterna|OGRPBCAM
+subsynaptic reticulum|OGRPBCAM
+subtelomeric heterochromatin|OGRPBCAM
+succinate-CoA ligase complex|OGRPBCAM
+succinate-CoA ligase complex (ADP-forming)|OGRPBCAM
+succinate-CoA ligase complex (GDP-forming)|OGRPBCAM
+sucrase-isomaltase complex|OGRPBCAM
+sulfate adenylyltransferase complex (ATP)|OGRPBCAM
+sulfite reductase complex (NADPH)|OGRPBCAM
+sulfopyruvate decarboxylase complex|OGRPBCAM
+sulfurtransferase complex|OGRPBCAM
+super elongation complex|OGRPBCAM
+superoxide dismutase complex|OGRPBCAM
+superoxide dismutase copper chaperone complex|OGRPBCAM
+supramolecular complex|OGRPBCAM
+supramolecular fiber|OGRPBCAM
+supramolecular polymer|OGRPBCAM
+supraspliceosomal complex|OGRPBCAM
+surface coat of collagen and cuticulin-based cuticle extracellular matrix|OGRPBCAM
+survivin complex|OGRPBCAM
+sweet taste receptor complex|OGRPBCAM
+symbiont cell surface|OGRPBCAM
+symbiont-containing vacuolar membrane network|OGRPBCAM
+symbiont-containing vacuolar space|OGRPBCAM
+symbiont-containing vacuole|OGRPBCAM
+symbiont-containing vacuole membrane|OGRPBCAM
+symbiosome|OGRPBCAM
+symmetric synapse|OGRPBCAM
+symmetric, GABA-ergic, inhibitory synapse|OGRPBCAM
+symplast|OGRPBCAM
+synapse|OGRPBCAM
+synapse-associated extracellular matrix|OGRPBCAM
+synapsis initiation complex|OGRPBCAM
+synaptic cleft|OGRPBCAM
+synaptic membrane|OGRPBCAM
+synaptic ribbon|OGRPBCAM
+synaptic vesicle|OGRPBCAM
+synaptic vesicle lumen|OGRPBCAM
+synaptic vesicle membrane|OGRPBCAM
+synaptic vesicle protein transport vesicle|OGRPBCAM
+synaptic vesicle, readily releasable pool|OGRPBCAM
+synaptic vesicle, recycling pool|OGRPBCAM
+synaptic vesicle, resting pool|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-1a complex|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-2 complex|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-3 complex|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-3-complexin complex|OGRPBCAM
+synaptobrevin 2-SNAP-25-syntaxin-4 complex|OGRPBCAM
+synaptonemal complex|OGRPBCAM
+synaptonemal structure|OGRPBCAM
+synaptotagmin-synaptobrevin 2-SNAP-25-syntaxin-1a-syntaxin-1b-Rab3a complex|OGRPBCAM
+synaptotagmin-synaptobrevin 2-SNAP-25-syntaxin-1a-syntaxin-1b-Rab3a-complexin II complex|OGRPBCAM
+synaptotagmin-synaptobrevin 2-SNAP-25-syntaxin-1a-syntaxin-1b-Unc13 complex|OGRPBCAM
+syndecan-syntenin-ALIX complex|OGRPBCAM
+syntaxin-6-syntaxin-16-Vti1a complex|OGRPBCAM
+syntrophin complex|OGRPBCAM
+t-UTP complex|OGRPBCAM
+tRNA (m1A) methyltransferase complex|OGRPBCAM
+tRNA (m2G10) methyltransferase complex|OGRPBCAM
+tRNA (m7G46) methyltransferase complex|OGRPBCAM
+tRNA methyltransferase complex|OGRPBCAM
+tRNA-guanine transglycosylase complex|OGRPBCAM
+tRNA-intron endonuclease complex|OGRPBCAM
+tRNA-specific adenosine-34 deaminase complex|OGRPBCAM
+tRNA-splicing ligase complex|OGRPBCAM
+tail portion of tanycyte|OGRPBCAM
+taste receptor complex|OGRPBCAM
+taurine dioxygenase complex|OGRPBCAM
+tectum|OGRPBCAM
+telodendria|OGRPBCAM
+telomerase catalytic core complex|OGRPBCAM
+telomerase holoenzyme complex|OGRPBCAM
+telomere cap complex|OGRPBCAM
+telomere-telomerase complex|OGRPBCAM
+telopode|OGRPBCAM
+tenascin complex|OGRPBCAM
+terminal bouton|OGRPBCAM
+terminal cisterna|OGRPBCAM
+terminal cisterna lumen|OGRPBCAM
+terminal loop|OGRPBCAM
+terminal web|OGRPBCAM
+tertiary granule|OGRPBCAM
+tertiary granule lumen|OGRPBCAM
+tertiary granule membrane|OGRPBCAM
+tetraspanin-enriched microdomain|OGRPBCAM
+thiazole synthase complex|OGRPBCAM
+thioglucosidase complex|OGRPBCAM
+thioredoxin-disulfide reductase complex|OGRPBCAM
+thorny excrescence|OGRPBCAM
+thrombospondin complex|OGRPBCAM
+thylakoid|OGRPBCAM
+thylakoid light-harvesting complex|OGRPBCAM
+thylakoid lumen|OGRPBCAM
+thylakoid membrane|OGRPBCAM
+tight junction|OGRPBCAM
+titin-telethonin complex|OGRPBCAM
+toxin-antitoxin complex|OGRPBCAM
+trans spliceosomal complex|OGRPBCAM
+trans-Golgi network|OGRPBCAM
+trans-Golgi network membrane|OGRPBCAM
+trans-Golgi network transport vesicle|OGRPBCAM
+trans-Golgi network transport vesicle lumen|OGRPBCAM
+trans-Golgi network transport vesicle membrane|OGRPBCAM
+trans-synaptic protein complex|OGRPBCAM
+transcription elongation factor complex|OGRPBCAM
+transcription export complex|OGRPBCAM
+transcription export complex 2|OGRPBCAM
+transcription factor AP-1 complex|OGRPBCAM
+transcription factor TFIIA complex|OGRPBCAM
+transcription factor TFIID complex|OGRPBCAM
+transcription factor TFIIE complex|OGRPBCAM
+transcription factor TFIIF complex|OGRPBCAM
+transcription factor TFIIH core complex|OGRPBCAM
+transcription factor TFIIH holo complex|OGRPBCAM
+transcription factor TFIIIB complex|OGRPBCAM
+transcription factor TFIIIB-alpha complex|OGRPBCAM
+transcription factor TFIIIB-beta complex|OGRPBCAM
+transcription factor TFIIIC complex|OGRPBCAM
+transcription factor TFIIIC1 complex|OGRPBCAM
+transcription factor TFIIIC2 complex|OGRPBCAM
+transcription factor TFIIIE complex|OGRPBCAM
+transcription factor TFIIK complex|OGRPBCAM
+transcription factor TFTC complex|OGRPBCAM
+transcription preinitiation complex|OGRPBCAM
+transcription regulator complex|OGRPBCAM
+transcription repressor complex|OGRPBCAM
+transcription ternary complex|OGRPBCAM
+transcription-coupled nucleotide-excision repair, DNA damage recognition complex|OGRPBCAM
+transferase complex|OGRPBCAM
+transferase complex, transferring phosphorus-containing groups|OGRPBCAM
+transforming growth factor beta activated kinase 1 complex|OGRPBCAM
+transforming growth factor beta complex|OGRPBCAM
+transforming growth factor beta ligand-receptor complex|OGRPBCAM
+translation initiation complex|OGRPBCAM
+translation initiation ternary complex|OGRPBCAM
+translation release factor complex|OGRPBCAM
+translation repressor complex|OGRPBCAM
+translocon complex|OGRPBCAM
+transmembrane actin-associated (TAN) line|OGRPBCAM
+transmembrane collagen trimer|OGRPBCAM
+transmembrane transporter complex|OGRPBCAM
+transnitrosylase complex|OGRPBCAM
+transport vesicle|OGRPBCAM
+transport vesicle lumen|OGRPBCAM
+transport vesicle membrane|OGRPBCAM
+transporter complex|OGRPBCAM
+transverse filament|OGRPBCAM
+transverse flagellum|OGRPBCAM
+tricarboxylic acid cycle heteromeric enzyme complex|OGRPBCAM
+tricellular tight junction|OGRPBCAM
+trichocyst|OGRPBCAM
+trichome papilla|OGRPBCAM
+triglyceride-rich plasma lipoprotein particle|OGRPBCAM
+trimethylamine-N-oxide reductase (cytochrome c) complex|OGRPBCAM
+tripartite ATP-independent periplasmic transporter complex|OGRPBCAM
+tripartite attachment complex|OGRPBCAM
+troponin complex|OGRPBCAM
+tube viral factory|OGRPBCAM
+tubovesicular membrane network|OGRPBCAM
+tubular endosome|OGRPBCAM
+tubulin complex|OGRPBCAM
+tubulin folding cofactor complex|OGRPBCAM
+tubulobulbar complex|OGRPBCAM
+tuft|OGRPBCAM
+tumor necrosis factor receptor superfamily complex|OGRPBCAM
+type I interferon receptor complex|OGRPBCAM
+type I pilus|OGRPBCAM
+type I protein secretion system complex|OGRPBCAM
+type I site-specific deoxyribonuclease complex|OGRPBCAM
+type I terminal bouton|OGRPBCAM
+type II polyketide synthase complex|OGRPBCAM
+type II protein secretion system complex|OGRPBCAM
+type II site-specific deoxyribonuclease complex|OGRPBCAM
+type II terminal bouton|OGRPBCAM
+type III intermediate filament|OGRPBCAM
+type III polyketide synthase complex|OGRPBCAM
+type III protein secretion system complex|OGRPBCAM
+type III site-specific deoxyribonuclease complex|OGRPBCAM
+type III terminal bouton|OGRPBCAM
+type IV pilus|OGRPBCAM
+type IV secretion system complex|OGRPBCAM
+type IV site-specific deoxyribonuclease complex|OGRPBCAM
+type Ib terminal bouton|OGRPBCAM
+type Is terminal bouton|OGRPBCAM
+type V protein secretion system complex|OGRPBCAM
+type VI protein secretion system complex|OGRPBCAM
+ubiquinone biosynthesis complex|OGRPBCAM
+ubiquitin activating enzyme complex|OGRPBCAM
+ubiquitin conjugating enzyme complex|OGRPBCAM
+ubiquitin ligase complex|OGRPBCAM
+unconventional myosin complex|OGRPBCAM
+unencapsulated part of cell|OGRPBCAM
+unicellular trichome apex|OGRPBCAM
+unicellular trichome branch|OGRPBCAM
+unicellular trichome tip|OGRPBCAM
+uniplex complex|OGRPBCAM
+upper tip-link density|OGRPBCAM
+upstream stimulatory factor complex|OGRPBCAM
+urease activator complex|OGRPBCAM
+urease complex|OGRPBCAM
+uropod|OGRPBCAM
+uropod membrane|OGRPBCAM
+vacuolar HOPS complex|OGRPBCAM
+vacuolar lumen|OGRPBCAM
+vacuolar membrane|OGRPBCAM
+vacuolar proton-transporting V-type ATPase complex|OGRPBCAM
+vacuolar proton-transporting V-type ATPase, V0 domain|OGRPBCAM
+vacuolar proton-transporting V-type ATPase, V1 domain|OGRPBCAM
+vacuolar transporter chaperone complex|OGRPBCAM
+vacuole|OGRPBCAM
+vacuole-isolation membrane contact site|OGRPBCAM
+vacuole-mitochondrion membrane contact site|OGRPBCAM
+vanadium-iron nitrogenase complex|OGRPBCAM
+varicosity|OGRPBCAM
+vascular endothelial glycocalyx|OGRPBCAM
+ventral disc|OGRPBCAM
+ventral disc crossbridge|OGRPBCAM
+ventral disc dorsal microribbon|OGRPBCAM
+ventral disc lateral crest|OGRPBCAM
+ventral disc microtubule array|OGRPBCAM
+ventral disc overlap zone|OGRPBCAM
+ventral disc supernumerary microtubule array|OGRPBCAM
+ventral surface of cell|OGRPBCAM
+very-low-density lipoprotein particle|OGRPBCAM
+vesicle|OGRPBCAM
+vesicle coat|OGRPBCAM
+vesicle lumen|OGRPBCAM
+vesicle membrane|OGRPBCAM
+vesicle tethering complex|OGRPBCAM
+vestibular calyx terminal|OGRPBCAM
+viral RNA-directed RNA polymerase complex|OGRPBCAM
+viral capsid|OGRPBCAM
+viral capsid, decoration|OGRPBCAM
+viral capsid, fiber|OGRPBCAM
+viral capsid, internal space|OGRPBCAM
+viral capsid, major subunit|OGRPBCAM
+viral capsid, minor subunit|OGRPBCAM
+viral capsid, turret|OGRPBCAM
+viral envelope|OGRPBCAM
+viral factory|OGRPBCAM
+viral inner capsid|OGRPBCAM
+viral inner membrane|OGRPBCAM
+viral integration complex|OGRPBCAM
+viral intermediate capsid|OGRPBCAM
+viral membrane|OGRPBCAM
+viral nucleocapsid|OGRPBCAM
+viral occlusion body|OGRPBCAM
+viral outer capsid|OGRPBCAM
+viral portal complex|OGRPBCAM
+viral procapsid|OGRPBCAM
+viral replication complex|OGRPBCAM
+viral scaffold|OGRPBCAM
+viral tegument|OGRPBCAM
+viral terminase complex|OGRPBCAM
+viral terminase, large subunit|OGRPBCAM
+viral terminase, small subunit|OGRPBCAM
+viral transcriptional complex|OGRPBCAM
+virion component|OGRPBCAM
+virion membrane|OGRPBCAM
+virion nucleoid|OGRPBCAM
+virion transport vesicle|OGRPBCAM
+virogenic stroma|OGRPBCAM
+viroplasm viral factory|OGRPBCAM
+virus tail|OGRPBCAM
+virus tail, baseplate|OGRPBCAM
+virus tail, fiber|OGRPBCAM
+virus tail, shaft|OGRPBCAM
+virus tail, sheath|OGRPBCAM
+virus tail, tip|OGRPBCAM
+virus tail, tube|OGRPBCAM
+virus-like capsid|OGRPBCAM
+vitelline envelope|OGRPBCAM
+voltage-gated calcium channel complex|OGRPBCAM
+voltage-gated potassium channel complex|OGRPBCAM
+voltage-gated sodium channel complex|OGRPBCAM
+von-Willerbrand-factor-A-domain-rich collagen trimer|OGRPBCAM
+xanthine dehydrogenase complex|OGRPBCAM
+xanthophore|OGRPBCAM
+xylanosome|OGRPBCAM
+yeast-form cell wall|OGRPBCAM
+yolk|OGRPBCAM
+yolk granule|OGRPBCAM
+yolk plasma|OGRPBCAM
+zeta DNA polymerase complex|OGRPBCAM
+zona pellucida receptor complex|OGRPBCAM
+zonula adherens|OGRPBCAM
+zymogen granule|OGRPBCAM
+zymogen granule membrane|OGRPBCAM
