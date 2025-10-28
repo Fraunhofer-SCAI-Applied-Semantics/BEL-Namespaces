@@ -1,0 +1,1766 @@
+
+[Namespace]
+Keyword=EEG
+NameString=EEG ontology
+DomainString=EEG
+VersionString=20251028
+CreatedDateTime=2025-10-28T16:00:46
+DescriptionString=An ontology for the EEG features and terms.
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+[Citation]
+NameString=EEG ontology
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+
+[Values]
+10-10 system|EEG
+10-20 system|EEG
+10-5 system|EEG
+4R tau-3R tau ratio|EEG
+AADvac1|EEG
+AD7CNTP|EEG
+AI tool selection|EEG
+AL003|EEG
+ALT_DEFINITION|EEG
+Abnormal cerebral morphology|EEG
+Abnormal nervous system morphology|EEG
+Abnormal nervous system physiology|EEG
+Abnormality of glycolipid metabolism|EEG
+Abnormality of metabolism/homeostasis|EEG
+Abnormality of the nervous system|EEG
+Absent posterior alpha rhythm|EEG
+Alpha Rhythm|EEG
+Alpha-EEG|EEG
+Alzheimer's disease|EEG
+Artifacts|EEG
+BFO CLIF specification label|EEG
+BFO OWL specification label|EEG
+BMS-501949|EEG
+Beta Rhythm|EEG
+Beta-EEG|EEG
+Bilateral multifocal epileptiform discharges|EEG
+Brain Waves|EEG
+CD3-positive T-lymphocytes|EEG
+CD4-positive, alpha-beta T cell|EEG
+CD45-positive microglial cell|EEG
+CNPase positive cell|EEG
+COVID-19|EEG
+Cerebral cortical atrophy|EEG
+Cerebral cortical microinfarct|EEG
+Chinese translation|EEG
+Chinese translation|EEG
+Cholestanol|EEG
+Clinical Status|EEG
+Cognitive impairment|EEG
+Continuous spike and waves during slow sleep|EEG
+Contributing_Source|EEG
+Creator|EEG
+Decreased vigilance|EEG
+Delta Rhythm|EEG
+Description|EEG
+Description|EEG
+DesignNote|EEG
+Display_Name|EEG
+Drowsiness|EEG
+ECG electrode setup|EEG
+ECoG with desynchronized pattern|EEG
+ECoG with synchronous spike wave spindle bursts|EEG
+EEG Ontology|EEG
+EEG abnormality|EEG
+EEG afterdischarge|EEG
+EEG amplitude|EEG
+EEG amplitude asymmetry|EEG
+EEG amplitude standard deviation|EEG
+EEG amplitude variablity|EEG
+EEG arousal response|EEG
+EEG asymmetry|EEG
+EEG bandwidth|EEG
+EEG centroid frequency|EEG
+EEG complexity|EEG
+EEG current density|EEG
+EEG desynchronization|EEG
+EEG electrode montage setup|EEG
+EEG feature selection|EEG
+EEG frequency deviation|EEG
+EEG instability|EEG
+EEG microstate|EEG
+EEG microstate class A|EEG
+EEG microstate class A duration|EEG
+EEG microstate class A explained variance|EEG
+EEG microstate class A occurrence|EEG
+EEG microstate class A to B transition|EEG
+EEG microstate class A to C transition|EEG
+EEG microstate class A variation|EEG
+EEG microstate class B|EEG
+EEG microstate class B duration|EEG
+EEG microstate class B occurrence|EEG
+EEG microstate class B to A transition|EEG
+EEG microstate class B to C transition|EEG
+EEG microstate class B to E transition|EEG
+EEG microstate class C|EEG
+EEG microstate class C duration|EEG
+EEG microstate class C occurrence|EEG
+EEG microstate class C to A transition|EEG
+EEG microstate class C to B transition|EEG
+EEG microstate class C variation|EEG
+EEG microstate class D|EEG
+EEG microstate class D duration|EEG
+EEG microstate class D occurrence|EEG
+EEG microstate class D to A transition|EEG
+EEG microstate class D variation|EEG
+EEG microstate class E|EEG
+EEG microstate class E duration|EEG
+EEG microstate class E global explained variance|EEG
+EEG microstate class E to B transition|EEG
+EEG microstate class F|EEG
+EEG microstate class F to C transition|EEG
+EEG microstate class G duration|EEG
+EEG microstate duration|EEG
+EEG microstate occurrence|EEG
+EEG microstate transition|EEG
+EEG microstate variation|EEG
+EEG power|EEG
+EEG power asymmetry|EEG
+EEG reactivity|EEG
+EEG signal correlation|EEG
+EEG with 4-5/second background activity|EEG
+EEG with abnormally slow frequencies|EEG
+EEG with amplitude A1|EEG
+EEG with amplitude A2|EEG
+EEG with background slow activity in alpha band|EEG
+EEG with background slowing|EEG
+EEG with background suppression|EEG
+EEG with burst suppression|EEG
+EEG with central epileptiform discharges|EEG
+EEG with central focal spike waves|EEG
+EEG with central focal spikes|EEG
+EEG with central sharp slow waves|EEG
+EEG with central sharp waves|EEG
+EEG with centrotemporal epileptiform discharges|EEG
+EEG with centrotemporal focal spike waves|EEG
+EEG with changes in voltage|EEG
+EEG with constitutional variants|EEG
+EEG with continuous slow activity|EEG
+EEG with diffuse acceleration|EEG
+EEG with epileptiform-like discharge|EEG
+EEG with focal epileptiform discharges|EEG
+EEG with focal sharp slow waves|EEG
+EEG with focal sharp waves|EEG
+EEG with focal slow activity|EEG
+EEG with focal spike waves|EEG
+EEG with focal spikes|EEG
+EEG with frequency F0|EEG
+EEG with frontal epileptiform discharges|EEG
+EEG with frontal focal spike waves|EEG
+EEG with frontal focal spikes|EEG
+EEG with frontal sharp slow waves|EEG
+EEG with frontal sharp waves|EEG
+EEG with generalized background slowing|EEG
+EEG with generalized epileptiform discharges|EEG
+EEG with generalized low amplitude activity|EEG
+EEG with generalized polymorphic epileptiform discharges|EEG
+EEG with generalized polyspikes|EEG
+EEG with generalized sharp slow waves|EEG
+EEG with generalized slow activity|EEG
+EEG with generalized slow activity grade 1|EEG
+EEG with generalized slow activity grade 2|EEG
+EEG with generalized slow activity grade 3|EEG
+EEG with generalized slow activity grade 4|EEG
+EEG with generalized spikes|EEG
+EEG with giant spike|EEG
+EEG with high frequency right hemispheric waves|EEG
+EEG with hyperventilation-induced epileptiform discharges|EEG
+EEG with hyperventilation-induced focal epileptiform discharges|EEG
+EEG with hyperventilation-induced generalized epileptiform discharges|EEG
+EEG with ictal episodes|EEG
+EEG with intermittent slow activity|EEG
+EEG with irregular generalized spike and wave complexes|EEG
+EEG with localized low amplitude activity|EEG
+EEG with low level sensorimotor rhythm|EEG
+EEG with lowered posterior resting state dominant rhythm|EEG
+EEG with multifocal slow activity|EEG
+EEG with occipital epileptiform discharges|EEG
+EEG with occipital focal spike waves|EEG
+EEG with occipital focal spikes|EEG
+EEG with occipital sharp slow waves|EEG
+EEG with occipital sharp waves|EEG
+EEG with occipital slowing|EEG
+EEG with parietal epileptiform discharges|EEG
+EEG with parietal focal spike waves|EEG
+EEG with parietal focal spikes|EEG
+EEG with parietal sharp slow waves|EEG
+EEG with parietal sharp waves|EEG
+EEG with periodic abnormalities|EEG
+EEG with periodic complexes|EEG
+EEG with periodic lateralized epileptiform discharges|EEG
+EEG with persistent abnormal rhythmic activity|EEG
+EEG with photoparoxysmal response|EEG
+EEG with photoparoxysmal response grade I|EEG
+EEG with photoparoxysmal response grade II|EEG
+EEG with photoparoxysmal response grade III|EEG
+EEG with photoparoxysmal response grade IV|EEG
+EEG with polyspike wave complexes|EEG
+EEG with robust epileptiform discharge|EEG
+EEG with series of focal spikes|EEG
+EEG with spike-wave complexes|EEG
+EEG with spindle activity|EEG
+EEG with spindle pattern|EEG
+EEG with sporadic sharp waves|EEG
+EEG with sporadic triphasic waves|EEG
+EEG with subclinical epileptiform discharge|EEG
+EEG with synchronous spike wave spindle bursts|EEG
+EEG with temporal epileptiform discharges|EEG
+EEG with temporal focal spike waves|EEG
+EEG with temporal focal spikes|EEG
+EEG with temporal sharp slow waves|EEG
+EEG with temporal sharp waves|EEG
+EEG with unilateral small sharp spike-like waveform|EEG
+EEG workflow|EEG
+EMG activation|EEG
+EMG electrode setup|EEG
+EMG signal|EEG
+EOG electrode setup|EEG
+Electroencephalography Phase Synchronization|EEG
+Electromyography|EEG
+Evoked Potentials|EEG
+Evoked Potentials, Auditory|EEG
+Excessive daytime somnolence|EEG
+FDA_Table|EEG
+FDG-Positron Emission Tomography|EEG
+Faulty Instrument or Use of Instrument Artifact|EEG
+Fine|EEG
+Fixation-off epileptiform discharges|EEG
+Focal EEG discharges with propagation to ipsilateral hemisphere|EEG
+Focal EEG discharges with secondary generalization|EEG
+Focal epileptiform discharges with limited propagation to contralateral hemisphere|EEG
+Fourier Analysis|EEG
+G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger|EEG
+Gamma Rhythm|EEG
+Ganglioside accumulation|EEG
+Granger causality test|EEG
+Granger-based effective connectivity|EEG
+Grounding Malfunction|EEG
+HAE-4|EEG
+HJ6.3|EEG
+Has_ACC-AHA_SARS2_Authorized_Value|EEG
+Has_DIPG_DMG_Authorized_Value|EEG
+Has_GDC_Value|EEG
+Has_OORO_PC_Value|EEG
+Has_PCDC_Data_Type|EEG
+Has_PCDC_HL_Authorized_Value|EEG
+Hemihypsarrhythmia|EEG
+Higuchi's fractal dimension|EEG
+Hippocampus|EEG
+Hjorth activity|EEG
+Hjorth mobility|EEG
+Hypsarrhythmia|EEG
+IBA1-positive microglial cell|EEG
+IHCC browser label|EEG
+IHCC category|EEG
+Iba-1 positive cell|EEG
+Imaging Region of Interest|EEG
+Increased theta frequency activity in EEG|EEG
+Interictal EEG abnormality|EEG
+Interictal epileptiform activity|EEG
+Is_PCDC_AML_Authorized_Value_For_Variable|EEG
+Is_PCDC_EWS_Authorized_Value_For_Variable|EEG
+Is_PCDC_GCT_Authorized_Value_For_Variable|EEG
+Is_Value_For_GDC_Property|EEG
+Ki-67 positive cell|EEG
+LSD-like effects|EEG
+Legacy Concept Name|EEG
+Lewy body dementia|EEG
+Low voltage EEG|EEG
+Lyapunov exponent|EEG
+M1 microglia|EEG
+M1 microglial cell activation|EEG
+M100 latency|EEG
+M2 microglia|EEG
+M2 microglial cell activation|EEG
+M20 latency|EEG
+MEG recording setup|EEG
+Maps_To|EEG
+Medical Device Malfunction|EEG
+Memory Disorders|EEG
+Microbiota|EEG
+Mini-Mental State Exam score|EEG
+Monoclonal Antibody|EEG
+Multifocal epileptiform discharges|EEG
+N1 amplitude|EEG
+N1-P1 amplitude|EEG
+N1-P2 amplitude|EEG
+N1/P2 loudness dependent auditory evoked potential|EEG
+N100 amplitude|EEG
+N100 latency|EEG
+N170 amplitude|EEG
+N2 latency|EEG
+N200 amplitude|EEG
+N200 latency|EEG
+N200-P300 peak-to-peak amplitude|EEG
+N400 latency|EEG
+N75 to N100 amplitude|EEG
+NCI_META_CUI|EEG
+Natriuretic Peptide, Brain|EEG
+NeuN positive cell|EEG
+Neural Network|EEG
+Neural Pathways|EEG
+Neurite dystrophy|EEG
+No|EEG
+Normal interictal EEG|EEG
+Not fine|EEG
+OBO foundry unique label|EEG
+Occipital zone of scalp|EEG
+Olig-2 positive cell|EEG
+P1 amplitude|EEG
+P1-N1 amplitude|EEG
+P1-N2 amplitude|EEG
+P100 latency|EEG
+P2 amplitude|EEG
+P2 loudness dependent auditory evoked potential|EEG
+P200 amplitude|EEG
+P200 latency|EEG
+P3 amplitude|EEG
+P3 latency|EEG
+P300 amplitude|EEG
+P300 latency|EEG
+P300 latency ratio|EEG
+P3a amplitude|EEG
+P3a latency|EEG
+P3b latency|EEG
+P450 amplitude|EEG
+P450 latency|EEG
+P50 amplitude|EEG
+P600 amplitude|EEG
+PET recording setup|EEG
+Parietal zone of scalp|EEG
+Parkinson's disease|EEG
+Partial beta-EEG|EEG
+Patient Artifact|EEG
+Phenotypic abnormality|EEG
+Polymorphic focal epileptiform discharges|EEG
+Preferred_Name|EEG
+Python command|EEG
+Quality Control|EEG
+R command|EEG
+RL-208|EEG
+ROC curves construction|EEG
+Receiver operating characteristic curve analysis|EEG
+Reduced consciousness|EEG
+S1-Patient assessment : Fine|EEG
+S2-Patient assessment : Not fine|EEG
+S3-Recording integrity control : Fine|EEG
+S4-Recording integrity control: Not fine|EEG
+S5-Post processing outcome control: Fine|EEG
+S6-Post processing outcome control: Not fine|EEG
+STATO alternative term|EEG
+Schwann cell|EEG
+Semantic_Type|EEG
+Set of corticothalamic fibers|EEG
+Shannon entropy|EEG
+Signal Artifact|EEG
+Subdivision of scalp|EEG
+T cell|EEG
+TMS recording setup|EEG
+Theta Rhythm|EEG
+UMLS_CUI|EEG
+Uni- and bilateral multifocal epileptiform discharges|EEG
+Unilateral multifocal epileptiform discharges|EEG
+Use_For|EEG
+Wackermann’s omega complexity|EEG
+abnormal GABAergic interneuron|EEG
+abnormal cell physiology|EEG
+abnormal cellular process|EEG
+abnormal cellular process|EEG
+abnormal functional connectivity|EEG
+abnormal heart-brain connection|EEG
+abnormal hippocampus physiology|EEG
+abnormal interhemispheric functional connectivity in alpha 1 band|EEG
+abnormal interhemispheric functional connectivity in delta band|EEG
+abnormal interhemispheric functional connectivity in theta band|EEG
+abnormal membrane property|EEG
+abnormal neural synchronization|EEG
+abnormal posterior resting state alpha rhythm|EEG
+abnormal posterior resting state delta rhythm|EEG
+abnormal posture|EEG
+abnormal resting delta power|EEG
+abnormal resting theta power|EEG
+abnormal theta power|EEG
+absolute EEG power|EEG
+absolute alpha 1 power|EEG
+absolute alpha 2 power|EEG
+absolute alpha 3 power|EEG
+absolute alpha power|EEG
+absolute beta 1 power|EEG
+absolute beta 1 power spectral density|EEG
+absolute beta 2 power|EEG
+absolute beta 2 power spectral density|EEG
+absolute beta 3 power|EEG
+absolute beta 4 power|EEG
+absolute beta 4 power spectral density|EEG
+absolute beta 5 power|EEG
+absolute beta power|EEG
+absolute delta 1 power|EEG
+absolute delta 2 power|EEG
+absolute delta power|EEG
+absolute delta power spectral density|EEG
+absolute delta/theta power|EEG
+absolute gamma 1 power|EEG
+absolute gamma 2 power|EEG
+absolute gamma power|EEG
+absolute minimum of cross corrected conditional entropy|EEG
+absolute sigma power|EEG
+absolute theta 1 power|EEG
+absolute theta 2 power|EEG
+absolute theta frequency|EEG
+absolute theta power|EEG
+absolute theta power spectral density|EEG
+acceleration of beta frequency|EEG
+actigraphic sensor setup|EEG
+acute hypoxia|EEG
+acute tryptophan depletion|EEG
+adverse event|EEG
+affective network|EEG
+affective processing|EEG
+affectivity|EEG
+age|EEG
+aged microbiota|EEG
+alertness|EEG
+algorithm|EEG
+alpha 1|EEG
+alpha 1 amplitude|EEG
+alpha 1 band clustering coefficient|EEG
+alpha 1 centroid anterior shift|EEG
+alpha 1 event related desynchronization|EEG
+alpha 1 functional connectivity|EEG
+alpha 1 power spectral density|EEG
+alpha 2|EEG
+alpha 2 amplitude|EEG
+alpha 2 centroid anterior shift|EEG
+alpha 2 event related desynchronization|EEG
+alpha 2 event related synchronization|EEG
+alpha 2 functional connectivity|EEG
+alpha 2 global efficiency|EEG
+alpha 2 power spectral density|EEG
+alpha 3|EEG
+alpha amplitude|EEG
+alpha band complexity|EEG
+alpha band order|EEG
+alpha band weighted phase lag index|EEG
+alpha centroid|EEG
+alpha centroid deviation|EEG
+alpha coherence|EEG
+alpha coherence connectivity strength|EEG
+alpha coma|EEG
+alpha cordance|EEG
+alpha coupling|EEG
+alpha debiased weighted phase lag index|EEG
+alpha distribution half life|EEG
+alpha entropy|EEG
+alpha functional connectivity|EEG
+alpha lag-lead ratio|EEG
+alpha linear lagged source connectivity|EEG
+alpha oscillatory response amplitude|EEG
+alpha peak|EEG
+alpha peak deceleration|EEG
+alpha peak dispersion|EEG
+alpha phase|EEG
+alpha phase lag index|EEG
+alpha phase synchronization complexity|EEG
+alpha power ratio|EEG
+alpha power spectral density|EEG
+alpha power-power coupling|EEG
+alpha reactivity|EEG
+alpha rhythm abnormality|EEG
+alpha wave desynchronization|EEG
+alpha wave synchronization|EEG
+alpha-synuclein aggregation|EEG
+alpha-theta harmonic coupling|EEG
+alpha-theta non-harmonic decoupling|EEG
+alpha/beta power ratio|EEG
+alpha/delta power ratio|EEG
+alpha/theta power ratio|EEG
+altered EEG synchronization|EEG
+altered brain oscillatory activity|EEG
+altered meaning|EEG
+alternate name|EEG
+alternative label|EEG
+alternative label|EEG
+alternative symbol|EEG
+alternative term|EEG
+alternative term|EEG
+alternative_term|EEG
+amnestic mild cognitive impairment|EEG
+amphetamine-like effects|EEG
+amplitude|EEG
+amplitude envelope correlation|EEG
+amplitude envelope fluctuation|EEG
+amplitude skewness|EEG
+amplitude transformation ratio|EEG
+amygdala and auditory cortex functional connectivity|EEG
+amyloid beta 3-10 keyhole limpet hemocyanin|EEG
+amyloid beta dependent excitotoxicity|EEG
+amyloid beta misfolding|EEG
+amyloid beta redox potential|EEG
+amyloid beta toxicity|EEG
+amyloid-beta|EEG
+amyloid-beta protofibril|EEG
+amyloidosis|EEG
+analogic filters setup|EEG
+anatomical entity|EEG
+anatomical structure|EEG
+anterior to central information flow in beta band|EEG
+anteriorization of the rsEEG alpha source activation|EEG
+aperiodic component|EEG
+aperiodic exponent|EEG
+aperiodic feature computation|EEG
+aperiodic offset|EEG
+apolipoprotein E signaling pathway|EEG
+approximate alpha entropy|EEG
+approximate beta 2 entropy|EEG
+approximate delta entropy|EEG
+approximate entropy|EEG
+approximate gamma entropy|EEG
+approximate theta entropy|EEG
+artifact archive creation|EEG
+artifacts removal|EEG
+associative memory|EEG
+astrocyte|EEG
+astrocyte aggregation|EEG
+astrocyte end-foot|EEG
+astroglial remodeling|EEG
+asymmetric Higuchi's fractal dimension|EEG
+attending|EEG
+attention variability|EEG
+attentional reorientation|EEG
+attribute of cell|EEG
+auditory cortex and occipital cortex functional connectivity|EEG
+auditory evoked potential N1 latency|EEG
+auditory evoked potential amplitude|EEG
+auditory network and parietal cortex network functional connectivity|EEG
+auditory network and right frontoparietal network functional connectivity|EEG
+auditory processing|EEG
+augmenting response|EEG
+auto mutual information|EEG
+autobiographical memory|EEG
+autocorrelation function coefficient of microstate class B|EEG
+autoregressive model|EEG
+average EEG amplitude|EEG
+average EEG frequency|EEG
+average Higuchi's fractal dimension|EEG
+average alpha 1 power|EEG
+average alpha power|EEG
+average beta 1 power|EEG
+average beta 2 power|EEG
+average beta power|EEG
+average delta band phase lag index|EEG
+average evoked EEG response|EEG
+average frequency|EEG
+average relative delta power|EEG
+axiom_lost_from_external_ontology|EEG
+axonal conduction velocity|EEG
+axonal damage|EEG
+axonal polarity|EEG
+background EEG abnormality|EEG
+background EEG activity|EEG
+background frequency|EEG
+basal electrode|EEG
+baseline|EEG
+baseline mismatch negativity|EEG
+behavior|EEG
+behavioral response analysis|EEG
+beta 1 amplitude|EEG
+beta 1 centroid anterior shift|EEG
+beta 1 centroid posterior shift|EEG
+beta 1 debiased weighted phase lag index|EEG
+beta 1 functional connectivity|EEG
+beta 1 global efficiency|EEG
+beta 1 path length|EEG
+beta 1 phase synchronization|EEG
+beta 1 power spectral density|EEG
+beta 1 power-power coupling|EEG
+beta 2 band clustering coefficient|EEG
+beta 2 entropy|EEG
+beta 2 functional connectivity|EEG
+beta 2 global efficiency|EEG
+beta 2 path length|EEG
+beta 2 phase synchronization|EEG
+beta 2 power|EEG
+beta 2 power spectral density|EEG
+beta 3 coherence|EEG
+beta 3 functional connectivity|EEG
+beta 3 power spectral density|EEG
+beta 4 functional connectivity|EEG
+beta amplitude|EEG
+beta band complexity|EEG
+beta band disruption|EEG
+beta band weighted phase lag index|EEG
+beta centroid|EEG
+beta centroid deviation|EEG
+beta coherence|EEG
+beta coherence connectivity strength|EEG
+beta distribution half life|EEG
+beta entropy|EEG
+beta event related desynchronization|EEG
+beta functional connectivity|EEG
+beta phase lag index|EEG
+beta power spectral density|EEG
+beta small-worldness|EEG
+beta wave superimposition|EEG
+beta wave synchronization|EEG
+beta/delta power ratio|EEG
+beta/theta power ratio|EEG
+bilateral|EEG
+bilateral parahippocampal gyrus-subgenual anterior cingulate cortex independent component and left middle occipital cortex functional connectivity|EEG
+bilateral precentral gyrus independent component and bilateral hippocampus functional connectivity|EEG
+bilateral precentral gyrus independent component and posterior cingulate functional connectivity|EEG
+bilateral precentral gyrus independent component and right thalamus functional connectivity|EEG
+bilateral precentral gyrus independent component and subgenual anterior cingulate cortex functional connectivity|EEG
+bilateral theta slowing|EEG
+bin width|EEG
+biological attribute|EEG
+biological sex|EEG
+biological_process|EEG
+biomarker|EEG
+biomarker for|EEG
+biphasic wave|EEG
+bodily process|EEG
+body sway|EEG
+brain|EEG
+brain activity|EEG
+brain activity complexity|EEG
+brain activity irregularity|EEG
+brain blood oxygenation|EEG
+brain disease|EEG
+brain functional connectivity|EEG
+brain functional connectivity network|EEG
+brain health|EEG
+brain integrity trait|EEG
+brain network performance|EEG
+brain network robustness|EEG
+brain ventricle|EEG
+broad-band spectral exponent|EEG
+broadband oscillatory power|EEG
+cGAS/STING signaling pathway|EEG
+cable movement artifact|EEG
+calcium conductance|EEG
+calcium current|EEG
+carbohydrate intake measurement|EEG
+cell|EEG
+cellular anatomical structure|EEG
+cellular process|EEG
+cellular_component|EEG
+central nervous system activation|EEG
+central nervous system disease|EEG
+central nervous system hypometabolism|EEG
+centroid deviation of total activity|EEG
+centroid of total activity|EEG
+cerebral blood flow rate|EEG
+cerebral cortex|EEG
+cerebral hypoperfusion AE|EEG
+cerebral subcortex|EEG
+change note|EEG
+characteristic delta path length|EEG
+characteristic sigma path length|EEG
+check annotations|EEG
+check general quality of effective connectivity|EEG
+check general quality of linear-lagged connectivity or equivalent|EEG
+check general quality of power spectral density|EEG
+check general quality of preprocessed data|EEG
+check generalQuality|EEG
+check preprocessing phase annotations|EEG
+chemical entity|EEG
+chlorinated cyclopentapeptide|EEG
+cholestanol to cholesterol ratio|EEG
+choline|EEG
+choline reuptake|EEG
+cholinergic deafferentation|EEG
+cholinergic system dysfunction|EEG
+chronic hypoperfusion|EEG
+circadian rhythm sleep disorder|EEG
+classification and prediction|EEG
+clinical imaging procedure|EEG
+clinical measurement|EEG
+clustering algorithm|EEG
+clustering coefficient|EEG
+clustering strength|EEG
+coasting|EEG
+code|EEG
+coefficient of variation|EEG
+coefficient of variation of EEG amplitude|EEG
+coffee consumption|EEG
+cognition|EEG
+cognitive condition|EEG
+cognitive control|EEG
+cognitive overload|EEG
+coke consumption|EEG
+colonic temperature|EEG
+comforted feeling|EEG
+comment|EEG
+comment|EEG
+common average reference|EEG
+common average referencing|EEG
+common reference electrode|EEG
+complex imagery|EEG
+complex reaction|EEG
+computation of absolute power spectral density|EEG
+computation of effective connectivity|EEG
+computation of graph index|EEG
+computation of linear-lagged connectivity or equivalent|EEG
+compute linear aperiodic spectral feature|EEG
+compute linear periodic spectral feature|EEG
+conceptual disorganization|EEG
+condensed chromatin cell|EEG
+connectivity between right and left insula|EEG
+connectivity desynchronization|EEG
+consciousness|EEG
+consciousness of the body|EEG
+continuant|EEG
+continuant fiat boundary|EEG
+contributes to|EEG
+contributor|EEG
+convulsive status epilepticus|EEG
+correlation dimension|EEG
+cortical activation|EEG
+cortical desynchronization|EEG
+cortical electrode|EEG
+cortical network connectivity|EEG
+cortical network synchronization|EEG
+coupling strength|EEG
+created by|EEG
+creation date|EEG
+creator|EEG
+critical flicker frequency|EEG
+cross frequency coupling|EEG
+cumulative power at 3-Hz|EEG
+curated content resource|EEG
+curator note|EEG
+curator note|EEG
+curator note|EEG
+curator notes|EEG
+cutaneous reactivity to histamine|EEG
+cytoplasmic DNA accumulation|EEG
+data item|EEG
+data transformation|EEG
+database cross reference|EEG
+database cross reference|EEG
+database_cross_reference|EEG
+database_cross_reference|EEG
+dc:creator|EEG
+debiased weighted phase lag index connectivity|EEG
+decreases|EEG
+default mode network and salience network functional connectivity|EEG
+define aperiodic component|EEG
+define individual alpha frequency peak|EEG
+define minimum number of electrodes|EEG
+define transition frequency|EEG
+defined by construct|EEG
+definition|EEG
+definition|EEG
+definition|EEG
+definition editor|EEG
+definition editor|EEG
+definition source|EEG
+definition source|EEG
+definition source|EEG
+definition_editor|EEG
+definition_source|EEG
+delayed gamma response|EEG
+delayed glutamate clearance|EEG
+delta 1 wave synchronization|EEG
+delta 2 amplitude|EEG
+delta amplitude|EEG
+delta band clustering coefficient|EEG
+delta band complexity|EEG
+delta band weighted phase lag index|EEG
+delta centroid|EEG
+delta clustering path length|EEG
+delta coherence|EEG
+delta current density|EEG
+delta entropy|EEG
+delta event related desynchronization|EEG
+delta functional connectivity|EEG
+delta linear lagged connectivity|EEG
+delta mean clustering coefficient|EEG
+delta power spectral density|EEG
+delta rhythm abnormality|EEG
+delta source activation|EEG
+delta wave synchronization|EEG
+delta-alpha synchronization|EEG
+delta-beta synchronization|EEG
+delta-gamma synchronization|EEG
+delta-theta centroid|EEG
+delta-theta centroid deviation|EEG
+delta-theta centroid slowing|EEG
+delta-theta power|EEG
+delta-theta synchronization|EEG
+dementia|EEG
+dendritic damage|EEG
+dendritic integrity|EEG
+dependsOn|EEG
+depiction|EEG
+depression|EEG
+derived from|EEG
+derivedFrom|EEG
+description|EEG
+description|EEG
+description adapted from source|EEG
+deterministic chaos theory|EEG
+detrend|EEG
+developmental process|EEG
+device|EEG
+diffuse abnormality|EEG
+direct current potential|EEG
+directed transfer function|EEG
+directive information entity|EEG
+disease|EEG
+disease by infectious agent|EEG
+disease of anatomical entity|EEG
+disease of mental health|EEG
+disease of metabolism|EEG
+disk electrode|EEG
+disorientation|EEG
+disorientation of time and place|EEG
+disposition|EEG
+disturbance of body schema|EEG
+dominant alpha variability|EEG
+dominant background delta-theta rhythm|EEG
+dominant delta activity|EEG
+dominant delta-theta activity|EEG
+dominant frequency|EEG
+dominant theta activity|EEG
+dominant theta variability|EEG
+dopaminergic neuron|EEG
+dopaminergic neuron hyperactivity|EEG
+dorsal attention network|EEG
+drug|EEG
+duration|EEG
+duration of EEG afterdischarge|EEG
+duration of mismatch negativity change|EEG
+duration of response|EEG
+dynamic coupling|EEG
+dysfunctional cortical connectivity|EEG
+dysfunctional synapse opsonization|EEG
+dysregulated inhibitory spike activity|EEG
+early onset familial Alzheimer's disease|EEG
+early theta hypersynchrony|EEG
+early theta response|EEG
+editor note|EEG
+editor note|EEG
+editor preferred label|EEG
+editor preferred label|EEG
+editor preferred term|EEG
+editor preferred term|EEG
+editor preferred term~editor preferred label|EEG
+editor preferred term~editor preferred label|EEG
+education level|EEG
+effect of ethanol|EEG
+ego dissolution|EEG
+electric loop artifact|EEG
+electric potential|EEG
+electrocardiogram artifact|EEG
+electrocardiography|EEG
+electrode|EEG
+electrode displacement artifact|EEG
+electrode placement system|EEG
+electrode pop artifact|EEG
+electroencephalogram electrode|EEG
+electroencephalography|EEG
+electroencephalograpy asymmetry|EEG
+electromagnetic field artifact|EEG
+electromyogram artifact|EEG
+electrooculogram artifact|EEG
+electrophysiology assay|EEG
+elementary imagery|EEG
+elucidation|EEG
+elucidation|EEG
+emotional behavioural process|EEG
+emotional memory deficit|EEG
+emotional withdrawal|EEG
+energetic feeling|EEG
+energy|EEG
+energy efficiency|EEG
+entity|EEG
+entropy|EEG
+epidural electrode|EEG
+epoch|EEG
+epoching|EEG
+equivalent current dipole M20 amplitude|EEG
+error in reaction time task|EEG
+error processing|EEG
+estimation of connectivity|EEG
+estimation of cortical source activity|EEG
+estimation of functional coupling|EEG
+euthymia|EEG
+event-related delta oscillatory response amplitude|EEG
+event-related gamma coherence|EEG
+event-related theta oscillatory response amplitude|EEG
+evoked EEG power|EEG
+evoked EEG response|EEG
+evoked alpha coherence|EEG
+evoked beta coherence|EEG
+evoked delta amplitude|EEG
+evoked delta coherence|EEG
+evoked delta oscillatory response amplitude|EEG
+evoked delta power spectral density|EEG
+evoked gamma coherence|EEG
+evoked gamma power|EEG
+evoked gamma wave response|EEG
+evoked gamma wave synchronization|EEG
+evoked potential amplitude|EEG
+evoked theta amplitude|EEG
+evoked theta coherence|EEG
+evoked wave coherence|EEG
+exact LORETA|EEG
+example of usage|EEG
+example of usage|EEG
+excitatory-inhibitory balance|EEG
+excitement behavior|EEG
+excitotoxicity|EEG
+exosome mediated tau propagation|EEG
+expand assertion to|EEG
+expand assertion to|EEG
+exploring electrode|EEG
+external_definition|EEG
+external_ontology_notes|EEG
+extraction of spectral features|EEG
+eye movement|EEG
+fMRI recording setup|EEG
+face-name memory|EEG
+fast-to-slow wave power ratio|EEG
+feature selection|EEG
+feature selection from MEG co-recordings|EEG
+feature selection from PET co-recordings|EEG
+feature selection from TMS co-recordings|EEG
+feature selection from effective connectivity|EEG
+feature selection from fMRI co-recordings|EEG
+feature selection from linear-lagged connectivity|EEG
+feature selection from power spectral density|EEG
+female|EEG
+fiat object part|EEG
+fibrinogen extravasation|EEG
+fine tune artifact removal outcome|EEG
+flash visual evoked potential P2|EEG
+flash visual evoked potential P2 latency|EEG
+fluid intelligence|EEG
+fma_set_term|EEG
+focal abnormality|EEG
+foramen ovale electrode|EEG
+formation of individual frequency band|EEG
+fractal dimension|EEG
+frequency|EEG
+frequency at cumulative power of 90 percent|EEG
+frequency deviation|EEG
+frequency spectrum|EEG
+frontal eye fields and parahippocampus functional connectivity|EEG
+frontal intermittent rhythmic delta activity|EEG
+frontal lobe|EEG
+frontotemporal dementia|EEG
+frontotemporal dementia with parkinsonism-17|EEG
+function|EEG
+functional connectivity|EEG
+functional integration|EEG
+functional synchronization|EEG
+gamma 1 amplitude|EEG
+gamma 1 wave synchronization|EEG
+gamma 1 wave synchronization latency|EEG
+gamma amplitude|EEG
+gamma band complexity|EEG
+gamma band weighted phase lag index|EEG
+gamma coherence|EEG
+gamma cross frequency coupling|EEG
+gamma entropy|EEG
+gamma functional connectivity|EEG
+gamma mean clustering coefficient|EEG
+gamma phase lag index|EEG
+gamma phase-locking|EEG
+gamma power connectivity|EEG
+gamma power spectral density|EEG
+gamma wave synchronization|EEG
+gamma-alpha cross frequency coupling|EEG
+gamma-beta cross frequency coupling|EEG
+gamma-delta cross frequency coupling|EEG
+ganglioside-bound amyloid-beta pathology|EEG
+general intelligence|EEG
+general status|EEG
+general synchronization|EEG
+generalized seizure|EEG
+generically dependent continuant|EEG
+global alpha connectivity|EEG
+global alpha efficiency|EEG
+global alpha field power|EEG
+global alpha field synchronization|EEG
+global beta 1 field power|EEG
+global beta 2 field power|EEG
+global beta 4 field power|EEG
+global beta efficiency|EEG
+global beta field power|EEG
+global beta field synchronization|EEG
+global clinical status|EEG
+global coherence|EEG
+global connectivity|EEG
+global delta field power|EEG
+global efficiency|EEG
+global field power|EEG
+global field synchronization|EEG
+global gamma efficiency|EEG
+global gamma field synchronization|EEG
+global power density|EEG
+global spectral delta coherence|EEG
+global synchronization|EEG
+global theta connectivity|EEG
+global theta efficiency|EEG
+global theta field power|EEG
+global theta power density|EEG
+glutamate neurotoxicity|EEG
+glutamatergic neuron hyperexcitability|EEG
+glutamatergic neuron hypersynchronization|EEG
+go-P300 latency|EEG
+go-P300 peak amplitude|EEG
+graph index|EEG
+habituation|EEG
+has associated axiom(fol)|EEG
+has associated axiom(fol)|EEG
+has associated axiom(nl)|EEG
+has associated axiom(nl)|EEG
+has axiom label|EEG
+has broad synonym|EEG
+has close match|EEG
+has cross-reference|EEG
+has curation status|EEG
+has curation status|EEG
+has database cross reference|EEG
+has duration|EEG
+has exact synonym|EEG
+has exact synonym|EEG
+has narrow synonym|EEG
+has related synonym|EEG
+has synonym|EEG
+has unit|EEG
+hasComponent|EEG
+hasExactSynonym|EEG
+hasFeature|EEG
+hasFirstStep|EEG
+hasGeneralQuality|EEG
+hasGeneralStatus|EEG
+hasNextStep|EEG
+hasSleepQuality|EEG
+hasSubprocess|EEG
+hasSubstanceConsumption|EEG
+has_MedDRA_id|EEG
+has_MedDRA_id|EEG
+has_alternative_id|EEG
+has_broad_synonym|EEG
+has_exact_synonym|EEG
+has_narrow_synonym|EEG
+has_obo_namespace|EEG
+has_obo_namespace|EEG
+has_related_synonym|EEG
+head movement|EEG
+head muscle artifact|EEG
+head volume conduction effect|EEG
+heart rate variability|EEG
+hemorrhagic dementia|EEG
+hertz|EEG
+high threshold thalamocortical cell activity|EEG
+high-band spectral exponent|EEG
+high-frequency heart rate variability|EEG
+high-threshold T-type calcium current|EEG
+hippocampal hyperexcitability|EEG
+hippocampal network hypersynchrony|EEG
+hippocampal network synchronization|EEG
+hippocampal oscillatory disruption|EEG
+history|EEG
+homology_notes|EEG
+hub|EEG
+hyperactivity|EEG
+hyperpolarization|EEG
+hypersynchronous hippocampal unit activity|EEG
+hypersynchronous network activity|EEG
+hypersynchrony|EEG
+hypoactivity|EEG
+hypoperfusion dementia|EEG
+hyposynchronous slow oscillation|EEG
+hypoxia|EEG
+ictal epileptiform episode|EEG
+id|EEG
+identifier|EEG
+imaginary part of coherency|EEG
+immaterial entity|EEG
+immune system process|EEG
+impaired neuron physiology|EEG
+impaired synaptic physiology|EEG
+imported from|EEG
+imported from|EEG
+in subset|EEG
+in-degree connectivity in beta band|EEG
+in-degree connectivity in delta band|EEG
+in_subset|EEG
+independent continuant|EEG
+individual alpha frequency|EEG
+individual alpha mean peak frequency|EEG
+individual alpha peak frequency|EEG
+induced event related activity|EEG
+inflammaging|EEG
+inflammatory response|EEG
+information content entity|EEG
+information processing|EEG
+information transmission|EEG
+insomnia|EEG
+instruct participant|EEG
+insula and auditory cortex functional connectivity|EEG
+insula and occipital cortex functional connectivity|EEG
+intellectual efficiency|EEG
+inter-regional coherence|EEG
+interburst interval|EEG
+interconnectional path length|EEG
+interhemispheric functional connectivity|EEG
+interhemispheric functional connectivity in alpha 1 band|EEG
+interpolate to common electrode montage|EEG
+intracerebral electrode|EEG
+irreversibility in brain signals|EEG
+karyorrhectic cell|EEG
+label|EEG
+label|EEG
+large vessel dementia|EEG
+late theta response|EEG
+latency|EEG
+lateral visual network and dorsal attention network functional connectivity|EEG
+lateral visual network and parietal cortex network functional connectivity|EEG
+left inferior frontal gyrus and auditory cortex functional connectivity|EEG
+left inferior frontal gyrus and occipital cortex functional connectivity|EEG
+left insulo-temporal independent component and left amygdala functional connectivity|EEG
+left insulo-temporal independent component and right amygdala functional connectivity|EEG
+left insulo-temporal independent component and temporal pole functional connectivity|EEG
+limbic lobe|EEG
+line interference artifact|EEG
+linear measure of interrelatedness|EEG
+linear-lagged connectivity|EEG
+linguistic capability|EEG
+lobe of cerebral hemisphere|EEG
+local circuit activity|EEG
+local efficiency|EEG
+local gamma efficiency|EEG
+log alpha power|EEG
+long COVID-19|EEG
+long-distance event-related gamma coherence|EEG
+long-range temporal alpha correlation|EEG
+long-range temporal beta correlation|EEG
+long-range temporal theta correlation|EEG
+low-band spectral exponent|EEG
+low-density lipoprotein cholestanol|EEG
+low-density lipoprotein cholestanol to low-density lipoprotein cholesterol ratio|EEG
+low-frequency heart rate variability|EEG
+lower frequency power|EEG
+lowest value of cross corrected conditional entropy|EEG
+lysosome accumulation|EEG
+lysosome functionality|EEG
+macromolecule catabolic process|EEG
+magnetic resonance imaging|EEG
+magnitude squared coherence|EEG
+male|EEG
+manual dexterity|EEG
+marker qualification|EEG
+material anatomical entity|EEG
+material entity|EEG
+mathematical entity|EEG
+mean EEG power|EEG
+mean P300 amplitude|EEG
+mean P300 latency|EEG
+mean absolute alpha amplitude|EEG
+mean absolute alpha power|EEG
+mean absolute beta amplitude|EEG
+mean absolute beta power|EEG
+mean absolute delta amplitude|EEG
+mean absolute theta amplitude|EEG
+mean absolute theta power|EEG
+mean alpha functional connectivity|EEG
+mean alpha power|EEG
+mean auditory reaction time|EEG
+mean beta 1 functional connectivity|EEG
+mean beta 4 functional connectivity|EEG
+mean brain connectivity|EEG
+mean clustering coefficient|EEG
+mean delta functional connectivity|EEG
+mean delta power|EEG
+mean diastolic blood pressure|EEG
+mean frequency|EEG
+mean functional connectivity|EEG
+mean gamma 1 functional connectivity|EEG
+mean gamma path length|EEG
+mean information flow of source 1 to source 2 difference|EEG
+mean information flow of source 1 to source 3 difference|EEG
+mean information flow of source 2 to source 1 difference|EEG
+mean information flow of source 3 to source 1 difference|EEG
+mean network integrity|EEG
+mean pain rating|EEG
+mean path length|EEG
+mean relative alpha power|EEG
+mean relative delta power|EEG
+mean relative theta power|EEG
+mean theta functional connectivity|EEG
+mean theta power|EEG
+mean total EEG power|EEG
+mean total delta power|EEG
+mean total theta power|EEG
+mean visual reaction time|EEG
+measuredIn|EEG
+measurement datum|EEG
+medial prefrontal cortex and amygdala functional connectivity|EEG
+memory|EEG
+memory encoding|EEG
+memory retrieval behavior|EEG
+mental function|EEG
+mental health condition|EEG
+mental process|EEG
+mental rigidity|EEG
+mental simulation|EEG
+menthol odor|EEG
+metabolic brain activation|EEG
+metainflammation|EEG
+methanol poisoning|EEG
+microglial cell|EEG
+microglial cell activation|EEG
+microglial dysfunction|EEG
+microglial inflammation|EEG
+microglial priming|EEG
+microglial-dependent synapse engulfment|EEG
+microvolt|EEG
+microvolt squared per hertz|EEG
+midline and right-frontal cordance|EEG
+mild cognitive impairment|EEG
+minute|EEG
+misfolded amyloid aggregation|EEG
+misfolded tau aggregation|EEG
+mismatch negativity|EEG
+mismatch negativity amplitude|EEG
+mismatch negativity latency|EEG
+mismatch negativity latency ratio|EEG
+mitochondrion functionality|EEG
+motor decision making|EEG
+movement duration|EEG
+multicellular anatomical structure|EEG
+multicellular organismal process|EEG
+multimodal preprocessing|EEG
+multimodal techniques feature selection|EEG
+multiscale beta 2 entropy|EEG
+multiscale gamma entropy|EEG
+multiscale sample entropy|EEG
+muscle receptor|EEG
+mutlimodal technique setup|EEG
+myeloid cell|EEG
+name|EEG
+nasopharyngeal electrode|EEG
+needle electrode|EEG
+negative symptoms of schizophrenia|EEG
+nervous system disease|EEG
+nervous system process|EEG
+nervous/sensory system trait|EEG
+network connectivity|EEG
+network fragmentation|EEG
+network integrity|EEG
+neural clearance|EEG
+neural synchronization|EEG
+neurodegenerative disease|EEG
+neuroexcitability|EEG
+neuron|EEG
+neuron density|EEG
+neuron remapping|EEG
+neuronal entropy|EEG
+neuronal excitability|EEG
+neuronal excitotoxicity|EEG
+neuronal hyperexcitability|EEG
+neuronal repair|EEG
+neuropsychological performance|EEG
+neurotoxic reactive astrocyte phenotype|EEG
+neurovascular unit|EEG
+neurovascular unit alteration|EEG
+never in taxon|EEG
+never_in_taxon|EEG
+no-go-P300 peak amplitude|EEG
+nocturnal insomnia|EEG
+nodal efficiency|EEG
+non-ceruloplasmin-bound copper|EEG
+non-cognitive manifestation|EEG
+non-linear measure of interrelatedness|EEG
+non-rapid eye movement sleep behavior|EEG
+non-spatial information processing|EEG
+normalization across frequencies and sensors|EEG
+note|EEG
+novelty processing|EEG
+nuchal EMG activity|EEG
+nucleic acid catabolic process|EEG
+number of forbidden words|EEG
+numerical memory|EEG
+object|EEG
+object aggregate|EEG
+obtainedFrom|EEG
+occipital pole network and posterior opercular network functional connectivity|EEG
+occipital pole network and right frontoparietal network functional connectivity|EEG
+occipitotemporal dispersion of the alpha peak|EEG
+occurrent|EEG
+ocular blinking artifact|EEG
+odor pleasantness feeling|EEG
+one-dimensional continuant fiat boundary|EEG
+one-dimensional spatial region|EEG
+one-dimensional temporal region|EEG
+ontology term requester|EEG
+opsonization|EEG
+organ|EEG
+organ part|EEG
+organismal quality|EEG
+oscillatory power|EEG
+oscillatory synchronization|EEG
+out-degree connectivity in beta band|EEG
+out-degree connectivity in delta band|EEG
+out-degree connectivity in theta band|EEG
+outcome rejected|EEG
+overall outflow from frontal region|EEG
+oxygenation sensor setup|EEG
+pad electrode|EEG
+parietal cortex network and posterior opercular network functional connectivity|EEG
+parietal to frontal interrelatedness|EEG
+paroxysmal slow wave event|EEG
+partial autocorrelation function coefficient of microstate class B|EEG
+partial directed coherence|EEG
+parvalbumin interneuron excitation|EEG
+parvalbumin positive interneuron|EEG
+path length|EEG
+pathogen clearance|EEG
+pathological anatomical entity|EEG
+pathological bodily process|EEG
+patient assessment|EEG
+peak EEG power|EEG
+peak alpha amplitude|EEG
+peak alpha frequency|EEG
+peak alpha power|EEG
+peak beta frequency|EEG
+peak beta power|EEG
+peak delta amplitude|EEG
+peak delta frequency|EEG
+peak delta power|EEG
+peak frequency|EEG
+peak gamma 1 power|EEG
+peak gamma amplitude|EEG
+peak gamma frequency|EEG
+peak theta amplitude|EEG
+peak theta frequency|EEG
+peak theta power|EEG
+peak to peak amplitude|EEG
+peak to peak amplitude difference|EEG
+perform recording|EEG
+performance variability|EEG
+pericyte|EEG
+pericyte injury|EEG
+periodic component|EEG
+periodic feature computation|EEG
+peripheral vasoconstriction|EEG
+permutation alpha entropy|EEG
+permutation beta entropy|EEG
+permutation entropy|EEG
+permutation gamma entropy|EEG
+phase coherence|EEG
+phase lag index|EEG
+phase variability|EEG
+phase-locking|EEG
+photic driving response|EEG
+physical quality|EEG
+planned process|EEG
+poisoning|EEG
+positive mood|EEG
+positive symptoms of schizophrenia|EEG
+positron emission tomography (PET)|EEG
+post-error slowing|EEG
+post-processing outcome control|EEG
+posterior cingulate cortex and auditory cortex functional connectivity|EEG
+posterior dominant rhythm|EEG
+posterior opercular network and right frontoparietal network functional connectivity|EEG
+posterior to anterior information flow|EEG
+posterior to frontal beta activity|EEG
+postictal spiking activity|EEG
+postpone recording|EEG
+potassium ion leak flux|EEG
+potentiating energy|EEG
+power asymmetry|EEG
+power spectral density|EEG
+power spectrum|EEG
+pre-alpha/theta rhythmic fluctuation|EEG
+preferred label|EEG
+preprocessing|EEG
+preprocessing outcome control and montage|EEG
+present in taxon|EEG
+present in taxon|EEG
+present_in_taxon|EEG
+pressor response|EEG
+pro-inflammatory molecules|EEG
+process|EEG
+process boundary|EEG
+process profile|EEG
+process quality|EEG
+processed material|EEG
+processing speed|EEG
+property has curation status|EEG
+protein aggregation|EEG
+protein attribute|EEG
+protein intake measurement|EEG
+protein misfolding|EEG
+protein-containing complex|EEG
+psychoactive drug consumption|EEG
+psychophysiological behavior|EEG
+psychotropic peak effect|EEG
+pvalb GABAergic cortical interneuron|EEG
+qualify ECG signals|EEG
+qualify EMG signals|EEG
+qualify EOG signals|EEG
+qualify MEG co-recording|EEG
+qualify PET co-recording|EEG
+qualify TMS co-recording|EEG
+qualify fMRI co-recording|EEG
+qualify other signals|EEG
+quality|EEG
+quantitative confidence value|EEG
+quantitative electroencephalography|EEG
+quiet vigilance|EEG
+random forest procedure|EEG
+rapid eye movement sleep|EEG
+rate-pressure product|EEG
+ratio|EEG
+rational thinking|EEG
+rdfs:isDefinedBy|EEG
+rdfs:label|EEG
+reactive oxygen species signaling|EEG
+reactivity|EEG
+realizable entity|EEG
+receptor|EEG
+recombinant human brain natriuretic peptide|EEG
+recording decision|EEG
+recording integrity control|EEG
+recording rejected|EEG
+recovery time of skin conductance response|EEG
+recruiting response|EEG
+reference electrode|EEG
+referenced EEG guided pharmacotherapy|EEG
+reflects|EEG
+refreshed feeling|EEG
+regional homogeneity|EEG
+regional part of brain|EEG
+regional part of nervous system|EEG
+regression analysis|EEG
+regression analysis method|EEG
+rejection of periods with residual artifacts|EEG
+relational quality|EEG
+relative EEG power|EEG
+relative alpha 1 current density|EEG
+relative alpha 1 power|EEG
+relative alpha 2 power|EEG
+relative alpha power|EEG
+relative alpha power spectral density|EEG
+relative beta 1 current density|EEG
+relative beta 1 power|EEG
+relative beta 2 current density|EEG
+relative beta 2 power|EEG
+relative beta 3 power|EEG
+relative beta 4 power|EEG
+relative beta 4 power spectral density|EEG
+relative beta power|EEG
+relative beta power spectral density|EEG
+relative change in delta power|EEG
+relative cortical activity|EEG
+relative delta 1 power|EEG
+relative delta power|EEG
+relative delta power spectral density|EEG
+relative delta/theta power|EEG
+relative gamma power|EEG
+relative gamma power spectral density|EEG
+relative theta power|EEG
+relative theta power spectral density|EEG
+relaxed feeling|EEG
+renormalized partial directed coherence|EEG
+respiratory artifact|EEG
+response to alphabetical stimuli|EEG
+response to chemical|EEG
+response to stimulus|EEG
+resting state EEG preprocessing|EEG
+resting state EEG setup|EEG
+resting state network|EEG
+resting-state electroencephalography|EEG
+resting-state electroencephalography - eyes closed and open alternated|EEG
+resting-state electroencephalography - eyes-closed|EEG
+resting-state electroencephalography - eyes-open|EEG
+reticular cell activity|EEG
+reversibility in brain signals|EEG
+reversible mental depression|EEG
+revitalized feeling|EEG
+rhythmic sharp wave discharge|EEG
+right insulo-temporal independent component and left amygdala functional connectivity|EEG
+right insulo-temporal independent component and right amygdala functional connectivity|EEG
+role|EEG
+rsEEG preprocessing|EEG
+rsEEG setup|EEG
+salience|EEG
+sample alpha entropy|EEG
+sample entropy|EEG
+sampling frequency setup|EEG
+scene visualization|EEG
+scheduled for obsoletion on or after|EEG
+scope note|EEG
+second|EEG
+secondary organ damage|EEG
+sedation duration|EEG
+see also|EEG
+see also|EEG
+seeAlso|EEG
+selection of electrodes|EEG
+self visualization|EEG
+self-referential processing|EEG
+semantic memory|EEG
+semantic processing|EEG
+sensor linear analysis|EEG
+sensory motor processing|EEG
+serotonin and norepinephrine reuptake inhibitor|EEG
+set up|EEG
+sharp wave ripple|EEG
+sharp wave ripple duration|EEG
+sharp wave ripple power|EEG
+short name|EEG
+shorthand|EEG
+shorthand|EEG
+sigma band weighted phase lag index|EEG
+signal transduction|EEG
+signal variance|EEG
+silent hypoxia|EEG
+site|EEG
+skin artifact|EEG
+skin conductance sensor setup|EEG
+skin receptor|EEG
+skos:prefLabel|EEG
+sleep|EEG
+sleep quality|EEG
+sleeping behavior|EEG
+slow oscillation|EEG
+slow oscillation activity|EEG
+slow oscillation coherence|EEG
+slow oscillation cross frequency coupling|EEG
+slow oscillation functional connectivity|EEG
+slow oscillation power|EEG
+slow oscillation/delta power ratio|EEG
+slow posterior dominant rhythm|EEG
+slow wave|EEG
+slow wave activity|EEG
+slow wave sleep|EEG
+slow wave sleep stage 1|EEG
+slow wave sleep stage 2|EEG
+small vessel dementia|EEG
+small worldness|EEG
+sniffing|EEG
+socioeconomic status|EEG
+sodium ion leak flux|EEG
+solve EEG inverse problem|EEG
+somaesthesia|EEG
+somatic dysphoric effect|EEG
+somatic symptom disorder AE|EEG
+soothability at 48 month|EEG
+soothed feeling|EEG
+source connectivity|EEG
+spatial attention|EEG
+spatial detuning|EEG
+spatial region|EEG
+spatial remapping|EEG
+spatiotemporal region|EEG
+specifically dependent continuant|EEG
+spectral coherence|EEG
+spectral edge frequency|EEG
+spectral edge frequency 95 percent|EEG
+spectral feature|EEG
+spectral feature computation|EEG
+speed|EEG
+sphenoidal electrode|EEG
+spike clustering|EEG
+spontaneous sharp wave ripple amplitude|EEG
+sprawling|EEG
+standard electrode|EEG
+standard photosensitive response|EEG
+state-space-based synchrony|EEG
+stimulatory effect|EEG
+structural connectivity|EEG
+structural magnetic resonance imaging|EEG
+subclinical depression|EEG
+subclinical epileptiform activity|EEG
+subclinical seizure-like activity|EEG
+subcortical ischemic vascular dementia|EEG
+subdural electrode|EEG
+subjective activity|EEG
+subjective cognitive decline|EEG
+subjective memory complaint|EEG
+subjective wellbeing|EEG
+substance consumption|EEG
+support vector machine|EEG
+symbol|EEG
+symbol|EEG
+symmetric Higuchi's fractal dimension|EEG
+symmetrical alpha rhythm|EEG
+symptom|EEG
+synapse hyperexcitability|EEG
+synaptic vesicle size|EEG
+synaptopathy|EEG
+synchronization|EEG
+synchronization likelihood|EEG
+syntactic processing|EEG
+synucleinopathy|EEG
+systemic autoinflammation|EEG
+systemic inflammation|EEG
+tapping speed|EEG
+tau aggregation|EEG
+tau clearance|EEG
+tau deposition|EEG
+tau fibril formation|EEG
+tau fibril seeding ability|EEG
+tau misfolding|EEG
+tau oligomer|EEG
+tau seeding|EEG
+tau stability|EEG
+tauopathy|EEG
+taxon_notes|EEG
+tea consumption|EEG
+temperature sensor setup|EEG
+temporal intermittent rhythmic delta activity|EEG
+temporal lobe|EEG
+temporal lobe complexity|EEG
+temporal region|EEG
+temporoparietal junction|EEG
+term editor|EEG
+term editor|EEG
+term tracker item|EEG
+term tracker item|EEG
+textual definition|EEG
+textual definition|EEG
+thalamocortical cell|EEG
+thalamocortical cell activity|EEG
+thalamocortical loop|EEG
+therapeutic procedure|EEG
+theta 1 power spectral density|EEG
+theta amplitude|EEG
+theta band clustering coefficient|EEG
+theta band connectivity|EEG
+theta band order|EEG
+theta band weighted phase lag index|EEG
+theta centroid|EEG
+theta coherence|EEG
+theta cordance|EEG
+theta cross frequency synchronization|EEG
+theta current density|EEG
+theta debiased weighted phase lag index|EEG
+theta eccentricity|EEG
+theta entropy|EEG
+theta functional connectivity|EEG
+theta functional network complexity|EEG
+theta hypersynchrony|EEG
+theta peak acceleration|EEG
+theta phase-locking|EEG
+theta power spectral density|EEG
+theta power-power coupling|EEG
+theta power-power coupling path length|EEG
+theta rhythm abnormality|EEG
+theta rhythmicity|EEG
+theta to alpha transition|EEG
+theta wave desynchronization|EEG
+theta wave disruption|EEG
+theta wave synchronization|EEG
+theta-gamma 1 cross frequency coupling|EEG
+theta-gamma 2 cross frequency coupling|EEG
+theta-gamma cross frequency coupling|EEG
+theta-gamma desynchronization|EEG
+theta-gamma synchronization|EEG
+theta/beta power ratio|EEG
+theta/delta power ratio|EEG
+third ventricle|EEG
+three-dimensional spatial region|EEG
+time agnosia|EEG
+time of recording|EEG
+tolerance to increase in calcium conductance|EEG
+topography|EEG
+total EEG amplitude|EEG
+total EEG power|EEG
+total EMG power|EEG
+total alpha power|EEG
+total beta power|EEG
+total centroid|EEG
+total centroid deviation|EEG
+total delta power|EEG
+total power at 1-Hz|EEG
+total theta power|EEG
+toxic protein clearance|EEG
+training and testing AI tool|EEG
+transcranial alternating current stimulation|EEG
+transition frequency|EEG
+transitivity|EEG
+triphasic wave|EEG
+true|EEG
+two-dimensional continuant fiat boundary|EEG
+two-dimensional spatial region|EEG
+ubiquitin-proteasome system dysfunction|EEG
+ultrafast frequency band|EEG
+unidirectional alpha band connectivity|EEG
+unidirectional theta band connectivity|EEG
+unilateral|EEG
+unit|EEG
+urinary tract motility|EEG
+vaccine|EEG
+vanilla odor|EEG
+vascular cognitive impairment|EEG
+vascular conductance|EEG
+vascular lesion|EEG
+verbal recall|EEG
+verbalization|EEG
+vigilance|EEG
+viral infectious disease|EEG
+virus like particle 1|EEG
+visual mismatch negativity|EEG
+visual object recognition|EEG
+visual perception|EEG
+visual validation|EEG
+visual-evoked gamma phase-locking|EEG
+visuomotor processing|EEG
+vivid dream|EEG
+wanting expectancy|EEG
+warmth-liking|EEG
+wave superimposition|EEG
+wideband interference artifact|EEG
+xRef|EEG
+zero-dimensional continuant fiat boundary|EEG
+zero-dimensional spatial region|EEG
+zero-dimensional temporal region|EEG
+別の記号|EEG
+定义|EEG
+定义|EEG
+定义来源|EEG
+定义来源|EEG
+数据库_交叉_引用|EEG
+数据库_交叉_引用|EEG
+文本定义|EEG
+文本定义|EEG
+替代术语|EEG
+替代术语|EEG
+有_obo_命名空间|EEG
+有_obo_命名空间|EEG
+有管理状态|EEG
+有管理状态|EEG
+术语编辑者|EEG
+术语编辑者|EEG
+标签|EEG
+標識の別名|EEG
+编者注|EEG
+编者注|EEG
+编辑首选术语|EEG
+编辑首选术语|EEG
+编辑首选术语~编辑首选标签|EEG
+编辑首选标签|EEG
+编辑首选标签|EEG
+記号|EEG
