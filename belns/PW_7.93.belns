@@ -1,0 +1,2754 @@
+
+[Namespace]
+Keyword=PW
+NameString=Pathway ontology
+DomainString=BiologicalProcess
+VersionString=7.93
+CreatedDateTime=2025-10-28T13:22:18
+DescriptionString=A controlled vocabulary for annotating gene products to pathways.
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=Pathway ontology
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane degradation pathway|OGRPBCAM
+1,2-dichloroethane degradation pathway|OGRPBCAM
+11-beta-hydroxylase deficiency pathway|OGRPBCAM
+17-alpha-hydroxylase deficiency pathway|OGRPBCAM
+2,4-dichlorobenzoate degradation pathway|OGRPBCAM
+2-aminoadipic 2-oxoadipic aciduria pathway|OGRPBCAM
+2-hydroxyglutaric aciduria pathway|OGRPBCAM
+21-alpha-hydroxylase deficiency pathway|OGRPBCAM
+3'-end pre-mRNA processing pathway|OGRPBCAM
+3-chloroacrylic acid degradation pathway|OGRPBCAM
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency pathway|OGRPBCAM
+3-hydroxyacyl-CoA dehydrogenase deficiency pathway|OGRPBCAM
+3-hydroxyisobutyric aciduria pathway|OGRPBCAM
+3-methylcrotonyl CoA carboxylase 1 deficiency pathway|OGRPBCAM
+3-methylcrotonyl CoA carboxylase 2 deficiency pathway|OGRPBCAM
+3-methylglutaconic aciduria type 1 pathway|OGRPBCAM
+3-methylglutaconic aciduria type 3 pathway|OGRPBCAM
+5'-end pre-mRNA capping pathway|OGRPBCAM
+<new term>|OGRPBCAM
+ACE inhibitor drug pathway|OGRPBCAM
+ACE inhibitor pharmacodynamics pathway|OGRPBCAM
+ACE inhibitor pharmacokinetics pathway|OGRPBCAM
+ADP-ribosylation pathway, cyclic ribosylation|OGRPBCAM
+ADP-ribosylation pathway, mono and poly-ribosylation|OGRPBCAM
+AGAT deficiency pathway|OGRPBCAM
+AICA-ribosuria pathway|OGRPBCAM
+ATM and Rad3-related (ATR) signaling pathway|OGRPBCAM
+ATP biosynthetic pathway|OGRPBCAM
+Alagille syndrome pathway|OGRPBCAM
+Alzheimer's disease pathway|OGRPBCAM
+Arf family mediated signaling pathway|OGRPBCAM
+B cell receptor signaling pathway|OGRPBCAM
+Bone morphogenetic proteins signaling pathway|OGRPBCAM
+Bordetella pertussis infection pathway|OGRPBCAM
+C chemokine mediated signaling pathway|OGRPBCAM
+C-type lectin receptor signaling pathway|OGRPBCAM
+C-type natriuretic peptide signaling pathway|OGRPBCAM
+C18-steroid hormone biosynthetic pathway|OGRPBCAM
+C19-steroid hormone biosynthetic pathway|OGRPBCAM
+C21-steroid hormone biosynthetic pathway|OGRPBCAM
+C5-branched dibasic acid metabolic pathway|OGRPBCAM
+CADASIL pathway|OGRPBCAM
+CC chemokine mediated signaling pathway|OGRPBCAM
+CDP-choline pathway of phosphatidylcholine biosynthesis|OGRPBCAM
+CHD family mediated chromatin remodeling pathway|OGRPBCAM
+CRM1 export pathway|OGRPBCAM
+CX3C chemokine mediated signaling pathway|OGRPBCAM
+CXC chemokine ELR(+) subgroup mediated signaling pathway|OGRPBCAM
+CXC chemokine ELR(-) subgroup mediated signaling pathway|OGRPBCAM
+CXC chemokine mediated signaling pathway|OGRPBCAM
+Canavan disease pathway|OGRPBCAM
+Chagas disease pathway|OGRPBCAM
+Creutzfeldt-Jakob disease pathway|OGRPBCAM
+D-alanine metabolic pathway|OGRPBCAM
+D-arginine and D-ornithine metabolic pathway|OGRPBCAM
+D-glutamine and D-glutamate metabolic pathway|OGRPBCAM
+D-glycericacidemia pathway|OGRPBCAM
+DNA biosynthetic pathway|OGRPBCAM
+DNA damage response pathway|OGRPBCAM
+DNA modification pathway|OGRPBCAM
+DNA repair pathway|OGRPBCAM
+DNA replication initiation pathway|OGRPBCAM
+DNA replication pathway|OGRPBCAM
+DNA strand elongation pathway|OGRPBCAM
+Duplicated Glutamate Metabolism term|OGRPBCAM
+Duplicated Selenoamino acid metabolism term|OGRPBCAM
+Duplicated glutathione metabolism term|OGRPBCAM
+Duplicated term - Selenoamino acid metabolism|OGRPBCAM
+E-cadherin signaling pathway|OGRPBCAM
+Endoplasmic Reticulum-associated degradation pathway|OGRPBCAM
+Entamoebiasis pathway|OGRPBCAM
+Epstein-Barr virus infection pathway|OGRPBCAM
+Erk5 MAPK signaling pathway|OGRPBCAM
+Fabry disease pathway|OGRPBCAM
+Fabry disease pathway, cerebrovascular|OGRPBCAM
+Fanconi syndrome pathway|OGRPBCAM
+FasL mediated signaling pathway|OGRPBCAM
+Fc epsilon receptor mediated signaling pathway|OGRPBCAM
+Fc gamma receptor mediated signaling pathway|OGRPBCAM
+Fc receptor mediated signaling pathway|OGRPBCAM
+G protein mediated signaling pathway|OGRPBCAM
+G protein mediated signaling pathway via Galpha12/Galpha13 family|OGRPBCAM
+G protein mediated signaling pathway via Galphai family|OGRPBCAM
+G protein mediated signaling pathway via Galphaq family|OGRPBCAM
+G protein mediated signaling pathway via Galphas family|OGRPBCAM
+G1 phase pathway|OGRPBCAM
+G1/S DNA damage checkpoint pathway|OGRPBCAM
+G1/S transition pathway|OGRPBCAM
+G2 phase pathway|OGRPBCAM
+G2/M DNA damage checkpoint pathway|OGRPBCAM
+G2/M DNA replication checkpoint pathway|OGRPBCAM
+G2/M checkpoint pathway|OGRPBCAM
+G2/M transition pathway|OGRPBCAM
+GABA aminotransferase deficiency pathway|OGRPBCAM
+GALE deficiency pathway|OGRPBCAM
+Gas6 - Axl signaling axis|OGRPBCAM
+Gaucher's disease pathway|OGRPBCAM
+Gerstmann-Strussler syndrome, Gerstmann-Strussler-Scheinker syndrome pathway|OGRPBCAM
+Glut1 deficiency syndrome pathway|OGRPBCAM
+Hartnup disease pathway|OGRPBCAM
+Hedgehog signaling pathway|OGRPBCAM
+Herpes simplex virus infection pathway|OGRPBCAM
+Hippo signaling pathway|OGRPBCAM
+Huntington's disease pathway|OGRPBCAM
+INO80 family mediated chromatin remodeling pathway|OGRPBCAM
+ISWI family mediated chromatin remodeling pathway|OGRPBCAM
+Inhibitor of DNA binding signaling pathway|OGRPBCAM
+Inhibitory synaptic transmission pathway|OGRPBCAM
+Interleukin mediated signaling pathway|OGRPBCAM
+Interleukin-10 signaling pathway|OGRPBCAM
+Interleukin-13 signaling pathway|OGRPBCAM
+Jak-Stat signaling pathway|OGRPBCAM
+Kelley-Seegmiller syndrome pathway|OGRPBCAM
+Kennedy's disease pathway|OGRPBCAM
+Krabbe disease pathway|OGRPBCAM
+Legionella infection pathway|OGRPBCAM
+Leigh disease pathway|OGRPBCAM
+Leishmaniasis pathway|OGRPBCAM
+Lesch-Nyhan syndrome pathway|OGRPBCAM
+M phase pathway|OGRPBCAM
+M/G1 transition pathway|OGRPBCAM
+Metabolism of complex carbohydrates|OGRPBCAM
+N-Glycan degradation pathway|OGRPBCAM
+N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminic acid dissimilation pathway|OGRPBCAM
+N-cadherin signaling pathway|OGRPBCAM
+N-linked glycan biosynthetic pathway|OGRPBCAM
+NADPH regeneration pathway|OGRPBCAM
+NOD-like receptor signaling pathway|OGRPBCAM
+NXF1-NXT1 export pathway|OGRPBCAM
+Nodal signaling pathway|OGRPBCAM
+Non-Stat, Jak dependent pathway|OGRPBCAM
+Nonketotic hyperglycinemia disease pathway|OGRPBCAM
+Notch signaling pathway|OGRPBCAM
+O-linked glycan biosynthetic pathway|OGRPBCAM
+Parkinson's disease pathway|OGRPBCAM
+Piwi-interacting RNA pathway|OGRPBCAM
+RNA degradation pathway|OGRPBCAM
+RNA maturation pathway|OGRPBCAM
+RNA polymerase I promoter clearance pathway|OGRPBCAM
+RNA polymerase I transcription elongation pathway|OGRPBCAM
+RNA polymerase I transcription initiation pathway|OGRPBCAM
+RNA polymerase I transcription pathway|OGRPBCAM
+RNA polymerase I transcription termination pathway|OGRPBCAM
+RNA polymerase II promoter clearance pathway|OGRPBCAM
+RNA polymerase II transcription elongation pathway|OGRPBCAM
+RNA polymerase II transcription initiation pathway|OGRPBCAM
+RNA polymerase II transcription pathway|OGRPBCAM
+RNA polymerase II transcription termination pathway|OGRPBCAM
+RNA polymerase III transcription elongation pathway|OGRPBCAM
+RNA polymerase III transcription initiation pathway|OGRPBCAM
+RNA polymerase III transcription pathway|OGRPBCAM
+RNA polymerase III transcription termination pathway|OGRPBCAM
+RNA polymerase IV transcription pathway|OGRPBCAM
+RNA polymerase V transcription pathway|OGRPBCAM
+RNA polymerase transcription pathway|OGRPBCAM
+RNA processing pathway|OGRPBCAM
+RNA transport pathway|OGRPBCAM
+Rab family mediated signaling pathway|OGRPBCAM
+Ran family mediated signaling pathway|OGRPBCAM
+Rap1 mediated signaling pathway|OGRPBCAM
+Rap1 pathways|OGRPBCAM
+Ras family mediated signaling pathway|OGRPBCAM
+Ras mediated signaling pathway|OGRPBCAM
+Ras superfamily mediated signaling pathway|OGRPBCAM
+Reelin signaling pathway|OGRPBCAM
+Refsum disease pathway|OGRPBCAM
+Retinoic acid-inducible gene (RIG) I-like receptor signaling pathway|OGRPBCAM
+Rheb mediated signaling pathway|OGRPBCAM
+Rho/Rac/Cdc42 mediated signaling pathway|OGRPBCAM
+RuMP pathway of formaldehyde assimilation|OGRPBCAM
+S phase pathway|OGRPBCAM
+S-adenosylmethionine homeostasis pathway|OGRPBCAM
+SMAD dependent signaling pathways|OGRPBCAM
+SWI/SNF family mediated chromatin remodeling pathway|OGRPBCAM
+Salmonella infection pathway|OGRPBCAM
+Segawa syndrome pathway|OGRPBCAM
+Shigella infection pathway|OGRPBCAM
+Sirtuin mediated pathway|OGRPBCAM
+Smith-Lemli-Opitz Syndrome pathway|OGRPBCAM
+Staphylococcus aureus infection pathway|OGRPBCAM
+Staufen-mediated mRNA decay pathway|OGRPBCAM
+Stem Cell Factor signaling pathway|OGRPBCAM
+Sterol, vitamin K, vitamine E and cartenoids  biosynthesis|OGRPBCAM
+T cell receptor signaling pathway|OGRPBCAM
+T cell receptor signaling pathway in CD4+ T cells|OGRPBCAM
+T cell receptor signaling pathway in CD8+ T cells|OGRPBCAM
+Tay-Sachs disease pathway|OGRPBCAM
+Toll-like receptor 1 signaling pathway|OGRPBCAM
+Toll-like receptor 10 signaling pathway|OGRPBCAM
+Toll-like receptor 2 signaling pathway|OGRPBCAM
+Toll-like receptor 3 signaling pathway|OGRPBCAM
+Toll-like receptor 4 signaling pathway|OGRPBCAM
+Toll-like receptor 5 signaling pathway|OGRPBCAM
+Toll-like receptor 6 signaling pathway|OGRPBCAM
+Toll-like receptor 7 signaling pathway|OGRPBCAM
+Toll-like receptor 8 signaling pathway|OGRPBCAM
+Toll-like receptor 9 signaling pathway|OGRPBCAM
+Toll-like receptor TLR1:TLR2 signaling pathway|OGRPBCAM
+Toll-like receptor TLR6:TLR2 signaling pathway|OGRPBCAM
+Toll-like receptor signaling pathway|OGRPBCAM
+Trail mediated signaling pathway|OGRPBCAM
+UDP-N-acetylgalactosamine biosynthetic pathway|OGRPBCAM
+UDP-N-acetylglucosamine biosynthetic pathway|OGRPBCAM
+Usher syndrome pathway|OGRPBCAM
+Vibrio cholerae infection pathway|OGRPBCAM
+Wnt signaling pathway|OGRPBCAM
+Wnt signaling, canonical pathway|OGRPBCAM
+Wnt signaling, non-canonical pathway|OGRPBCAM
+Wnt signaling, the planar cell polarity pathway|OGRPBCAM
+Wolman disease pathway|OGRPBCAM
+X-linked dominant chondrodysplasia punctata 2 pathway|OGRPBCAM
+X-linked genetic disease pathway|OGRPBCAM
+X-linked intellectual disability pathway|OGRPBCAM
+Y-linked genetic disease pathway|OGRPBCAM
+Zellweger syndrome pathway|OGRPBCAM
+abacavir drug pathway|OGRPBCAM
+abacavir pharmacodynamics pathway|OGRPBCAM
+abacavir pharmacokinetics pathway|OGRPBCAM
+abciximab drug pathway|OGRPBCAM
+abciximab pharmacodynamics pathway|OGRPBCAM
+abciximab pharmacokinetics pathway|OGRPBCAM
+abscisic acid biosynthetic pathway|OGRPBCAM
+abscisic acid metabolic pathway|OGRPBCAM
+acebutolol drug pathway|OGRPBCAM
+acebutolol pharmacodynamics pathway|OGRPBCAM
+acebutolol pharmacokinetics pathway|OGRPBCAM
+acenocoumarol drug pathway|OGRPBCAM
+acenocoumarol pharmacodynamics pathway|OGRPBCAM
+acenocoumarol pharmacokinetics pathway|OGRPBCAM
+acetylcholine metabolic pathway|OGRPBCAM
+acetylcholine signaling pathway|OGRPBCAM
+acetylcholine signaling pathway via muscarinic acetylcholine receptor|OGRPBCAM
+acetylcholine signaling pathway via muscarinic acetylcholine receptors engaging G alphai protein family|OGRPBCAM
+acetylcholine signaling pathway via muscarinic acetylcholine receptors engaging G alphaq protein family|OGRPBCAM
+acetylcholine signaling pathway via nicotinic acetylcholine receptor|OGRPBCAM
+acetylsalicylic acid drug pathway|OGRPBCAM
+acetylsalicylic acid pharmacodynamics pathway|OGRPBCAM
+acetylsalicylic acid pharmacokinetics pathway|OGRPBCAM
+acid and base sensing signaling pathway|OGRPBCAM
+acid-base homeostasis pathway|OGRPBCAM
+acid-base imbalance pathway|OGRPBCAM
+acidosis pathway|OGRPBCAM
+acrolein response pathway|OGRPBCAM
+activin signaling pathway|OGRPBCAM
+acute intermittent porphyria pathway|OGRPBCAM
+acute myeloid leukemia pathway|OGRPBCAM
+adaptive immune response pathway|OGRPBCAM
+adefovir drug pathway|OGRPBCAM
+adefovir pharmacodynamics pathway|OGRPBCAM
+adefovir pharmacokinetics pathway|OGRPBCAM
+adenine phoshoribosyltransferase deficiency pathway|OGRPBCAM
+adenosine monophosphate deaminase deficiency pathway|OGRPBCAM
+adenosine monophosphate-activated protein kinase (AMPK) signaling pathway|OGRPBCAM
+adenosine signaling pathway|OGRPBCAM
+adenosine triphosphate signaling pathway|OGRPBCAM
+adenosine triphosphate signaling via the P2X ligand-gated ion channel|OGRPBCAM
+adenylosuccinate lyase deficiency pathway|OGRPBCAM
+adiponectin signaling pathway|OGRPBCAM
+adrenal gland disease pathway|OGRPBCAM
+adrenergic beta receptor agonist and beta-blocker pharmacodynamics pathway|OGRPBCAM
+adrenergic beta receptor agonist and beta-blocker pharmacokinetics pathway|OGRPBCAM
+adrenergic beta receptor agonist drug pathway|OGRPBCAM
+adrenergic beta receptor antagonist drug pathway|OGRPBCAM
+adrenergic beta receptor drug pathway - beta agonist|OGRPBCAM
+adrenergic beta receptor drug pathway - beta-agonist and beta-blocker|OGRPBCAM
+adrenergic beta receptor non-selective agonist drug pathway|OGRPBCAM
+adrenergic beta receptor non-selective antagonist drug pathway|OGRPBCAM
+adrenergic beta receptor selective agonist drug pathway|OGRPBCAM
+adrenergic beta receptor selective antagonist drug pathway|OGRPBCAM
+adrenoleukodystrophy pathway|OGRPBCAM
+aflatoxin metabolic pathway|OGRPBCAM
+aging pathway|OGRPBCAM
+agmatine biosynthetic pathway|OGRPBCAM
+alanine metabolic pathway|OGRPBCAM
+alanine, aspartate and glutamate metabolic pathway|OGRPBCAM
+alcoholism pathway|OGRPBCAM
+aldosterone biosynthetic pathway|OGRPBCAM
+aldosterone signaling pathway|OGRPBCAM
+alendronate drug pathway|OGRPBCAM
+alendronate pharmacodynamics pathway|OGRPBCAM
+alendronate pharmacokinetics pathway|OGRPBCAM
+alfentanil drug pathway|OGRPBCAM
+alfentanil pharmacodynamics pathway|OGRPBCAM
+alfentanil pharmacokinetics pathway|OGRPBCAM
+alimentary tract and metabolism drug pathway|OGRPBCAM
+alkaloid biosynthetic pathway I|OGRPBCAM
+alkaloid biosynthetic pathway II|OGRPBCAM
+alkalosis pathway|OGRPBCAM
+alkaptonuria pathway|OGRPBCAM
+allograft rejection pathway|OGRPBCAM
+alpha-helical insertion pathway of mitochondrial protein import|OGRPBCAM
+alpha-linolenic acid metabolic pathway|OGRPBCAM
+alteplase drug pathway|OGRPBCAM
+alteplase pharmacodynamics pathway|OGRPBCAM
+alteplase pharmacokinetics pathway|OGRPBCAM
+altered DNA modification pathway|OGRPBCAM
+altered DNA repair pathway|OGRPBCAM
+altered E-cadherin signaling pathway|OGRPBCAM
+altered Erk5 MAPK signaling pathway|OGRPBCAM
+altered FasL mediated signaling pathway|OGRPBCAM
+altered G protein mediated signaling pathway|OGRPBCAM
+altered G1/S transition pathway|OGRPBCAM
+altered Hedgehog signaling pathway|OGRPBCAM
+altered Hippo signaling pathway|OGRPBCAM
+altered Jak-Stat signaling pathway|OGRPBCAM
+altered Notch signaling pathway|OGRPBCAM
+altered Notch signaling pathway involving promoters|OGRPBCAM
+altered Notch signaling pathway involving target gene(s)|OGRPBCAM
+altered Notch signaling pathway involving the macromolecules modifying the main players|OGRPBCAM
+altered Notch signaling pathway involving the main players|OGRPBCAM
+altered Ras family mediated signaling pathway|OGRPBCAM
+altered Ras mediated signaling pathway|OGRPBCAM
+altered Ras superfamily mediated signaling pathway|OGRPBCAM
+altered Reelin signaling pathway|OGRPBCAM
+altered SWI/SNF family mediated chromatin remodeling pathway|OGRPBCAM
+altered Trail mediated signaling pathway|OGRPBCAM
+altered Wnt signaling pathway|OGRPBCAM
+altered Wnt signaling, canonical pathway|OGRPBCAM
+altered Wnt signaling, non-canonical pathway|OGRPBCAM
+altered Wnt signaling, the planar cell polarity pathway|OGRPBCAM
+altered Wnt/calcium signaling pathway|OGRPBCAM
+altered adiponectin signaling pathway|OGRPBCAM
+altered amine and amino acid-derived hormone signaling pathway|OGRPBCAM
+altered amino acid metabolic pathway|OGRPBCAM
+altered androgen signaling pathway|OGRPBCAM
+altered apoptotic cell death pathway|OGRPBCAM
+altered auditory mechanotransduction pathway|OGRPBCAM
+altered autophagy pathway|OGRPBCAM
+altered basic helix-loop-helix signaling pathway|OGRPBCAM
+altered biotin metabolic pathway|OGRPBCAM
+altered bone morphogenetic protein signaling pathway|OGRPBCAM
+altered brain-derived neurotrophic factor signaling pathway|OGRPBCAM
+altered c-Jun N-terminal kinase MAPK signaling pathway|OGRPBCAM
+altered cadherins mediated signaling pathway|OGRPBCAM
+altered calcineurin signaling pathway|OGRPBCAM
+altered calcium homeostasis pathway|OGRPBCAM
+altered calcium signaling pathway via the calcium-sensing receptor|OGRPBCAM
+altered calcium/calcium-mediated signaling pathway|OGRPBCAM
+altered calcium/calmodulin dependent signaling pathway|OGRPBCAM
+altered carbohydrate metabolic pathway|OGRPBCAM
+altered cardiovascular system homeostasis pathway|OGRPBCAM
+altered catecholamine signaling pathway|OGRPBCAM
+altered cell adhesion signaling pathway|OGRPBCAM
+altered cell cycle pathway|OGRPBCAM
+altered cell cycle pathway, mitotic|OGRPBCAM
+altered cell death pathway|OGRPBCAM
+altered cell-cell signaling pathway|OGRPBCAM
+altered cell-extracellular matrix signaling pathway|OGRPBCAM
+altered cellular autophagy|OGRPBCAM
+altered cellular detoxification pathway|OGRPBCAM
+altered cellular trafficking cycle pathway|OGRPBCAM
+altered cerebroside metabolic pathway|OGRPBCAM
+altered chaperone mediated autophagy|OGRPBCAM
+altered chloride ion transport pathway|OGRPBCAM
+altered cholesterol biosynthetic pathway|OGRPBCAM
+altered cholesterol transport pathway|OGRPBCAM
+altered chromatin modification pathway|OGRPBCAM
+altered chromatin remodeling pathway|OGRPBCAM
+altered chromatin remodeling/modification pathway|OGRPBCAM
+altered citric acid cycle pathway|OGRPBCAM
+altered classical cadherin signaling pathway|OGRPBCAM
+altered clathrin-dependent synaptic vesicle endocytosis|OGRPBCAM
+altered coagulation cascade pathway|OGRPBCAM
+altered cobalamin metabolic pathway|OGRPBCAM
+altered connexins mediated signaling pathway|OGRPBCAM
+altered corticosteroid signaling pathway|OGRPBCAM
+altered cortisol signaling pathway|OGRPBCAM
+altered cytokine mediated signaling pathway|OGRPBCAM
+altered dopamine signaling pathway|OGRPBCAM
+altered double-strand DNA repair pathway|OGRPBCAM
+altered endocrine fibroblast growth factor signaling pathway|OGRPBCAM
+altered endocytosis pathway|OGRPBCAM
+altered endosomal pathway|OGRPBCAM
+altered endosomal sorting pathway|OGRPBCAM
+altered endosome export pathway|OGRPBCAM
+altered energy homeostasis pathway|OGRPBCAM
+altered energy metabolic pathway|OGRPBCAM
+altered ephrin - ephrin receptor bidirectional signaling pathway|OGRPBCAM
+altered epidermal growth factor/neuregulin signaling pathway|OGRPBCAM
+altered estrogen signaling pathway|OGRPBCAM
+altered extracellular signal-regulated Raf/Mek/Erk signaling pathway|OGRPBCAM
+altered extrinsic apoptotic pathway|OGRPBCAM
+altered facilitative sugar transporter mediated glucose transport pathway|OGRPBCAM
+altered facilitative sugar transporter mediated sugar transport pathway|OGRPBCAM
+altered fibrinolysis pathway|OGRPBCAM
+altered fibroblast growth factor 23 signaling pathway|OGRPBCAM
+altered fibroblast growth factor signaling pathway|OGRPBCAM
+altered folate cycle metabolic pathway|OGRPBCAM
+altered folate mediated one-carbon metabolic pathway|OGRPBCAM
+altered folate metabolic pathway|OGRPBCAM
+altered galactocerebroside metabolic pathway|OGRPBCAM
+altered galactose metabolic pathway|OGRPBCAM
+altered ganglioside metabolic pathway|OGRPBCAM
+altered glucagon secretion pathway|OGRPBCAM
+altered glucagon signaling pathway|OGRPBCAM
+altered glucocerebroside metabolic pathway|OGRPBCAM
+altered glucocorticoid signaling pathway|OGRPBCAM
+altered glucose homeostasis pathway|OGRPBCAM
+altered glucose transport pathway|OGRPBCAM
+altered glycan metabolic pathway|OGRPBCAM
+altered glycerophospholipid metabolic pathway|OGRPBCAM
+altered glycoconjugated protein signaling pathway|OGRPBCAM
+altered glycogen biosynthetic pathway|OGRPBCAM
+altered glycogen degradation pathway|OGRPBCAM
+altered glycogen metabolic pathway|OGRPBCAM
+altered glycoprotein signaling pathway|OGRPBCAM
+altered glycosaminoglycan pathway|OGRPBCAM
+altered glycosphingolipid metabolic pathway|OGRPBCAM
+altered growth factor signaling pathway|OGRPBCAM
+altered hemostasis pathway|OGRPBCAM
+altered heparan sulfate pathway|OGRPBCAM
+altered heterotrimeric G protein mediated signaling pathway|OGRPBCAM
+altered histone modification pathway|OGRPBCAM
+altered homeostasis pathway|OGRPBCAM
+altered homocysteine metabolic pathway|OGRPBCAM
+altered homologous recombination pathway of double-strand break repair|OGRPBCAM
+altered hormone signaling pathway|OGRPBCAM
+altered hydrophobic amino acid metabolic pathway|OGRPBCAM
+altered hypoxia inducible factor pathway|OGRPBCAM
+altered inhibitor of DNA binding signaling pathway|OGRPBCAM
+altered inorganic chemical homeostasis pathway|OGRPBCAM
+altered insulin responsive facilitative sugar transporter mediated glucose transport pathway|OGRPBCAM
+altered insulin secretion pathway|OGRPBCAM
+altered insulin signaling pathway|OGRPBCAM
+altered insulin-like growth factor signaling pathway|OGRPBCAM
+altered integrin mediated signaling pathway|OGRPBCAM
+altered interleukin mediated signaling pathway|OGRPBCAM
+altered intracrine fibroblast growth factor signaling pathway|OGRPBCAM
+altered intrinsic apoptotic pathway|OGRPBCAM
+altered ion transport pathway|OGRPBCAM
+altered iron homeostasis pathway|OGRPBCAM
+altered isoprenoid biosynthetic pathway|OGRPBCAM
+altered isoprenoid metabolic pathway|OGRPBCAM
+altered kinase mediated signaling pathway|OGRPBCAM
+altered leptin system pathway|OGRPBCAM
+altered lipid hormone signaling pathway|OGRPBCAM
+altered lipid metabolic pathway|OGRPBCAM
+altered lipoprotein metabolic pathway|OGRPBCAM
+altered mRNA decay pathway|OGRPBCAM
+altered mTOR signaling pathway|OGRPBCAM
+altered mechanotransduction pathway|OGRPBCAM
+altered melanocortin system pathway|OGRPBCAM
+altered metabolic pathway|OGRPBCAM
+altered metabolic pathway of cofactors, vitamins, nutrients|OGRPBCAM
+altered metabolic pathway of other amino acids|OGRPBCAM
+altered metal homeostasis pathway|OGRPBCAM
+altered metal ion transport pathway|OGRPBCAM
+altered methionine cycle/metabolic pathway|OGRPBCAM
+altered microRNA pathway|OGRPBCAM
+altered mismatch repair pathway|OGRPBCAM
+altered mitochondria dynamics pathway|OGRPBCAM
+altered mitochondria fission pathway|OGRPBCAM
+altered mitochondria fusion pathway|OGRPBCAM
+altered mitochondria homeostasis pathway|OGRPBCAM
+altered mitochondria transport pathway|OGRPBCAM
+altered mitochondrial aminoacyl-tRNA biosynthetic pathway|OGRPBCAM
+altered mitochondrial autophagy pathway|OGRPBCAM
+altered mitochondrial translation pathway|OGRPBCAM
+altered mitogen activated protein kinase pathway|OGRPBCAM
+altered molybdenum cofactor biosynthetic pathway|OGRPBCAM
+altered natural anticoagulant pathway|OGRPBCAM
+altered neurotrophic factor signaling pathway|OGRPBCAM
+altered non-apoptotic cell death pathway|OGRPBCAM
+altered non-homologous end joining pathway of double-strand break repair|OGRPBCAM
+altered non-metal ion transport pathway|OGRPBCAM
+altered nuclear factor kappa B signaling pathway|OGRPBCAM
+altered nuclear factor, erythroid 2 like 2 signaling pathway|OGRPBCAM
+altered nucleotide excision repair pathway|OGRPBCAM
+altered orexin/hypocretin signaling pathway|OGRPBCAM
+altered oxidative stress response pathway|OGRPBCAM
+altered oxygen homeostasis pathway|OGRPBCAM
+altered p38 MAPK signaling pathway|OGRPBCAM
+altered p53 signaling pathway|OGRPBCAM
+altered paracrine fibroblast growth factor signaling pathway|OGRPBCAM
+altered pathway pertinent to DNA replication and repair, cell cycle, maintenance of genomic integrity, RNA and protein biosynthesis|OGRPBCAM
+altered pathway pertinent to protein folding, sorting, modification, translocation and degradation|OGRPBCAM
+altered peptide and protein hormone signaling pathway|OGRPBCAM
+altered peripheral dopamine signaling pathway|OGRPBCAM
+altered peroxisome proliferator-activated receptor signaling pathway|OGRPBCAM
+altered phosphatase mediated signaling pathway|OGRPBCAM
+altered phosphate homeostasis pathway|OGRPBCAM
+altered phosphatidylinositol 3-kinase class I signaling pathway|OGRPBCAM
+altered phosphatidylinositol 3-kinase signaling pathway|OGRPBCAM
+altered phosphatidylinositol 3-kinase-Akt signaling pathway|OGRPBCAM
+altered phosphatidylinositol metabolic pathway|OGRPBCAM
+altered phosphoinositide metabolic pathway|OGRPBCAM
+altered photosignal transduction pathway|OGRPBCAM
+altered platelet-derived growth factor signaling pathway|OGRPBCAM
+altered programmed cell death pathway|OGRPBCAM
+altered protein C anticoagulant pathway|OGRPBCAM
+altered protein degradation pathway|OGRPBCAM
+altered regulatory pathway|OGRPBCAM
+altered regulatory pathway pertinent to the brain|OGRPBCAM
+altered retinoid cycle metabolic pathway|OGRPBCAM
+altered retinoid metabolic pathway|OGRPBCAM
+altered retromer-mediated pathway|OGRPBCAM
+altered reverse cholesterol transport pathway|OGRPBCAM
+altered ribosome biogenesis pathway|OGRPBCAM
+altered scatter factor/hepatocyte growth factor signaling pathway|OGRPBCAM
+altered serine/threonine-specific kinase mediated signaling pathway|OGRPBCAM
+altered serine/threonine-specific phosphatase mediated signaling pathway|OGRPBCAM
+altered sex steroids signaling pathway|OGRPBCAM
+altered signaling pathway|OGRPBCAM
+altered signaling pathway involving second messengers|OGRPBCAM
+altered signaling pathway pertinent to development|OGRPBCAM
+altered signaling pathway pertinent to immunity|OGRPBCAM
+altered signaling pathway pertinent to the brain and nervous system|OGRPBCAM
+altered single-strand DNA repair pathway|OGRPBCAM
+altered small non-coding RNA pathway|OGRPBCAM
+altered sodium-glucose cotransporter mediated glucose transport pathway|OGRPBCAM
+altered sphingolipid metabolic pathway|OGRPBCAM
+altered sphingomyelin metabolic pathway|OGRPBCAM
+altered steroid biosynthetic pathway|OGRPBCAM
+altered steroid hormone signaling pathway|OGRPBCAM
+altered stress response pathway|OGRPBCAM
+altered stress-regulated MAPK signaling pathway|OGRPBCAM
+altered sugar transport pathway|OGRPBCAM
+altered surfactant homeostasis pathway|OGRPBCAM
+altered synaptic vesicle cycle pathway|OGRPBCAM
+altered synaptic vesicle endocytosis pathway|OGRPBCAM
+altered transcription factor mediated signaling pathway|OGRPBCAM
+altered transcription pathway|OGRPBCAM
+altered transcription pathway via transcription factor mediated signaling|OGRPBCAM
+altered transforming growth factor-beta Smad dependent signaling pathway|OGRPBCAM
+altered transforming growth factor-beta signaling pathway|OGRPBCAM
+altered transforming growth factor-beta superfamily mediated signaling pathway|OGRPBCAM
+altered translation pathway|OGRPBCAM
+altered transport pathway|OGRPBCAM
+altered tumor necrosis factor mediated signaling pathway|OGRPBCAM
+altered tumor necrosis factor superfamily mediated signaling pathway|OGRPBCAM
+altered tyrosine-specific protein kinase mediated signaling pathway|OGRPBCAM
+altered ubiquitin, ubiquitin-like degradation pathway|OGRPBCAM
+altered ubiquitin/proteasome degradation pathway|OGRPBCAM
+altered vascular endothelial growth factor signaling pathway|OGRPBCAM
+altered vascular endothelial growth factor signaling pathway involving proteins affecting its expression|OGRPBCAM
+altered vascular endothelial growth factor signaling pathway involving the macromolecules modifying the main players|OGRPBCAM
+altered vascular endothelial growth factor signaling pathway involving the main players|OGRPBCAM
+altered vasopressin signaling pathway|OGRPBCAM
+altered vasopressin signaling pathway via receptor type 1|OGRPBCAM
+altered vasopressin signaling pathway via receptor type 2|OGRPBCAM
+altered visual phototransduction pathway|OGRPBCAM
+altered vitamin A and metabolites signaling pathway|OGRPBCAM
+altered vitamin A homeostasis|OGRPBCAM
+altered vitamin and vitamin metabolites signaling pathway|OGRPBCAM
+altered vitamin homeostasis|OGRPBCAM
+alternate pathways of glutathione conjugates processing|OGRPBCAM
+alternative complement pathway|OGRPBCAM
+amikacin drug pathway|OGRPBCAM
+amikacin pharmacodynamics pathway|OGRPBCAM
+amikacin pharmacokinetics pathway|OGRPBCAM
+amiloride drug pathway|OGRPBCAM
+amiloride pharmacodynamics pathway|OGRPBCAM
+amiloride pharmacokinetics pathway|OGRPBCAM
+amine and amino acid-derived hormone signaling pathway|OGRPBCAM
+amine neurotransmitter metabolic pathway|OGRPBCAM
+amino acid biosynthetic pathway|OGRPBCAM
+amino acid degradation pathway|OGRPBCAM
+amino acid metabolic pathway|OGRPBCAM
+amino acid metabolic pathway (KEGG)|OGRPBCAM
+amino acid neurotransmitter metabolic pathway|OGRPBCAM
+amino sugar metabolic pathway|OGRPBCAM
+aminoacyl-tRNA biosynthetic pathway|OGRPBCAM
+aminocaproic acid drug pathway|OGRPBCAM
+aminocaproic acid pharmacodynamics pathway|OGRPBCAM
+aminocaproic acid pharmacokinetics pathway|OGRPBCAM
+amiodarone drug pathway|OGRPBCAM
+amiodarone pharmacodynamics pathway|OGRPBCAM
+amiodarone pharmacokinetics pathway|OGRPBCAM
+amlodipine drug pathway|OGRPBCAM
+amlodipine pharmacodynamics pathway|OGRPBCAM
+amlodipine pharmacokinetics pathway|OGRPBCAM
+amphetamine addiction pathway|OGRPBCAM
+amphotericin B drug pathway|OGRPBCAM
+amphotericin B pharmacodynamics pathway|OGRPBCAM
+amphotericin B pharmacokinetics pathway|OGRPBCAM
+amyotrophic lateral sclerosis pathway|OGRPBCAM
+anakinra drug pathway|OGRPBCAM
+analgesic and/or antipyretic drug pathway|OGRPBCAM
+androgen signaling pathway|OGRPBCAM
+anesthetic drug pathway|OGRPBCAM
+angiopoietin signaling pathway|OGRPBCAM
+angiotensin (1-7) signaling pathway|OGRPBCAM
+angiotensin II signaling pathway|OGRPBCAM
+angiotensin II signaling pathway via AT1 receptor|OGRPBCAM
+angiotensin II signaling pathway via AT2 receptor|OGRPBCAM
+angiotensin III signaling pathway|OGRPBCAM
+angiotensin III signaling pathway via AT1 receptor|OGRPBCAM
+angiotensin III signaling pathway via AT2 receptor|OGRPBCAM
+angiotensin IV signaling pathway|OGRPBCAM
+angiotensin signaling pathway|OGRPBCAM
+anistreplase drug pathway|OGRPBCAM
+anistreplase pharmacodynamics pathway|OGRPBCAM
+anistreplase pharmacokinetics pathway|OGRPBCAM
+anoikis pathway|OGRPBCAM
+another killed term|OGRPBCAM
+anti-diabetic drug pathway|OGRPBCAM
+anti-estrogen drug pathway|OGRPBCAM
+anti-infective drug pathway|OGRPBCAM
+anti-tumor necrosis factor drug pathway|OGRPBCAM
+antiarrhythmic drug pathway|OGRPBCAM
+anticoagulant drug pathway|OGRPBCAM
+antidepressant drug pathway|OGRPBCAM
+antiepileptic drug pathway|OGRPBCAM
+antigen processing and presentation pathway|OGRPBCAM
+antigen processing pathway|OGRPBCAM
+antihemorrhagic drug pathway|OGRPBCAM
+antineoplastic and immunomodulatory drug pathway|OGRPBCAM
+antineoplastic drug pathway|OGRPBCAM
+antiparasitic drug pathway|OGRPBCAM
+antiplatelet drug pathway|OGRPBCAM
+antipyrine drug pathway|OGRPBCAM
+antipyrine pharmacokinetics pathway|OGRPBCAM
+antithrombotic drug pathway|OGRPBCAM
+apelin signaling pathway|OGRPBCAM
+apixaban drug pathway|OGRPBCAM
+apixaban pharmacodynamics pathway|OGRPBCAM
+apixaban pharmacokinetics pathway|OGRPBCAM
+apoptotic cell death pathway|OGRPBCAM
+apparent mineralocorticoid excess syndrome pathway|OGRPBCAM
+aprotinin drug pathway|OGRPBCAM
+aprotinin pharmacodynamics pathway|OGRPBCAM
+aprotinin pharmacokinetics pathway|OGRPBCAM
+arachidonic acid metabolic pathway|OGRPBCAM
+arbekacin drug pathway|OGRPBCAM
+arbekacin pharmacodynamics pathway|OGRPBCAM
+arbekacin pharmacokinetics pathway|OGRPBCAM
+argatroban pharmacodynamics pathway|OGRPBCAM
+argatrobran drug pathway|OGRPBCAM
+argatrobran pharmacokinetics pathway|OGRPBCAM
+arginine and proline metabolic pathway|OGRPBCAM
+arginine biosynthetic pathway|OGRPBCAM
+arginine degradation pathway|OGRPBCAM
+arginine metabolic pathway|OGRPBCAM
+argininosuccinic aciduria pathway|OGRPBCAM
+aromatase inhibitor pathway|OGRPBCAM
+aromatic L-amino acid decarboxylase deficiency pathway|OGRPBCAM
+arrhythmogenic right ventricular cardiomyopathy pathway|OGRPBCAM
+artemether drug pathway|OGRPBCAM
+artemether pharmacodynamics pathway|OGRPBCAM
+artemether pharmacokinetics pathway|OGRPBCAM
+arterial occlusive disease pathway|OGRPBCAM
+arthritis pathway|OGRPBCAM
+aryl hydrocarbon receptor signaling pathway|OGRPBCAM
+arylamine metabolic pathway|OGRPBCAM
+ascaroside biosynthetic pathway|OGRPBCAM
+ascaroside metabolic pathway|OGRPBCAM
+ascorbate and aldarate metabolic pathway|OGRPBCAM
+ascorbic acid metabolic pathway|OGRPBCAM
+asparagine metabolic pathway|OGRPBCAM
+aspartic acid/aspartate metabolic pathway|OGRPBCAM
+asthma pathway|OGRPBCAM
+ataxia telangiectasia-mutated (ATM) signaling pathway|OGRPBCAM
+atenolol drug pathway|OGRPBCAM
+atenolol pharmacodynamics pathway|OGRPBCAM
+atenolol pharmacokinetics pathway|OGRPBCAM
+atherosclerosis pathway|OGRPBCAM
+atrazine degradation pathway|OGRPBCAM
+atrial natriuretic peptide signaling pathway|OGRPBCAM
+atypical cadherin signaling pathway|OGRPBCAM
+auditory mechanotransduction pathway|OGRPBCAM
+autoimmune thyroiditis pathway|OGRPBCAM
+autonomic nervous system disease pathway|OGRPBCAM
+autophagy pathway|OGRPBCAM
+avitaminosis pathway|OGRPBCAM
+axitinib drug pathway|OGRPBCAM
+axitinib pharmacodynamics pathway|OGRPBCAM
+axitinib pharmacokinetics pathway|OGRPBCAM
+azathioprine drug pathway|OGRPBCAM
+azathioprine pharmacodynamics pathway|OGRPBCAM
+azathioprine pharmacokinetics pathway|OGRPBCAM
+azithromycin drug pathway|OGRPBCAM
+azithromycin pharmacodynamics pathway|OGRPBCAM
+azithromycin pharmacokinetics pathway|OGRPBCAM
+bacterial DNA replication pathway|OGRPBCAM
+bacterial polysaccharide metabolic pathway|OGRPBCAM
+basal cell carcinoma pathway|OGRPBCAM
+base excision repair pathway|OGRPBCAM
+basic helix-loop-helix signaling pathway|OGRPBCAM
+benazepril drug pathway|OGRPBCAM
+benazepril pharmacodynamics pathway|OGRPBCAM
+benazepril pharmacokinetics pathway|OGRPBCAM
+bendroflumethiazide drug pathway|OGRPBCAM
+bendroflumethiazide pharmacodynamics pathway|OGRPBCAM
+bendroflumethiazide pharmacokinetics pathway|OGRPBCAM
+benzo(a)pyrene metabolic pathway|OGRPBCAM
+benzoate degradation pathway|OGRPBCAM
+benzoate degradation pathway via CoA ligation|OGRPBCAM
+benzoate degradation pathway via hydroxylation|OGRPBCAM
+benzodiazepine drug pathway|OGRPBCAM
+benzodiazepine pharmacodynamics pathway|OGRPBCAM
+benzodiazepine pharmacokinetics pathway|OGRPBCAM
+beta-Lactam resistance pathway|OGRPBCAM
+beta-alanine metabolic pathway|OGRPBCAM
+beta-barrel pathway of mitochondrial protein import|OGRPBCAM
+beta-endorphin metabolic pathway|OGRPBCAM
+beta-ureidopropionase deficiency pathway|OGRPBCAM
+betaxolol drug pathway|OGRPBCAM
+betaxolol pharmacodynamics pathway|OGRPBCAM
+betaxolol pharmacokinetics pathway|OGRPBCAM
+bevacizumab drug pathway|OGRPBCAM
+bevacizumab pharmacodynamics pathway|OGRPBCAM
+bevacizumab pharmacokinetics pathway|OGRPBCAM
+bicarbonate sensing signaling pathway|OGRPBCAM
+bile acid biosynthetic pathway|OGRPBCAM
+bile acid signaling pathway|OGRPBCAM
+bile acid transport pathway|OGRPBCAM
+biliary tract disease pathway|OGRPBCAM
+biogenic amine biosynthetic pathway|OGRPBCAM
+biogenic amines and polyamines metabolic pathway|OGRPBCAM
+biotin metabolic pathway|OGRPBCAM
+biotinidase deficiency pathway|OGRPBCAM
+biphenyl degradation pathway|OGRPBCAM
+bipolar disorder pathway|OGRPBCAM
+bisoprolol drug pathway|OGRPBCAM
+bisoprolol pharmacodynamics pathway|OGRPBCAM
+bisoprolol pharmacokinetics pathway|OGRPBCAM
+bisphenol A degradation pathway|OGRPBCAM
+bisphenol A response pathway|OGRPBCAM
+bisphosphonate drug pathway|OGRPBCAM
+bivalirudin drug pathway|OGRPBCAM
+bivalirudin pharmacodynamics pathway|OGRPBCAM
+bivalirudin pharmacokinetics pathway|OGRPBCAM
+blood and blood forming organs drug pathway|OGRPBCAM
+bone cancer pathway|OGRPBCAM
+bone disease pathway|OGRPBCAM
+bortezomib drug pathway|OGRPBCAM
+bortezomib pharmacodynamics pathway|OGRPBCAM
+bortezomib pharmacokinetics pathway|OGRPBCAM
+brain disease pathway|OGRPBCAM
+brain natriuretic peptide signaling pathway|OGRPBCAM
+brain-derived neurotrophic factor signaling pathway|OGRPBCAM
+brassinosteroid biosynthetic pathway|OGRPBCAM
+breast cancer pathway|OGRPBCAM
+bumetanide drug pathway|OGRPBCAM
+bumetanide pharmacodynamics pathway|OGRPBCAM
+bumetanide pharmacokinetics pathway|OGRPBCAM
+bupivacaine drug pathway|OGRPBCAM
+bupivacaine pharmacodynamics pathway|OGRPBCAM
+bupivacaine pharmacokinetics pathway|OGRPBCAM
+bupranolol drug pathway|OGRPBCAM
+bupranolol pharmacodynamics pathway|OGRPBCAM
+bupranolol pharmacokinetics pathway|OGRPBCAM
+buprenorphine drug pathway|OGRPBCAM
+buprenorphine pharmacodynamics pathway|OGRPBCAM
+buprenorphine pharmacokinetics pathway|OGRPBCAM
+butanoate metabolic pathway|OGRPBCAM
+butirosin and neomycin biosynthetic pathway|OGRPBCAM
+c-Jun N-terminal kinases MAPK signaling pathway|OGRPBCAM
+cadherin mediated signaling pathway|OGRPBCAM
+caffeine drug pathway|OGRPBCAM
+caffeine metabolic pathway|OGRPBCAM
+caffeine pharmacodynamics pathway|OGRPBCAM
+caffeine pharmacokinetics pathway|OGRPBCAM
+calcineurin signaling pathway|OGRPBCAM
+calcium channel blocker drug pathway|OGRPBCAM
+calcium homeostasis pathway|OGRPBCAM
+calcium signaling pathway via the calcium-sensing receptor|OGRPBCAM
+calcium transport pathway|OGRPBCAM
+calcium/calcium-mediated signaling pathway|OGRPBCAM
+calcium/calmodulin dependent kinase 1 signaling pathway|OGRPBCAM
+calcium/calmodulin dependent kinase 2 signaling pathway|OGRPBCAM
+calcium/calmodulin dependent kinase 4 signaling pathway|OGRPBCAM
+calcium/calmodulin dependent kinase signaling cascade|OGRPBCAM
+calcium/calmodulin dependent kinase signaling pathway|OGRPBCAM
+calcium/calmodulin dependent signaling pathway|OGRPBCAM
+cancer pathway|OGRPBCAM
+candesartan drug pathway|OGRPBCAM
+candesartan pharmacodynamics pathway|OGRPBCAM
+candesartan pharmacokinetics pathway|OGRPBCAM
+cannabinoid signaling pathway|OGRPBCAM
+capecitabine drug pathway|OGRPBCAM
+capecitabine pharmacodynamics pathway|OGRPBCAM
+capecitabine pharmacokinetics pathway|OGRPBCAM
+caprolactam degradation pathway|OGRPBCAM
+captopril drug pathway|OGRPBCAM
+captopril pharmacodynamics pathway|OGRPBCAM
+captopril pharmacokinetics pathway|OGRPBCAM
+carbamazepine drug pathway|OGRPBCAM
+carbamazepine pharmacodynamics pathway|OGRPBCAM
+carbamazepine pharmacokinetics pathway|OGRPBCAM
+carbamoyl phosphate synthase I deficiency pathway|OGRPBCAM
+carbamoyl phosphate synthetase I deficiency pathway|OGRPBCAM
+carbazole degradation pathway|OGRPBCAM
+carbohydrate metabolic pathway|OGRPBCAM
+carbon fixation pathway|OGRPBCAM
+carbon nanotube response pathway|OGRPBCAM
+carbon tetrachloride response pathway|OGRPBCAM
+carboplatin drug pathway|OGRPBCAM
+carboplatin response pathway|OGRPBCAM
+cardiolipin biosynthetic pathway|OGRPBCAM
+cardiolipin metabolic pathway|OGRPBCAM
+cardiomyopathy pathway|OGRPBCAM
+cardiovascular abnormalities pathway|OGRPBCAM
+cardiovascular system disease pathway|OGRPBCAM
+cardiovascular system drug pathway|OGRPBCAM
+cardiovascular system homeostasis pathway|OGRPBCAM
+carnitine biosynthetic pathway|OGRPBCAM
+carnitine degradation pathway|OGRPBCAM
+carnitine metabolic pathway|OGRPBCAM
+carnitine palmitoyltransferase I deficiency pathway|OGRPBCAM
+carnitine-acylcarnitine translocase deficiency|OGRPBCAM
+carnosinemia pathway|OGRPBCAM
+carotene biosynthetic pathway|OGRPBCAM
+carotene degradation pathway|OGRPBCAM
+carotene metabolic pathway|OGRPBCAM
+carotenoid biosynthetic pathway|OGRPBCAM
+carrier pathway of mitochondrial protein import|OGRPBCAM
+carvedilol drug pathway|OGRPBCAM
+carvedilol pharmacodynamics pathway|OGRPBCAM
+carvedilol pharmacokinetics pathway|OGRPBCAM
+caseous necrosis pathway|OGRPBCAM
+catecholamine biosynthetic pathway|OGRPBCAM
+catecholamine degradation pathway|OGRPBCAM
+catecholamine metabolic pathway|OGRPBCAM
+catecholamine signaling pathway|OGRPBCAM
+caveolae-mediated endocytosis pathway|OGRPBCAM
+celecoxib drug pathway|OGRPBCAM
+celecoxib pharmacodynamics pathway|OGRPBCAM
+celecoxib pharmacokinetics pathway|OGRPBCAM
+cell adhesion signaling pathway|OGRPBCAM
+cell cycle checkpoint pathway|OGRPBCAM
+cell cycle pathway|OGRPBCAM
+cell cycle pathway, meiotic|OGRPBCAM
+cell cycle pathway, mitotic|OGRPBCAM
+cell death pathway|OGRPBCAM
+cell division pathway|OGRPBCAM
+cell-cell signaling pathway|OGRPBCAM
+cell-extracellular matrix signaling pathway|OGRPBCAM
+cell-mediated immunity pathway|OGRPBCAM
+cellular autophagy pathway|OGRPBCAM
+cellular detoxification pathway|OGRPBCAM
+cellular response to heat stress pathway|OGRPBCAM
+cellular senescence pathway|OGRPBCAM
+cellular trafficking cycle pathway|OGRPBCAM
+cellulose biosynthetic pathway|OGRPBCAM
+central obesity with hypertension pathway|OGRPBCAM
+ceramide signaling pathway|OGRPBCAM
+cerebral arterial diseases pathway|OGRPBCAM
+cerebroside metabolic pathway|OGRPBCAM
+cerebrotendinous xanthomatosis pathway|OGRPBCAM
+cerebrovascular disease pathway|OGRPBCAM
+cerium oxide nanoparticle response pathway|OGRPBCAM
+cervical cancer pathway|OGRPBCAM
+cetuximab drug pathway|OGRPBCAM
+cetuximab pharmacodynamics pathway|OGRPBCAM
+cetuximab pharmacokinetics pathway|OGRPBCAM
+chaperone mediated autophagy pathway|OGRPBCAM
+chemical compound signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 1 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 11 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 12 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 13 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 14 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 15 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 16 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 17 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 2 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 22 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 23 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 24 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 25 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 26 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 27 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 3 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 4 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 5 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 6 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 7 signaling pathway|OGRPBCAM
+chemokine (C-C motif) ligand 8 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 1 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 10 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 11 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 12 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 13 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 14 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 16 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 2 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 3 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 4 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 5 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 6 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 7 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 8 signaling pathway|OGRPBCAM
+chemokine (C-X-C motif) ligand 9 signaling pathway|OGRPBCAM
+chemokine mediated signaling pathway|OGRPBCAM
+chloride ion transport pathway|OGRPBCAM
+chloroprocaine drug pathway|OGRPBCAM
+chloroprocaine pharmacodynamics pathway|OGRPBCAM
+chloroprocaine pharmacokinetics pathway|OGRPBCAM
+chlorothiazide drug pathway|OGRPBCAM
+chlorothiazide pharmacodynamics pathway|OGRPBCAM
+chlorothiazide pharmacokinetics pathway|OGRPBCAM
+chlorthalidone drug pathway|OGRPBCAM
+chlorthalidone pharmacodynamics pathway|OGRPBCAM
+chlorthalidone pharmacokinetics pathway|OGRPBCAM
+cholestasis pathway|OGRPBCAM
+cholesterol biosynthetic pathway|OGRPBCAM
+cholesterol ester storage disease pathway|OGRPBCAM
+cholesterol metabolic pathway|OGRPBCAM
+cholesterol transport pathway|OGRPBCAM
+choline degradation pathway|OGRPBCAM
+choline metabolic pathway|OGRPBCAM
+chondrodysplasia punctata pathway|OGRPBCAM
+chondroitin sulfate biosynthetic pathway|OGRPBCAM
+chondroitin sulfate degradation pathway|OGRPBCAM
+chondroitin sulfate metabolic pathway|OGRPBCAM
+chorismate metabolic pathway|OGRPBCAM
+chromatin modification pathway|OGRPBCAM
+chromatin modification/remodeling pathway|OGRPBCAM
+chromatin remodeling pathway|OGRPBCAM
+chronic myeloid leukemia pathway|OGRPBCAM
+cilazapril drug pathway|OGRPBCAM
+cilazapril pharmacodynamics pathway|OGRPBCAM
+cilazapril pharmacokinetics pathway|OGRPBCAM
+ciliary neurotrophic factor signaling pathway|OGRPBCAM
+cilostazol drug pathway|OGRPBCAM
+cilostazol pharmacodynamics pathway|OGRPBCAM
+cilostazol pharmacokinetics pathway|OGRPBCAM
+cimetidine drug pathway|OGRPBCAM
+cimetidine pharmacodynamics pathway|OGRPBCAM
+cimetidine pharmacokinetics pathway|OGRPBCAM
+cisplatin drug pathway|OGRPBCAM
+cisplatin response pathway|OGRPBCAM
+citalopram drug pathway|OGRPBCAM
+citalopram pharmacodynamics pathway|OGRPBCAM
+citalopram pharmacokinetics pathway|OGRPBCAM
+citric acid cycle pathway|OGRPBCAM
+citrulline degradation pathway|OGRPBCAM
+citrullinemia pathway|OGRPBCAM
+class I major histocompatibility complex pathway|OGRPBCAM
+class II major histocompatibility complex pathway|OGRPBCAM
+classic metabolic pathway|OGRPBCAM
+classical cadherin signaling pathway|OGRPBCAM
+classical complement pathway|OGRPBCAM
+clathrin-dependent synaptic vesicle endocytosis|OGRPBCAM
+clathrin-mediated endocytosis pathway|OGRPBCAM
+clavulanic acid biosynthetic pathway|OGRPBCAM
+clomipramine drug pathway|OGRPBCAM
+clomipramine pharmacodynamics pathway|OGRPBCAM
+clomipramine pharmacokinetics pathway|OGRPBCAM
+clopidogrel drug pathway|OGRPBCAM
+clopidogrel pharmacodynamics pathway|OGRPBCAM
+clopidogrel pharmacokinetics pathway|OGRPBCAM
+coagulation cascade pathway|OGRPBCAM
+coagulative necrosis pathway|OGRPBCAM
+cobalamin metabolic pathway|OGRPBCAM
+cocaine addiction pathway|OGRPBCAM
+cocaine drug pathway|OGRPBCAM
+cocaine pharmacodynamics pathway|OGRPBCAM
+cocaine pharmacokinetics pathway|OGRPBCAM
+codeine and morphine drug pathway|OGRPBCAM
+codeine and morphine pharmacodynamics pathway|OGRPBCAM
+codeine and morphine pharmacokinetics pathway|OGRPBCAM
+coenzyme A biosynthetic pathway|OGRPBCAM
+coenzyme A metabolic pathway|OGRPBCAM
+cofactor transport pathway|OGRPBCAM
+colorectal cancer pathway|OGRPBCAM
+complement system pathway|OGRPBCAM
+congenital adrenal hyperplasia pathway|OGRPBCAM
+congenital bile acid synthesis defect pathway|OGRPBCAM
+congenital disease pathway|OGRPBCAM
+congenital heart defects pathway|OGRPBCAM
+congenital hemidysplasia with ichthyosiform erythroderma and limb defects pathway|OGRPBCAM
+congenital limb deformities pathway|OGRPBCAM
+congenital sucrase-isomaltase deficiency pathway|OGRPBCAM
+connective tissue disease pathway|OGRPBCAM
+connexin signaling pathway|OGRPBCAM
+constitutive exocytosis pathway|OGRPBCAM
+constitutive protein secretory pathway|OGRPBCAM
+copper homeostasis pathway|OGRPBCAM
+corticosteroid signaling pathway|OGRPBCAM
+corticotropin-releasing hormone signaling pathway|OGRPBCAM
+cortisol biosynthetic pathway|OGRPBCAM
+cortisol signaling pathway|OGRPBCAM
+creatine metabolic pathway|OGRPBCAM
+cyanoamino acid metabolic pathway|OGRPBCAM
+cyclooxygenase mediated pathway of arachidonic acid metabolism|OGRPBCAM
+cyclophosphamide drug pathway|OGRPBCAM
+cyclophosphamide pharmacodynamics pathway|OGRPBCAM
+cyclophosphamide pharmacokinetics pathway|OGRPBCAM
+cystathioninuria pathway|OGRPBCAM
+cysteine and methionine metabolic pathway|OGRPBCAM
+cysteine metabolic pathway|OGRPBCAM
+cystinosis pathway|OGRPBCAM
+cystinuria pathway|OGRPBCAM
+cytochrome P450 monooxygenase mediated pathway of arachidonic acid metabolism|OGRPBCAM
+cytochrome P450-independent phase I biotransformation pathway|OGRPBCAM
+cytokine and chemokine mediated signaling pathway|OGRPBCAM
+cytokine mediated signaling pathway|OGRPBCAM
+cytosine monophosphate metabolic pathway|OGRPBCAM
+cytosolic iron-sulfur cluster protein assembly pathway|OGRPBCAM
+dabigatran drug pathway|OGRPBCAM
+dabigatran pharmacodynamics pathway|OGRPBCAM
+dabigatran pharmacokinetics pathway|OGRPBCAM
+database_cross_reference|OGRPBCAM
+de novo nicotinamide adenine dinucleotide biosynthetic pathway|OGRPBCAM
+de novo purine biosynthetic pathway|OGRPBCAM
+de novo pyrimidine biosynthetic pathway|OGRPBCAM
+definition|OGRPBCAM
+degradative endosome sorting pathway|OGRPBCAM
+dehydroepiandrosterone biosynthetic pathway|OGRPBCAM
+dentatorubral-pallidoluysian atrophy pathway|OGRPBCAM
+deoxynivalenol biosynthetic pathway|OGRPBCAM
+deoxyribonucleotide metabolic pathway|OGRPBCAM
+dermatan sulfate biosynthetic pathway|OGRPBCAM
+dermatan sulfate degradation pathway|OGRPBCAM
+dermatan sulfate metabolic pathway|OGRPBCAM
+dermatological drug pathway|OGRPBCAM
+desipramine drug pathway|OGRPBCAM
+desipramine pharmacodynamics pathway|OGRPBCAM
+desipramine pharmacokinetics pathway|OGRPBCAM
+desmosomal cadherin signaling pathway|OGRPBCAM
+desmosterolosis pathway|OGRPBCAM
+deubiquitination pathway|OGRPBCAM
+diabetes complication pathway|OGRPBCAM
+diabetes mellitus pathway|OGRPBCAM
+diabetic angiopathy pathway|OGRPBCAM
+diabetic nephropathy pathway|OGRPBCAM
+diabetic retinopathy pathway|OGRPBCAM
+diclofenac drug pathway|OGRPBCAM
+diclofenac pharmacodynamics pathway|OGRPBCAM
+diclofenac pharmacokinetics pathway|OGRPBCAM
+dicoumarol drug pathway|OGRPBCAM
+dicoumarol pharmacodynamics pathway|OGRPBCAM
+dicoumarol pharmacokinetics pathway|OGRPBCAM
+didanosine drug pathway|OGRPBCAM
+didanosine pharmacodynamics pathway|OGRPBCAM
+didanosine pharmacokinetics pathway|OGRPBCAM
+diflunisal drug pathway|OGRPBCAM
+diflunisal pharmacodynamics pathway|OGRPBCAM
+diflunisal pharmacokinetics pathway|OGRPBCAM
+digestive system cancer pathway|OGRPBCAM
+digestive system disease pathway|OGRPBCAM
+dihydromorphine drug pathway|OGRPBCAM
+dihydromorphine pharmacodynamics pathway|OGRPBCAM
+dihydromorphine pharmacokinetics pathway|OGRPBCAM
+dihydropyridine calcium channel blocker drug pathway|OGRPBCAM
+dihydropyrimidinase deficiency pathway|OGRPBCAM
+dihydropyrimidine dehydrogenase deficiency pathway|OGRPBCAM
+dilated cardiomyopathy pathway|OGRPBCAM
+diltiazem drug pathway|OGRPBCAM
+diltiazem pharmacodynamics pathway|OGRPBCAM
+diltiazem pharmacokinetics pathway|OGRPBCAM
+dimethylglycine dehydrogenase deficiency pathway|OGRPBCAM
+diphenoxylate drug pathway|OGRPBCAM
+diphenoxylate pharmacodynamics pathway|OGRPBCAM
+diphenoxylate pharmacokinetics pathway|OGRPBCAM
+dipyridamole drug pathway|OGRPBCAM
+dipyridamole pharmacodyamics pathway|OGRPBCAM
+dipyridamole pharmacokinetics pathway|OGRPBCAM
+direct factors Xa inhibitor drug pathway|OGRPBCAM
+direct thrombin inhibitor drug pathway|OGRPBCAM
+disease pathway|OGRPBCAM
+disopyramide drug pathway|OGRPBCAM
+disopyramide pharmacodynamics pathway|OGRPBCAM
+disopyramide pharmacokinetics pathway|OGRPBCAM
+disulfiram drug pathway|OGRPBCAM
+disulfiram pharmacodynamics pathway|OGRPBCAM
+disulfiram pharmacokinetics pathway|OGRPBCAM
+diterpene biosynthetic pathway|OGRPBCAM
+diterpenoid biosynthetic pathway|OGRPBCAM
+diuretic drug pathway|OGRPBCAM
+dobutamine drug pathway|OGRPBCAM
+dobutamine pharmacodynamics pathway|OGRPBCAM
+dobutamine pharmacokinetics pathway|OGRPBCAM
+docetaxel drug pathway|OGRPBCAM
+docetaxel pharmacodynamics pathway|OGRPBCAM
+docetaxel pharmacokinetics pathway|OGRPBCAM
+docetaxel response pathway|OGRPBCAM
+dopa responsive dystonia pathway|OGRPBCAM
+dopamine beta-hydroxylase deficiency pathway|OGRPBCAM
+dopamine biosynthetic pathway|OGRPBCAM
+dopamine degradation pathway|OGRPBCAM
+dopamine metabolic pathway|OGRPBCAM
+dopamine oxidation pathway|OGRPBCAM
+dopamine signaling pathway|OGRPBCAM
+dopamine signaling pathway via D1 family of receptors|OGRPBCAM
+dopamine signaling pathway via D2 family of receptors|OGRPBCAM
+double-strand DNA repair pathway|OGRPBCAM
+doxepin drug pathway|OGRPBCAM
+doxepin pharmacodynamics pathway|OGRPBCAM
+doxepin pharmacokinetics pathway|OGRPBCAM
+doxorubicin drug pathway|OGRPBCAM
+doxorubicin pharmacodynamics pathway|OGRPBCAM
+doxorubicin pharmacokinetics pathway|OGRPBCAM
+doxorubicin response pathway|OGRPBCAM
+drug pathway|OGRPBCAM
+dystonia pathway|OGRPBCAM
+edoxaban drug pathway|OGRPBCAM
+edoxaban pharmacodynamics pathway|OGRPBCAM
+edoxaban pharmacokinetics pathway|OGRPBCAM
+eicosanoid biosynthetic pathway|OGRPBCAM
+eicosanoid metabolic pathway|OGRPBCAM
+eicosanoid signaling pathway|OGRPBCAM
+eicosanoid signaling pathway via peroxisome proliferator-activated receptor gamma|OGRPBCAM
+electron transport chain pathway|OGRPBCAM
+enalapril drug pathway|OGRPBCAM
+enalapril pharmacodynamics pathway|OGRPBCAM
+enalapril pharmacokinetics pathway|OGRPBCAM
+endocannabinoid metabolic pathway|OGRPBCAM
+endocannabinoid signaling pathway|OGRPBCAM
+endocrine fibroblast growth factor signaling pathway|OGRPBCAM
+endocrine gland cancer pathway|OGRPBCAM
+endocrine system disease pathway|OGRPBCAM
+endocytosis pathway|OGRPBCAM
+endogenous antioxidant pathway|OGRPBCAM
+endogenous pathway|OGRPBCAM
+endogenous small interfering RNA pathway|OGRPBCAM
+endometrial cancer pathway|OGRPBCAM
+endoplasmic reticulum stress  - the unfolded protein response pathway|OGRPBCAM
+endosomal pathway|OGRPBCAM
+endosomal sorting pathway|OGRPBCAM
+endosome export pathway|OGRPBCAM
+endosome maturation pathway|OGRPBCAM
+endothelin signaling pathway|OGRPBCAM
+energy homeostasis pathway|OGRPBCAM
+energy metabolic pathway|OGRPBCAM
+enkephalin metabolic pathway|OGRPBCAM
+enoxaparin drug pathway|OGRPBCAM
+enoxaparin pharmacodynamics pathway|OGRPBCAM
+enoxaparin pharmacokinetics pathway|OGRPBCAM
+ephrin - ephrin receptor bidirectional signaling axis|OGRPBCAM
+epidermal growth factor/neuregulin signaling pathway|OGRPBCAM
+epigenetic regulation of gene expression pathway|OGRPBCAM
+epinephrine biosynthetic pathway|OGRPBCAM
+epinephrine degradation pathway|OGRPBCAM
+epinephrine metabolic pathway|OGRPBCAM
+epinephrine signaling pathway|OGRPBCAM
+epinephrine signaling pathway via adrenergic receptor alpha 1|OGRPBCAM
+epinephrine signaling pathway via adrenergic receptor alpha 2|OGRPBCAM
+epinephrine signaling pathway via adrenergic receptor beta|OGRPBCAM
+eplerenone drug pathway|OGRPBCAM
+eplerenone pharmacodynamics pathway|OGRPBCAM
+eplerenone pharmacokinetics pathway|OGRPBCAM
+eprosartan drug pathway|OGRPBCAM
+eprosartan pharmacodynamics pathway|OGRPBCAM
+eprosartan pharmacokinetics pathway|OGRPBCAM
+eprotirome drug pathway|OGRPBCAM
+eptifibatide drug pathway|OGRPBCAM
+eptifibatide pharmacodynamics pathway|OGRPBCAM
+eptifibatide pharmacokinetics pathway|OGRPBCAM
+erlotinib drug pathway|OGRPBCAM
+erlotinib pharmacodynamics pathway|OGRPBCAM
+erlotinib pharmacokinetics pathway|OGRPBCAM
+erythromycin biosynthetic pathway|OGRPBCAM
+erythromycin drug pathway|OGRPBCAM
+erythromycin pharmacodynamics pathway|OGRPBCAM
+erythromycin pharmacokinetics pathway|OGRPBCAM
+erythropoietic porphyria pathway|OGRPBCAM
+erythropoietin signaling pathway|OGRPBCAM
+escitalopram drug pathway|OGRPBCAM
+escitalopram pharmacodynamics pathway|OGRPBCAM
+escitalopram pharmacokinetics pathway|OGRPBCAM
+esmolol drug pathway|OGRPBCAM
+esmolol pharmacodynamics pathway|OGRPBCAM
+esmolol pharmacokinetics pathway|OGRPBCAM
+esomeprazole drug pathway|OGRPBCAM
+esomeprazole pharmacodynamics pathway|OGRPBCAM
+esomeprazole pharmacokinetics pathway|OGRPBCAM
+estradiol biosynthetic pathway|OGRPBCAM
+estrogen signaling pathway|OGRPBCAM
+etacrynic acid pharmacodynamics pathway|OGRPBCAM
+etacrynic acid pharmacokinetics pathway|OGRPBCAM
+etacryninc acid drug pathway|OGRPBCAM
+ethanol oxidation pathway|OGRPBCAM
+ether lipid metabolic pathway|OGRPBCAM
+ethylbenzene degradation pathway|OGRPBCAM
+ethylmalonic encephalopathy pathway|OGRPBCAM
+ethylmorphine drug pathway|OGRPBCAM
+ethylmorphine pharmacodynamics pathway|OGRPBCAM
+ethylmorphine pharmacokinetics pathway|OGRPBCAM
+etodolac drug pathway|OGRPBCAM
+etodolac pharmacodynamics pathway|OGRPBCAM
+etodolac pharmacokinetics pathway|OGRPBCAM
+etoposide drug pathway|OGRPBCAM
+etoposide pharmacodynamics pathway|OGRPBCAM
+etoposide pharmacokinetics pathway|OGRPBCAM
+eukaryotic DNA replication pathway|OGRPBCAM
+eukaryotic RNA polymerase transcription pathway|OGRPBCAM
+everolimus drug pathway|OGRPBCAM
+everolimus pharmacodynamics pathway|OGRPBCAM
+everolimus pharmacokinetics pathway|OGRPBCAM
+excitatory neurotransmitter metabolic pathway|OGRPBCAM
+excitatory synaptic transmission pathway|OGRPBCAM
+exocytosis pathway|OGRPBCAM
+exogenous pathway|OGRPBCAM
+exosome mediated RNA decay pathway|OGRPBCAM
+extrinsic apoptotic pathway|OGRPBCAM
+ezetimibe drug pathway|OGRPBCAM
+ezetimibe pharmacodynamics pathway|OGRPBCAM
+ezetimibe pharmacokinetics pathway|OGRPBCAM
+facilitative sugar transporter mediated glucose transport pathway|OGRPBCAM
+facilitative sugar transporter mediated sugar transport pathway|OGRPBCAM
+familial combined hyperlipidemia pathway|OGRPBCAM
+familial hypercholanemia pathway|OGRPBCAM
+familial lipoprotein lipase deficiency pathway|OGRPBCAM
+famotidine drug pathway|OGRPBCAM
+famotidine pharmacodynamics pathway|OGRPBCAM
+famotidine pharmacokinetics pathway|OGRPBCAM
+fat-soluble vitamin metabolic pathway|OGRPBCAM
+fatal familial insomnia pathway|OGRPBCAM
+fatty acid alpha degradation pathway|OGRPBCAM
+fatty acid beta degradation pathway|OGRPBCAM
+fatty acid biosynthetic pathway|OGRPBCAM
+fatty acid degradation pathway|OGRPBCAM
+fatty acid elongation pathway|OGRPBCAM
+fatty acid metabolic pathway|OGRPBCAM
+fatty acid omega degradation pathway|OGRPBCAM
+fatty acid transport pathway|OGRPBCAM
+fatty necrosis pathway|OGRPBCAM
+fatty-acyl-CoA biosynthetic pathway|OGRPBCAM
+felbamate drug pathway|OGRPBCAM
+felbamate pharmacodynamics pathway|OGRPBCAM
+felbamate pharmacokinetics pathway|OGRPBCAM
+felodipine drug pathway|OGRPBCAM
+felodipine pharmacodynamics pathway|OGRPBCAM
+felodipine pharmacokinetics pathway|OGRPBCAM
+fenoprofen drug pathway|OGRPBCAM
+fenoprofen pharmacodynamics pathway|OGRPBCAM
+fenoprofen pharmacokinetics pathway|OGRPBCAM
+fentanyl drug pathway|OGRPBCAM
+fentanyl pharmacodynamics pathway|OGRPBCAM
+fentanyl pharmacokinetics pathway|OGRPBCAM
+ferroptosis pathway|OGRPBCAM
+fibrinoid necrosis pathway|OGRPBCAM
+fibrinolysis pathway|OGRPBCAM
+fibroblast growth factor 23 signaling pathway|OGRPBCAM
+fibroblast growth factor signaling pathway|OGRPBCAM
+flavonoid biosynthetic pathway|OGRPBCAM
+flecainde pharmacodynamics pathway|OGRPBCAM
+flecainide drug pathway|OGRPBCAM
+flecainide pharmacokinetics pathway|OGRPBCAM
+fluorene degradation pathway|OGRPBCAM
+fluoxetine drug pathway|OGRPBCAM
+fluoxetine pharmacodynamics pathway|OGRPBCAM
+fluoxetine pharmacokinetics pathway|OGRPBCAM
+flurbiprofen drug pathway|OGRPBCAM
+flurbiprofen pharmacodynamics pathway|OGRPBCAM
+flurbiprofen pharmacokinetics pathway|OGRPBCAM
+folate cycle metabolic pathway|OGRPBCAM
+folate mediated one-carbon metabolic pathway|OGRPBCAM
+folate metabolic pathway|OGRPBCAM
+folic acid deficiency pathway|OGRPBCAM
+follicle-stimulating hormone signaling pathway|OGRPBCAM
+fondaparinux drug pathway|OGRPBCAM
+fondaparinux pharmacodynamics pathway|OGRPBCAM
+fondaparinux pharmacokinetics pathway|OGRPBCAM
+forasartan drug pathway|OGRPBCAM
+forasartan pharmacokinetics pathway|OGRPBCAM
+forasartsn pharmacodynamics pathway|OGRPBCAM
+forkhead class A signaling pathway|OGRPBCAM
+forkhead class C signaling pathway|OGRPBCAM
+forkhead class O signaling pathway|OGRPBCAM
+forkhead class P signaling pathway|OGRPBCAM
+forkhead signaling pathway|OGRPBCAM
+formaldehyde assimilation pathway|OGRPBCAM
+fosinopril drug pathway|OGRPBCAM
+fosinopril pharmacodynamics pathway|OGRPBCAM
+fosinopril pharmacokinetics pathway|OGRPBCAM
+fosphenytoin drug pathway|OGRPBCAM
+fosphenytoin pharmacodynamics pathway|OGRPBCAM
+fosphenytoin pharmacokinetics pathway|OGRPBCAM
+french type sialuria pathway|OGRPBCAM
+fructose and mannose metabolic pathway|OGRPBCAM
+fructose biosynthetic pathway|OGRPBCAM
+fructose degradation pathway|OGRPBCAM
+fructose metabolic pathway|OGRPBCAM
+fructose-1,6-bisphosphatase deficiency pathway|OGRPBCAM
+fructosuria pathway|OGRPBCAM
+fumaric aciduria pathway|OGRPBCAM
+fumonisin biosynthetic pathway|OGRPBCAM
+fumonisin metabolic pathway|OGRPBCAM
+furosemide drug pathway|OGRPBCAM
+furosemide pharmacodynamics pathway|OGRPBCAM
+furosemide pharmacokinetics pathway|OGRPBCAM
+galactocerebroside metabolic pathway|OGRPBCAM
+galactokinase deficiency pathway|OGRPBCAM
+galactose degradation pathway|OGRPBCAM
+galactose metabolic pathway|OGRPBCAM
+galactosemia pathway|OGRPBCAM
+galactosemias pathway|OGRPBCAM
+gamma-aminobutyric acid metabolic pathway|OGRPBCAM
+gamma-aminobutyric acid signaling pathway|OGRPBCAM
+gamma-hexachlorocyclohexane degradation pathway|OGRPBCAM
+ganglioside metabolic pathway|OGRPBCAM
+gasotransmitter mediated signaling pathway|OGRPBCAM
+gastric cancer pathway|OGRPBCAM
+gastrointestinal cancer pathway|OGRPBCAM
+gastrointestinal disease pathway|OGRPBCAM
+gefitinib drug pathway|OGRPBCAM
+gefitinib pharmacodynamics pathway|OGRPBCAM
+gefitinib pharmacokinetics pathway|OGRPBCAM
+gemcitabine pathway|OGRPBCAM
+gemcitabine pharmacodynamics pathway|OGRPBCAM
+gemcitabine pharmacokinetics pathway|OGRPBCAM
+genetic skin disease pathway|OGRPBCAM
+genito-urinary system and sex hormones drug pathway|OGRPBCAM
+gentamicin drug pathway|OGRPBCAM
+gentamicin pharmacodynamics pathway|OGRPBCAM
+gentamicin pharmacokinetics pathway|OGRPBCAM
+geraniol degradation pathway|OGRPBCAM
+ghrelin system pathway|OGRPBCAM
+gliclazide drug pathway|OGRPBCAM
+gliclazide pharmacodynamics pathway|OGRPBCAM
+gliclazide pharmacokinetics pathway|OGRPBCAM
+glioma pathway|OGRPBCAM
+global genome nucleotide-excision repair pathway|OGRPBCAM
+globoside metabolic pathway|OGRPBCAM
+glomerulonephritis pathway|OGRPBCAM
+glucagon biosynthetic pathway|OGRPBCAM
+glucagon secretion pathway|OGRPBCAM
+glucagon signaling pathway|OGRPBCAM
+glucagon-like peptide-1 biosynthetic pathway|OGRPBCAM
+glucagon-like peptide-1 signaling pathway|OGRPBCAM
+glucagon-like peptide-2 biosynthetic pathway|OGRPBCAM
+glucocerebroside metabolic pathway|OGRPBCAM
+glucocorticoid biosynthetic pathway|OGRPBCAM
+glucocorticoid signaling pathway|OGRPBCAM
+gluconeogenesis pathway|OGRPBCAM
+glucose biosynthesis pathway|OGRPBCAM
+glucose conversion pathway|OGRPBCAM
+glucose homeostasis pathway|OGRPBCAM
+glucose metabolic pathway|OGRPBCAM
+glucose metabolism disease pathway|OGRPBCAM
+glucose oxidation pathway|OGRPBCAM
+glucose reduction pathway|OGRPBCAM
+glucose storage pathway|OGRPBCAM
+glucose transport pathway|OGRPBCAM
+glucose utilization pathway|OGRPBCAM
+glucose-dependent insulinotropic peptide signaling pathway|OGRPBCAM
+glucuronidation conjugation pathway|OGRPBCAM
+glutamate degradation pathway I|OGRPBCAM
+glutamate degradation pathway II|OGRPBCAM
+glutamate degradation pathway III|OGRPBCAM
+glutamate degradation pathway IV|OGRPBCAM
+glutamate degradation pathway IX|OGRPBCAM
+glutamate degradation pathway V|OGRPBCAM
+glutamate degradation pathway VI|OGRPBCAM
+glutamate degradation pathway VII|OGRPBCAM
+glutamate degradation pathway VIII|OGRPBCAM
+glutamate fermentation pathway|OGRPBCAM
+glutamate signaling pathway|OGRPBCAM
+glutamate signaling pathway via AMPA receptor|OGRPBCAM
+glutamate signaling pathway via NMDA receptor|OGRPBCAM
+glutamate signaling pathway via group I metabotropic glutamate receptor|OGRPBCAM
+glutamate signaling pathway via group II or III glutamate receptor|OGRPBCAM
+glutamate signaling pathway via metabotropic glutamate receptor|OGRPBCAM
+glutamic acid/glutamate biosynthetic pathway|OGRPBCAM
+glutamic acid/glutamate degradation pathway|OGRPBCAM
+glutamic acid/glutamate metabolic pathway|OGRPBCAM
+glutamine metabolic pathway|OGRPBCAM
+glutaric aciduria type I pathway|OGRPBCAM
+glutathione antioxidant pathway|OGRPBCAM
+glutathione biosynthetic pathway|OGRPBCAM
+glutathione conjugates processing - the mercapturic acid pathway|OGRPBCAM
+glutathione conjugation pathway|OGRPBCAM
+glutathione metabolic pathway|OGRPBCAM
+glutathione synthase deficiency pathway|OGRPBCAM
+glutathionuria disease pathway|OGRPBCAM
+glyburide drug pathway|OGRPBCAM
+glyburide pharmacodynamics pathway|OGRPBCAM
+glyburide pharmacokinetics pathway|OGRPBCAM
+glycan metabolic pathway|OGRPBCAM
+glycerol kinase deficiency pathway|OGRPBCAM
+glycerolipid metabolic pathway|OGRPBCAM
+glycerophospholipid degradation pathway|OGRPBCAM
+glycerophospholipid metabolic pathway|OGRPBCAM
+glycine N-methyltransferase deficiency pathway|OGRPBCAM
+glycine biosynthetic pathway|OGRPBCAM
+glycine degradation pathway|OGRPBCAM
+glycine metabolic pathway|OGRPBCAM
+glycine signaling pathway|OGRPBCAM
+glycine, serine and threonine metabolic pathway|OGRPBCAM
+glycoconjugated protein signaling pathway|OGRPBCAM
+glycogen biosynthetic pathway|OGRPBCAM
+glycogen degradation pathway|OGRPBCAM
+glycogen metabolic pathway|OGRPBCAM
+glycogen storage disease  type Ia pathway|OGRPBCAM
+glycogen storage disease pathway|OGRPBCAM
+glycogen storage disease type 0 pathway|OGRPBCAM
+glycogen storage disease type II pathway|OGRPBCAM
+glycogen storage disease type III pathway|OGRPBCAM
+glycogen storage disease type IV pathway|OGRPBCAM
+glycogen storage disease type Ib pathway|OGRPBCAM
+glycogen storage disease type VI pathway|OGRPBCAM
+glycogen storage disease type VII pathway|OGRPBCAM
+glycogen storage disease type XV pathway|OGRPBCAM
+glycolysis pathway|OGRPBCAM
+glycolysis/gluconeogenesis pathway|OGRPBCAM
+glycoprotein signaling pathway|OGRPBCAM
+glycosaminoglycan biosynthetic pathway|OGRPBCAM
+glycosaminoglycan degradation pathway|OGRPBCAM
+glycosaminoglycan metabolic pathway|OGRPBCAM
+glycosphingolipid metabolic pathway|OGRPBCAM
+glycosylphosphatidylinositol anchor biosynthetic pathway|OGRPBCAM
+glyoxalase metabolic pathway|OGRPBCAM
+glyoxylate and dicarboxylate metabolic pathway|OGRPBCAM
+glypican signaling pathway|OGRPBCAM
+gonadotropin-releasing hormone signaling pathway|OGRPBCAM
+gout pathway|OGRPBCAM
+graft-versus-host disease pathway|OGRPBCAM
+granulocyte-macrophage colony-stimulating factor signaling pathway|OGRPBCAM
+growth factor signaling pathway|OGRPBCAM
+growth hormone signaling pathway|OGRPBCAM
+guanidinoacetate methyltransferase deficiency pathway|OGRPBCAM
+guanosine diphosphate mannose biosynthetic pathway|OGRPBCAM
+guanosine diphosphate mannose metabolic pathway|OGRPBCAM
+gyrate atrophy pathway|OGRPBCAM
+has_alternative_id|OGRPBCAM
+has_exact_synonym|OGRPBCAM
+has_obo_format_version|OGRPBCAM
+has_obo_namespace|OGRPBCAM
+has_related_synonym|OGRPBCAM
+hawkinsinuria pathway|OGRPBCAM
+head and neck cancer pathway|OGRPBCAM
+hematopoiesis pathway|OGRPBCAM
+heme biosynthetic pathway|OGRPBCAM
+heme degradation pathway|OGRPBCAM
+heme metabolic pathway|OGRPBCAM
+heme transport pathway|OGRPBCAM
+hemostasis pathway|OGRPBCAM
+heparan sulfate biosynthetic pathway|OGRPBCAM
+heparan sulfate degradation pathway|OGRPBCAM
+heparan sulfate metabolic pathway|OGRPBCAM
+heparin biosynthetic pathway|OGRPBCAM
+heparin degradation pathway|OGRPBCAM
+heparin drug pathway|OGRPBCAM
+heparin group drug pathway|OGRPBCAM
+heparin metabolic pathway|OGRPBCAM
+heparin pharmacodynamics pathway|OGRPBCAM
+heparin pharmacokinetics pathway|OGRPBCAM
+heparin-antithrombin pathway|OGRPBCAM
+hepatic porphyria pathway|OGRPBCAM
+hepatitis B virus infection pathway|OGRPBCAM
+hepatitis C pathway|OGRPBCAM
+hepoxilin biosynthetic pathway|OGRPBCAM
+hereditary central nervous system demyelinating disease pathway|OGRPBCAM
+hereditary coproporphyria pathway|OGRPBCAM
+hereditary folate malabsorption pathway|OGRPBCAM
+hereditary fructose intolerance syndrome pathway|OGRPBCAM
+heroin drug pathway|OGRPBCAM
+heroin pharmacodynamics pathway|OGRPBCAM
+heroin pharmacokinetics pathway|OGRPBCAM
+heterotrimeric G protein mediated signaling pathway|OGRPBCAM
+hexosamine biosynthetic pathway|OGRPBCAM
+hexosamine metabolic pathway|OGRPBCAM
+histamine biosynthetic pathway|OGRPBCAM
+histamine metabolic pathway|OGRPBCAM
+histamine signaling pathway|OGRPBCAM
+histamine signaling pathway, immunological|OGRPBCAM
+histamine signaling pathway, neuronal|OGRPBCAM
+histidine biosynthetic pathway|OGRPBCAM
+histidine degradation pathway|OGRPBCAM
+histidine metabolic pathway|OGRPBCAM
+histidinemia pathway|OGRPBCAM
+histone modification pathway|OGRPBCAM
+holocarboxylase synthetase deficiency pathway|OGRPBCAM
+homeostasis pathway|OGRPBCAM
+homocarnosinosis pathway|OGRPBCAM
+homocysteine metabolic pathway|OGRPBCAM
+homocystinuria pathway|OGRPBCAM
+homologous recombination pathway of double-strand break repair|OGRPBCAM
+hormone signaling pathway|OGRPBCAM
+human T-lymphotropic virus type 1 infection pathway|OGRPBCAM
+humoral immunity pathway|OGRPBCAM
+hyaluronan biosynthetic pathway|OGRPBCAM
+hyaluronan degradation pathway|OGRPBCAM
+hyaluronan metabolic pathway|OGRPBCAM
+hydrochlorothiazide drug pathway|OGRPBCAM
+hydrochlorothiazide pharmacodynamics pathway|OGRPBCAM
+hydrochlorothiazide pharmacokinetics pathway|OGRPBCAM
+hydrocodone drug pathway|OGRPBCAM
+hydrocodone pharmacodynamics pathway|OGRPBCAM
+hydrocodone pharmacokinetics pathway|OGRPBCAM
+hydroflumethiazide drug pathway|OGRPBCAM
+hydroflumethiazide pharmacodynamics pathway|OGRPBCAM
+hydroflumethiazide pharmacokinetics pathway|OGRPBCAM
+hydrogen sulfide mediated signaling pathway|OGRPBCAM
+hydromorphone drug pathway|OGRPBCAM
+hydromorphone pharmacodynamics pathway|OGRPBCAM
+hydromorphone pharmacokinetics pathway|OGRPBCAM
+hydrophilic amino acid biosynthetic pathway|OGRPBCAM
+hydrophilic amino acid degradation pathway|OGRPBCAM
+hydrophilic amino acid metabolic pathway|OGRPBCAM
+hydrophobic amino acid biosynthetic pathway|OGRPBCAM
+hydrophobic amino acid degradation pathway|OGRPBCAM
+hydrophobic amino acid metabolic pathway|OGRPBCAM
+hyperargininemia pathway|OGRPBCAM
+hypercholesterolemia pathway|OGRPBCAM
+hyperhomocysteinemia pathway|OGRPBCAM
+hyperinsulinism pathway|OGRPBCAM
+hyperlysinemia pathway|OGRPBCAM
+hypermethioninemia pathway|OGRPBCAM
+hyperoxaluria pathway|OGRPBCAM
+hyperprolinemia type I pathway|OGRPBCAM
+hyperprolinemia type II pathway|OGRPBCAM
+hypertension pathway|OGRPBCAM
+hypertrophic cardiomyopathy pathway|OGRPBCAM
+hypoglycemia pathway|OGRPBCAM
+hypophosphatasia pathway|OGRPBCAM
+hypoxia inducible factor pathway|OGRPBCAM
+hypusinylation pathway|OGRPBCAM
+ibandronate drug pathway|OGRPBCAM
+ibandronate pharmacodynamics pathway|OGRPBCAM
+ibandronate pharmacokinetics pathway|OGRPBCAM
+ibuprofen drug pathway|OGRPBCAM
+ibuprofen pharmacodynamics pathway|OGRPBCAM
+ibuprofen pharmacokinetics pathway|OGRPBCAM
+ibutilide drug pathway|OGRPBCAM
+ibutilide pharmacodynamics pathway|OGRPBCAM
+ibutilide pharmacokinetics pathway|OGRPBCAM
+ifosfamide drug pathway|OGRPBCAM
+ifosfamide pharmacodynamics pathway|OGRPBCAM
+ifosfamide pharmacokinetics pathway|OGRPBCAM
+iminoglycinuria pathway|OGRPBCAM
+imipramine drug pathway|OGRPBCAM
+imipramine pharmacodynamics pathway|OGRPBCAM
+imipramine pharmacokinetics pathway|OGRPBCAM
+immune response pathway|OGRPBCAM
+immune system disease pathway|OGRPBCAM
+immunostimulant drug pathway|OGRPBCAM
+immunosuppressant drug pathway|OGRPBCAM
+inborn error amino acid transport disorder pathway|OGRPBCAM
+inborn error of amino acid metabolism pathway|OGRPBCAM
+inborn error of brain metabolic pathway|OGRPBCAM
+inborn error of carbohydrate metabolism pathway|OGRPBCAM
+inborn error of fructose metabolism pathway|OGRPBCAM
+inborn error of lipid metabolism pathway|OGRPBCAM
+inborn error of metabolism pathway|OGRPBCAM
+inborn error of metal metabolism pathway|OGRPBCAM
+inborn error of purine-pyrimidine metabolism pathway|OGRPBCAM
+inborn error of pyruvate metabolism pathway|OGRPBCAM
+inborn error of renal tubular transport pathway|OGRPBCAM
+inborn error of steroid metabolism pathway|OGRPBCAM
+inborn error of urea cycle pathway|OGRPBCAM
+inborn genetic disease pathway|OGRPBCAM
+indole and ipecac alkaloid biosynthetic pathway|OGRPBCAM
+indoleamine and related compounds biosynthetic pathway|OGRPBCAM
+indoleamine and related compounds metabolic pathway|OGRPBCAM
+indometacin drug pathway|OGRPBCAM
+indometacin pharmacodynamics pathway|OGRPBCAM
+indometacin pharmacokinetics pathway|OGRPBCAM
+infectious disease pathway|OGRPBCAM
+inflammatory bowel disease pathway|OGRPBCAM
+inflammatory response pathway|OGRPBCAM
+influenza A pathway|OGRPBCAM
+inhibitory neurotransmitter metabolic pathway|OGRPBCAM
+innate immune response pathway|OGRPBCAM
+inorganic chemical homeostasis pathway|OGRPBCAM
+inositol metabolic pathway|OGRPBCAM
+inositol phosphate metabolic pathway|OGRPBCAM
+insulin biosynthetic pathway|OGRPBCAM
+insulin receptor recycling pathway|OGRPBCAM
+insulin responsive facilitative sugar transporter mediated glucose transport pathway|OGRPBCAM
+insulin secretion pathway|OGRPBCAM
+insulin signaling pathway|OGRPBCAM
+insulin-like growth factor signaling pathway|OGRPBCAM
+integrin mediated cell-cell signaling pathway|OGRPBCAM
+integrin mediated cell-extracellular matrix signaling pathway|OGRPBCAM
+integrin mediated signaling pathway|OGRPBCAM
+interferon mediated signaling pathway|OGRPBCAM
+interleukin-1 family mediated signaling pathway|OGRPBCAM
+interleukin-1 signaling pathway|OGRPBCAM
+interleukin-10 family mediated signaling pathway|OGRPBCAM
+interleukin-11 signaling pathway|OGRPBCAM
+interleukin-12 family mediated signaling pathway|OGRPBCAM
+interleukin-12 signaling pathway|OGRPBCAM
+interleukin-15 signaling pathway|OGRPBCAM
+interleukin-17 family mediated signaling pathway|OGRPBCAM
+interleukin-17A signaling pathway|OGRPBCAM
+interleukin-17E signaling pathway|OGRPBCAM
+interleukin-17F signaling pathway|OGRPBCAM
+interleukin-18 signaling pathway|OGRPBCAM
+interleukin-19 signaling pathway|OGRPBCAM
+interleukin-2 family mediated signaling pathway|OGRPBCAM
+interleukin-2 signaling pathway|OGRPBCAM
+interleukin-20 signaling pathway|OGRPBCAM
+interleukin-21 signaling pathway|OGRPBCAM
+interleukin-22 signaling pathway|OGRPBCAM
+interleukin-23 signaling pathway|OGRPBCAM
+interleukin-24 signaling pathway|OGRPBCAM
+interleukin-26 signaling pathway|OGRPBCAM
+interleukin-27 signaling pathway|OGRPBCAM
+interleukin-28A signaling pathway|OGRPBCAM
+interleukin-28B signaling pathway|OGRPBCAM
+interleukin-29 signaling pathway|OGRPBCAM
+interleukin-3 signaling pathway|OGRPBCAM
+interleukin-3/interleukin-5/GM-CSF mediated signaling pathway|OGRPBCAM
+interleukin-33 signaling pathway|OGRPBCAM
+interleukin-35 signaling pathway|OGRPBCAM
+interleukin-4 signaling pathway|OGRPBCAM
+interleukin-5 signaling pathway|OGRPBCAM
+interleukin-6 family mediated signaling pathway|OGRPBCAM
+interleukin-6 signaling pathway|OGRPBCAM
+interleukin-7 signaling pathway|OGRPBCAM
+interleukin-9 signaling pathway|OGRPBCAM
+intermembrane space assembly pathway of mitochondrial protein import|OGRPBCAM
+interstrand cross link repair pathway|OGRPBCAM
+intestinal cancer pathway|OGRPBCAM
+intestinal disease pathway|OGRPBCAM
+intracrine fibroblast growth factor signaling pathway|OGRPBCAM
+intrinsic apoptotic pathway|OGRPBCAM
+ion homeostasis pathway|OGRPBCAM
+ion transport pathway|OGRPBCAM
+irbesartan drug pathway|OGRPBCAM
+irbesartan pharmacodynamics pathway|OGRPBCAM
+irbesartan pharmacokinetics pathway|OGRPBCAM
+irinotecan drug pathway|OGRPBCAM
+irinotecan pharmacodynamics pathway|OGRPBCAM
+irinotecan pharmacokinetics pathway|OGRPBCAM
+iron efflux pathway|OGRPBCAM
+iron homeostasis pathway|OGRPBCAM
+iron storage pathway|OGRPBCAM
+iron transport pathway|OGRPBCAM
+iron uptake pathway|OGRPBCAM
+iron utilization pathway|OGRPBCAM
+iron-sulfur cluster protein biogenesis pathway|OGRPBCAM
+isobutyryl-CoA dehydrogenase deficiency pathway|OGRPBCAM
+isoleucine biosynthetic pathway|OGRPBCAM
+isoleucine degradation pathway|OGRPBCAM
+isoleucine metabolic pathway|OGRPBCAM
+isoprenaline drug pathway|OGRPBCAM
+isoprenaline pharmacodynamics pathway|OGRPBCAM
+isoprenaline pharmacokinetics pathway|OGRPBCAM
+isoprenoid biosynthetic pathway|OGRPBCAM
+isoprenoid metabolic pathway|OGRPBCAM
+isovaleric acidemia pathway|OGRPBCAM
+isradipine drug pathway|OGRPBCAM
+isradipine pharmacodynamics pathway|OGRPBCAM
+isradipine pharmacokinetics pathway|OGRPBCAM
+kallikrein-kinin cascade pathway|OGRPBCAM
+kanamycin drug pathway|OGRPBCAM
+kanamycin pharmacodynamics pathway|OGRPBCAM
+kanamycin pharmacokinetics pathway|OGRPBCAM
+keratan sulfate biosynthetic pathway|OGRPBCAM
+keratan sulfate degradation pathway|OGRPBCAM
+keratan sulfate metabolic pathway|OGRPBCAM
+ketone bodies biosynthetic pathway|OGRPBCAM
+ketone bodies degradation pathway|OGRPBCAM
+ketone bodies metabolic pathway|OGRPBCAM
+ketoprofen drug pathway|OGRPBCAM
+ketoprofen pharmacodynamics pathway|OGRPBCAM
+ketoprofen pharmacokinetics pathway|OGRPBCAM
+ketorolac drug pathway|OGRPBCAM
+ketorolac pharmacodynamics pathway|OGRPBCAM
+ketorolac pharmacokinetics pathway|OGRPBCAM
+kidney disease pathway|OGRPBCAM
+kidney failure pathway|OGRPBCAM
+killed term|OGRPBCAM
+kinase mediated signaling pathway|OGRPBCAM
+kinin signaling pathway|OGRPBCAM
+kuru|OGRPBCAM
+kynurenine metabolic pathway|OGRPBCAM
+lactic acidosis pathway|OGRPBCAM
+lacto-series glycosphingolipid metabolic pathway|OGRPBCAM
+lactose biosynthetic pathway|OGRPBCAM
+lactose degradation pathway|OGRPBCAM
+lactose metabolic pathway|OGRPBCAM
+lamivudine drug pathway|OGRPBCAM
+lamivudine pharmacodynamics pathway|OGRPBCAM
+lamivudine pharmacokinetics pathway|OGRPBCAM
+lansoprazole drug pathway|OGRPBCAM
+lansoprazole pharmacodynamics pathway|OGRPBCAM
+lansoprazole pharmacokinetics pathway|OGRPBCAM
+lectin complement pathway|OGRPBCAM
+leptin system pathway|OGRPBCAM
+leucine biosynthetic pathway|OGRPBCAM
+leucine degradation pathway|OGRPBCAM
+leucine metabolic pathway|OGRPBCAM
+leukemia inhibitory factor signaling pathway|OGRPBCAM
+leukemia pathway|OGRPBCAM
+leukotriene C4 synthase deficiency pathway|OGRPBCAM
+leukotriene biosynthetic pathway|OGRPBCAM
+leukotriene metabolic pathway|OGRPBCAM
+leukotriene signaling pathway|OGRPBCAM
+levacetylmethadol drug pathway|OGRPBCAM
+levacetylmethadol pharmacodynamics pathway|OGRPBCAM
+levacetylmethadol pharmacokinetics pathway|OGRPBCAM
+levobunolol drug pathway|OGRPBCAM
+levobunolol pharmacodynamics pathway|OGRPBCAM
+levobunolol pharmacokinetics pathway|OGRPBCAM
+levobupivacaine drug pathway|OGRPBCAM
+levobupivacaine pharmacokinetics pathway|OGRPBCAM
+levobupivacaine phgarmacodynamics pathway|OGRPBCAM
+levorphanol drug pathway|OGRPBCAM
+levorphanol pharmacodynamics pathway|OGRPBCAM
+levorphanol pharmacokinetics pathway|OGRPBCAM
+lidocaine drug pathway|OGRPBCAM
+lidocaine pharmacodynamics pathway|OGRPBCAM
+lidocaine pharmacokinetics pathway|OGRPBCAM
+limonene and pinene degradation pathway|OGRPBCAM
+linoleic acid metabolic pathway|OGRPBCAM
+lipid hormone signaling pathway|OGRPBCAM
+lipid metabolic pathway|OGRPBCAM
+lipid metabolism disease pathway|OGRPBCAM
+lipid neurotransmitter metabolic pathway|OGRPBCAM
+lipid signaling pathway|OGRPBCAM
+lipoic acid metabolic pathway|OGRPBCAM
+lipoid congenital adrenal hyperplasia pathway|OGRPBCAM
+lipopolysaccharide biosynthetic pathway|OGRPBCAM
+lipoprotein metabolic pathway|OGRPBCAM
+lipoxin biosynthetic pathway|OGRPBCAM
+lipoxygenase mediated pathway of arachidonic acid metabolism|OGRPBCAM
+liquefactive necrosis pathway|OGRPBCAM
+lisinopril drug pathway|OGRPBCAM
+lisinopril pharmacodynamics pathway|OGRPBCAM
+lisinopril pharmacokinetics pathway|OGRPBCAM
+liver cancer pathway|OGRPBCAM
+liver disease pathway|OGRPBCAM
+lncRNA capping pathway|OGRPBCAM
+lncRNA maturation pathway|OGRPBCAM
+lncRNA polyadenylation pathway|OGRPBCAM
+lomitapide drug pathway|OGRPBCAM
+lomitapide pharmacodynamics pathway|OGRPBCAM
+lomitapide pharmacokinetics pathway|OGRPBCAM
+long non-coding RNA pathway|OGRPBCAM
+long term depression|OGRPBCAM
+long term potentiation|OGRPBCAM
+lornoxicam drug pathway|OGRPBCAM
+lornoxicam pharmacodynamics pathway|OGRPBCAM
+lornoxicam pharmacokinetics pathway|OGRPBCAM
+losartan drug pathway|OGRPBCAM
+losartan pharmacodynamics pathway|OGRPBCAM
+losartan pharmacokinetics pathway|OGRPBCAM
+losartan-gene, gene-chemical, gene-gene interaction pathway|OGRPBCAM
+lung cancer pathway|OGRPBCAM
+luteinizing hormone signaling pathway|OGRPBCAM
+lycopene biosynthetic pathway|OGRPBCAM
+lycopene metabolic pathway|OGRPBCAM
+lymphoid leukemia pathway|OGRPBCAM
+lysine biosynthetic pathway|OGRPBCAM
+lysine degradation pathway|OGRPBCAM
+lysine metabolic pathway|OGRPBCAM
+lysinuric protein intolerance pathway|OGRPBCAM
+lysosomal storage disease pathway|OGRPBCAM
+lysosomes based pathway of protein degradation|OGRPBCAM
+mRNA decay pathway|OGRPBCAM
+mRNA maturation pathway|OGRPBCAM
+mRNA nuclear export pathway|OGRPBCAM
+mTOR signaling pathway|OGRPBCAM
+magnesium salicylate drug pathway|OGRPBCAM
+magnesium salicylate pharmacodynamics pathway|OGRPBCAM
+magnesium salicylate pharmacokinetics pathway|OGRPBCAM
+malabsorption syndrome pathway|OGRPBCAM
+malaria pathway|OGRPBCAM
+malonic aciduria pathway|OGRPBCAM
+maple syrup urine disease pathway|OGRPBCAM
+maturity-onset diabetes of the young pathway|OGRPBCAM
+measles pathway|OGRPBCAM
+mechanotransduction pathway|OGRPBCAM
+medium chain acyl-CoA dehydrogenase deficiency pathway|OGRPBCAM
+mefenamic acid drug pathway|OGRPBCAM
+mefenamic acid pharmacodynamics pathway|OGRPBCAM
+mefenamic acid pharmacokinetics pathway|OGRPBCAM
+melanin biosynthetic pathway|OGRPBCAM
+melanocortin system pathway|OGRPBCAM
+melanoma pathway|OGRPBCAM
+melatonin signaling pathway|OGRPBCAM
+meloxicam drug pathway|OGRPBCAM
+meloxicam pharmacodynamics pathway|OGRPBCAM
+meloxicam pharmacokinetics pathway|OGRPBCAM
+mepivacaine drug pathway|OGRPBCAM
+mepivacaine pharmacodynamics pathway|OGRPBCAM
+mepivacaine pharmacokinetics pathway|OGRPBCAM
+mercaptolactate-cysteine disulfiduria pathway|OGRPBCAM
+mercaptopurine drug pathway|OGRPBCAM
+mercaptopurine pharmacodynamics pathway|OGRPBCAM
+mercaptopurine pharmacokinetics pathway|OGRPBCAM
+metabolic disease pathway|OGRPBCAM
+metabolic pathway of cofactors, vitamins, nutrients|OGRPBCAM
+metabolic pathway of other amino acids|OGRPBCAM
+metabolic pathway of secondary metabolites|OGRPBCAM
+metabolic pathway pertinent to the brain|OGRPBCAM
+metabolic syndrome X pathway|OGRPBCAM
+metachromatic leukodystrophy pathway|OGRPBCAM
+metal homeostasis pathway|OGRPBCAM
+metal ion transport pathway|OGRPBCAM
+metformin drug pathway|OGRPBCAM
+metformin pharmacodynamics pathway|OGRPBCAM
+metformin pharmacokinetics pathway|OGRPBCAM
+metformin-gene, gene-chemical, gene-gene interaction pathway|OGRPBCAM
+methadone drug pathway|OGRPBCAM
+methadone pharmacodynamics pathway|OGRPBCAM
+methadone pharmacokinetics pathway|OGRPBCAM
+methane metabolic pathway|OGRPBCAM
+methionine biosynthetic pathway|OGRPBCAM
+methionine cycle/metabolic pathway|OGRPBCAM
+methionine degradation pathway|OGRPBCAM
+methotrexate drug pathway|OGRPBCAM
+methotrexate pharmacodynamics pathway|OGRPBCAM
+methotrexate pharmacokinetics pathway|OGRPBCAM
+methylenetetrahydrofolate reductase deficiency pathway|OGRPBCAM
+methylmalonate semialdehyde dehydrogenase deficiency pathway|OGRPBCAM
+methylmalonic acidemia pathway|OGRPBCAM
+methylmalonic aciduria, cobalamin-related pathway|OGRPBCAM
+metolazone drug pathway|OGRPBCAM
+metolazone pharmacodynamics pathway|OGRPBCAM
+metolazone pharmacokinetics pathway|OGRPBCAM
+metoprolol drug pathway|OGRPBCAM
+metoprolol pharmacodynamics pathway|OGRPBCAM
+metoprolol pharmacokinetics pathway|OGRPBCAM
+mevalonic aciduria pathway|OGRPBCAM
+mexiletine drug pathway|OGRPBCAM
+mexiletine pharmacodynamics pathway|OGRPBCAM
+mexiletine pharmacokinetics pathway|OGRPBCAM
+microRNA pathway|OGRPBCAM
+microautophagy pathway|OGRPBCAM
+micropinocytosis pathway|OGRPBCAM
+mineralocorticoid biosynthetic pathway|OGRPBCAM
+mineralocorticoid signaling pathway|OGRPBCAM
+mismatch repair pathway|OGRPBCAM
+mitochondria dynamics pathway|OGRPBCAM
+mitochondria fission pathway|OGRPBCAM
+mitochondria fusion pathway|OGRPBCAM
+mitochondria homeostasis pathway|OGRPBCAM
+mitochondria transport pathway|OGRPBCAM
+mitochondrial DNA replication pathway|OGRPBCAM
+mitochondrial aminoacyl-tRNA biosynthetic pathway|OGRPBCAM
+mitochondrial autophagy pathway|OGRPBCAM
+mitochondrial calcium ion transport pathway|OGRPBCAM
+mitochondrial complex I deficiency pathway|OGRPBCAM
+mitochondrial complex II deficiency pathway|OGRPBCAM
+mitochondrial complex III deficiency pathway|OGRPBCAM
+mitochondrial disease pathway|OGRPBCAM
+mitochondrial encephalomyopathy pathway|OGRPBCAM
+mitochondrial iron-sulfur cluster export pathway|OGRPBCAM
+mitochondrial iron-sulfur cluster protein biogenesis pathway|OGRPBCAM
+mitochondrial neurogastrointestinal encephalopathy syndrome pathway|OGRPBCAM
+mitochondrial protein import pathway|OGRPBCAM
+mitochondrial ribosome biogenesis pathway|OGRPBCAM
+mitochondrial tRNA modification pathway|OGRPBCAM
+mitochondrial transcription pathway|OGRPBCAM
+mitochondrial translation initiation pathway|OGRPBCAM
+mitochondrial translation pathway|OGRPBCAM
+mitochondrial translation termination pathway|OGRPBCAM
+mitochondrial unfolded protein response pathway|OGRPBCAM
+mitogen activated protein kinase signaling pathway|OGRPBCAM
+mitotic anaphase pathway|OGRPBCAM
+mitotic metaphase pathway|OGRPBCAM
+mitotic metaphase/anaphase transition pathway|OGRPBCAM
+mitotic prometaphase pathway|OGRPBCAM
+mitotic prophase pathway|OGRPBCAM
+mitotic sister chromatid segregation pathway|OGRPBCAM
+mitotic spindle checkpoint pathway|OGRPBCAM
+mitotic telophase pathway|OGRPBCAM
+moexipril drug pathway|OGRPBCAM
+moexipril pharmacodynamics pathway|OGRPBCAM
+moexipril pharmacokinetics pathway|OGRPBCAM
+molybdenum cofactor biosynthetic pathway|OGRPBCAM
+molybdenum cofactor deficiency pathway|OGRPBCAM
+momilactone biosynthetic pathway|OGRPBCAM
+monoamine transport pathway|OGRPBCAM
+monoclonal antibody drug pathway|OGRPBCAM
+monoterpene biosynthetic pathway|OGRPBCAM
+monoterpenoid biosynthetic pathway|OGRPBCAM
+morphine addiction pathway|OGRPBCAM
+movement disorder pathway|OGRPBCAM
+mucopolysaccharidoses pathway|OGRPBCAM
+multidrug resistance protein mediated transport pathway|OGRPBCAM
+multidrug resistance-associated protein mediated transport pathway|OGRPBCAM
+multiple carboxylase deficiency pathway|OGRPBCAM
+multispecific organic anion transporter mediated transport pathway|OGRPBCAM
+muscle contraction pathway|OGRPBCAM
+muscle hypertonia disorder pathway|OGRPBCAM
+muscle hypotonia disorder pathway|OGRPBCAM
+muscle spasticity disorder pathway|OGRPBCAM
+muscular disease pathway|OGRPBCAM
+musculo-skeletal system drug pathway|OGRPBCAM
+musculoskeletal disease pathway|OGRPBCAM
+mycophenolic acid drug pathway|OGRPBCAM
+mycophenolic acid pharmacodynamics pathway|OGRPBCAM
+mycophenolic acid pharmacokinetics pathway|OGRPBCAM
+myeloid leukemia pathway|OGRPBCAM
+myocardial infarction pathway|OGRPBCAM
+myocarditis pathway|OGRPBCAM
+nabumetone drug pathway|OGRPBCAM
+nabumetone pharmacodynamics pathway|OGRPBCAM
+nabumetone pharmacokinetics pathway|OGRPBCAM
+nadolol drug pathway|OGRPBCAM
+nadolol pharmacodynamics pathway|OGRPBCAM
+nadolol pharmacokinetics pathway|OGRPBCAM
+nalbuphine drug pathway|OGRPBCAM
+nalbuphine pharmacodynamics pathway|OGRPBCAM
+nalbuphine pharmacokinetics pathway|OGRPBCAM
+naloxone drug pathway|OGRPBCAM
+naloxone pharmacodynamics pathway|OGRPBCAM
+naloxone pharmacokinetics pathway|OGRPBCAM
+naltrexone drug pathway|OGRPBCAM
+naltrexone pharmacodynamics pathway|OGRPBCAM
+naltrexone pharmacokinetics pathway|OGRPBCAM
+nanomaterial response pathway|OGRPBCAM
+naproxen drug pathway|OGRPBCAM
+naproxen pharmacodynamics pathway|OGRPBCAM
+naproxen pharmacokinetics pathway|OGRPBCAM
+narcolepsy pathway|OGRPBCAM
+nateglinide pharmacokinetics pathway|OGRPBCAM
+natriuretic peptide signaling pathway|OGRPBCAM
+natural anticoagulant pathway|OGRPBCAM
+nebivolol drug pathway|OGRPBCAM
+nebivolol pharmacodynamics pathway|OGRPBCAM
+nebivolol pharmacokinetics pathway|OGRPBCAM
+necroptosis pathway|OGRPBCAM
+necrosis pathway|OGRPBCAM
+neddylation pathway|OGRPBCAM
+nerve growth factor signaling pathway|OGRPBCAM
+nervous system and nerve tissue cancer pathway|OGRPBCAM
+nervous system disease pathway|OGRPBCAM
+nervous system drug pathway|OGRPBCAM
+nervous system lysosomal storage disease pathway|OGRPBCAM
+neurodegenerative pathway|OGRPBCAM
+neurodevelopmental disorder pathway|OGRPBCAM
+neurological disorder pathway|OGRPBCAM
+neuromuscular manifestation of disease pathway|OGRPBCAM
+neuron-to-neuron signaling pathway via the chemical synapse|OGRPBCAM
+neuron-to-neuron signaling pathway via the electrical synapse|OGRPBCAM
+neuron-to-neuron signaling pathways|OGRPBCAM
+neuronal secretory pathway|OGRPBCAM
+neuropeptide Y metabolic pathway|OGRPBCAM
+neuropsychiatric disease pathway|OGRPBCAM
+neurotensin metabolic pathway|OGRPBCAM
+neurotransmitter metabolic pathway|OGRPBCAM
+neurotrophic factor signaling pathway|OGRPBCAM
+neviparine drug pathway|OGRPBCAM
+neviparine pharmacodynamics pathway|OGRPBCAM
+neviparine pharmacokinetics pathway|OGRPBCAM
+niacin metabolic pathway|OGRPBCAM
+nicotinamide adenine dinucleotide biosynthesis, the salvage pathway|OGRPBCAM
+nicotinamide adenine dinucleotide biosynthetic pathway|OGRPBCAM
+nicotinamide adenine dinucleotide metabolic pathway|OGRPBCAM
+nicotinamide adenine nucleotide utilization pathway|OGRPBCAM
+nicotine addiction pathway|OGRPBCAM
+nicotine drug pathway|OGRPBCAM
+nicotine pharmacodynamics pathway|OGRPBCAM
+nicotine pharmacokinetics pathway|OGRPBCAM
+nicotine response pathway|OGRPBCAM
+nifedipine drug pathway|OGRPBCAM
+nifedipine pharmacodynamics pathway|OGRPBCAM
+nifedipine pharmacokinetics pathway|OGRPBCAM
+nimodipine drug pathway|OGRPBCAM
+nimodipine pharmacodynamics pathway|OGRPBCAM
+nimodipine pharmacokinetics pathway|OGRPBCAM
+nisoldipine drug pathway|OGRPBCAM
+nisoldipine pharmacodynamics pathway|OGRPBCAM
+nisoldipine pharmacokinetics pathway|OGRPBCAM
+nitrendipine drug pathway|OGRPBCAM
+nitrendipine pharmacodynamics pathway|OGRPBCAM
+nitrendipine pharmacokinetics pathway|OGRPBCAM
+nitric oxide mediated signaling pathway|OGRPBCAM
+nitrobenzene degradation pathway|OGRPBCAM
+nitrogen metabolic pathway|OGRPBCAM
+nitrogenous bisphosphanate pharmacokinetics pathway|OGRPBCAM
+nitrogenous bisphosphonate drug pathway|OGRPBCAM
+nitrogenous bisphosphonate pharmacodynamics pathway|OGRPBCAM
+nizatidine drug pathway|OGRPBCAM
+nizatidine pharmacodynamics pathway|OGRPBCAM
+nizatidine pharmacokinetics pathway|OGRPBCAM
+no-go mRNA decay pathway|OGRPBCAM
+non-apoptotic cell death pathway|OGRPBCAM
+non-coding RNA pathway|OGRPBCAM
+non-dihydropyridine calcium channel blocker drug pathway|OGRPBCAM
+non-homologous end joining pathway of double-strand break repair|OGRPBCAM
+non-metal ion transport pathway|OGRPBCAM
+non-nitrogenous bisphosphonate drug pathway|OGRPBCAM
+non-programmed cell death pathway|OGRPBCAM
+non-selective monoamine reuptake inhibitor drug pathway|OGRPBCAM
+non-small cell lung carcinoma pathway|OGRPBCAM
+non-visual phototransduction pathway|OGRPBCAM
+nonketotic hyperglycinemia pathway|OGRPBCAM
+nonsense-mediated mRNA decay pathway|OGRPBCAM
+nonstop mRNA decay pathway|OGRPBCAM
+norepinephrine biosynthetic pathway|OGRPBCAM
+norepinephrine degradation pathway|OGRPBCAM
+norepinephrine metabolic pathway|OGRPBCAM
+norepinephrine signaling pathway|OGRPBCAM
+norepinephrine signaling pathway via adrenergic receptor alpha 1|OGRPBCAM
+norepinephrine signaling pathway via adrenergic receptor alpha 2|OGRPBCAM
+norepinephrine signaling pathway via adrenergic receptor beta|OGRPBCAM
+novobiocin biosynthetic pathway|OGRPBCAM
+nuclear DNA replication pathway|OGRPBCAM
+nuclear factor kappa B signaling pathway|OGRPBCAM
+nuclear factor of activated T-cells signaling pathway|OGRPBCAM
+nuclear factor, erythroid 2 like 2 signaling pathway|OGRPBCAM
+nuclear protein transport pathway|OGRPBCAM
+nucleoside and nucleotide mediated signaling pathway|OGRPBCAM
+nucleosome assembly pathway|OGRPBCAM
+nucleotide biosynthetic pathway|OGRPBCAM
+nucleotide degradation pathway|OGRPBCAM
+nucleotide excision repair pathway|OGRPBCAM
+nucleotide metabolic pathway|OGRPBCAM
+nucleotide salvage pathway|OGRPBCAM
+nucleotide signaling via the purinergic P2Y receptors.|OGRPBCAM
+nucleotide sugar metabolic pathway|OGRPBCAM
+nucleotide sugar transport pathway|OGRPBCAM
+nutritional and metabolic disease pathway|OGRPBCAM
+nutritional disorder pathway|OGRPBCAM
+nystatin drug pathway|OGRPBCAM
+nystatin pharmacodynamics pathway|OGRPBCAM
+nystatin pharmacokinetics pathway|OGRPBCAM
+obesity pathway|OGRPBCAM
+octane oxidation pathway|OGRPBCAM
+ocular nonnephropathic cystinosis pathway|OGRPBCAM
+olmesartan drug pathway|OGRPBCAM
+olmesartan pharmacodynamics pathway|OGRPBCAM
+olmesartan pharmacokinetics pathway|OGRPBCAM
+omeprazole drug pathway|OGRPBCAM
+omeprazole pharmacodynamics pathway|OGRPBCAM
+omeprazole pharmacokinetics pathway|OGRPBCAM
+oncogene-induced cell senescence pathway|OGRPBCAM
+oncostatin M signaling pathway|OGRPBCAM
+opioid drug pathway|OGRPBCAM
+orexin/hypocretin signaling pathway|OGRPBCAM
+orexin/hypocretin signaling pathway via orexin/hypocretin receptor 1|OGRPBCAM
+orexin/hypocretin signaling pathway via orexin/hypocretin receptor 2|OGRPBCAM
+organic anion transport pathway|OGRPBCAM
+organic cation transport pathway|OGRPBCAM
+organic chemical homeostasis pathway|OGRPBCAM
+organismal aging pathway|OGRPBCAM
+organophosphate response pathway|OGRPBCAM
+ornithine carbamoyltransferase deficiency pathway|OGRPBCAM
+ornithine translocase deficiency pathway|OGRPBCAM
+orotic aciduria 1 pathway|OGRPBCAM
+orotic aciduria 2 pathway|OGRPBCAM
+orotic aciduria pathway|OGRPBCAM
+osteochondrodysplasia pathway|OGRPBCAM
+other antidepressant drug pathway|OGRPBCAM
+other antithrombotic drug pathway|OGRPBCAM
+ovarian cancer pathway|OGRPBCAM
+oxaliplatin drug pathway|OGRPBCAM
+oxeprenolol drug pathway|OGRPBCAM
+oxeprenolol pharmacodynamics pathway|OGRPBCAM
+oxeprenolol pharmacokinetics pathway|OGRPBCAM
+oxidative phosphorylation pathway|OGRPBCAM
+oxidative stress response pathway|OGRPBCAM
+oxybuprocaine drug pathway|OGRPBCAM
+oxybuprocaine pharmacodynamics pathway|OGRPBCAM
+oxybuprocaine pharmacokinetics pathway|OGRPBCAM
+oxycodone drug pathway|OGRPBCAM
+oxycodone pharmacodynamics pathway|OGRPBCAM
+oxycodone pharmacokinetics pathway|OGRPBCAM
+oxygen homeostasis pathway|OGRPBCAM
+oxymorphone drug pathway|OGRPBCAM
+oxymorphone pharmacodynamics pathway|OGRPBCAM
+oxymorphone pharmacokinetics pathway|OGRPBCAM
+oxyntomodulin biosynthetic pathway|OGRPBCAM
+oxytocin signaling pathway|OGRPBCAM
+ozone response pathway|OGRPBCAM
+p38 MAPK signaling pathway|OGRPBCAM
+p53 signaling pathway|OGRPBCAM
+p53-dependent G1/S DNA damage checkpoint pathway|OGRPBCAM
+p53-independent G1/S DNA damage checkpoint pathway|OGRPBCAM
+pH sensing signaling pathway|OGRPBCAM
+pamidronate drug pathway|OGRPBCAM
+pamidronate pharmacodynamics pathway|OGRPBCAM
+pamidronate pharmacokinetics pathway|OGRPBCAM
+pancreatic cancer pathway|OGRPBCAM
+panitumumab drug pathway|OGRPBCAM
+panitumumab pharmacodynamics pathway|OGRPBCAM
+panitumumab pharmacokinetics pathway|OGRPBCAM
+pantoprazole drug pathway|OGRPBCAM
+pantoprazole pharmacodynamics pathway|OGRPBCAM
+pantoprazole pharmacokinetics pathway|OGRPBCAM
+pantothenic acid metabolic pathway|OGRPBCAM
+paracetamol drug pathway|OGRPBCAM
+paracetamol pharmacokinetics pathway|OGRPBCAM
+paracetamol response pathway|OGRPBCAM
+paracrine fibroblast growth factor signaling pathway|OGRPBCAM
+paraquat response pathway|OGRPBCAM
+parathyroid cancer pathway|OGRPBCAM
+parathyroid hormone family signaling pathway|OGRPBCAM
+parathyroid hormone signaling pathway|OGRPBCAM
+parathyroid hormone-like hormone signaling pathway|OGRPBCAM
+part_of|OGRPBCAM
+pathogenic Escherichia coli infection pathway|OGRPBCAM
+pathway|OGRPBCAM
+pathway pertinent to DNA replication and repair, cell cycle, maintenance of genomic integrity, RNA and protein biosynthesis|OGRPBCAM
+pathway pertinent to protein folding, sorting, modification, translocation and degradation|OGRPBCAM
+pattern recognition receptor mediated signaling pathway|OGRPBCAM
+pazopanib drug pathway|OGRPBCAM
+pazopanib pharmacodynamics pathway|OGRPBCAM
+pazopanib pharmacokinetics pathway|OGRPBCAM
+pemetrexed drug pathway|OGRPBCAM
+pemetrexed pharmacodynamics pathway|OGRPBCAM
+pemetrexed pharmacokinetics pathway|OGRPBCAM
+penbutolol drug pathway|OGRPBCAM
+penbutolol pharmacodynamics pathway|OGRPBCAM
+penbutolol pharmacokinetics pathway|OGRPBCAM
+penicillins and cephalosporins biosynthetic pathway|OGRPBCAM
+pentazocine drug pathway|OGRPBCAM
+pentazocine pharmacodynamics pathway|OGRPBCAM
+pentazocine pharmacokinetics pathway|OGRPBCAM
+pentose and glucuronate interconversion pathway|OGRPBCAM
+pentose phosphate pathway|OGRPBCAM
+pentose phosphate pathway - non-oxidative phase|OGRPBCAM
+pentose phosphate pathway - oxidative phase|OGRPBCAM
+peptide and protein hormone metabolic pathway|OGRPBCAM
+peptide and protein hormone signaling pathway|OGRPBCAM
+peptide and protein metabolic pathway|OGRPBCAM
+peptide neurotransmitter metabolic pathway|OGRPBCAM
+peptidoglycan biosynthetic pathway|OGRPBCAM
+perindopril drug pathway|OGRPBCAM
+perindopril pharmacodynamics pathway|OGRPBCAM
+perindopril pharmacokinetics pathway|OGRPBCAM
+peripheral dopamine signaling pathway|OGRPBCAM
+peroxiredoxin antioxidant pathway|OGRPBCAM
+peroxisome proliferator-activated receptor signaling pathway|OGRPBCAM
+phagocytosis pathway|OGRPBCAM
+phase I biotransformation pathway|OGRPBCAM
+phase I biotransformation pathway via cytochrome P450|OGRPBCAM
+phase II biotransformation pathway|OGRPBCAM
+phenindione drug pathway|OGRPBCAM
+phenindione pharmacodynamics pathway|OGRPBCAM
+phenindione pharmacokinetics pathway|OGRPBCAM
+phenylalanine biosynthetic pathway|OGRPBCAM
+phenylalanine degradation pathway|OGRPBCAM
+phenylalanine metabolic pathway|OGRPBCAM
+phenylalanine, tyrosine and tryptophan biosynthetic pathway|OGRPBCAM
+phenylketonuria pathway|OGRPBCAM
+phenytoin drug pathway|OGRPBCAM
+phenytoin pharmacodynamics pathway|OGRPBCAM
+phenytoin pharmacokinetics pathway|OGRPBCAM
+phosphatase mediated signaling pathway|OGRPBCAM
+phosphate homeostasis pathway|OGRPBCAM
+phosphate transport pathway|OGRPBCAM
+phosphatidylcholine biosynthetic pathway|OGRPBCAM
+phosphatidylcholine metabolic pathway|OGRPBCAM
+phosphatidylglycerol metabolic pathway|OGRPBCAM
+phosphatidylinositol 3-kinase class I signaling pathway|OGRPBCAM
+phosphatidylinositol 3-kinase class II signaling pathway|OGRPBCAM
+phosphatidylinositol 3-kinase class III signaling pathway|OGRPBCAM
+phosphatidylinositol 3-kinase signaling pathway|OGRPBCAM
+phosphatidylinositol 3-kinase-Akt signaling pathway|OGRPBCAM
+phosphatidylinositol metabolic pathway|OGRPBCAM
+phosphatidylserine metabolic pathway|OGRPBCAM
+phosphoenolpyruvate carboxykinase deficiency pathway|OGRPBCAM
+phosphoinositide metabolic pathway|OGRPBCAM
+phospholipid metabolic pathway|OGRPBCAM
+phosphonate and phosphinate metabolic pathway|OGRPBCAM
+photosignal transduction pathway|OGRPBCAM
+photosynthesis pathway|OGRPBCAM
+phytanic acid degradation pathway|OGRPBCAM
+pindolol drug pathway|OGRPBCAM
+pindolol pharmacodynamics pathway|OGRPBCAM
+pindolol pharmacokinetics pathway|OGRPBCAM
+pirenzepine drug pathway|OGRPBCAM
+pirenzepine pharmacodynamics pathway|OGRPBCAM
+pirenzepine pharmacokinetics pathway|OGRPBCAM
+piroxicam drug pathway|OGRPBCAM
+piroxicam pharmacodynamics pathway|OGRPBCAM
+piroxicam pharmacokinetics pathway|OGRPBCAM
+plasmalogen biosynthetic pathway|OGRPBCAM
+plasmalogen metabolic pathway|OGRPBCAM
+platelet aggregation pathway|OGRPBCAM
+platelet-derived growth factor signaling pathway|OGRPBCAM
+platinum (Pt) containing drug pathway|OGRPBCAM
+platinum (Pt) containing drug response pathway|OGRPBCAM
+plevitrexed drug pathway|OGRPBCAM
+plevitrexed pharmacodynamics pathway|OGRPBCAM
+plevitrexed pharmacokinetics pathway|OGRPBCAM
+polyamine metabolic pathway|OGRPBCAM
+polycyclic aromatic hydrocarbon metabolic pathway|OGRPBCAM
+polyglutamine repeat pathway|OGRPBCAM
+polyketide sugar biosynthetic pathway|OGRPBCAM
+polyketides biosynthetic pathway|OGRPBCAM
+polyol pathway|OGRPBCAM
+porphyria pathway|OGRPBCAM
+porphyrin and chlorophyll metabolic pathway|OGRPBCAM
+porphyrin metabolic pathway|OGRPBCAM
+post-translational protein modification pathway|OGRPBCAM
+postsynaptic differentiation pathway|OGRPBCAM
+potassium channel inhibitors pharmacodynamics pathway|OGRPBCAM
+pralatrexate drug pathway|OGRPBCAM
+pralatrexate pharmacodynamics pathway|OGRPBCAM
+pralatrexate pharmacokinetics pathway|OGRPBCAM
+prednisolone drug pathway|OGRPBCAM
+prednisolone pharmacodynamics pathway|OGRPBCAM
+prednisolone pharmacokinetics pathway|OGRPBCAM
+prednisone drug pathway|OGRPBCAM
+prednisone pharmacodynamics pathway|OGRPBCAM
+prednisone pharmacokinetics pathway|OGRPBCAM
+preproglucagon processing pathway|OGRPBCAM
+presequence pathway of mitochondrial protein import|OGRPBCAM
+presynaptic differentiation pathway|OGRPBCAM
+prilocaine drug pathway|OGRPBCAM
+prilocaine pharmacodynamics pathway|OGRPBCAM
+prilocaine pharmacokinetics pathway|OGRPBCAM
+primary bile acid biosynthetic pathway|OGRPBCAM
+primary hyperoxaluria pathway|OGRPBCAM
+primary hyperoxaluria type 1 pathway|OGRPBCAM
+primary hyperoxaluria type 2 pathway|OGRPBCAM
+primary immunodeficiency pathway|OGRPBCAM
+prion disease pathway|OGRPBCAM
+pro-inflammatory cytokine mediated pathway|OGRPBCAM
+procainamide drug pathway|OGRPBCAM
+procainamide pharmacodynamics pathway|OGRPBCAM
+procainamide pharmacokinetics pathway|OGRPBCAM
+procainamide response pathway|OGRPBCAM
+procaine drug pathway|OGRPBCAM
+procaine pharmacodynamics pathway|OGRPBCAM
+procaine pharmacokinetics pathway|OGRPBCAM
+programmed cell death pathway|OGRPBCAM
+prokaryotic RNA polymerase transcription pathway|OGRPBCAM
+prolactin signaling pathway|OGRPBCAM
+prolidase deficiency pathway|OGRPBCAM
+proline degradation pathway|OGRPBCAM
+proline metabolic pathway|OGRPBCAM
+propanoate metabolic pathway|OGRPBCAM
+propionic acidemia pathway|OGRPBCAM
+propionyl-CoA degradation pathway|OGRPBCAM
+propranolol drug pathway|OGRPBCAM
+propranolol pharmacodynamics pathway|OGRPBCAM
+propranolol pharmacokinetics pathway|OGRPBCAM
+prostacyclin biosynthetic pathway|OGRPBCAM
+prostacyclin metabolic pathway|OGRPBCAM
+prostacyclin signaling pathway|OGRPBCAM
+prostaglandin D2 signaling pathway|OGRPBCAM
+prostaglandin E2 signaling pathway|OGRPBCAM
+prostaglandin F2alpha signaling pathway|OGRPBCAM
+prostaglandin I2 signaling pathway|OGRPBCAM
+prostaglandin biosynthetic pathway|OGRPBCAM
+prostaglandin metabolic pathway|OGRPBCAM
+prostaglandin signaling pathway|OGRPBCAM
+prostanoid biosynthetic pathway|OGRPBCAM
+prostanoid metabolic pathway|OGRPBCAM
+prostanoid signaling pathway|OGRPBCAM
+prostate cancer pathway|OGRPBCAM
+protease mediated signaling pathway|OGRPBCAM
+protease mediated signaling via protease-activated receptor 1|OGRPBCAM
+protease mediated signaling via protease-activated receptor 2|OGRPBCAM
+protease mediated signaling via protease-activated receptor 3|OGRPBCAM
+protease mediated signaling via protease-activated receptor 4|OGRPBCAM
+proteasome degradation pathway involving cullin-dependent ubiquitin ligases|OGRPBCAM
+protein C anticoagulant pathway|OGRPBCAM
+protein O-linked glycosylation pathway|OGRPBCAM
+protein degradation pathway|OGRPBCAM
+protein degradation pathway via the 'core' 20S proteasome pathway|OGRPBCAM
+protein disulphide bond formation pathway|OGRPBCAM
+protein exocytosis pathway|OGRPBCAM
+protein folding pathway|OGRPBCAM
+protein kinase A (PKA) signaling pathway|OGRPBCAM
+protein kinase C (PKC) signaling pathway|OGRPBCAM
+protein methylation pathway|OGRPBCAM
+protein modification pathway|OGRPBCAM
+protein modification pathway in the secretory pathway|OGRPBCAM
+protein modification pathway via conjugation with ubiquitin and ubiqutin-like molecules|OGRPBCAM
+protein repair pathway|OGRPBCAM
+protein secretory pathway|OGRPBCAM
+protein sorting pathway|OGRPBCAM
+protein transport pathway|OGRPBCAM
+proteoglycan signaling pathway|OGRPBCAM
+protocadherin signaling pathway|OGRPBCAM
+proton pump inhibitor drug pathway|OGRPBCAM
+psychostimulant drug pathway|OGRPBCAM
+purine biosynthetic pathway|OGRPBCAM
+purine degradation pathway|OGRPBCAM
+purine metabolic pathway|OGRPBCAM
+purine nucleoside phosphorylase deficiency pathway|OGRPBCAM
+purine salvage pathway|OGRPBCAM
+puromycin biosynthetic pathway|OGRPBCAM
+putrescine metabolic pathway|OGRPBCAM
+pyridine nucleotide biosynthetic pathway|OGRPBCAM
+pyrimidine biosynthetic pathway|OGRPBCAM
+pyrimidine degradation pathway|OGRPBCAM
+pyrimidine metabolic pathway|OGRPBCAM
+pyrimidine salvage pathway|OGRPBCAM
+pyroptosis pathway|OGRPBCAM
+pyruvate carboxylase deficiency pathway|OGRPBCAM
+pyruvate decarboxylase deficiency pathway|OGRPBCAM
+pyruvate dehydrogenase E1 deficiency pathway|OGRPBCAM
+pyruvate dehydrogenase E2 deficiency pathway|OGRPBCAM
+pyruvate dehydrogenase E3 deficiency pathway|OGRPBCAM
+pyruvate kinase deficiency of red cells pathway|OGRPBCAM
+pyruvate metabolic pathway|OGRPBCAM
+quinapril drug pathway|OGRPBCAM
+quinapril pharmacodynamics pathway|OGRPBCAM
+quinapril pharmacokinetics pathway|OGRPBCAM
+quinidine drug pathway|OGRPBCAM
+quinidine pharmacodynamics pathway|OGRPBCAM
+quinidine pharmacokinetics pathway|OGRPBCAM
+rRNA decay pathway|OGRPBCAM
+rRNA maturation pathway|OGRPBCAM
+rRNA modification pathway|OGRPBCAM
+rRNA nuclear export pathway|OGRPBCAM
+rabeprazole drug pathway|OGRPBCAM
+rabeprazole pharmacodynamics pathway|OGRPBCAM
+rabeprazole pharmacokinetics pathway|OGRPBCAM
+radical SAM enzyme mediated RNA processing pathway|OGRPBCAM
+radical SAM enzyme mediated metabolic pathway|OGRPBCAM
+radical mediated signaling pathway|OGRPBCAM
+ramipril drug pathway|OGRPBCAM
+ramipril pharmacodynamics pathway|OGRPBCAM
+ramipril pharmacokinetics pathway|OGRPBCAM
+ranitidine drug pathway|OGRPBCAM
+ranitidine pharmacodynamics pathway|OGRPBCAM
+ranitidine pharmacokinetics pathway|OGRPBCAM
+receptor for advanced glycation end-products signaling pathway|OGRPBCAM
+recycling export pathway|OGRPBCAM
+reductive carboxylate cycle - CO2 fixation pathway|OGRPBCAM
+regulated exocytosis pathway|OGRPBCAM
+regulated protein secretory pathway|OGRPBCAM
+regulation of mitotic cell cycle pathway|OGRPBCAM
+regulatory pathway|OGRPBCAM
+regulatory pathway pertinent to the brain|OGRPBCAM
+remethylation pathway of homocysteine metabolism - cobalamin dependent|OGRPBCAM
+remethylation pathway of homocysteine metabolism - cobalamin independent, betaine dependent|OGRPBCAM
+remifentanil drug pathway|OGRPBCAM
+remifentanil pharmacodynamics pathway|OGRPBCAM
+remifentanil pharmacokinetics pathway|OGRPBCAM
+renal cell carcinoma pathway|OGRPBCAM
+renin-angiotensin cascade pathway|OGRPBCAM
+renin-angiotensin system drug pathway|OGRPBCAM
+repaglinide pharmacokinetics pathway|OGRPBCAM
+respiratory system disease pathway|OGRPBCAM
+respiratory system drug pathway|OGRPBCAM
+respiratory tract cancer pathway|OGRPBCAM
+reteplase drug pathway|OGRPBCAM
+reteplase pharmacodynamics pathway|OGRPBCAM
+reteplase pharmacokinetics pathway|OGRPBCAM
+retinitis pigmentosa pathway|OGRPBCAM
+retinoic acid biosynthetic pathway|OGRPBCAM
+retinoic acid metabolic pathway|OGRPBCAM
+retinoic acid signaling pathway|OGRPBCAM
+retinoid cycle metabolic pathway|OGRPBCAM
+retinoid metabolic pathway|OGRPBCAM
+retinol mediated signaling pathway|OGRPBCAM
+retinol metabolic pathway|OGRPBCAM
+retrograde export pathway|OGRPBCAM
+retromer-mediated pathway|OGRPBCAM
+reverse cholesterol transport pathway|OGRPBCAM
+rheumatoid arthritis pathway|OGRPBCAM
+riboflavin metabolic pathway|OGRPBCAM
+ribose 5-phosphate isomerase deficiency pathway|OGRPBCAM
+ribosome biogenesis pathway|OGRPBCAM
+risedronate drug pathway|OGRPBCAM
+risedronate pharmacodynamics pathway|OGRPBCAM
+risedronate pharmacokinetics pathway|OGRPBCAM
+rivaroxaban drug pathway|OGRPBCAM
+rivaroxaban pharmacodynamics pathway|OGRPBCAM
+rivaroxaban pharmacokinetics pathway|OGRPBCAM
+ropivacaine drug pathway|OGRPBCAM
+ropivacaine pharmacodynamics pathway|OGRPBCAM
+ropivacaine pharmacokinetics pathway|OGRPBCAM
+rosiglitazone drug pathway|OGRPBCAM
+rosiglitazone pharmacodynamics pathway|OGRPBCAM
+rosiglitazone pharmacokinetics pathway|OGRPBCAM
+roxatidine acetate drug pathway|OGRPBCAM
+roxatidine acetate pharmacodynamics pathway|OGRPBCAM
+roxatidine acetate pharmacokinetics pathway|OGRPBCAM
+saccharopinuria pathway|OGRPBCAM
+salicylic acid drug pathway|OGRPBCAM
+salicylic acid pharmacodynamics pathway|OGRPBCAM
+salicylic acid pharmacokinetics pathway|OGRPBCAM
+sarcosinemia pathway|OGRPBCAM
+scatter factor/hepatocyte growth factor signaling pathway|OGRPBCAM
+schizophrenia pathway|OGRPBCAM
+secondary bile acid biosynthetic pathway|OGRPBCAM
+selectin signaling pathway|OGRPBCAM
+selective serotonin uptake inhibitor drug pathway|OGRPBCAM
+selenoamino acid metabolic pathway|OGRPBCAM
+selenocysteine biosynthetic pathway|OGRPBCAM
+sensory organ drug pathway|OGRPBCAM
+sensory system disease pathway|OGRPBCAM
+sensory system signaling pathway|OGRPBCAM
+serine metabolic pathway|OGRPBCAM
+serine pathway of formaldehyde assimilation|OGRPBCAM
+serine/threonine-specific kinase mediated signaling pathway|OGRPBCAM
+serine/threonine-specific phosphatase mediated signaling pathway|OGRPBCAM
+serotonin biosynthetic pathway|OGRPBCAM
+serotonin metabolic pathway|OGRPBCAM
+serotonin signaling pathway|OGRPBCAM
+serotonin signaling pathway via receptors engaging G alphai protein family|OGRPBCAM
+serotonin signaling pathway via receptors engaging G alphaq protein family|OGRPBCAM
+serotonin signaling pathway via receptors engaging G alphas protein family|OGRPBCAM
+serotonin signaling via receptor family 3|OGRPBCAM
+sex steroids signaling pathway|OGRPBCAM
+shikimate metabolic pathway|OGRPBCAM
+short-chain acyl-CoA dehydrogenase deficiency pathway|OGRPBCAM
+sialic acid storage disease pathway|OGRPBCAM
+signaling pathway|OGRPBCAM
+signaling pathway in the adaptive immune response|OGRPBCAM
+signaling pathway in the innate immune response|OGRPBCAM
+signaling pathway involving second messengers|OGRPBCAM
+signaling pathway pertinent to development|OGRPBCAM
+signaling pathway pertinent to immunity|OGRPBCAM
+signaling pathway pertinent to the brain and nervous system|OGRPBCAM
+single-strand DNA repair pathway|OGRPBCAM
+skin and connective tissue disease pathway|OGRPBCAM
+skin cancer pathway|OGRPBCAM
+skin disease pathway|OGRPBCAM
+sleeping sickness pathway|OGRPBCAM
+small cell lung carcinoma pathway|OGRPBCAM
+small non-coding RNA pathway|OGRPBCAM
+smooth muscle contraction pathway|OGRPBCAM
+sobetirome drug pathway|OGRPBCAM
+sodium salicylate drug pathway|OGRPBCAM
+sodium salicylate pharmacodynamics pathway|OGRPBCAM
+sodium salicylate pharmacokinetics pathway|OGRPBCAM
+sodium-glucose cotransporter mediated glucose transport pathway|OGRPBCAM
+somatostatin biosynthetic pathway|OGRPBCAM
+somatostatin signaling pathway|OGRPBCAM
+sorafenib drug pathway|OGRPBCAM
+sorafenib pharmacodynamics pathway|OGRPBCAM
+sorafenib pharmacokinetics pathway|OGRPBCAM
+sotalol drug pathway|OGRPBCAM
+sotalol pharmacodynamics pathway|OGRPBCAM
+sotalol pharmacokinetics pathway|OGRPBCAM
+special amino acid metabolic pathway|OGRPBCAM
+spermidine metabolic pathway|OGRPBCAM
+spermine metabolic pathway|OGRPBCAM
+sphingolipid biosynthetic pathway|OGRPBCAM
+sphingolipid degradation pathway|OGRPBCAM
+sphingolipid metabolic pathway|OGRPBCAM
+sphingolipidosis pathway|OGRPBCAM
+sphingomyelin metabolic pathway|OGRPBCAM
+sphingosine 1-phosphate signaling pathway|OGRPBCAM
+spinocerebellar ataxia pathway|OGRPBCAM
+spirapril drug pathway|OGRPBCAM
+spirapril pharmacodynamics pathway|OGRPBCAM
+spirapril pharmacokinetics pathway|OGRPBCAM
+spironolactone drug pathway|OGRPBCAM
+spironolactone pharmacodynamics pathway|OGRPBCAM
+spironolactone pharmacokinetics pathway|OGRPBCAM
+spliceosome pathway|OGRPBCAM
+starch and cellulose biosynthetic pathway|OGRPBCAM
+starch and cellulose metabolic pathway|OGRPBCAM
+starch and sucrose metabolic pathway|OGRPBCAM
+starch biosynthetic pathway|OGRPBCAM
+statin drug pathway|OGRPBCAM
+statin pharmacodynamics pathway|OGRPBCAM
+statin pharmacokinetics pathway|OGRPBCAM
+stavudine drug pathway|OGRPBCAM
+stavudine pharmacodynamics pathway|OGRPBCAM
+stavudine pharmacokinetics pathway|OGRPBCAM
+steroid biosynthetic pathway|OGRPBCAM
+steroid hormone biosynthetic pathway|OGRPBCAM
+steroid hormone metabolic pathway|OGRPBCAM
+steroid hormone signaling pathway|OGRPBCAM
+steroid metabolic pathway|OGRPBCAM
+sterol regulatory element-binding protein signaling pathway|OGRPBCAM
+stilbene, coumarine and lignin biosynthetic pathway|OGRPBCAM
+streptomycin biosynthetic pathway|OGRPBCAM
+streptomycin drug pathway|OGRPBCAM
+streptomycin pharmacodynamics pathway|OGRPBCAM
+streptomycin pharmacokinetics pathway|OGRPBCAM
+stress response pathway|OGRPBCAM
+stress-regulated MAPK signaling pathway|OGRPBCAM
+striated muscle contraction pathway|OGRPBCAM
+styrene degradation pathway|OGRPBCAM
+substance P metabolic pathway|OGRPBCAM
+substance dependence pathway|OGRPBCAM
+succinic semialdehyde dehydrogenase deficiency pathway|OGRPBCAM
+succinyl-CoA:3-oxoacid transferase deficiency pathway|OGRPBCAM
+sucrose biosynthetic pathway|OGRPBCAM
+sugar alcohol metabolic pathway|OGRPBCAM
+sugar transport pathway|OGRPBCAM
+sulfate assimilation pathway|OGRPBCAM
+sulfite oxidase deficiency pathway|OGRPBCAM
+sulfonation conjugation pathway|OGRPBCAM
+sulfur amino acid metabolic pathway|OGRPBCAM
+sulfur metabolic pathway|OGRPBCAM
+sulindac drug pathway|OGRPBCAM
+sulindac pharmacodynamics pathway|OGRPBCAM
+sulindac pharmacokinetics pathway|OGRPBCAM
+sumoylation pathway|OGRPBCAM
+sunitinib drug pathway|OGRPBCAM
+sunitinib pharmacodynamics pathway|OGRPBCAM
+sunitinib pharmacokinetics pathway|OGRPBCAM
+superoxide mediated signaling pathway|OGRPBCAM
+surfactant homeostasis pathway|OGRPBCAM
+synaptic differentiation pathway|OGRPBCAM
+synaptic vesicle cycle pathway|OGRPBCAM
+synaptic vesicle endocytosis and recycling pathway|OGRPBCAM
+synaptic vesicle endocytosis pathway|OGRPBCAM
+synaptic vesicle exocytosis - neurotransmitter release pathway|OGRPBCAM
+synaptic vesicle exocytosis pathway|OGRPBCAM
+synaptic vesicle trafficking pathway|OGRPBCAM
+syndecan signaling pathway|OGRPBCAM
+systemic hormones drug pathway|OGRPBCAM
+systemic lupus erythematosus pathway|OGRPBCAM
+tRNA decay pathway|OGRPBCAM
+tRNA maturation pathway|OGRPBCAM
+tRNA modification pathway|OGRPBCAM
+tRNA nuclear export pathway|OGRPBCAM
+tamoxifen drug pathway|OGRPBCAM
+tamoxifen pharmacodynamics pathway|OGRPBCAM
+tamoxifen pharmacokinetics pathway|OGRPBCAM
+taurine and hypotaurine metabolic pathway|OGRPBCAM
+telmisartan drug pathway|OGRPBCAM
+telmisartan pharmacodynamics pathway|OGRPBCAM
+telmisartan pharmacokinetics pathway|OGRPBCAM
+temsirolimus drug pathway|OGRPBCAM
+temsirolimus pharmacodynamics pathway|OGRPBCAM
+temsirolimus pharmacokinetics pathway|OGRPBCAM
+teniposide drug pathway|OGRPBCAM
+teniposide pharmacodynamics pathway|OGRPBCAM
+teniposide pharmacokinetics pathway|OGRPBCAM
+tenofovir drug pathway|OGRPBCAM
+tenofovir pharmacodynamics pathway|OGRPBCAM
+tenofovir pharmacokinetics pathway|OGRPBCAM
+tenoxicam drug pathway|OGRPBCAM
+tenoxicam pharmacodynamics pathway|OGRPBCAM
+tenoxicam pharmacokinetics pathway|OGRPBCAM
+term zero|OGRPBCAM
+terpene and terpenoid biosynthetic pathway|OGRPBCAM
+terpene and terpenoid degradation pathway|OGRPBCAM
+terpene and terpenoid metabolic pathway|OGRPBCAM
+terpene biosynthetic pathway|OGRPBCAM
+terpene degradation pathway|OGRPBCAM
+terpenoid biosynthetic pathway|OGRPBCAM
+terpenoid degradation pathway|OGRPBCAM
+testosterone biosynthetic pathway|OGRPBCAM
+tetrachloroethene degradation pathway|OGRPBCAM
+tetracycline biosynthetic pathway|OGRPBCAM
+tetrahydrobiopterin metabolic pathway|OGRPBCAM
+the Wnt/calcium signaling pathway|OGRPBCAM
+the extracellular signal-regulated Raf/Mek/Erk signaling pathway|OGRPBCAM
+the ion channels pathway|OGRPBCAM
+the proteolytic pathway involving calcium-dependent proteases|OGRPBCAM
+thiamine metabolic pathway|OGRPBCAM
+thioredoxin antioxidant pathway|OGRPBCAM
+thoracic cancer pathway|OGRPBCAM
+threonine biosynthetic pathway|OGRPBCAM
+threonine degradation pathway|OGRPBCAM
+threonine metabolic pathway|OGRPBCAM
+thrombolytic drug pathway|OGRPBCAM
+thromboxane A2 signaling pathway|OGRPBCAM
+thromboxane biosynthetic pathway|OGRPBCAM
+thromboxane metabolic pathway|OGRPBCAM
+thyroglobulin processing pathway|OGRPBCAM
+thyroid cancer pathway|OGRPBCAM
+thyroid hormone biosynthetic pathway|OGRPBCAM
+thyroid hormone signaling pathway|OGRPBCAM
+thyroid-stimulating hormone biosynthetic pathway|OGRPBCAM
+thyroid-stimulating hormone signaling pathway|OGRPBCAM
+thyromimetics drug pathway|OGRPBCAM
+thyrotropin-releasing hormone biosynthetic pathway|OGRPBCAM
+thyrotropin-releasing hormone signaling pathway|OGRPBCAM
+tiaprofenic acid drug pathway|OGRPBCAM
+tiaprofenic acid pharmacodynamics pathway|OGRPBCAM
+tiaprofenic acid pharmacokinetics pathway|OGRPBCAM
+ticlopidine drug pathway|OGRPBCAM
+ticlopidine pharmacodynamics pathway|OGRPBCAM
+ticlopidine pharmacokinetics pathway|OGRPBCAM
+timolol drug pathway|OGRPBCAM
+timolol pharmacodynamics pathway|OGRPBCAM
+timolol pharmacokinetics pathway|OGRPBCAM
+tioguanine drug pathway|OGRPBCAM
+tioguanine pharmacodynamics pathway|OGRPBCAM
+tioguanine pharmacokinetics pathway|OGRPBCAM
+tirofiban drug pathway|OGRPBCAM
+tirofiban pharmacodynamics pathway|OGRPBCAM
+tirofiban pharmacokinetics pathway|OGRPBCAM
+tissue factor pathway inhibitor|OGRPBCAM
+titanium dioxide nanoparticle response pathway|OGRPBCAM
+tobramycin drug pathway|OGRPBCAM
+tobramycin pharmacodynamics pathway|OGRPBCAM
+tobramycin pharmacokinetics pathway|OGRPBCAM
+tocilizumab drug pathway|OGRPBCAM
+tocilizumab pharmacodynamics pathway|OGRPBCAM
+tocilizumab pharmacokinetics pathway|OGRPBCAM
+tolmetin drug pathway|OGRPBCAM
+tolmetin pharmacodynamics pathway|OGRPBCAM
+tolmetin pharmacokinetics pathway|OGRPBCAM
+toluene and xylene degradation pathway|OGRPBCAM
+torasemide drug pathway|OGRPBCAM
+torasemide pharmacodynamics pathway|OGRPBCAM
+torasemide pharmacokinetics pathway|OGRPBCAM
+toxic secondary metabolite biosynthetic pathway|OGRPBCAM
+toxic secondary metabolite metabolic pathway|OGRPBCAM
+toxin and toxicant response pathway|OGRPBCAM
+toxoplasmosis pathway|OGRPBCAM
+tramadol drug pathway|OGRPBCAM
+tramadol pharmacodynamics pathway|OGRPBCAM
+tramadol pharmacokinetics pathway|OGRPBCAM
+trandolapril drug pathway|OGRPBCAM
+trandolapril pharmacodynamics pathway|OGRPBCAM
+trandolapril pharmacokinetics pathway|OGRPBCAM
+tranexamic acid drug pathway|OGRPBCAM
+tranexamic acid pharmacodynamics pathway|OGRPBCAM
+tranexamic acid pharmacokinetics pathway|OGRPBCAM
+transaldolase deficiency pathway|OGRPBCAM
+transcription factor mediated signaling pathway|OGRPBCAM
+transcription pathway|OGRPBCAM
+transcription pathway via transcription factor mediated signaling|OGRPBCAM
+transcription-coupled nucleotide-excision repair pathway|OGRPBCAM
+transforming growth factor-beta Smad dependent signaling pathway|OGRPBCAM
+transforming growth factor-beta Smad independent signaling pathway|OGRPBCAM
+transforming growth factor-beta signaling pathway|OGRPBCAM
+transforming growth factor-beta superfamily mediated signaling pathway|OGRPBCAM
+translation elongation pathway|OGRPBCAM
+translation initiation complex formation pathway|OGRPBCAM
+translation initiation pathway|OGRPBCAM
+translation pathway|OGRPBCAM
+translation termination pathway|OGRPBCAM
+transport pathway|OGRPBCAM
+transport pathway for the elimination of drugs, endogenous or exogenous compounds and metabolites|OGRPBCAM
+transsulfuration pathway of homocysteine metabolism|OGRPBCAM
+trastuzumab drug pathway|OGRPBCAM
+trastuzumab pharmacodynamics pathway|OGRPBCAM
+trastuzumab pharmacokinetics pathway|OGRPBCAM
+trehalose biosynthetic pathway|OGRPBCAM
+trehalose degradation pathway|OGRPBCAM
+trehalose metabolic pathway|OGRPBCAM
+triacylglycerol biosynthetic pathway|OGRPBCAM
+triacylglycerol degradation pathway|OGRPBCAM
+triacylglycerol metabolic pathway|OGRPBCAM
+triamterene drug pathway|OGRPBCAM
+triamterene pharmacodynamics pathway|OGRPBCAM
+triamterene pharmacokinetics pathway|OGRPBCAM
+trichlormethiazide drug pathway|OGRPBCAM
+trichlormethiazide pharmacodynamics pathway|OGRPBCAM
+trichlormethiazide pharmacokinetics pathway|OGRPBCAM
+trichothecene biosynthetic pathway|OGRPBCAM
+trichothecene metabolic pathway|OGRPBCAM
+trifunctional protein deficiency pathway|OGRPBCAM
+triosephosphate isomerase deficiency pathway|OGRPBCAM
+trypanosomiasis pathway|OGRPBCAM
+tryptophan biosynthetic pathway|OGRPBCAM
+tryptophan degradation pathway|OGRPBCAM
+tryptophan metabolic pathway|OGRPBCAM
+tuberculosis pathway|OGRPBCAM
+tuberoinfundibular 39 residues peptide signaling pathway|OGRPBCAM
+tuberous sclerosis complex disease pathway|OGRPBCAM
+tumor necrosis factor mediated signaling pathway|OGRPBCAM
+tumor necrosis factor member 13 signaling pathway|OGRPBCAM
+tumor necrosis factor member 13b signaling pathway|OGRPBCAM
+tumor necrosis factor member 14 signaling pathway|OGRPBCAM
+tumor necrosis factor superfamily mediated signaling pathway|OGRPBCAM
+type 1 diabetes mellitus pathway|OGRPBCAM
+type 2 diabetes mellitus pathway|OGRPBCAM
+type I interferon signaling pathway|OGRPBCAM
+type II interferon signaling pathway|OGRPBCAM
+tyrosine biosynthetic pathway|OGRPBCAM
+tyrosine degradation pathway|OGRPBCAM
+tyrosine metabolic pathway|OGRPBCAM
+tyrosine-based hormone signaling pathway|OGRPBCAM
+tyrosine-specific phosphatase mediated signaling pathway|OGRPBCAM
+tyrosine-specific protein kinase mediated signaling pathway|OGRPBCAM
+tyrosinemia pathway|OGRPBCAM
+tyrosinemia type I pathway|OGRPBCAM
+tyrosinemia type II pathway|OGRPBCAM
+tyrosinemia type III pathway|OGRPBCAM
+ubiquinone biosynthetic pathway|OGRPBCAM
+ubiquitin, ubiquitin-like/proteasome degradation pathway|OGRPBCAM
+ubiquitin/proteasome degradation pathway|OGRPBCAM
+ubiquitination pathway|OGRPBCAM
+unsaturated fatty acid biosynthetic pathway|OGRPBCAM
+unsaturated fatty acid degradation pathway|OGRPBCAM
+urea cycle disease pathway|OGRPBCAM
+urea cycle pathway|OGRPBCAM
+uridine diphosphate glucose metabolic pathway|OGRPBCAM
+urinary bladder cancer pathway|OGRPBCAM
+urogenital cancer pathway|OGRPBCAM
+urogenital disease pathway|OGRPBCAM
+urolithiasis pathway|OGRPBCAM
+urologic disease pathway|OGRPBCAM
+valdecoxib drug pathway|OGRPBCAM
+valdecoxib pharmacodynamics pathway|OGRPBCAM
+valdecoxib pharmacokinetics pathway|OGRPBCAM
+valine biosynthetic pathway|OGRPBCAM
+valine degradation pathway|OGRPBCAM
+valine metabolic pathway|OGRPBCAM
+valine, leucine and isoleucine biosynthetic pathway|OGRPBCAM
+valine, leucine and isoleucine degradation pathway|OGRPBCAM
+valproic acid drug pathway|OGRPBCAM
+valproic acid pharmacodynamics pathway|OGRPBCAM
+valproic acid pharmacokinetics pathway|OGRPBCAM
+valsartan drug pathway|OGRPBCAM
+valsartan pharmacodynamics pathway|OGRPBCAM
+valsartan pharmacokinetics pathway|OGRPBCAM
+variegate porphyria pathway|OGRPBCAM
+various drug pathway|OGRPBCAM
+vascular endothelial growth factor signaling pathway|OGRPBCAM
+vasopressin signaling pathway|OGRPBCAM
+vasopressin signaling pathway via receptor type 1|OGRPBCAM
+vasopressin signaling pathway via receptor type 2|OGRPBCAM
+venlafaxine drug pathway|OGRPBCAM
+venlafaxine pharmacodynamics pathway|OGRPBCAM
+venlafaxine pharmacokinetics pathway|OGRPBCAM
+verapamil drug pathway|OGRPBCAM
+verapamil pharmacodynamics pathway|OGRPBCAM
+verapamil pharmacokinetics pathway|OGRPBCAM
+very long-chain acyl-CoA dehydrogenase deficiency pathway|OGRPBCAM
+very long-chain fatty acid beta degradation pathway|OGRPBCAM
+very-low-density lipoprotein assembly pathway|OGRPBCAM
+vesicle-mediated transport pathway|OGRPBCAM
+vinblastine drug pathway|OGRPBCAM
+vinblastine pharmacodynamics pathway|OGRPBCAM
+vinblastine pharmacokinetics pathway|OGRPBCAM
+vinca alkaloid drug pathway|OGRPBCAM
+vincristine drug pathway|OGRPBCAM
+vincristine pharmacodynamics pathway|OGRPBCAM
+vincristine pharmacokinetics pathway|OGRPBCAM
+vindesine drug pathway|OGRPBCAM
+vindesine pharmacodynamics pathway|OGRPBCAM
+vindesine pharmacokinetics pathway|OGRPBCAM
+vinorelbine drug pathway|OGRPBCAM
+vinorelbine pharmacodynamics pathway|OGRPBCAM
+vinorelbine pharmacokinetics pathway|OGRPBCAM
+viral carcinogenesis pathway|OGRPBCAM
+visual phototransduction pathway|OGRPBCAM
+vitamin A and metabolites signaling pathway|OGRPBCAM
+vitamin A deficiency pathway|OGRPBCAM
+vitamin A homeostasis|OGRPBCAM
+vitamin B6 metabolic pathway|OGRPBCAM
+vitamin D metabolic pathway|OGRPBCAM
+vitamin D signaling pathway|OGRPBCAM
+vitamin E metabolic pathway|OGRPBCAM
+vitamin K antagonist drug pathway|OGRPBCAM
+vitamin K cycle pathway|OGRPBCAM
+vitamin K metabolic pathway|OGRPBCAM
+vitamin and vitamin metabolites signaling pathway|OGRPBCAM
+vitamin homeostasis|OGRPBCAM
+warfarin drug pathway|OGRPBCAM
+warfarin pharmacodynamics pathway|OGRPBCAM
+warfarin pharmacokinetics pathway|OGRPBCAM
+water transport pathway|OGRPBCAM
+wax biosynthetic pathway|OGRPBCAM
+xanthinuria  type I pathway|OGRPBCAM
+xanthinuria pathway|OGRPBCAM
+xanthinuria type II pathway|OGRPBCAM
+xanthomatosis pathway|OGRPBCAM
+xenobiotic metabolic pathway|OGRPBCAM
+xenobiotics biodegradation pathway|OGRPBCAM
+xylulose 5-phosphate biosynthetic pathway|OGRPBCAM
+zeatin biosynthetic pathway|OGRPBCAM
+zidovudine drug pathway|OGRPBCAM
+zidovudine pharmacodynamics pathway|OGRPBCAM
+zidovudine pharmacokinetics pathway|OGRPBCAM
+zoledronate drug pathway|OGRPBCAM
+zoledronate pharmacodynamics pathway|OGRPBCAM
+zoledronate pharmacokinetics pathway|OGRPBCAM
