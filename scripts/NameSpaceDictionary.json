@@ -9,6 +9,15 @@
         "VersionString": "5-1-13"
     },
     {
+        "namespace": "PW",
+        "NameString": "Pathway ontology",
+        "DomainString": "BiologicalProcess",
+        "DescriptionString": "A controlled vocabulary for annotating gene products to pathways.",
+        "URL": "https://data.bioontology.org/ontologies/PW/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf",
+        "code": "",
+        "VersionString": "7.93"
+    },
+    {
         "namespace": "Uberon",
         "NameString": "Uber-anatomy ontology",
         "DomainString": "Other",
