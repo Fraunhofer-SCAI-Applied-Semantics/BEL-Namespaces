@@ -1,0 +1,1929 @@
+
+[AnnotationDefinition]
+Keyword=MESHAnatomy
+TypeString=list
+DescriptionString=Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity. - Anatomy
+UsageString=Use to annotate a statement demonstrated in the context of a specific 
+VersionString=20251209
+CreatedDateTime=2025-12-09T16:09:55
+
+
+[Author]
+NameString=Karim Shalaby
+CopyrightString=Creative Commons by 4.0
+ContactInfoString=karim.shalaby@scai.fraunhofer.de
+
+[Citation]
+NameString=MeSH (Anatomy)
+
+[Processing]
+CaseSensitiveFlag=no
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+3T3 Cells|
+3T3-L1 Cells|
+A549 Cells|
+APUD Cells|
+Abdomen|
+Abdominal Cavity|
+Abdominal Core|
+Abdominal Fat|
+Abdominal Muscles|
+Abdominal Oblique Muscles|
+Abdominal Wall|
+Abducens Nerve|
+Abducens Nucleus|
+Abomasum|
+Aborted Fetus|
+Acanthocytes|
+Accessory Nerve|
+Acellular Dermis|
+Acetabulum|
+Achilles Tendon|
+Acinar Cells|
+Acne Keloid|
+Acoustic Maculae|
+Acromioclavicular Joint|
+Acromion|
+Acrosome|
+Actin Cytoskeleton|
+Adenoids|
+Adherens Junctions|
+Adipocytes|
+Adipocytes, Beige|
+Adipocytes, Brown|
+Adipocytes, White|
+Adipose Tissue|
+Adipose Tissue, Beige|
+Adipose Tissue, Brown|
+Adipose Tissue, White|
+Adnexa Uteri|
+Adrenal Cortex|
+Adrenal Glands|
+Adrenal Medulla|
+Adrenergic Fibers|
+Adrenergic Neurons|
+Adult Germline Stem Cells|
+Adult Stem Cells|
+Adventitia|
+Afferent Pathways|
+Air Sacs|
+Allantois|
+Allogeneic Cells|
+Allografts|
+Alveolar Epithelial Cells|
+Alveolar Process|
+Amacrine Cells|
+Ameloblasts|
+Amnion|
+Amniotic Fluid|
+Ampulla of Vater|
+Amputation Stumps|
+Amygdala|
+Anal Canal|
+Anal Sacs|
+Anatomic Landmarks|
+Animal Fins|
+Animal Fur|
+Animal Scales|
+Animal Shells|
+Animal Structures|
+Ankle|
+Ankle Joint|
+Annulus Fibrosus|
+Anterior Capsule of the Lens|
+Anterior Cerebral Artery|
+Anterior Chamber|
+Anterior Commissure, Brain|
+Anterior Cruciate Ligament|
+Anterior Eye Segment|
+Anterior Horn Cells|
+Anterior Hypothalamic Nucleus|
+Anterior Thalamic Nuclei|
+Antibody-Producing Cells|
+Antigen-Presenting Cells|
+Antilymphocyte Serum|
+Antlers|
+Aorta|
+Aorta, Abdominal|
+Aorta, Thoracic|
+Aortic Bodies|
+Aortic Valve|
+Apicoplasts|
+Apocrine Glands|
+Aponeurosis|
+Appendix|
+Aqueous Humor|
+Arachnoid|
+Arcuate Nucleus of Hypothalamus|
+Area Postrema|
+Arm|
+Arm Bones|
+Arteries|
+Arterioles|
+Arteriovenous Anastomosis|
+Arthropod Antennae|
+Artificial Virus-Like Particles|
+Arytenoid Cartilage|
+Ascitic Fluid|
+Astrocytes|
+Atlanto-Axial Joint|
+Atlanto-Occipital Joint|
+Atrial Appendage|
+Atrial Septum|
+Atrioventricular Node|
+Atypical Squamous Cells of the Cervix|
+Auditory Cortex|
+Auditory Pathways|
+Autografts|
+Autonomic Fibers, Postganglionic|
+Autonomic Fibers, Preganglionic|
+Autonomic Nervous System|
+Autonomic Pathways|
+Autophagosomes|
+Axial Length, Eye|
+Axilla|
+Axillary Artery|
+Axillary Vein|
+Axis, Cervical Vertebra|
+Axon Initial Segment|
+Axoneme|
+Axons|
+Azygos Vein|
+B-Lymphocyte Subsets|
+B-Lymphocytes|
+B-Lymphocytes, Regulatory|
+BALB 3T3 Cells|
+Back|
+Back Muscles|
+Bacterial Capsules|
+Bacterial Chromatophores|
+Bacterial Outer Membrane|
+Bacterial Structures|
+Barrington's Nucleus|
+Bartholin's Glands|
+Basal Bodies|
+Basal Forebrain|
+Basal Ganglia|
+Basal Nucleus of Meynert|
+Basement Membrane|
+Basilar Artery|
+Basilar Membrane|
+Basolateral Nuclear Complex|
+Basophils|
+Beak|
+Bicuspid|
+Bile|
+Bile Canaliculi|
+Bile Ducts|
+Bile Ducts, Extrahepatic|
+Bile Ducts, Intrahepatic|
+Biliary Tract|
+Biofilms|
+Biomolecular Condensates|
+Blastocyst|
+Blastocyst Inner Cell Mass|
+Blastoderm|
+Blastodisc|
+Blastomeres|
+Blastula|
+Blood|
+Blood Buffy Coat|
+Blood Cells|
+Blood Platelets|
+Blood Vessels|
+Blood-Air Barrier|
+Blood-Aqueous Barrier|
+Blood-Brain Barrier|
+Blood-Nerve Barrier|
+Blood-Retinal Barrier|
+Blood-Testis Barrier|
+Bodily Secretions|
+Body Fluid Compartments|
+Body Fluids|
+Body Regions|
+Body Water|
+Bone Marrow|
+Bone Marrow Cells|
+Bone Matrix|
+Bone and Bones|
+Bone-Implant Interface|
+Bone-Patellar Tendon-Bone Grafts|
+Bones of Lower Extremity|
+Bones of Upper Extremity|
+Bony Callus|
+Bowman Capsule|
+Bowman Membrane|
+Brachial Artery|
+Brachial Plexus|
+Brachiocephalic Trunk|
+Brachiocephalic Veins|
+Brain|
+Brain Stem|
+Branchial Region|
+Breast|
+Broad Ligament|
+Broca Area|
+Bronchi|
+Bronchial Arteries|
+Bronchioles|
+Bruch Membrane|
+Brunner Glands|
+Bulbourethral Glands|
+Bundle of His|
+Bursa of Fabricius|
+Bursa, Synovial|
+Buttermilk|
+Buttocks|
+CA1 Region, Hippocampal|
+CA2 Region, Hippocampal|
+CA3 Region, Hippocampal|
+CD4-Positive T-Lymphocytes|
+CD8-Positive T-Lymphocytes|
+CHO Cells|
+COP-Coated Vesicles|
+COS Cells|
+Caco-2 Cells|
+Calcaneus|
+Cambium|
+Cancellous Bone|
+Cancer-Associated Fibroblasts|
+Capillaries|
+Capitate Bone|
+Capsid|
+Cardia|
+Cardiovascular System|
+Carotid Arteries|
+Carotid Artery, Common|
+Carotid Artery, External|
+Carotid Artery, Internal|
+Carotid Body|
+Carotid Sinus|
+Carpal Bones|
+Carpal Joints|
+Carpometacarpal Joints|
+Carpus, Animal|
+Cartilage|
+Cartilage, Articular|
+Cauda Equina|
+Caudate Nucleus|
+Caveolae|
+Cavernous Sinus|
+Cecum|
+Celiac Artery|
+Celiac Plexus|
+Cell Body|
+Cell Line|
+Cell Line, Transformed|
+Cell Line, Tumor|
+Cell Membrane|
+Cell Membrane Structures|
+Cell Nucleolus|
+Cell Nucleus|
+Cell Nucleus Structures|
+Cell Surface Extensions|
+Cell Wall|
+Cell Wall Skeleton|
+Cell-Derived Microparticles|
+Cell-Free System|
+Cell-Matrix Junctions|
+Cells|
+Cells, Cultured|
+Cells, Immobilized|
+Cellular Structures|
+Cellulosomes|
+Central Amygdaloid Nucleus|
+Central Nervous System|
+Central Pattern Generators|
+Centrioles|
+Centromere|
+Centrosome|
+Cerebellar Cortex|
+Cerebellar Golgi Cells|
+Cerebellar Nuclei|
+Cerebellar Vermis|
+Cerebellopontine Angle|
+Cerebellum|
+Cerebral Aqueduct|
+Cerebral Arteries|
+Cerebral Cortex|
+Cerebral Crus|
+Cerebral Peduncle|
+Cerebral Veins|
+Cerebral Ventricles|
+Cerebrospinal Fluid|
+Cerebrum|
+Cerumen|
+Cervical Atlas|
+Cervical Cord|
+Cervical Plexus|
+Cervical Rib|
+Cervical Vertebrae|
+Cervix Mucus|
+Cervix Uteri|
+Cheek|
+Chemoreceptor Cells|
+Chick Embryo|
+Chief Cells, Gastric|
+Chin|
+Chloroplasts|
+Cholinergic Fibers|
+Cholinergic Neurons|
+Chondrocytes|
+Chorda Tympani Nerve|
+Chordae Tendineae|
+Chorioallantoic Membrane|
+Chorion|
+Chorionic Villi|
+Choroid|
+Choroid Plexus|
+Chromaffin Cells|
+Chromaffin Granules|
+Chromaffin System|
+Chromatids|
+Chromatin|
+Chromatophores|
+Chromosomal Puffs|
+Chromosome Structures|
+Chromosomes|
+Chromosomes, Archaeal|
+Chromosomes, Artificial|
+Chromosomes, Artificial, Bacterial|
+Chromosomes, Artificial, Human|
+Chromosomes, Artificial, Mammalian|
+Chromosomes, Artificial, P1 Bacteriophage|
+Chromosomes, Artificial, Yeast|
+Chromosomes, Bacterial|
+Chromosomes, Fungal|
+Chromosomes, Human|
+Chromosomes, Human, 1-3|
+Chromosomes, Human, 13-15|
+Chromosomes, Human, 16-18|
+Chromosomes, Human, 19-20|
+Chromosomes, Human, 21-22 and Y|
+Chromosomes, Human, 4-5|
+Chromosomes, Human, 6-12 and X|
+Chromosomes, Human, Pair 1|
+Chromosomes, Human, Pair 10|
+Chromosomes, Human, Pair 11|
+Chromosomes, Human, Pair 12|
+Chromosomes, Human, Pair 13|
+Chromosomes, Human, Pair 14|
+Chromosomes, Human, Pair 15|
+Chromosomes, Human, Pair 16|
+Chromosomes, Human, Pair 17|
+Chromosomes, Human, Pair 18|
+Chromosomes, Human, Pair 19|
+Chromosomes, Human, Pair 2|
+Chromosomes, Human, Pair 20|
+Chromosomes, Human, Pair 21|
+Chromosomes, Human, Pair 22|
+Chromosomes, Human, Pair 3|
+Chromosomes, Human, Pair 4|
+Chromosomes, Human, Pair 5|
+Chromosomes, Human, Pair 6|
+Chromosomes, Human, Pair 7|
+Chromosomes, Human, Pair 8|
+Chromosomes, Human, Pair 9|
+Chromosomes, Human, X|
+Chromosomes, Human, Y|
+Chromosomes, Insect|
+Chromosomes, Mammalian|
+Chromosomes, Plant|
+Chyle|
+Cicatrix|
+Cicatrix, Hypertrophic|
+Cilia|
+Ciliary Arteries|
+Ciliary Body|
+Circle of Willis|
+Circumventricular Organs|
+Cisterna Magna|
+Clathrin-Coated Vesicles|
+Claustrum|
+Clavicle|
+Cleavage Stage, Ovum|
+Clitoris|
+Cloaca|
+Clone Cells|
+Coated Pits, Cell-Membrane|
+Coated Vesicles|
+Coccyx|
+Cochlea|
+Cochlear Aqueduct|
+Cochlear Duct|
+Cochlear Nerve|
+Cochlear Nucleus|
+Coiled Bodies|
+Collateral Ligament, Ulnar|
+Collateral Ligaments|
+Colon|
+Colon, Ascending|
+Colon, Descending|
+Colon, Sigmoid|
+Colon, Transverse|
+Colonic Pouches|
+Colostrum|
+Comb and Wattles|
+Commissural Interneurons|
+Common Bile Duct|
+Composite Tissue Allografts|
+Compound Eye, Arthropod|
+Conjunctiva|
+Connective Tissue|
+Connective Tissue Cells|
+Coracoid Process|
+Cornea|
+Corneal Keratocytes|
+Corneal Stroma|
+Coronary Sinus|
+Coronary Vessels|
+Corpora Allata|
+Corpus Callosum|
+Corpus Luteum|
+Corpus Striatum|
+Cortical Bone|
+Corticomedial Nuclear Complex|
+Corticotrophs|
+Costal Cartilage|
+Costameres|
+Cotyledon|
+Cranial Fontanelles|
+Cranial Fossa, Anterior|
+Cranial Fossa, Middle|
+Cranial Fossa, Posterior|
+Cranial Nerves|
+Cranial Sinuses|
+Cranial Sutures|
+Cricoid Cartilage|
+Crop, Avian|
+Cumulus Cells|
+Cuspid|
+Cyst Fluid|
+Cystic Duct|
+Cytokine-Induced Killer Cells|
+Cytoplasm|
+Cytoplasmic Granules|
+Cytoplasmic Ribonucleoprotein Granules|
+Cytoplasmic Structures|
+Cytoplasmic Vesicles|
+Cytoskeleton|
+Cytosol|
+Dander|
+Decellularized Extracellular Matrix|
+Decidua|
+Deciduoma|
+Default Mode Network|
+Deltoid Muscle|
+Dendrites|
+Dendritic Cells|
+Dendritic Cells, Follicular|
+Dendritic Spines|
+Dense Core Vesicles|
+Dental Arch|
+Dental Cementum|
+Dental Enamel|
+Dental Fissures|
+Dental Papilla|
+Dental Pellicle|
+Dental Pulp|
+Dental Pulp Cavity|
+Dental Sac|
+Dentate Gyrus|
+Dentin|
+Dentin, Secondary|
+Dentinal Fluid|
+Dentition|
+Dentition, Mixed|
+Dentition, Permanent|
+Dermis|
+Descemet Membrane|
+Desmosomes|
+Diagonal Band of Broca|
+Diaphragm|
+Diaphyses|
+Diencephalon|
+Digestive System|
+Dopaminergic Neurons|
+Dorsal Raphe Nucleus|
+Dorsolateral Prefrontal Cortex|
+Dorsomedial Hypothalamic Nucleus|
+Douglas' Pouch|
+Ductus Arteriosus|
+Duodenum|
+Dura Mater|
+Ear|
+Ear Auricle|
+Ear Canal|
+Ear Cartilage|
+Ear Ossicles|
+Ear, External|
+Ear, Inner|
+Ear, Middle|
+Eccrine Glands|
+Ectoderm|
+Ectodermal Placodes|
+Edible Grain|
+Edinger-Westphal Nucleus|
+Efferent Pathways|
+Egg Shell|
+Egg Yolk|
+Ejaculatory Ducts|
+Elastic Cartilage|
+Elastic Tissue|
+Elbow|
+Elbow Joint|
+Electric Organ|
+Electrical Synapses|
+Embryo, Mammalian|
+Embryo, Nonmammalian|
+Embryoid Bodies|
+Embryonal Carcinoma Stem Cells|
+Embryonic Germ Cells|
+Embryonic Stem Cells|
+Embryonic Structures|
+Enamel Organ|
+Endocardial Cushions|
+Endocardium|
+Endocrine Cells|
+Endocrine Glands|
+Endocrine System|
+Endoderm|
+Endolymph|
+Endolymphatic Duct|
+Endolymphatic Sac|
+Endometrium|
+Endoplasmic Reticulum|
+Endoplasmic Reticulum, Rough|
+Endoplasmic Reticulum, Smooth|
+Endosomes|
+Endosperm|
+Endothelial Cells|
+Endothelial Progenitor Cells|
+Endothelium|
+Endothelium, Corneal|
+Endothelium, Lymphatic|
+Endothelium, Vascular|
+Enteric Nervous System|
+Enterochromaffin Cells|
+Enterochromaffin-like Cells|
+Enterocytes|
+Enteroendocrine Cells|
+Entopeduncular Nucleus|
+Entorhinal Cortex|
+Eosinophils|
+Ependyma|
+Ependymoglial Cells|
+Epicardial Adipose Tissue|
+Epidermal Cells|
+Epidermis|
+Epididymis|
+Epidural Space|
+Epigastric Arteries|
+Epiglottis|
+Epiphyses|
+Epithalamus|
+Epithelial Attachment|
+Epithelial Cells|
+Epithelioid Cells|
+Epithelium|
+Epithelium, Corneal|
+Erythroblasts|
+Erythrocyte Inclusions|
+Erythrocyte Membrane|
+Erythrocytes|
+Erythrocytes, Abnormal|
+Erythroid Cells|
+Erythroid Precursor Cells|
+Esophageal Mucosa|
+Esophageal Sphincter, Lower|
+Esophageal Sphincter, Upper|
+Esophagogastric Junction|
+Esophagus|
+Ethmoid Bone|
+Ethmoid Sinus|
+Euchromatin|
+Eukaryotic Cells|
+Eustachian Tube|
+Exocrine Glands|
+Exosomes|
+External Capsule|
+Extracellular Fluid|
+Extracellular Matrix|
+Extracellular Polymeric Substance Matrix|
+Extracellular Space|
+Extracellular Traps|
+Extracellular Vesicles|
+Extraembryonic Membranes|
+Extrapyramidal Tracts|
+Extravascular Lung Water|
+Extravillous Trophoblasts|
+Extremities|
+Exudates and Transudates|
+Eye|
+Eyebrows|
+Eyelashes|
+Eyelids|
+Face|
+Facial Bones|
+Facial Muscles|
+Facial Nerve|
+Facial Nucleus|
+Fallopian Tubes|
+Fascia|
+Fascia Lata|
+Fat Body|
+Feathers|
+Feces|
+Feeder Cells|
+Femoral Artery|
+Femoral Nerve|
+Femoral Vein|
+Femur|
+Femur Head|
+Femur Neck|
+Fetal Blood|
+Fetal Heart|
+Fetal Stem Cells|
+Fetus|
+Fibroblasts|
+Fibrocartilage|
+Fibula|
+Filamins|
+Fimbriae, Bacterial|
+Finger Joint|
+Finger Phalanges|
+Fingers|
+Flagella|
+Flowering Tops|
+Flowers|
+Fluids and Secretions|
+Foam Cells|
+Focal Adhesions|
+Follicular Fluid|
+Foot|
+Foot Bones|
+Foot Joints|
+Foramen Magnum|
+Foramen Ovale|
+Forearm|
+Forefoot, Human|
+Forehead|
+Forelimb|
+Foreskin|
+Fornix, Brain|
+Fourth Ventricle|
+Fovea Centralis|
+Free Tissue Flaps|
+Frontal Bone|
+Frontal Lobe|
+Frontal Sinus|
+Fruit|
+Fruiting Bodies, Fungal|
+Fundus Oculi|
+Fungal Capsules|
+Fungal Structures|
+GABAergic Neurons|
+Gallbladder|
+Ganglia|
+Ganglia, Autonomic|
+Ganglia, Invertebrate|
+Ganglia, Parasympathetic|
+Ganglia, Sensory|
+Ganglia, Spinal|
+Ganglia, Sympathetic|
+Ganglionic Eminence|
+Gap Junctions|
+Gastric Acid|
+Gastric Artery|
+Gastric Fundus|
+Gastric Juice|
+Gastric Mucosa|
+Gastric Stump|
+Gastrin-Secreting Cells|
+Gastroepiploic Artery|
+Gastrointestinal Contents|
+Gastrointestinal Tract|
+Gastrula|
+Gemini of Coiled Bodies|
+Geniculate Bodies|
+Geniculate Ganglion|
+Genitalia|
+Genitalia, Female|
+Genitalia, Male|
+Germ Cell Ribonucleoprotein Granules|
+Germ Cells|
+Germ Cells, Plant|
+Germ Layers|
+Germinal Center|
+Gestational Sac|
+Giant Cells|
+Giant Cells, Foreign-Body|
+Giant Cells, Langhans|
+Gills|
+Gingiva|
+Gingival Crevicular Fluid|
+Gizzard, Avian|
+Gizzard, Non-avian|
+Glenoid Cavity|
+Globus Pallidus|
+Glomerular Basement Membrane|
+Glomerular Filtration Barrier|
+Glomerular Mesangium|
+Glomus Jugulare|
+Glomus Tympanicum|
+Glossopharyngeal Nerve|
+Glottis|
+Glucagon-Secreting Cells|
+Glycocalyx|
+Glymphatic System|
+Glyoxysomes|
+Goblet Cells|
+Golgi Apparatus|
+Golgi-Mazzoni Corpuscles|
+Gonadotrophs|
+Gonads|
+Gracilis Muscle|
+Granulation Tissue|
+Granulocyte Precursor Cells|
+Granulocyte-Macrophage Progenitor Cells|
+Granulocytes|
+Granulosa Cells|
+Gray Matter|
+Grid Cells|
+Groin|
+Growth Cones|
+Growth Plate|
+Gubernaculum|
+Gyrus Cinguli|
+HCT116 Cells|
+HEK293 Cells|
+HL-60 Cells|
+HT29 Cells|
+HaCaT Cells|
+Habenula|
+Hair|
+Hair Cells, Ampulla|
+Hair Cells, Auditory|
+Hair Cells, Auditory, Inner|
+Hair Cells, Auditory, Outer|
+Hair Cells, Vestibular|
+Hair Follicle|
+Hallux|
+Hamate Bone|
+Hamstring Muscles|
+Hamstring Tendons|
+Hand|
+Hand Bones|
+Hand Joints|
+Harderian Gland|
+Haversian System|
+HeLa Cells|
+Head|
+Head Kidney|
+Heart|
+Heart Atria|
+Heart Conduction System|
+Heart Septum|
+Heart Valves|
+Heart Ventricles|
+Heel|
+Heinz Bodies|
+Hemangioblasts|
+Hematopoietic Stem Cells|
+Hematopoietic System|
+Hemic and Immune Systems|
+Hemidesmosomes|
+Hemocytes|
+Hemolymph|
+Hep G2 Cells|
+Hepatic Artery|
+Hepatic Duct, Common|
+Hepatic Stellate Cells|
+Hepatic Veins|
+Hepatocytes|
+Hepatopancreas|
+Heterochromatin|
+Heterografts|
+High Vocal Center|
+Hindlimb|
+Hip|
+Hip Joint|
+Hippocampus|
+Histiocytes|
+Hoof and Claw|
+Horns|
+Human Embryonic Stem Cells|
+Human Umbilical Vein Endothelial Cells|
+Humeral Head|
+Humerus|
+Hyalin|
+Hyaline Cartilage|
+Hybrid Cells|
+Hybridomas|
+Hymen|
+Hyoid Bone|
+Hyphae|
+Hypocotyl|
+Hypogastric Plexus|
+Hypoglossal Nerve|
+Hypopharynx|
+Hypothalamic Area, Lateral|
+Hypothalamic-Pituitary-Gonadal Axis|
+Hypothalamo-Hypophyseal System|
+Hypothalamus|
+Hypothalamus, Anterior|
+Hypothalamus, Middle|
+Hypothalamus, Posterior|
+Ileocecal Valve|
+Ileum|
+Iliac Artery|
+Iliac Vein|
+Ilium|
+Imaginal Discs|
+Immune Sera|
+Immune System|
+Immunological Memory Cells|
+Immunological Synapses|
+Incisor|
+Inclusion Bodies|
+Inclusion Bodies, Viral|
+Incus|
+Induced Pluripotent Stem Cells|
+Inferior Colliculi|
+Inferior Olivary Complex|
+Inflorescence|
+Infratemporal Fossa|
+Inguinal Canal|
+Insular Cortex|
+Insulin-Secreting Cells|
+Integumentary System|
+Intercellular Junctions|
+Intercostal Muscles|
+Intercostal Nerves|
+Intermediate Back Muscles|
+Intermediate Filaments|
+Internal Capsule|
+Interneurons|
+Interosseous Membrane|
+Interpeduncular Nucleus|
+Interrenal Gland|
+Interstitial Cells of Cajal|
+Intervertebral Disc|
+Intestinal Mucosa|
+Intestinal Secretions|
+Intestine, Large|
+Intestine, Small|
+Intestines|
+Intra-Abdominal Fat|
+Intracellular Fluid|
+Intracellular Membranes|
+Intracellular Space|
+Intraepithelial Lymphocytes|
+Intralaminar Thalamic Nuclei|
+Intranuclear Inclusion Bodies|
+Intranuclear Space|
+Iris|
+Ischium|
+Islands of Calleja|
+Islets of Langerhans|
+Isochromosomes|
+Isografts|
+Jaw|
+Jejunum|
+Joint Capsule|
+Joints|
+Jugular Foramina|
+Jugular Veins|
+Jurkat Cells|
+Juxtaglomerular Apparatus|
+K562 Cells|
+KB Cells|
+Kefir|
+Keloid|
+Keratinocytes|
+Kidney|
+Kidney Calices|
+Kidney Cortex|
+Kidney Glomerulus|
+Kidney Medulla|
+Kidney Pelvis|
+Kidney Tubules|
+Kidney Tubules, Collecting|
+Kidney Tubules, Distal|
+Kidney Tubules, Proximal|
+Killer Cells, Lymphokine-Activated|
+Killer Cells, Natural|
+Kinetochores|
+Knee|
+Knee Joint|
+Kolliker-Fuse Nucleus|
+Koumiss|
+Kupffer Cells|
+L Cells|
+LLC-PK1 Cells|
+Labial Frenum|
+Labyrinth Supporting Cells|
+Labyrinthine Fluids|
+Lacrimal Apparatus|
+Lactotrophs|
+Lamellar Bodies|
+Langerhans Cells|
+Laryngeal Cartilages|
+Laryngeal Mucosa|
+Laryngeal Muscles|
+Laryngeal Nerves|
+Larynx|
+Lateral Ligament, Ankle|
+Lateral Line System|
+Lateral Thalamic Nuclei|
+Lateral Ventricles|
+Leg|
+Leg Bones|
+Lens Capsule, Crystalline|
+Lens Cortex, Crystalline|
+Lens Nucleus, Crystalline|
+Lens, Crystalline|
+Lesser Pelvis|
+Leukocytes|
+Leukocytes, Mononuclear|
+Lewy Bodies|
+Leydig Cells|
+Ligaments|
+Ligaments, Articular|
+Ligamentum Flavum|
+Limb Buds|
+Limbal Stem Cells|
+Limbic Lobe|
+Limbic System|
+Limbus Corneae|
+Lingual Frenum|
+Lingual Nerve|
+Lip|
+Lipid Droplets|
+Liver|
+Locus Coeruleus|
+Longitudinal Ligaments|
+Loop of Henle|
+Lower Extremity|
+Lower Gastrointestinal Tract|
+Lumbar Vertebrae|
+Lumbosacral Plexus|
+Lumbosacral Region|
+Lunate Bone|
+Lung|
+Luteal Cells|
+Lymph|
+Lymph Nodes|
+Lymphatic System|
+Lymphatic Vessels|
+Lymphocyte Subsets|
+Lymphocytes|
+Lymphocytes, Null|
+Lymphocytes, Tumor-Infiltrating|
+Lymphoid Progenitor Cells|
+Lymphoid Tissue|
+Lysosomes|
+M Cells|
+MCF-7 Cells|
+MDA-MB-231 Cells|
+Macronucleus|
+Macrophages|
+Macrophages, Alveolar|
+Macrophages, Peritoneal|
+Macula Lutea|
+Madin Darby Canine Kidney Cells|
+Magnetosomes|
+Malleus|
+Mallory Bodies|
+Malpighian Tubules|
+Mammary Arteries|
+Mammary Glands, Animal|
+Mammary Glands, Human|
+Mammillary Bodies|
+Mandible|
+Mandibular Canal|
+Mandibular Condyle|
+Mandibular Nerve|
+Manubrium|
+Margins of Excision|
+Masseter Muscle|
+Mast Cells|
+Masticatory Muscles|
+Mastoid|
+Maxilla|
+Maxillary Artery|
+Maxillary Nerve|
+Maxillary Sinus|
+Mechanoreceptors|
+Meckel Diverticulum|
+Meconium|
+Medial Collateral Ligament, Knee|
+Medial Forebrain Bundle|
+Median Eminence|
+Median Nerve|
+Mediastinum|
+Mediodorsal Thalamic Nucleus|
+Medium Spiny Neurons|
+Medulla Oblongata|
+Megakaryocyte Progenitor Cells|
+Megakaryocyte-Erythroid Progenitor Cells|
+Megakaryocytes|
+Megaloblasts|
+Meibomian Glands|
+Melanocytes|
+Melanophores|
+Melanosomes|
+Melanotrophs|
+Melena|
+Membrane Microdomains|
+Membranes|
+Memory B Cells|
+Memory T Cells|
+Meningeal Arteries|
+Meninges|
+Menisci, Tibial|
+Meniscus|
+Mental Foramen|
+Meristem|
+Merkel Cells|
+Merozoites|
+Mesangial Cells|
+Mesencephalon|
+Mesenchymal Stem Cells|
+Mesenteric Arteries|
+Mesenteric Artery, Inferior|
+Mesenteric Artery, Superior|
+Mesenteric Veins|
+Mesentery|
+Mesocolon|
+Mesoderm|
+Mesolimbic System|
+Mesonephros|
+Mesophyll Cells|
+Metacarpal Bones|
+Metacarpophalangeal Joint|
+Metacarpus|
+Metatarsal Bones|
+Metatarsophalangeal Joint|
+Metatarsus|
+Metencephalon|
+Metrial Gland|
+Microbodies|
+Microfibrils|
+Microglia|
+Microneme|
+Micronuclei, Chromosome-Defective|
+Micronucleus, Germline|
+Microphysiological Systems|
+Microsomes|
+Microsomes, Liver|
+Microtubule-Organizing Center|
+Microtubules|
+Microvessels|
+Microvilli|
+Midbrain Raphe Nuclei|
+Midbrain Reticular Formation|
+Middle Cerebellar Peduncle|
+Middle Cerebral Artery|
+Midline Thalamic Nuclei|
+Milk|
+Milk Proteins|
+Milk, Human|
+Mirror Neurons|
+Mitochondria|
+Mitochondria Associated Membranes|
+Mitochondria, Heart|
+Mitochondria, Liver|
+Mitochondria, Muscle|
+Mitochondrial Membranes|
+Mitochondrial Ribosomes|
+Mitral Valve|
+Molar|
+Molar, Third|
+Monocyte-Macrophage Precursor Cells|
+Monocytes|
+Monocytes, Activated Killer|
+Mononuclear Phagocyte System|
+Morula|
+Mossy Fibers, Hippocampal|
+Motor Cortex|
+Motor Endplate|
+Motor Neurons|
+Motor Neurons, Gamma|
+Mouse Embryonic Stem Cells|
+Mouth|
+Mouth Floor|
+Mouth Mucosa|
+Mucosal-Associated Invariant T Cells|
+Mucous Membrane|
+Mucus|
+Mullerian Ducts|
+Multipotent Stem Cells|
+Multivesicular Bodies|
+Muscle Cells|
+Muscle Fibers, Fast-Twitch|
+Muscle Fibers, Skeletal|
+Muscle Fibers, Slow-Twitch|
+Muscle Spindles|
+Muscle, Skeletal|
+Muscle, Smooth|
+Muscle, Smooth, Vascular|
+Muscle, Striated|
+Muscles|
+Musculocutaneous Nerve|
+Musculoskeletal System|
+Mushroom Bodies|
+Mycelium|
+Mycorrhizae|
+Myelencephalon|
+Myelin Sheath|
+Myeloid Cells|
+Myeloid Progenitor Cells|
+Myeloid-Derived Suppressor Cells|
+Myenteric Plexus|
+Myoblasts|
+Myoblasts, Cardiac|
+Myoblasts, Skeletal|
+Myoblasts, Smooth Muscle|
+Myocardium|
+Myocutaneous Flap|
+Myocytes, Cardiac|
+Myocytes, Smooth Muscle|
+Myofibrils|
+Myofibroblasts|
+Myometrium|
+Myotendinous Junction|
+NIH 3T3 Cells|
+Nails|
+Nasal Bone|
+Nasal Cartilages|
+Nasal Cavity|
+Nasal Mucosa|
+Nasal Septum|
+Nasolabial Fold|
+Nasolacrimal Duct|
+Nasopharynx|
+Natal Teeth|
+Natural Killer T-Cells|
+Neck|
+Neck Muscles|
+Nematocyst|
+Neocortex|
+Neoplastic Cells, Circulating|
+Neoplastic Stem Cells|
+Neostriatum|
+Nephrons|
+Nerve Endings|
+Nerve Fibers|
+Nerve Fibers, Myelinated|
+Nerve Fibers, Unmyelinated|
+Nerve Net|
+Nerve Tissue|
+Nervous System|
+Neural Analyzers|
+Neural Crest|
+Neural Pathways|
+Neural Plate|
+Neural Stem Cells|
+Neural Tube|
+Neurilemma|
+Neurites|
+Neuroeffector Junction|
+Neuroendocrine Cells|
+Neuroepithelial Bodies|
+Neuroepithelial Cells|
+Neurofibrillary Tangles|
+Neurofibrils|
+Neuroglia|
+Neuromuscular Junction|
+Neurons|
+Neurons, Afferent|
+Neurons, Efferent|
+Neuropil|
+Neuropil Threads|
+Neurosecretory Systems|
+Neutrophils|
+Nictitating Membrane|
+Nipple Aspirate Fluid|
+Nipple Discharge|
+Nipples|
+Nissl Bodies|
+Nitrergic Neurons|
+Nociceptors|
+Nodose Ganglion|
+Nose|
+Notochord|
+Nuclear Bodies|
+Nuclear Envelope|
+Nuclear Lamina|
+Nuclear Matrix|
+Nuclear Pore|
+Nuclear Speckles|
+Nucleocapsid|
+Nucleolus Organizer Region|
+Nucleosomes|
+Nucleus Accumbens|
+Nucleus Pulposus|
+Nucleus Raphe Magnus|
+Nucleus Raphe Obscurus|
+Nucleus Raphe Pallidus|
+Nuts|
+Obturator Nerve|
+Occipital Bone|
+Occipital Lobe|
+Occlusion Bodies, Viral|
+Oculomotor Muscles|
+Oculomotor Nerve|
+Oculomotor Nuclear Complex|
+Odontoblasts|
+Odontoid Process|
+Olecranon Process|
+Olfactory Bulb|
+Olfactory Cortex|
+Olfactory Mucosa|
+Olfactory Nerve|
+Olfactory Pathways|
+Olfactory Receptor Neurons|
+Olfactory Tubercle|
+Oligodendrocyte Precursor Cells|
+Oligodendroglia|
+Olivary Nucleus|
+Omasum|
+Omentum|
+Oocysts|
+Oocytes|
+Oogonia|
+Oogonial Stem Cells|
+Ophthalmic Artery|
+Ophthalmic Nerve|
+Optic Chiasm|
+Optic Disk|
+Optic Lobe, Nonmammalian|
+Optic Nerve|
+Optic Tract|
+Orbit|
+Organ of Corti|
+Organelles|
+Organizers, Embryonic|
+Organoids|
+Organs at Risk|
+Organum Vasculosum|
+Oropharynx|
+Osteoblasts|
+Osteoclasts|
+Osteocytes|
+Otolithic Membrane|
+Oval Window, Ear|
+Ovarian Follicle|
+Ovary|
+Oviducts|
+Ovule|
+Ovum|
+Oxyphil Cells|
+PC-3 Cells|
+PC12 Cells|
+Pacinian Corpuscles|
+Palatal Muscles|
+Palate|
+Palate, Hard|
+Palate, Soft|
+Palatine Tonsil|
+Palmar Plate|
+Pancreas|
+Pancreas, Exocrine|
+Pancreatic Ducts|
+Pancreatic Juice|
+Pancreatic Polypeptide-Secreting Cells|
+Pancreatic Stellate Cells|
+Paneth Cells|
+Papillary Muscles|
+Para-Aortic Bodies|
+Parabrachial Nucleus|
+Paraganglia, Chromaffin|
+Paraganglia, Nonchromaffin|
+Parahippocampal Gyrus|
+Paranasal Sinuses|
+Parapharyngeal Space|
+Paraspeckles|
+Paraspinal Muscles|
+Parasympathetic Fibers, Postganglionic|
+Parasympathetic Nervous System|
+Parathyroid Glands|
+Paraventricular Hypothalamic Nucleus|
+Parenchymal Tissue|
+Parietal Bone|
+Parietal Cells, Gastric|
+Parietal Lobe|
+Parotid Gland|
+Parotid Region|
+Pars Compacta|
+Pars Reticulata|
+Patella|
+Patellar Ligament|
+Patellofemoral Joint|
+Pectoralis Muscles|
+Pedunculopontine Tegmental Nucleus|
+Pelvic Bones|
+Pelvic Floor|
+Pelvis|
+Penis|
+Perforant Pathway|
+Perforator Flap|
+Periamygdaloid Cortex|
+Perianal Glands|
+Periapical Tissue|
+Periaqueductal Gray|
+Pericardial Fluid|
+Pericardium|
+Pericytes|
+Perilymph|
+Perineum|
+Periodontal Ligament|
+Periodontium|
+Periosteum|
+Peripheral Blood Stem Cells|
+Peripheral Nerves|
+Peripheral Nervous System|
+Periplasm|
+Perirhinal Cortex|
+Peritoneal Cavity|
+Peritoneal Stomata|
+Peritoneum|
+Peroneal Nerve|
+Peroxisomes|
+Petrous Bone|
+Peyer's Patches|
+Phagocytes|
+Phagosomes|
+Pharyngeal Muscles|
+Pharynx|
+Philadelphia Chromosome|
+Phloem|
+Photoreceptor Cells|
+Photoreceptor Cells, Invertebrate|
+Photoreceptor Cells, Vertebrate|
+Photoreceptor Connecting Cilium|
+Phrenic Nerve|
+Phycobilisomes|
+Pia Mater|
+Pigment Epithelium of Eye|
+Pili, Sex|
+Pineal Gland|
+Piriform Cortex|
+Pisiform Bone|
+Pituitary Gland|
+Pituitary Gland, Anterior|
+Pituitary Gland, Intermediate|
+Pituitary Gland, Posterior|
+Pituitary-Adrenal System|
+Place Cells|
+Placenta|
+Plant Bark|
+Plant Cells|
+Plant Components, Aerial|
+Plant Cone|
+Plant Epidermis|
+Plant Leaves|
+Plant Root Cap|
+Plant Roots|
+Plant Shoots|
+Plant Stems|
+Plant Stomata|
+Plant Structures|
+Plant Tubers|
+Plant Vascular Bundle|
+Plantar Plate|
+Plasma|
+Plasma Cells|
+Plasmodesmata|
+Plastids|
+Platelet-Rich Fibrin|
+Platelet-Rich Plasma|
+Pleura|
+Pleural Cavity|
+Pluripotent Stem Cells|
+Podocytes|
+Podosomes|
+Polar Bodies|
+Pollen|
+Pollen Tube|
+Polyribosomes|
+Polytene Chromosomes|
+Pons|
+Pontine Tegmentum|
+Popliteal Artery|
+Popliteal Vein|
+Portal System|
+Portal Vein|
+Post-Synaptic Density|
+Posterior Capsule of the Lens|
+Posterior Cerebellar Commissure|
+Posterior Cerebral Artery|
+Posterior Cruciate Ligament|
+Posterior Eye Segment|
+Posterior Horn Cells|
+Posterior Thalamic Nuclei|
+Precursor Cells, B-Lymphoid|
+Precursor Cells, T-Lymphoid|
+Prefrontal Cortex|
+Preoptic Area|
+Pressoreceptors|
+Presynaptic Terminals|
+Pretectal Region|
+Primary Visual Cortex|
+Primitive Streak|
+Processing Bodies|
+Prokaryotic Cells|
+Promyelocytic Leukemia Nuclear Bodies|
+Pronephros|
+Prosencephalon|
+Prostate|
+Protoplasts|
+Proventriculus|
+Pseudoautosomal Regions|
+Pseudopodia|
+Psoas Muscles|
+Pterygoid Muscles|
+Pterygopalatine Fossa|
+Pubic Bone|
+Pubic Symphysis|
+Pudendal Nerve|
+Pulmonary Alveoli|
+Pulmonary Artery|
+Pulmonary Stretch Receptors|
+Pulmonary Valve|
+Pulmonary Veins|
+Pulvinar|
+Pulvinus|
+Pupil|
+Purkinje Cells|
+Purkinje Fibers|
+Purple Membrane|
+Putamen|
+Pyloric Antrum|
+Pylorus|
+Pyramidal Cells|
+Pyramidal Tracts|
+Pyriform Sinus|
+Quadriceps Muscle|
+RAW 264.7 Cells|
+Radial Artery|
+Radial Nerve|
+Radius|
+Ranvier's Nodes|
+Raphe Nuclei|
+Rectum|
+Rectus Abdominis|
+Recurrent Laryngeal Nerve|
+Red Nucleus|
+Reed-Sternberg Cells|
+Renal Artery|
+Renal Veins|
+Renshaw Cells|
+Respiratory Aerosols and Droplets|
+Respiratory Center|
+Respiratory Mucosa|
+Respiratory Muscles|
+Respiratory System|
+Rete Testis|
+Reticular Formation|
+Reticulocytes|
+Reticulum|
+Retina|
+Retinal Artery|
+Retinal Bipolar Cells|
+Retinal Cone Photoreceptor Cells|
+Retinal Ganglion Cells|
+Retinal Horizontal Cells|
+Retinal Neurons|
+Retinal Photoreceptor Cell Inner Segment|
+Retinal Photoreceptor Cell Outer Segment|
+Retinal Pigment Epithelium|
+Retinal Rod Photoreceptor Cells|
+Retinal Vein|
+Retinal Vessels|
+Retroperitoneal Space|
+Rhizome|
+Rhombencephalon|
+Rib Cage|
+Ribosomal Protein L10|
+Ribosome Subunits|
+Ribosome Subunits, Large|
+Ribosome Subunits, Large, Archaeal|
+Ribosome Subunits, Large, Bacterial|
+Ribosome Subunits, Large, Eukaryotic|
+Ribosome Subunits, Small|
+Ribosome Subunits, Small, Archaeal|
+Ribosome Subunits, Small, Bacterial|
+Ribosome Subunits, Small, Eukaryotic|
+Ribosomes|
+Ribs|
+Ring Chromosomes|
+Rod Cell Outer Segment|
+Root Nodules, Plant|
+Rotator Cuff|
+Round Ligament of Femur|
+Round Ligament of Liver|
+Round Ligament of Uterus|
+Round Ligaments|
+Round Window, Ear|
+Rumen|
+Saccule and Utricle|
+Sacrococcygeal Region|
+Sacroiliac Joint|
+Sacrum|
+Saliva|
+Salivary Ducts|
+Salivary Glands|
+Salivary Glands, Minor|
+Salt Gland|
+Saphenous Vein|
+Sarcolemma|
+Sarcomeres|
+Sarcoplasmic Reticulum|
+Satellite Cells, Perineuronal|
+Satellite Cells, Skeletal Muscle|
+Scala Tympani|
+Scala Vestibuli|
+Scalp|
+Scaphoid Bone|
+Scapula|
+Scent Glands|
+Schaffer Collaterals|
+Schizonts|
+Schlemm's Canal|
+Schwann Cells|
+Sciatic Nerve|
+Sclera|
+Scrotum|
+Sebaceous Glands|
+Sebum|
+Secretome|
+Secretory Vesicles|
+Seedlings|
+Seeds|
+Sella Turcica|
+Semen|
+Semicircular Canals|
+Semicircular Ducts|
+Seminal Vesicles|
+Seminiferous Epithelium|
+Seminiferous Tubules|
+Sense Organs|
+Sensilla|
+Sensorimotor Cortex|
+Sensory Receptor Cells|
+Sentinel Lymph Node|
+Septal Nuclei|
+Septum Pellucidum|
+Septum of Brain|
+Serotonergic Neurons|
+Serous Membrane|
+Sertoli Cells|
+Serum|
+Sesamoid Bones|
+Sex Chromatin|
+Sex Chromosomes|
+Sf9 Cells|
+Shelterin Complex|
+Shoulder|
+Shoulder Joint|
+Side-Population Cells|
+Sinoatrial Node|
+Sinus of Valsalva|
+Skeletal Muscle Ventricle|
+Skeleton|
+Skin|
+Skull|
+Skull Base|
+Smegma|
+Solitary Nucleus|
+Somatosensory Cortex|
+Somatostatin-Secreting Cells|
+Somatotrophs|
+Somites|
+Sperm Head|
+Sperm Midpiece|
+Sperm Tail|
+Spermatic Cord|
+Spermatids|
+Spermatocytes|
+Spermatogonia|
+Spermatozoa|
+Sphenoid Bone|
+Sphenoid Sinus|
+Spherocytes|
+Spheroids, Cellular|
+Spheroplasts|
+Sphincter of Oddi|
+Spinal Canal|
+Spinal Cord|
+Spinal Cord Dorsal Horn|
+Spinal Cord Lateral Horn|
+Spinal Cord Ventral Horn|
+Spinal Nerve Roots|
+Spinal Nerves|
+Spindle Apparatus|
+Spindle Pole Bodies|
+Spindle Poles|
+Spine|
+Spinocerebellar Tracts|
+Spinothalamic Tracts|
+Spiral Ganglion|
+Spiral Lamina|
+Spiral Ligament of Cochlea|
+Splanchnic Nerves|
+Spleen|
+Splenic Artery|
+Splenic Vein|
+Spliceosomes|
+Sporangia|
+Spores|
+Spores, Bacterial|
+Spores, Fungal|
+Spores, Protozoan|
+Sporozoites|
+Sputum|
+Stapedius|
+Stapes|
+Stellate Ganglion|
+Stem Cells|
+Stereocilia|
+Sternoclavicular Joint|
+Sternocostal Joints|
+Sternum|
+Stifle|
+Stomach|
+Stomach, Avian|
+Stomach, Ruminant|
+Stomatognathic System|
+Stress Fibers|
+Stress Granules|
+Stria Vascularis|
+Stromal Cells|
+Stromal Vascular Fraction|
+Subarachnoid Space|
+Subcellular Fractions|
+Subclavian Artery|
+Subclavian Vein|
+Subcommissural Organ|
+Subcutaneous Fat|
+Subcutaneous Fat, Abdominal|
+Subcutaneous Tissue|
+Subdural Space|
+Subfornical Organ|
+Sublingual Gland|
+Submandibular Gland|
+Submitochondrial Particles|
+Submucous Plexus|
+Subretinal Fluid|
+Substantia Gelatinosa|
+Substantia Innominata|
+Substantia Nigra|
+Subtalar Joint|
+Subthalamic Nucleus|
+Subthalamus|
+Superficial Back Muscles|
+Superficial Musculoaponeurotic System|
+Superior Cervical Ganglion|
+Superior Colliculi|
+Superior Olivary Complex|
+Superior Sagittal Sinus|
+Suprachiasmatic Nucleus|
+Suprachiasmatic Nucleus Neurons|
+Supraoptic Nucleus|
+Sural Nerve|
+Surgical Flaps|
+Surgical Stomas|
+Surgically-Created Structures|
+Sweat|
+Sweat Glands|
+Swiss 3T3 Cells|
+Sympathetic Fibers, Postganglionic|
+Sympathetic Nervous System|
+Sympathoadrenal System|
+Synapses|
+Synaptic Membranes|
+Synaptic Vesicles|
+Synaptonemal Complex|
+Synaptosomes|
+Synovial Fluid|
+Synovial Membrane|
+Synoviocytes|
+T Follicular Helper Cells|
+T-Lymphocyte Subsets|
+T-Lymphocytes|
+T-Lymphocytes, Cytotoxic|
+T-Lymphocytes, Helper-Inducer|
+T-Lymphocytes, Regulatory|
+THP-1 Cells|
+Tail|
+Talus|
+Tarsal Bones|
+Tarsal Joints|
+Tarsus, Animal|
+Taste Buds|
+Tears|
+Tectorial Membrane|
+Tectospinal Fibers|
+Tectum Mesencephali|
+Tegmentum Mesencephali|
+Telencephalic Commissures|
+Telencephalon|
+Telocytes|
+Telomere|
+Telomeric Repeat Binding Protein 1|
+Telomeric Repeat Binding Protein 2|
+Telopodes|
+Temporal Arteries|
+Temporal Bone|
+Temporal Lobe|
+Temporal Muscle|
+Temporomandibular Joint|
+Temporomandibular Joint Disc|
+Tendons|
+Tenocytes|
+Tenon Capsule|
+Tensor Tympani|
+Tertiary Lymphoid Structures|
+Testis|
+Th1 Cells|
+Th17 Cells|
+Th2 Cells|
+Thalamic Nuclei|
+Thalamus|
+Theca Cells|
+Thermoreceptors|
+Thigh|
+Third Ventricle|
+Thoracic Arteries|
+Thoracic Cavity|
+Thoracic Duct|
+Thoracic Nerves|
+Thoracic Vertebrae|
+Thoracic Wall|
+Thorax|
+Thumb|
+Thylakoids|
+Thymocytes|
+Thymus Gland|
+Thyroid Cartilage|
+Thyroid Epithelial Cells|
+Thyroid Gland|
+Thyrotrophs|
+Tibia|
+Tibial Arteries|
+Tibial Nerve|
+Tibiofemoral Joint|
+Tight Junctions|
+Tissues|
+Toe Joint|
+Toe Phalanges|
+Toes|
+Tongue|
+Tooth|
+Tooth Apex|
+Tooth Cervix|
+Tooth Components|
+Tooth Crown|
+Tooth Germ|
+Tooth Root|
+Tooth Socket|
+Tooth, Deciduous|
+Tooth, Unerupted|
+Torso|
+Totipotent Stem Cells|
+Trabecular Meshwork|
+Trachea|
+Transplant Donor Site|
+Transplants|
+Transport Vesicles|
+Transverse Sinuses|
+Trapezium Bone|
+Trapezoid Body|
+Trapezoid Bone|
+Triangular Fibrocartilage|
+Trichomes|
+Tricuspid Valve|
+Trigeminal Caudal Nucleus|
+Trigeminal Ganglion|
+Trigeminal Motor Nucleus|
+Trigeminal Nerve|
+Trigeminal Nuclei|
+Trigeminal Nucleus, Spinal|
+Trigger Points|
+Triquetrum Bone|
+Trochlear Nerve|
+Trophoblasts|
+Trophozoites|
+Truncus Arteriosus|
+Tuber Cinereum|
+Tuft Cells|
+Tumor Cells, Cultured|
+Tumor-Associated Macrophages|
+Tunica Intima|
+Tunica Media|
+Turbinates|
+Tympanic Membrane|
+U937 Cells|
+Ulna|
+Ulnar Artery|
+Ulnar Nerve|
+Ultimobranchial Body|
+Umbilical Arteries|
+Umbilical Cord|
+Umbilical Veins|
+Umbilicus|
+Uncinate Fasciculus|
+Upper Extremity|
+Upper Gastrointestinal Tract|
+Urachus|
+Ureter|
+Urethra|
+Urinary Bladder|
+Urinary Reservoirs, Continent|
+Urinary Tract|
+Urine|
+Urogenital System|
+Urothelium|
+Uterine Artery|
+Uterus|
+Uvea|
+Uvula|
+Vacuoles|
+Vagina|
+Vagus Nerve|
+Vas Deferens|
+Vasa Nervorum|
+Vasa Vasorum|
+Vasomotor System|
+Veins|
+Velopharyngeal Sphincter|
+Vena Cava, Inferior|
+Vena Cava, Superior|
+Venae Cavae|
+Venoms|
+Venous Valves|
+Ventral Striatum|
+Ventral Tegmental Area|
+Ventral Thalamic Nuclei|
+Ventricular Septum|
+Ventromedial Hypothalamic Nucleus|
+Venules|
+Vernix Caseosa|
+Vero Cells|
+Vertebral Artery|
+Vertebral Body|
+Vestibular Aqueduct|
+Vestibular Nerve|
+Vestibular Nuclei|
+Vestibular Nucleus, Lateral|
+Vestibular System|
+Vestibule, Labyrinth|
+Vestibulocochlear Nerve|
+Vibrissae|
+Viral Envelope|
+Viral Replication Compartments|
+Viral Structures|
+Virion|
+Viscera|
+Visceral Afferents|
+Visual Cortex|
+Visual Pathways|
+Vitelline Duct|
+Vitelline Membrane|
+Vitreous Body|
+Vocal Cords|
+Vomer|
+Vomeronasal Organ|
+Vulva|
+Weibel-Palade Bodies|
+Wernicke Area|
+Wharton Jelly|
+Whey|
+Whey Proteins|
+White Matter|
+Wings, Animal|
+Wolffian Ducts|
+Wood|
+Wool|
+Wrist|
+Wrist Joint|
+X Chromosome|
+Xiphoid Bone|
+Xylem|
+Y Chromosome|
+Yolk Sac|
+Zona Fasciculata|
+Zona Glomerulosa|
+Zona Incerta|
+Zona Pellucida|
+Zona Reticularis|
+Zygapophyseal Joint|
+Zygoma|
+Zygote|
+trans-Golgi Network|
+von Ebner Glands|
