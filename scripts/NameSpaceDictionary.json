@@ -9,6 +9,17 @@
         "VersionString": "5-1-13"
     },
     {
+        "namespace": "MIRBASE",
+        "NameString": "miRBase: the microRNA database",
+        "DomainString": "Gene and Gene Products",
+        "DescriptionString": "miRBase is a widely used biological database that serves as a central archive for microRNA (miRNA) sequences and annotations.",
+        "URL": "https://www.mirbase.org/download/miRNA.csv",
+        "code": "mrna",
+        "VersionString": "",
+        "value_column": "ID",
+        "code_column": "Accession"
+    },
+    {
         "namespace": "HGNCGENEGROUP",
         "NameString": "HGNC Gene group index",
         "DomainString": "Gene and Gene Products",
