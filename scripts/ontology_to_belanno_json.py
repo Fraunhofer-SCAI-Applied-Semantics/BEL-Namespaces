@@ -38,6 +38,7 @@ def detect_format(file_path: Path):
         ".nquads": "nquads",
         ".gz": "gz",
         ".txt": "txt",
+        ".csv": "csv"
     }
 
     return format_map.get(extension)  # Default to XML if unknown
@@ -110,18 +111,18 @@ def download_drugbank(url: str, username: str, password: str):
     for event, elem in tqdm(context, desc="Processing drugs", unit="drug"):
         if event == "end" and elem.tag == "{http://www.drugbank.ca}drug":
             # Extract DrugBank IDs (primary + secondary)
-            ids = [
-                id_elem.text
-                for id_elem in elem.findall("{http://www.drugbank.ca}drugbank-id")
-            ]
-            if not ids:
-                continue
-            primary_id = ids[0]
+            # ids = [
+            #     id_elem.text
+            #     for id_elem in elem.findall("{http://www.drugbank.ca}drugbank-id")
+            # ]
+            # if not ids:
+            #     continue
+            # primary_id = ids[0]
 
             # Extract the drug's name
             name_elem = elem.find("{http://www.drugbank.ca}name")
             if name_elem is not None and name_elem.text:
-                terms.append((name_elem.text.strip(), primary_id))
+                terms.append(name_elem.text.strip())
 
             # Clear element to free memory
             elem.clear()
@@ -144,7 +145,9 @@ def parse_ontology(file_url: str, value_column="", code_column="", header=None):
     """
     print(f"\nDownloading ontology from: {file_url}")
 
-    response = requests.get(file_url)
+    response = requests.get(file_url, headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+})
     response.raise_for_status()
     content_type = response.headers.get("Content-Type", "").lower()
 
@@ -170,11 +173,12 @@ def parse_ontology(file_url: str, value_column="", code_column="", header=None):
             else:
                 detected_format = "xml"
         print(f"Using format: {detected_format}")
-        if detected_format == "gz" or detected_format == "txt":
-
+        if any([detected_format == "gz", detected_format == "txt", detected_format == "csv"]) :
+            
             if detected_format == "gz":
                 with gzip.open(tmp_path, "rt", encoding="utf-8") as f:
-                    df = pd.read_csv(f, sep=",", dtype=str, header=header)
+
+                    df = pd.read_csv(f, delimiter="\t", dtype=str, header=header)
 
                     if header is None:
                         value_column = df.columns[1]
@@ -188,29 +192,40 @@ def parse_ontology(file_url: str, value_column="", code_column="", header=None):
                                 f"Columns '{value_column}' or '{code_column}' not found in the file."
                             )
 
-            elif detected_format == "txt":
+            elif detected_format == "txt" or detected_format == "csv":
                 # find the first tab-delimited header line
                 with open(tmp_path, encoding="utf-8") as f:
                     for i, line in enumerate(f):
                         if line.startswith("#") or not line.strip():
                             continue
-                        if "\t" in line:  # found header line
+                        if "\t" in line or "," in line:  # found header line
                             skip_rows = i
                             break
+                if detected_format == "csv":
+                    separator = ","
+                else:
+                    separator = "\t"
                 df = pd.read_csv(
                     tmp_path,
-                    sep="\t",
-                    header=0,
+                    sep=separator,
+                    header=header,
                     dtype=str,
                     comment="#",
                     on_bad_lines="skip",
                     skiprows=skip_rows,
                 )
-                if not value_column or not code_column:
-                    raise ValueError(
-                        "Either 'value_column' or 'code_column' or both not specified for gz or txt files."
-                    )
-            g = df[[value_column, code_column]].drop_duplicates()
+                if header is None:
+                    value_column = df.columns[1]
+                    code_column = df.columns[0]
+                else:
+                    if (
+                        value_column not in df.columns
+                        or code_column not in df.columns
+                    ):
+                        raise ValueError(
+                            f"Columns '{value_column}' or '{code_column}' not found in the file."
+                        )
+            g = df[[value_column, code_column]].drop_duplicates().dropna(subset=[value_column])
         elif detected_format == "xml":
             print("Trying to sanitize malformed RDF/XML content...")
             cleaned_content = sanitize_xml_content(response.content)
@@ -228,7 +243,7 @@ def parse_ontology(file_url: str, value_column="", code_column="", header=None):
         elif detected_format == "obo":
             print("🧬 OBO format detected — parsing via obonet...")
             try:
-                # ensure it's installed: pip install obonet
+                  # ensure it's installed: pip install obonet
 
                 obo_graph = obonet.read_obo(tmp_path)
                 print(f"✅ Loaded {len(obo_graph.nodes)} OBO terms.")
@@ -284,11 +299,11 @@ def main(input_dictionary, author, contact_info, output_dir):
     if not ontology_url:
         raise ValueError("The ontology_url is missing in the provided JSON file.")
 
-    Annotation = input_dictionary.get("Annotation")
-    if not Annotation:
-        raise ValueError("The Annotation is missing in the provided JSON file.")
+    namespace = input_dictionary.get("namespace")
+    if not namespace:
+        raise ValueError("The namespace is missing in the provided JSON file.")
 
-    print(f"\nWorking on Annotation:", Annotation)
+    print(f"\nWorking on namespace:", namespace)
 
     description = input_dictionary.get("DescriptionString")
     if not description:
@@ -296,11 +311,11 @@ def main(input_dictionary, author, contact_info, output_dir):
 
     NameString = input_dictionary.get("NameString")
     if not NameString:
-        NameString = Annotation
+        NameString = namespace
 
-    UsageString = input_dictionary.get("UsageString")
-    if not UsageString:
-        UsageString = "other"
+    DomainString = input_dictionary.get("DomainString")
+    if not DomainString:
+        DomainString = "other"
 
     VersionString = input_dictionary.get("VersionString")
     if not VersionString:
@@ -309,10 +324,15 @@ def main(input_dictionary, author, contact_info, output_dir):
     value_column = input_dictionary.get("value_column")
     code_column = input_dictionary.get("code_column")
     header = input_dictionary.get("header", 0)
-    if not header:
+    
+    if header == "":
         header = None
-
+    
     subcategories = input_dictionary.get("subcategories")
+    
+            
+
+    
 
     # Parse the ontology
     if "drugbank.com" in ontology_url:
@@ -320,57 +340,51 @@ def main(input_dictionary, author, contact_info, output_dir):
         password = input("Enter DrugBank password: ").strip()
         terms = download_drugbank(ontology_url, username, password)
     else:
-        try:
-            g = parse_ontology(ontology_url, value_column, code_column, header)
-            print("Ontology loaded successfully.")
-            print(f"Ontology contains {len(g)} triples.")
-        except Exception as e:
-            print(f"Error loading ontology: {e}")
-            exit(1)
-
+        
+        g = parse_ontology(ontology_url, value_column, code_column, header)
+        print("Ontology loaded successfully.")
+        print(f"Ontology contains {len(g)} triples.")
+        
         print("=" * 50)
         print("Extracting terms...")
+
+        
 
         # Special handling for DrugBank with authentication
 
         # Handle DataFrame case (for gz or txt files)
         if isinstance(g, pd.DataFrame):
-            terms = []
-            for _, row in g.iterrows():
-                label = str(row.iloc[0])
-                code_value = str(row.iloc[1])
-                terms.append((label, code_value))
-
+            if 'pubchem' in ontology_url:
+                terms = g[0].to_list()
+            else:
+                try:
+                    terms = g[1].to_list()
+                except KeyError:
+                    terms = g[value_column].to_list()
+            
+            
         # Extract labels and URIs for relevant terms
-        elif subcategories and Annotation.startswith("GO"):
+        elif subcategories and namespace.startswith("GO"):
             terms = []
             for s, p, o in tqdm(
                 g.triples((None, RDFS.label, None)), desc="Processing triples"
             ):
                 label = str(o)
-                terms.append((label, str(s)))
+                terms.append(label)
             print(f"✅ Extracted {len(terms)} MeSH terms.")
-            # Generate belanno file
+            # Generate BELNS file
             generate_file(
-                input_dictionary,
-                terms,
-                Annotation,
-                NameString,
-                UsageString,
-                VersionString,
-                description,
-                author,
-                contact_info,
-                output_dir,
+                input_dictionary, terms, namespace, NameString, DomainString, VersionString,
+                description, author, contact_info, output_dir
             )
-
+            
             for sub, data in subcategories.items():
-
+                
                 prefix, desc = data[0], data[1]
                 print(f"\nProcessing subcategory: {desc}")
                 sub_dict = input_dictionary.copy()
-                Annotation = f"{sub_dict['Annotation']}{sub}"
-                print(f"\nWorking on Annotation:", Annotation)
+                namespace = f"{sub_dict['namespace']}{sub}"
+                print(f"\nWorking on namespace:", namespace)
                 NameString = f"{sub_dict['NameString']} ({sub})"
                 description = f"{sub_dict.get('DescriptionString', '')} - {desc}"
                 BP_ROOT = URIRef(f"http://purl.obolibrary.org/obo/{prefix}")
@@ -388,44 +402,44 @@ def main(input_dictionary, author, contact_info, output_dir):
                 for uri in descendants:
                     for _, _, label in g.triples((uri, RDFS.label, None)):
                         if isinstance(label, Literal):
-                            terms.append((str(label), uri.split("/")[-1]))
+                            terms.append(str(label))
 
                 print(f"✅ Extracted {len(terms)} {desc} terms.")
                 generate_file(
-                    sub_dict,
-                    terms,
-                    Annotation,
-                    NameString,
-                    UsageString,
-                    VersionString,
-                    description,
-                    author,
-                    contact_info,
-                    output_dir,
+                    sub_dict, terms, namespace, NameString, DomainString, VersionString,
+                    description, author, contact_info, output_dir
                 )
             return
-
-        elif subcategories and Annotation.startswith("MESH"):
+        
+        elif subcategories and namespace.startswith("MESH"):
             terms = []
             for s, p, o in tqdm(
                 g.triples((None, RDFS.label, None)), desc="Processing triples"
             ):
                 label = str(o)
-                terms.append((label, str(s)))
+                terms.append(label)
             print(f"✅ Extracted {len(terms)} MeSH terms.")
+            # Generate BELNS file
+            generate_file(
+                input_dictionary, terms, namespace, NameString, DomainString, VersionString,
+                description, author, contact_info, output_dir
+            )
+            
+            
 
             for sub, data in subcategories.items():
-
-                print(f"\nProcessing subcategory: {sub}")
+                prefix, desc = data[0], data[1]
+                print(f"\nProcessing subcategory: {desc}")
 
                 sub_dict = input_dictionary.copy()
-                Annotation = f"{sub_dict['Annotation']}{sub}"
-                print(f"Working on Annotation: {Annotation}")
+                namespace = f"{sub_dict['namespace']}{sub}"
+                print(f"Working on namespace: {namespace}")
 
                 NameString = f"{sub_dict['NameString']} ({sub})"
-                description = f"{sub_dict.get('DescriptionString', '')} - {sub}"
+                description = f"{sub_dict.get('DescriptionString', '')} - {desc}"
 
                 # Reset terms list for each subcategory
+                
 
                 MESHV = Namespace("http://id.nlm.nih.gov/mesh/vocab#")
 
@@ -433,68 +447,52 @@ def main(input_dictionary, author, contact_info, output_dir):
                 TREE_NUMBER_PRED = MESHV.treeNumber
                 TREE_LABEL = RDFS.label
 
+                # Step 1: For each descriptor linked to a tree number node
+                for descriptor, _, tree_node in g.triples((None, TREE_NUMBER_PRED, None)):
+                    # Step 2: Get the label of the tree node
+                    for _, _, label in g.triples((tree_node, TREE_LABEL, None)):
+                        tree_num = str(label)
+                        if tree_num.startswith(prefix):
+                            roots.add(descriptor)
+
+                print(f"🌳 Found {len(roots)} root descriptors for prefix {prefix}")
+                visited = set()
                 terms = []
+                queue = list(roots)
 
-                for prefix in data:
-                    print(
-                        f"🔍 Finding root descriptors for tree number prefix: {prefix}"
-                    )
-                    # Step 1: For each descriptor linked to a tree number node
-                    for descriptor, _, tree_node in g.triples(
-                        (None, TREE_NUMBER_PRED, None)
-                    ):
-                        # Step 2: Get the label of the tree node
-                        for _, _, label in g.triples((tree_node, TREE_LABEL, None)):
-                            tree_num = str(label)
-                            if tree_num.startswith(prefix):
-                                roots.add(descriptor)
+                while queue:
+                    node = queue.pop()
+                    if node in visited:
+                        continue
+                    visited.add(node)
 
-                    print(f"🌳 Found {len(roots)} root descriptors for prefix {prefix}")
-                    visited = set()
+                    label = g.value(subject=node, predicate=RDFS.label)
+                    if isinstance(label, Literal):
+                        
+                        terms.append(str(label))
 
-                    queue = list(roots)
+                    # 🔁 Traverse deeper through narrowerDescriptor relations
+                    for narrower in g.objects(node, MESHV.narrowerDescriptor):
+                        if narrower not in visited:
+                            queue.append(narrower)
 
-                    while queue:
-                        node = queue.pop()
-                        if node in visited:
-                            continue
-                        visited.add(node)
+                print(f"✅ Extracted {len(terms)} MeSH terms for category '{desc}' (prefix {prefix}).")
+                                
 
-                        label = g.value(subject=node, predicate=RDFS.label)
-                        if isinstance(label, Literal):
-                            mesh_id = node.split("/")[-1]
-                            terms.append((str(label), mesh_id))
-
-                        # 🔁 Traverse deeper through narrowerDescriptor relations
-                        for narrower in g.objects(node, MESHV.narrowerDescriptor):
-                            if narrower not in visited:
-                                queue.append(narrower)
-
-                    print(
-                        f"✅ Extracted {len(terms)} MeSH terms for category '{sub}' (prefix {prefix})."
-                    )
 
                 generate_file(
-                    sub_dict,
-                    terms,
-                    Annotation,
-                    NameString,
-                    UsageString,
-                    VersionString,
-                    description,
-                    author,
-                    contact_info,
-                    output_dir,
+                    sub_dict, terms, namespace, NameString, DomainString, VersionString,
+                    description, author, contact_info, output_dir
                 )
             return
-
+        
         else:
             terms = []
             for s, p, o in tqdm(
                 g.triples((None, RDFS.label, None)), desc="Processing triples"
             ):
                 label = str(o)
-                terms.append((label, str(s)))
+                terms.append(label)
 
         # Try alternative label properties if no RDFS labels found
         if not terms:
@@ -508,7 +506,7 @@ def main(input_dictionary, author, contact_info, output_dir):
             for label_prop in label_properties:
                 for s, p, o in g.triples((None, label_prop, None)):
                     label = str(o)
-                    terms.append((label, str(s)))
+                    terms.append(label)
                 if terms:
                     print(f"Found {len(terms)} terms using {label_prop}")
                     break
@@ -523,63 +521,46 @@ def main(input_dictionary, author, contact_info, output_dir):
             }
             for s in subjects:
                 label = str(s).split("/")[-1].split("#")[-1]
-                terms.append((label, str(s)))
+                terms.append(label)
 
         print("Extraction complete.")
         print(f"Found {len(terms)} terms.")
 
-    # Generate belanno file
+    
+    # Generate BELNS file
     generate_file(
-        input_dictionary,
-        terms,
-        Annotation,
-        NameString,
-        UsageString,
-        VersionString,
-        description,
-        author,
-        contact_info,
-        output_dir,
+        input_dictionary, terms, namespace, NameString, DomainString, VersionString,
+        description, author, contact_info, output_dir
     )
 
-
 def generate_file(
-    input_dictionary,
-    terms,
-    Annotation,
-    NameString,
-    UsageString,
-    VersionString,
-    description,
-    author,
-    contact_info,
-    output_dir,
+    input_dictionary, terms, namespace, NameString, DomainString, VersionString,
+    description, author, contact_info, output_dir
 ):
     print("=" * 50)
-    print("Generating belanno file...")
+    print("Generating BELNS file...")
 
-    # Create belanno content
-
+    # remove duplicates
+    terms_set = set(terms)
+    terms = list(terms_set)
+   
     # Check for illegal delimiter in labels
     DelimiterString = "|"
-    if any(DelimiterString in label for label, _ in terms):
+    if any(DelimiterString in label for label in terms):
         DelimiterString = "§"
-        print(
-            f"Delimiter '|' found in labels. Switching to delimiter: {DelimiterString}"
-        )
+        print(f"Delimiter '|' found in labels. Switching to delimiter: {DelimiterString}")
     else:
         print(f"Using delimiter: {DelimiterString}")
-
+        
     # Construct metadata section
     metadata = f"""
-[AnnotationDefinition]
-Keyword={Annotation}
-TypeString=list
-DescriptionString={description}
-UsageString={UsageString}
+[Namespace]
+Keyword={namespace}
+NameString={NameString}
+DomainString={DomainString}
 VersionString={VersionString}
 CreatedDateTime={datetime.now().strftime("%Y-%m-%dT%H:%M:%S")}
-
+DescriptionString={description}
 
 [Author]
 NameString={author}
@@ -601,30 +582,24 @@ CacheableFlag=yes
     code = input_dictionary.get("code")
     if code:
         values = "\n".join(
-            f"{label}{DelimiterString}{code}"
-            for label, uri in dict(sorted(terms)).items()
+            f"{label}{DelimiterString}{code}" for label in sorted(terms)
         )
     else:
-        values_list = []
-        for label, uri in dict(sorted(terms)).items():
-            code = uri.split("/")[-1]
-            if len(code) > 8:
-                code = "OGRPBCAM"
-            values_list.append(f"{label}{DelimiterString}{code}")
-        values = "\n".join(values_list)
+        raise ValueError("The 'code' field is missing in the provided JSON file.")
 
     # Create output directory
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    # Save belanno file
-    output_file = output_path / f"{Annotation}_{VersionString}.belanno"
+    # Save BELNS file
+    output_file = output_path / f"{namespace}_{VersionString}.belns"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(metadata + values)
 
-    print("belanno file created successfully.")
+    print("BELNS file created successfully.")
     print(f"Output file: {output_file}")
     print(f"Total terms exported: {len(terms)}")
+    
 
 
 if __name__ == "__main__":
@@ -635,7 +610,7 @@ if __name__ == "__main__":
         input("Enter the output directory (default is current directory): ").strip()
         or "."
     )
-    print("Universal Ontology to belanno Converter")
+    print("Universal Ontology to BELNS Converter")
     print("Supports: OWL, RDF, TTL, NT, N3, JSON-LD, OBO, and more")
     print("=" * 60)
     dictionary_list = json.load(open(json_file))

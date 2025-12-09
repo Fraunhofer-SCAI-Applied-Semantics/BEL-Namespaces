@@ -5,8 +5,158 @@
         "DomainString": "Drugs",
         "DescriptionString": "DrugBank is the clinical development intelligence platform built for strategy, R&D, and portfolio teams focused on outpacing competitors and making faster, more confident decisions.",
         "URL": "https://go.drugbank.com/releases/5-1-13/downloads/all-full-database",
-        "code": "",
+        "code": "A",
         "VersionString": "5-1-13"
+    },
+    {
+        "namespace": "HGNCGENEGROUP",
+        "NameString": "HGNC Gene group index",
+        "DomainString": "Gene and Gene Products",
+        "DescriptionString": "The HGNC gene group is a classification system maintained by the HUGO Gene Nomenclature Committee (HGNC) that organizes human genes into families and groups based on sequence homology, shared structural domains, and/or similar function.",
+        "URL": "https://storage.googleapis.com/public-download-files/hgnc/csv/csv/genefamily_db_tables/family.csv",
+        "code": "G",
+        "VersionString": "",
+        "value_column": "name",
+        "code_column": "id"
+    },
+    {
+        "namespace": "GFAM",
+        "NameString": "HGNC Gene Families",
+        "DomainString": "Gene and Gene Products",
+        "DescriptionString": "HGNC Gene Families.",
+        "URL": "https://www.genenames.org/cgi-bin/genegroup/download-all",
+        "code": "G",
+        "VersionString": "",
+        "value_column": "Group name",
+        "code_column": "Group ID"
+    },
+    {
+        "namespace": "RGD",
+        "NameString": "RGD Approved Gene Symbols",
+        "DomainString": "Gene and Gene Products",
+        "DescriptionString": "Rat Genome Database (RGD) approved gene symbols. These symbols may be used to specify rat gene, RNA, microRNA and protein abundances. Single character encoding following each value specify which abundance types are valid.",
+        "URL": "https://download.rgd.mcw.edu/data_release/GENES_RAT.txt",
+        "code": "GRmrna",
+        "VersionString": "",
+        "value_column": "SYMBOL",
+        "code_column": "GENE_RGD_ID"
+    },
+    {
+        "namespace": "MGI",
+        "NameString": "MGI Approved Gene Symbols",
+        "DomainString": "Gene and Gene Products",
+        "DescriptionString": "Mouse Genome Informatics (MGI) approved gene symbols. These symbols may be used to specify mouse gene, RNA, microRNA and protein abundances.",
+        "URL": "https://www.informatics.jax.org/downloads/reports/MRK_List2.rpt.gz",
+        "code": "GRmrna",
+        "VersionString": "",
+        "value_column": "Marker Symbol",
+        "code_column": "MGI Accession ID"
+    },
+    {
+        "namespace": "ADO",
+        "NameString": "Alzheimer's Disease Ontology ",
+        "DomainString": "Other",
+        "DescriptionString": "An ontology for Alzheimer's disease research.",
+        "URL": "http://purl.obolibrary.org/obo/ado.owl",
+        "code": "AGPD",
+        "VersionString": "2.0.1"
+    },
+    {
+        "namespace": "BRCO",
+        "NameString": "Brain region Cell Ontology",
+        "DomainString": "Other",
+        "DescriptionString": "An ontology representing brain region cell types.",
+        "URL": "https://ols.ebrain.bio.scai.fraunhofer.de/ontologies/brco/download",
+        "code": "AL",
+        "VersionString": ""
+    },
+    {
+        "namespace": "NIFT",
+        "NameString": "Neuro Imaging Feature Ontology",
+        "DomainString": "Other",
+        "DescriptionString": "organize the knowledge domain of measured brain features in association with neurodegenerative diseases by imaging technologies.",
+        "URL": "https://ols.ebrain.bio.scai.fraunhofer.de/ontologies/nift/download",
+        "code": "A",
+        "VersionString": ""
+    },
+    {
+        "namespace": "HGNC",
+        "NameString": "Human Genome Organisation (HUGO) Gene Nomenclature Committee",
+        "DomainString": "Gene and Gene Products",
+        "DescriptionString": "Human Genome Organisation (HUGO) Gene Nomenclature Committee at the European Bioinformatics Institute approves a gene name and symbol (short-form abbreviation) for each known human gene. All approved symbols are stored in the HGNC database.",
+        "URL": "https://w3id.org/biopragmatics/resources/hgnc/hgnc.obo",
+        "code": "GRmrna",
+        "VersionString": ""
+    },
+    {
+        "namespace": "SFAM",
+        "NameString": "Selventa Protein Families",
+        "DomainString": "Gene/Protein",
+        "DescriptionString": "Selventa-defined names of protein families. Each family represents a group of related proteins.",
+        "URL": "https://raw.githubusercontent.com/OpenBEL/resource-generator/refs/heads/master/datasets/selventa-protein-families.txt",
+        "code": "P",
+        "VersionString": "",
+        "value_column": "LABEL",
+        "code_column": "ID"
+    },
+    {
+        "namespace": "PubChem",
+        "NameString": "PubChem",
+        "DomainString": "Chemical",
+        "DescriptionString": "PubChem is the world's largest collection of freely accessible chemical information. Search chemicals by name, molecular formula, structure, and other identifiers. Find chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations and more.",
+        "URL": "https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/CID-Title.gz",
+        "code": "A",
+        "VersionString": "",
+        "header": ""
+    },
+    {
+        "namespace": "KEGGP",
+        "NameString": "KEGG PATHWAY",
+        "DomainString": "Protein",
+        "DescriptionString": "KEGG PATHWAY is a collection of manually drawn KEGG pathway maps representing our knowledge on the molecular interaction and reaction networks for metabolism and various other cellular processes, organismal systems, and human diseases.",
+        "URL": "https://rest.kegg.jp/list/pathway",
+        "code": "B",
+        "VersionString": "",
+        "header": ""
+    },
+    {
+        "namespace": "UniProtKB",
+        "NameString": "UniProt Knowledgebase",
+        "DomainString": "Protein",
+        "DescriptionString": "The UniProt Knowledgebase (UniProtKB) is a comprehensive, high-quality and freely accessible resource of protein sequence and functional information, many entries being enriched with computational and manual annotation.",
+        "URL": "https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/BEL-Namespaces/refs/heads/main/data/uniprotkb_2025_12_01.tsv",
+        "code": "P",
+        "VersionString": "",
+        "value_column": "Entry Name",
+        "code_column": "Entry"
+    },
+    {
+        "namespace": "Reactome ",
+        "NameString": "Reactome ",
+        "DomainString": "Pathway",
+        "DescriptionString": "Reactome is a curated database of pathways and reactions in human biology.",
+        "URL": "https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/BEL-Namespaces/refs/heads/main/data/ReactomePathways.txt",
+        "code": "B",
+        "VersionString": "",
+        "header": ""
+    },
+    {
+        "namespace": "PRO",
+        "NameString": "Protein Ontology",
+        "DomainString": "Protein",
+        "DescriptionString": "PRO provides an ontological representation of protein-related entities by explicitly defining them and showing the relationships between them.",
+        "URL": "https://purl.obolibrary.org/obo/pr.obo",
+        "code": "PC",
+        "VersionString": ""
+    },
+    {
+        "namespace": "MONDO",
+        "NameString": "The Mondo Disease Ontology (Mondo)",
+        "DomainString": "Pathology",
+        "DescriptionString": "The Mondo Disease Ontology (Mondo) aims to harmonize existing disease terminologies into a coherent ontological representation of diseases. Mondo integrates widely used terminologies such as Online Mendelian Inheritance in Man (OMIM), Orphanet, Experimental Factor Ontology (EFO), Disease Ontology (DOID), ICD 11 (Foundation) and the neoplasm branch of National Cancer Institute Thesaurus (NCIt).",
+        "URL": "https://purl.obolibrary.org/obo/mondo.obo",
+        "code": "D",
+        "VersionString": ""
     },
     {
         "namespace": "PW",
@@ -14,7 +164,7 @@
         "DomainString": "BiologicalProcess",
         "DescriptionString": "A controlled vocabulary for annotating gene products to pathways.",
         "URL": "https://data.bioontology.org/ontologies/PW/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf",
-        "code": "",
+        "code": "B",
         "VersionString": "7.93"
     },
     {
@@ -23,7 +173,7 @@
         "DomainString": "Other",
         "DescriptionString": "Uberon is an integrated cross-species anatomy ontology representing a variety of entities classified according to traditional anatomical criteria such as structure, function and developmental lineage.",
         "URL": "https://raw.githubusercontent.com/obophenotype/uberon/refs/heads/master/uberon.obo",
-        "code": "",
+        "code": "L",
         "VersionString": "2025-08-15"
     },
     {
@@ -31,8 +181,8 @@
         "NameString": "Cell Ontology",
         "DomainString": "Other",
         "DescriptionString": "The Cell Ontology is a structured controlled vocabulary for cell types in animals.",
-        "URL": "https://purl.obolibrary.org/obo/cl.owl",
-        "code": "",
+        "URL": "https://purl.obolibrary.org/obo/cl.obo",
+        "code": "AL",
         "VersionString": ""
     },
     {
@@ -41,7 +191,7 @@
         "DomainString": "Other",
         "DescriptionString": "Morphological and physiological measurement records generated from clinical and model organism research and health programs.",
         "URL": "https://purl.obolibrary.org/obo/cmo.owl",
-        "code": "",
+        "code": "A",
         "VersionString": "2.253"
     },
     {
@@ -50,7 +200,7 @@
         "DomainString": "BiologicalProcess",
         "DescriptionString": "The Experimental Factor Ontology (EFO) provides a systematic description of many experimental variables available in EBI databases, and for external projects such as the NHGRI GWAS catalogue. It combines parts of several biological ontologies, such as anatomy, disease and chemical compounds. The scope of EFO is to support the annotation, analysis and visualization of data handled by many groups at the EBI and as the core ontology for OpenTargets.org",
         "URL": "https://github.com/EBISPOT/efo/releases/download/current/efo.owl",
-        "code": "",
+        "code": "ABD",
         "VersionString": "3.83.0"
     },
     {
@@ -59,7 +209,7 @@
         "DomainString": "Other",
         "DescriptionString": "NCIt is a reference terminology that includes broad coverage of the cancer domain, including cancer related diseases, findings and abnormalities. NCIt OBO Edition releases should be considered experimental.",
         "URL": "http://purl.obolibrary.org/obo/ncit/releases/2025-08-06/ncit.owl",
-        "code": "",
+        "code": "AL",
         "VersionString": ""
     },
     {
@@ -68,7 +218,7 @@
         "DomainString": "Taxonomy",
         "DescriptionString": "The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases. This currently represents about 10 ofthe described species of life on the planet.",
         "URL": "http://purl.obolibrary.org/obo/ncbitaxon/2025-09-11/ncbitaxon.owl",
-        "code": "",
+        "code": "Pop",
         "VersionString": ""
     },
     {
@@ -88,7 +238,7 @@
         "DomainString": "Various",
         "DescriptionString": "Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity.",
         "URL": "https://nlmpubs.nlm.nih.gov/projects/mesh/rdf/2025/mesh2025.nt",
-        "code": "",
+        "code": "APCBDLMpm",
         "VersionString": "",
         "subcategories": {
             "D": [
@@ -119,7 +269,7 @@
         "DomainString": "Gene and Gene Products",
         "DescriptionString": "The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes.",
         "URL": "https://purl.obolibrary.org/obo/go.owl",
-        "code": "",
+        "code": "ABMCLpm",
         "VersionString": "",
         "subcategories": {
             "BP": [
@@ -142,7 +292,7 @@
         "DomainString": "Protein families",
         "DescriptionString": "The Pfam protein families database is a comprehensive collection of protein domains and families used for genome annotation and protein structure and function analysis.",
         "URL": "https://ftp.ebi.ac.uk/pub/databases/Pfam/releases/Pfam38.0/pfamA.txt.gz",
-        "code": "",
+        "code": "P",
         "VersionString": "",
         "header": ""
     },
@@ -152,7 +302,7 @@
         "DomainString": "Pathology",
         "DescriptionString": "Disease names from the Disease Ontology (DO). These names may be used to specify pathologies.",
         "URL": "https://purl.obolibrary.org/obo/doid.owl",
-        "code": "",
+        "code": "D",
         "VersionString": ""
     },
     {
@@ -161,19 +311,10 @@
         "DomainString": "Protein",
         "DescriptionString": "InterPro provides functional analysis of proteins by classifying them into families and predicting domains and important sites.",
         "URL": "https://ftp.ebi.ac.uk/pub/databases/interpro/releases/latest/entry.list",
-        "code": "",
+        "code": "P",
         "VersionString": "",
         "value_column": "ENTRY_NAME",
         "code_column": "ENTRY_AC"
-    },
-    {
-        "namespace": "CELL",
-        "NameString": "Cell Ontology",
-        "DomainString": "Other",
-        "DescriptionString": "The Cell Ontology is a structured controlled vocabulary for cell types in animals.",
-        "URL": "https://purl.obolibrary.org/obo/cl.owl",
-        "code": "",
-        "VersionString": ""
     },
     {
         "namespace": "CHEBI",
@@ -181,7 +322,7 @@
         "DomainString": "Chemical Entities of Biological Interest",
         "DescriptionString": "A structured classification of molecular entities of biological interest focusing on 'small' chemical compounds.",
         "URL": "https://ftp.ebi.ac.uk/pub/databases/chebi//ontology/nightly/chebi.owl",
-        "code": "",
+        "code": "ADegProd",
         "VersionString": ""
     },
     {
@@ -190,30 +331,8 @@
         "DomainString": "BiologicalProcess",
         "DescriptionString": "A structured and controlled vocabulary for the phenotypic features encountered in human hereditary and other disease.",
         "URL": "https://github.com/obophenotype/human-phenotype-ontology/releases/download/v2025-10-22/hp-full.obo",
-        "code": "",
+        "code": "D",
         "VersionString": ""
-    },
-    {
-        "namespace": "SFAM",
-        "NameString": "Selventa Protein Families",
-        "DomainString": "Gene/Protein",
-        "DescriptionString": "Selventa-defined names of protein families. Each family represents a group of related proteins.",
-        "URL": "https://raw.githubusercontent.com/OpenBEL/resource-generator/refs/heads/master/datasets/selventa-protein-families.txt",
-        "code": "",
-        "VersionString": "",
-        "value_column": "LABEL",
-        "code_column": "ID"
-    },
-    {
-        "namespace": "SFAM",
-        "NameString": "Selventa Protein Families",
-        "DomainString": "Gene/Protein",
-        "DescriptionString": "Selventa-defined names of protein families. Each family represents a group of related proteins.",
-        "URL": "https://raw.githubusercontent.com/OpenBEL/resource-generator/refs/heads/master/datasets/selventa-protein-families.txt",
-        "code": "",
-        "VersionString": "",
-        "value_column": "LABEL",
-        "code_column": "ID"
     },
     {
         "namespace": "SCOMP",
@@ -221,78 +340,9 @@
         "DomainString": "Gene/Protein",
         "DescriptionString": "List of named complexes that are frequently used and/or are well characterized such as the NFKB Complex.",
         "URL": "https://raw.githubusercontent.com/OpenBEL/resource-generator/refs/heads/master/datasets/selventa-named-complexes.txt",
-        "code": "",
+        "code": "GP",
         "VersionString": "",
         "value_column": "LABEL",
         "code_column": "ID"
-    },
-    {
-        "namespace": "GFAM",
-        "NameString": "HGNC Gene Families",
-        "DomainString": "Gene and Gene Products",
-        "DescriptionString": "HGNC Gene Families.",
-        "URL": "https://www.genenames.org/cgi-bin/genegroup/download-all",
-        "code": "",
-        "VersionString": "",
-        "value_column": "Group name",
-        "code_column": "Group ID"
-    },
-    {
-        "namespace": "RGD",
-        "NameString": "RGD Approved Gene Symbols",
-        "DomainString": "Gene and Gene Products",
-        "DescriptionString": "Rat Genome Database (RGD) approved gene symbols. These symbols may be used to specify rat gene, RNA, microRNA and protein abundances. Single character encoding following each value specify which abundance types are valid.",
-        "URL": "https://download.rgd.mcw.edu/data_release/GENES_RAT.txt",
-        "code": "",
-        "VersionString": "",
-        "value_column": "SYMBOL",
-        "code_column": "GENE_RGD_ID"
-    },
-    {
-        "namespace": "MGI",
-        "NameString": "MGI Approved Gene Symbols",
-        "DomainString": "Gene and Gene Products",
-        "DescriptionString": "Mouse Genome Informatics (MGI) approved gene symbols. These symbols may be used to specify mouse gene, RNA, microRNA and protein abundances.",
-        "URL": "https://www.informatics.jax.org/downloads/reports/MRK_List2.rpt.gz",
-        "code": "",
-        "VersionString": "",
-        "value_column": "Marker Symbol",
-        "code_column": "MGI Accession ID"
-    },
-    {
-        "namespace": "ADO",
-        "NameString": "Alzheimer's Disease Ontology ",
-        "DomainString": "Other",
-        "DescriptionString": "An ontology for Alzheimer's disease research.",
-        "URL": "http://purl.obolibrary.org/obo/ado.owl",
-        "code": "",
-        "VersionString": "2.0.1"
-    },
-    {
-        "namespace": "BRCO",
-        "NameString": "Brain region Cell Ontology",
-        "DomainString": "Other",
-        "DescriptionString": "An ontology representing brain region cell types.",
-        "URL": "https://ols.ebrain.bio.scai.fraunhofer.de/ontologies/brco/download",
-        "code": "",
-        "VersionString": ""
-    },
-    {
-        "namespace": "NIFT",
-        "NameString": "Neuro Imaging Feature Ontology",
-        "DomainString": "Other",
-        "DescriptionString": "organize the knowledge domain of measured brain features in association with neurodegenerative diseases by imaging technologies.",
-        "URL": "https://ols.ebrain.bio.scai.fraunhofer.de/ontologies/nift/download",
-        "code": "",
-        "VersionString": ""
-    },
-    {
-        "namespace": "HGNC",
-        "NameString": "Human Genome Organisation (HUGO) Gene Nomenclature Committee",
-        "DomainString": "Gene and Gene Products",
-        "DescriptionString": "Human Genome Organisation (HUGO) Gene Nomenclature Committee at the European Bioinformatics Institute approves a gene name and symbol (short-form abbreviation) for each known human gene. All approved symbols are stored in the HGNC database.",
-        "URL": "https://data.bioontology.org/ontologies/HGNC/submissions/5/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb",
-        "code": "",
-        "VersionString": ""
     }
 ]
