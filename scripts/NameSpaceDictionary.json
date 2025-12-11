@@ -237,11 +237,11 @@
         "NameString": "NCBI Gene",
         "DomainString": "Gene and Gene Products",
         "DescriptionString": "Gene integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.",
-        "URL": "https://ftp.ncbi.nih.gov/gene/DATA/gene_summary.gz",
+        "URL": "https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz",
         "code": "GR",
         "VersionString": "",
         "value_column": "GeneID",
-        "code_column": "#tax_id"
+        "code_column": "Symbol"
     },
     {
         "namespace": "MESH",
@@ -249,7 +249,7 @@
         "DomainString": "Various",
         "DescriptionString": "Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity.",
         "URL": "https://nlmpubs.nlm.nih.gov/projects/mesh/rdf/2025/mesh2025.nt",
-        "code": "APCBDLMpm",
+        "code": "APCBDLMPm",
         "VersionString": "",
         "subcategories": {
             "D": [
@@ -280,7 +280,7 @@
         "DomainString": "Gene and Gene Products",
         "DescriptionString": "The Gene Ontology (GO) knowledgebase is the world’s largest source of information on the functions of genes.",
         "URL": "https://purl.obolibrary.org/obo/go.owl",
-        "code": "ABMCLpm",
+        "code": "ABMCLPm",
         "VersionString": "",
         "subcategories": {
             "BP": [
