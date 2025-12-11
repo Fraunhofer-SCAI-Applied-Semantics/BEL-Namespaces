@@ -332,8 +332,8 @@
         "NameString": "Chemical Entities of Biological Interest",
         "DomainString": "Chemical Entities of Biological Interest",
         "DescriptionString": "A structured classification of molecular entities of biological interest focusing on 'small' chemical compounds.",
-        "URL": "https://ftp.ebi.ac.uk/pub/databases/chebi//ontology/nightly/chebi.owl",
-        "code": "ADegProd",
+        "URL": "https://ftp.ebi.ac.uk/pub/databases/chebi//ontology/nightly/chebi.obo",
+        "code": "A",
         "VersionString": ""
     },
     {
