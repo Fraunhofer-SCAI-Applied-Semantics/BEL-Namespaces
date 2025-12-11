@@ -593,6 +593,7 @@ CacheableFlag=yes
 
 
 if __name__ == "__main__":
+    full_mode = input("Run in full mode? (y/n): ").strip().lower() == "y"
     json_file = input("Enter the path to the input JSON file : ").strip()
     author = input("Enter the author name: ").strip()
     contact_info = input("Enter the contact information: ").strip()
@@ -600,9 +601,22 @@ if __name__ == "__main__":
         input("Enter the output directory (default is current directory): ").strip()
         or "."
     )
+    dictionary_list = json.load(open(json_file))
     print("Universal Ontology to BELNS Converter")
     print("Supports: OWL, RDF, TTL, NT, N3, JSON-LD, OBO, and more")
     print("=" * 60)
-    dictionary_list = json.load(open(json_file))
-    for dictionary in tqdm(dictionary_list):
-        main(dictionary, author, contact_info, output_dir)
+    if full_mode:
+        
+        for dictionary in tqdm(dictionary_list):
+            main(dictionary, author, contact_info, output_dir)
+
+        
+    else:
+        namespace = input("Enter the namespace as they are in the json file: ").strip()
+        for dictionary in dictionary_list:
+            if dictionary.get("namespace") == namespace:
+                main(dictionary, author, contact_info, output_dir)
+                break
+        else:
+            print(f"namespace '{namespace}' not found in the provided JSON file.")
+    

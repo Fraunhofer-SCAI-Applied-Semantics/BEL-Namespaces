@@ -60,7 +60,7 @@
         "NameString": "Cell Ontology",
         "UsageString": "Use this annotation to indicate the cell type context of a statement. Use to annotate a statement that was demonstrated in a given cell type or where the facts represented in the statement were shown to be relevant to the cell type.",
         "DescriptionString": "Cell types from the Cell Ontology (CL)",
-        "URL": "https://purl.obolibrary.org/obo/cl.owl",
+        "URL": "https://purl.obolibrary.org/obo/cl.obo",
         "code": "",
         "VersionString": ""
     },
