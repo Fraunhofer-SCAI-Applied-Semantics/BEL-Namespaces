@@ -135,7 +135,7 @@
         "NameString": "UniProt Knowledgebase",
         "DomainString": "Protein",
         "DescriptionString": "The UniProt Knowledgebase (UniProtKB) is a comprehensive, high-quality and freely accessible resource of protein sequence and functional information, many entries being enriched with computational and manual annotation.",
-        "URL": "https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/BEL-Namespaces/refs/heads/main/data/uniprotkb_2025_12_01.tsv",
+        "URL": "https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/BEL-Namespaces/refs/heads/main/data/uniprotkb_2025_12_15.tsv",
         "code": "P",
         "VersionString": "",
         "value_column": "Entry",
