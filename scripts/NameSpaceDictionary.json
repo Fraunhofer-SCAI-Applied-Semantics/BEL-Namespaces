@@ -131,15 +131,15 @@
         "header": ""
     },
     {
-        "namespace": "UniProtKB",
+        "namespace": "UNIPROT",
         "NameString": "UniProt Knowledgebase",
         "DomainString": "Protein",
         "DescriptionString": "The UniProt Knowledgebase (UniProtKB) is a comprehensive, high-quality and freely accessible resource of protein sequence and functional information, many entries being enriched with computational and manual annotation.",
         "URL": "https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/BEL-Namespaces/refs/heads/main/data/uniprotkb_2025_12_01.tsv",
         "code": "P",
         "VersionString": "",
-        "value_column": "Entry Name",
-        "code_column": "Entry"
+        "value_column": "Entry",
+        "code_column": "Entry Name"
     },
     {
         "namespace": "Reactome ",
@@ -249,7 +249,7 @@
         "DomainString": "Various",
         "DescriptionString": "Medical Subject Headings (MeSH) is the National Library of Medicine's controlled vocabulary thesaurus. It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity.",
         "URL": "https://nlmpubs.nlm.nih.gov/projects/mesh/rdf/2025/mesh2025.nt",
-        "code": "APCBDLMPm",
+        "code": "APCBDLM",
         "VersionString": "",
         "subcategories": {
             "D": [
