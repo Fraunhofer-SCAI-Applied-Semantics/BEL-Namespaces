@@ -139,7 +139,7 @@
         "code": "P",
         "VersionString": "",
         "value_column": "Entry",
-        "code_column": "EntryName"
+        "code_column": "Entry Name"
     },
     {
         "namespace": "Reactome ",
