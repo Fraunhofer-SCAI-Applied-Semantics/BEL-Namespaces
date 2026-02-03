@@ -4,12 +4,12 @@ Keyword=Cell
 TypeString=list
 DescriptionString=Cell types from the Cell Ontology (CL)
 UsageString=Use this annotation to indicate the cell type context of a statement. Use to annotate a statement that was demonstrated in a given cell type or where the facts represented in the statement were shown to be relevant to the cell type.
-VersionString=20251211
-CreatedDateTime=2025-12-11T13:43:35
+VersionString=20260203
+CreatedDateTime=2026-02-03T13:21:29
 
 
 [Author]
-NameString=Karim Saber
+NameString=Karim Shalaby
 CopyrightString=Creative Commons by 4.0
 ContactInfoString=karim.shalaby@scai.fraunhofer.de
 
@@ -105,6 +105,13 @@ AB diffuse-2 amacrine cell|
 ABC NN_1 Cubn arachnoid barrier cell (Mmus)|
 ABC NN_1 Dapl1 arachnoid barrier cell (Mmus)|
 ABC NN_1 Pde11a arachnoid barrier cell (Mmus)|
+ABCA4|
+AC004852.2|
+AC011990.1|
+AC012409.2|
+AC110772.2|
+AC112178.1|
+AC112493.1|
 ACTA2|
 ADAMTSL1|
 ADP binding|
@@ -119,6 +126,8 @@ ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 (human)|
 ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 (mouse)|
 AGER|
 AGM hematopoietic stem cell|
+AL033504.1|
+AL589740.1|
 AMY-SLEA-BNST D1 GABA GABAergic interneuron (Primate)|
 AMY-SLEA-BNST GABA GABAergic interneuron (Primate)|
 ANKRD36C|
@@ -161,7 +170,6 @@ Aldh1a1 (Mmus)|
 Alk (Mmus)|
 Alk,Atp13a4 (Yao - within subclass).|
 Alpk1 (Mmus)|
-Ammon's horn|
 Ammon's horn|
 Ammon's horn basket cell|
 Amniota|
@@ -397,6 +405,7 @@ C-type lectin domain family 7 member A (mouse)|
 C-type lectin with multiple lectin domains|
 C/C-C motif small inducible chemokine|
 C1 axonemal microtubule|
+C16orf74|
 C1orf194|
 C1qa (Mmus)|
 C1qa,Tmem119 (Yao - within subclass).|
@@ -429,6 +438,7 @@ CALCA gene translation product|
 CALCA gene translation product (human)|
 CALCA gene translation product (mouse)|
 CAP motoneuron|
+CARMIL1|
 CB Granule Glut_1 cerebellar granule cell (Mmus)|
 CB Granule Glut_2 cerebellar granule cell (Mmus)|
 CB PLI GABA Ly6d Purkinje layer interneuron|
@@ -639,6 +649,7 @@ CD94-negative natural killer cell, mouse|
 CD94-negative, Ly49CI-negative natural killer cell, mouse|
 CD94-positive Ly49CI-positive natural killer cell, mouse|
 CD94-positive natural killer cell, mouse|
+CDHR3|
 CGRP-expressing neuron|
 CHGA|
 CHOR NN_1 Slc17a8 choroid plexus epithelial cell (Mmus)|
@@ -807,6 +818,8 @@ DNA recombination|
 DNA transmembrane transporter activity|
 DNA transport|
 DNA-binding transcription factor binding|
+DOK5|
+DPP10|
 DPT|
 DRD1|
 DRD1, ARHGAP6 (CAS evidence).|
@@ -819,6 +832,7 @@ DRD2|
 DRD2, ARHGAP6 (CAS evidence).|
 DRD2, KCNIP1 (CAS evidence).|
 DRD2, STXBP6 (CAS evidence).|
+DSCAM|
 Dao (Mmus)|
 Dao,Efemp1 (Yao - within subclass).|
 Dao,Efemp1 (Yao).|
@@ -861,6 +875,9 @@ E/P-selectin|
 E3 SUMO-protein ligase EGR2 (human)|
 E3 SUMO-protein ligase EGR2 (mouse)|
 E330013P04Rik (Mmus)|
+EBF1|
+ENSG00000243004;AC005062.2;AC005062.1|
+ERBB4|
 Ecdysozoa|
 Echinodermata|
 Ecrg4 (Mmus)|
@@ -1203,6 +1220,7 @@ IgD immunoglobulin complex|
 IgD immunoglobulin complex, circulating|
 IgD plasmablast|
 IgD-negative CD38-positive IgG memory B cell|
+IgD-negative class switched memory B cell|
 IgD-negative memory B cell|
 IgD-positive CD38-positive IgG memory B cell|
 IgE immunoglobulin complex|
@@ -1355,7 +1373,8 @@ L6 th sst GABAergic interneuron (Mmus)|
 L6b glutamatergic cortical neuron|
 L6b glutamatergic cortical neuron (Homo sapiens)|
 L6b glutamatergic neuron of the primary motor cortex|
-LAMP5|
+LAMA2|
+LAMA3|
 LAMP5|
 LAMP5, CXCL14 (CAS evidence).|
 LAMP5, LHX6 (CAS evidence).|
@@ -1368,6 +1387,7 @@ LIM/homeobox protein Lhx6 (human)|
 LIM/homeobox protein Lhx6 (mouse)|
 LINC00298|
 LINC00507|
+LINC01915|
 LUM|
 LYPD2|
 Lagomorpha|
@@ -1415,12 +1435,15 @@ Ly6d,Kit (Yao).|
 M cell of gut|
 M cone cell|
 M phase|
+M0 macrophage|
+M1 macrophage|
 M1 retinal ganglion cell|
 M10 retinal ganglion cell|
 M11 retinal ganglion cell|
 M12 retinal ganglion cell|
 M13 retinal ganglion cell|
 M14 retinal ganglion cell|
+M2 macrophage|
 M2 retinal ganglion cell|
 M3 retinal ganglion cell|
 M3-OFF retinal ganglion cell|
@@ -1564,6 +1587,7 @@ NK T cell differentiation|
 NK T cell proliferation|
 NK T cell proliferation involved in immune response|
 NK1.1-positive natural killer cell, mouse|
+NKAIN3|
 NKG2-A/NKG2-B type II integral membrane protein|
 NKG2-A/NKG2-B type II integral membrane protein (human)|
 NKGA2-positive natural killer cell, mouse|
@@ -1572,7 +1596,6 @@ NKp44-positive group 3 innate lymphoid cell, human|
 NKp46-positive innate lymphoid cell, human|
 NPAS1|
 NPSR1-AS1|
-NPY|
 NPY|
 NPY (CAS evidence).|
 NPY interneuron|
@@ -1588,18 +1611,30 @@ NS forest marker set of L6 intratelencephalic projecting Car3 glutamatergic neur
 NS forest marker set of L6 intratelencephalic projecting glutamatergic neuron (Human neocortex).|
 NS forest marker set of L6b glutamatergic neuron of the primary motor cortex (Human neocortex).|
 NS forest marker set of Lamp5 Lhx6 neuron (Human neocortex).|
-NS forest marker set of PAX6 GABAergic cortical interneuron (Human neocortex).|
-NS forest marker set of VIP GABAergic cortical interneuron (Human neocortex).|
+NS forest marker set of OFFx cell (Human retina).|
+NS forest marker set of ON-blue cone bipolar cell (Human retina).|
+NS forest marker set of PAX6 GABAergic interneuron (Human neocortex).|
+NS forest marker set of VIP GABAergic interneuron (Human neocortex).|
 NS forest marker set of airway submucosal gland collecting duct epithelial cell (Human lung).|
 NS forest marker set of alveolar adventitial fibroblast (Human lung).|
 NS forest marker set of alveolar macrophage (Human lung).|
 NS forest marker set of alveolar type 1 fibroblast cell (Human lung).|
 NS forest marker set of bronchial goblet cell (Human lung).|
 NS forest marker set of brush cell of tracheobronchial tree (Human lung).|
-NS forest marker set of chandelier pvalb GABAergic cortical interneuron (Human neocortex).|
+NS forest marker set of cone retinal bipolar cell (Human retina).|
 NS forest marker set of cycling alveolar macrophage (Human lung).|
 NS forest marker set of cycling pulmonary alveolar type 2 cell (Human lung).|
-NS forest marker set of lamp5 GABAergic cortical interneuron (Human neocortex).|
+NS forest marker set of diffuse bipolar 1 cell (Human retina).|
+NS forest marker set of diffuse bipolar 2 cell (Human retina).|
+NS forest marker set of diffuse bipolar 3a cell (Human retina).|
+NS forest marker set of diffuse bipolar 3b cell (Human retina).|
+NS forest marker set of diffuse bipolar 4a cell (Human retina).|
+NS forest marker set of diffuse bipolar 4b cell (Human retina).|
+NS forest marker set of diffuse bipolar 6 cell (Human retina).|
+NS forest marker set of flat midget bipolar cell (Human retina).|
+NS forest marker set of giant bipolar cell (Human retina).|
+NS forest marker set of invaginating midget bipolar cell (Human retina).|
+NS forest marker set of lamp5 GABAergic interneuron (Human neocortex).|
 NS forest marker set of lung interstitial macrophage (Human lung).|
 NS forest marker set of lung pericyte (Human lung).|
 NS forest marker set of metallothionein-positive alveolar macrophage (Human lung).|
@@ -1611,14 +1646,18 @@ NS forest marker set of pulmonary alveolar type 2 cell (Human lung).|
 NS forest marker set of pulmonary interstitial fibroblast (Human lung).|
 NS forest marker set of pulmonary ionocyte (Human lung).|
 NS forest marker set of pulmonary neuroendocrine cell (Human lung).|
-NS forest marker set of pvalb GABAergic cortical interneuron (Human neocortex).|
+NS forest marker set of pvalb GABAergic interneuron (Human neocortex).|
+NS forest marker set of pvalb chandelier GABAergic interneuron (Human neocortex).|
 NS forest marker set of respiratory tract suprabasal cell (Human lung).|
+NS forest marker set of rod bipolar cell (Human retina).|
 NS forest marker set of serous secreting cell of bronchus submucosal gland (Human lung).|
-NS forest marker set of sncg GABAergic cortical interneuron (Human neocortex).|
-NS forest marker set of sst GABAergic cortical interneuron (Human neocortex).|
-NS forest marker set of sst chodl GABAergic cortical interneuron (Human neocortex).|
+NS forest marker set of sncg GABAergic interneuron (Human neocortex).|
+NS forest marker set of sst GABAergic interneuron (Human neocortex).|
+NS forest marker set of sst chodl GABAergic interneuron (Human neocortex).|
 NS forest marker set of tracheobronchial smooth muscle cell (Human lung).|
+NTRK3|
 NUSAP1|
+NXPH2|
 Neil3 (Mmus)|
 Neil3,Foxg1 (Yao - within subclass).|
 Neil3,Irx2 (Yao - within subclass).|
@@ -1686,6 +1725,7 @@ P2X purinoceptor 3 (mouse)|
 P2X receptor protein|
 P3h2 (Mmus)|
 P3h2,Lrrc38 (Yao - within subclass).|
+PAM|
 PAX5|
 PAX5, BCL11B, POU6F2 (CAS evidence).|
 PAX6 GABAergic interneuron|
@@ -1706,9 +1746,10 @@ POU6F2|
 PP cell|
 PP cell of intestine|
 PRC1|
+PRKCA-AS1|
 PRR4|
 PTHLH|
-PVALB|
+PTPRT|
 PVALB|
 Pak1 (Mmus)|
 Pallidum|
@@ -1915,6 +1956,7 @@ SA node cell action potential|
 SA node cell to atrial cardiac muscle cell communication|
 SA node cell to atrial cardiac muscle cell signaling|
 SCARA5|
+SCG2|
 SCN pacemaker neuron|
 SCO-spondin|
 SCO-spondin (human)|
@@ -1946,6 +1988,7 @@ SN-VTR-HTH GATA3-TCF7L2 GABA GABAergic interneuron (Primate)|
 SNARE complex|
 SNARE complex assembly|
 SNARE complex disassembly|
+SORCS3|
 SOX6|
 SOX6, KCNA1 (CAS evidence).|
 SPARC-like protein 1|
@@ -1956,6 +1999,7 @@ SSTR2|
 ST18|
 ST18 (CAS evidence).|
 ST18, PTHLH, COL19A1 (CAS evidence).|
+ST6GALNAC3|
 ST8SIA4|
 STAB1|
 STH PVALB-PITX2 Glut glutamatergic neuron of the basal ganglia (Primate)|
@@ -2189,6 +2233,8 @@ T3 B cell|
 TAC1|
 TAC3-positive medium spiny neuron|
 TAC3-positive striatal interneuron|
+TAFA1|
+TAFA4|
 TAGLN|
 TBR1|
 TCR-positive macrophage|
@@ -2250,6 +2296,7 @@ Ttll3 (Mmus)|
 Ttr (Mmus)|
 Ttr (Yao - within subclass).|
 UBE2C|
+UTRN|
 UV cone cell|
 UV sensitive photoreceptor cell|
 Unc13c (Mmus)|
@@ -2262,7 +2309,6 @@ V(D)J recombination-activating protein 2|
 V(D)J recombination-activating protein 2 (human)|
 V(D)J recombination-activating protein 2 (mouse)|
 V1delta gamma-delta T cell|
-VIP|
 VIP|
 VIP (CAS evidence).|
 VIP GABAergic interneuron|
@@ -2516,10 +2562,13 @@ alkali secreting cell|
 allantois|
 allantois development|
 allocortex|
-allocortex|
 alobate|
 alobate nucleus|
 alpha motor neuron|
+alpha retinal ganglion cell OFF-sustained (Mmus)|
+alpha retinal ganglion cell OFF-transient (Mmus)|
+alpha retinal ganglion cell ON-sustained (Mmus)|
+alpha retinal ganglion cell ON-transient (Mmus)|
 alpha-(1,3)-fucosyltransferase|
 alpha-(1,3)-fucosyltransferase 4|
 alpha-(1,3)-fucosyltransferase 4 (human)|
@@ -2542,7 +2591,6 @@ alpha1-tanycyte|
 alpha2-tanycyte|
 alpha2-tanycyte (Mmus)|
 alpha7 GABAergic cortical interneuron (Mmus)|
-alternatively activated macrophage|
 alveolar adventitial fibroblast|
 alveolar capillary type 1 endothelial cell|
 alveolar capillary type 2 endothelial cell|
@@ -2557,7 +2605,6 @@ alveolar type 1 fibroblast cell|
 alveolar wall|
 alveolus|
 alveolus of lung|
-alveus|
 alveus|
 amacrine cell|
 amacrine cell differentiation|
@@ -2731,7 +2778,6 @@ anterior lens cell|
 anterior limiting lamina of cornea|
 anterior neural tube|
 anterior olfactory nucleus|
-anterior olfactory nucleus|
 anterior part of tongue|
 anterior region of body|
 anterior segment of eyeball|
@@ -2762,7 +2808,6 @@ anterograde neuronal dense core vesicle transport|
 anterograde trans-synaptic signaling|
 anterograde trans-synaptic signaling by nitric oxide|
 anteroventral cochlear nucleus|
-anteroventral periventricular nucleus|
 anteroventral periventricular nucleus|
 antibody secreting cell|
 antigen processing and presentation|
@@ -2866,18 +2911,15 @@ arch of aorta|
 arch of atlas|
 arch of centrum of vertebra|
 archicortex|
-archicortex|
 arcuate artery cell|
 arcuate artery endothelial cell|
 arcuate artery smooth muscle cell|
 arcuate ligament|
 arcuate nucleus of hypothalamus|
-arcuate nucleus of hypothalamus|
 arcuate nucleus of hypothalamus KNDy neuron|
 arcuate vein cell|
 arcuate vein endothelial cell|
 arcuate vein smooth muscle cell|
-area postrema|
 area postrema|
 areolar connective tissue|
 arginase-1|
@@ -3091,7 +3133,6 @@ basal cell of urothelium|
 basal epithelial cell of prostatic duct|
 basal epithelial cell of tracheobronchial tree|
 basal external epithelial cell of tympanic membrane|
-basal forebrain|
 basal forebrain|
 basal ganglion|
 basal lamina of epithelium|
@@ -3329,8 +3370,6 @@ brachial nerve plexus|
 brachiocephalic artery|
 brachiocephalic vasculature|
 brachiocephalic vein|
-brain|
-brain|
 brain|
 brain arachnoid mater|
 brain blood vessel|
@@ -3680,6 +3719,7 @@ cartilage development|
 cartilage development involved in endochondral bone morphogenesis|
 cartilage element|
 cartilage element of chondrocranium|
+cartilage homeostasis|
 cartilage morphogenesis|
 cartilage of bronchus|
 cartilage of external acoustic meatus|
@@ -3729,7 +3769,6 @@ cation binding|
 cation channel complex|
 caudal artery|
 caudal ganglionic eminence|
-caudal ganglionic eminence|
 caudal ganglionic eminence derived interneuron|
 caudal ganglionic eminence derived neuron|
 caudal part of nephrogenic cord|
@@ -3740,7 +3779,6 @@ caudal vertebra|
 caudal vertebra cartilage element|
 caudal vertebra endochondral element|
 caudal vertebra pre-cartilage condensation|
-caudate nucleus|
 caudate nucleus|
 caudate nucleus development|
 caudate-putamen|
@@ -4007,7 +4045,6 @@ central nervous system projection neuron axonogenesis|
 central nervous system vasculogenesis|
 central nervous system white matter layer|
 central sulcus|
-central sulcus|
 central tendon of diaphragm|
 central vein of liver|
 centrilobular region hepatocyte|
@@ -4030,8 +4067,6 @@ cerebellar artery|
 cerebellar astrocyte (Mmus)|
 cerebellar basket cell|
 cerebellar commissure|
-cerebellar commissure|
-cerebellar cortex|
 cerebellar cortex|
 cerebellar cortex development|
 cerebellar cortex formation|
@@ -4049,7 +4084,6 @@ cerebellar granule cell (Mmus)|
 cerebellar granule cell differentiation|
 cerebellar granule cell precursor|
 cerebellar hemisphere|
-cerebellar hemisphere|
 cerebellar inhibitory GABAergic interneuron|
 cerebellar layer|
 cerebellar lobes and lobules|
@@ -4064,13 +4098,10 @@ cerebellar peduncle|
 cerebellar peduncles|
 cerebellar peduncular complex|
 cerebellar plate|
-cerebellar plate|
 cerebellar stellate cell|
 cerebellar stellate cell differentiation|
 cerebellar vein|
 cerebellar vermis|
-cerebellar vermis|
-cerebellum|
 cerebellum|
 cerebellum development|
 cerebellum fissure|
@@ -4093,7 +4124,6 @@ cerebral artery|
 cerebral blood circulation|
 cerebral blood vessel|
 cerebral cortex|
-cerebral cortex|
 cerebral cortex GABAergic interneuron|
 cerebral cortex GABAergic interneuron development|
 cerebral cortex GABAergic interneuron differentiation|
@@ -4113,7 +4143,6 @@ cerebral hemisphere|
 cerebral hemisphere gray matter|
 cerebral hemisphere white matter|
 cerebral nerve fasciculus|
-cerebral nuclei|
 cerebral nuclei|
 cerebral subcortex|
 cerebral sulci|
@@ -4265,14 +4294,12 @@ chorionic villus|
 chorioretinal region|
 choroid epiplexus macrophage|
 choroid plexus|
-choroid plexus|
 choroid plexus capillary endothelial cell|
 choroid plexus epithelial cell|
 choroid plexus epithelial cell (Mmus)|
 choroid plexus epithelium|
 choroid plexus macrophage|
 choroid plexus of fourth ventricle|
-choroid plexus of lateral ventricle|
 choroid plexus of lateral ventricle|
 choroid plexus of the fourth ventricle|
 choroid plexus of third ventricle|
@@ -4418,6 +4445,17 @@ collagen alpha-1(I) chain|
 collagen alpha-1(I) chain (human)|
 collagen alpha-1(I) chain (mouse)|
 collagen alpha-1(I) chain proteolytic cleavage product|
+collagen alpha-1(III) chain|
+collagen alpha-1(III) chain (human)|
+collagen alpha-1(III) chain (mouse)|
+collagen alpha-1(III) chain proteolytic cleavage product|
+collagen alpha-1(VI) chain|
+collagen alpha-1(VI) chain (human)|
+collagen alpha-1(VI) chain (mouse)|
+collagen alpha-1(VI) chain proteolytic cleavage product|
+collagen alpha-1(X) chain|
+collagen alpha-1(X) chain (human)|
+collagen alpha-1(X) chain (mouse)|
 collagen alpha-1(XI) chain|
 collagen alpha-1(XI) chain (human)|
 collagen alpha-1(XI) chain (mouse)|
@@ -4435,6 +4473,7 @@ collagen type I alpha chain|
 collagen type I trimer|
 collagen type II trimer|
 collagen type IV trimer|
+collagen type VI alpha chain|
 collagenous|
 collagenous component of basement membrane|
 collagenous component of interstitial matrix|
@@ -4578,8 +4617,6 @@ coronary vein morphogenesis|
 coronary vessel|
 coronet cell|
 corpus callosum|
-corpus callosum|
-corpus callosum|
 corpus callosum development|
 corpus callosum morphogenesis|
 corpus callosum, anterior forceps|
@@ -4613,7 +4650,6 @@ cortical layer V/VI|
 cortical layer VI|
 cortical layer VIb|
 cortical plate|
-cortical plate|
 cortical preplate|
 cortical subplate|
 cortical thymic epithelial cell|
@@ -4623,8 +4659,6 @@ corticomedial nuclear complex|
 corticomedial nuclear group|
 corticomedulla projecting|
 corticomedullary thymic epithelial cell|
-corticospinal tract|
-corticospinal tract|
 corticospinal tract|
 corticospinal tract morphogenesis|
 corticosteroid hormone secretion|
@@ -5001,7 +5035,6 @@ dicarboxylic acid transport|
 diencephalic nucleus|
 diencephalic white matter|
 diencephalon|
-diencephalon|
 diencephalon arachnoid mater|
 diencephalon development|
 diencephalon dura mater|
@@ -5109,13 +5142,11 @@ dorsal aorta development|
 dorsal aorta morphogenesis|
 dorsal body wall|
 dorsal cochlear nucleus|
-dorsal cochlear nucleus|
 dorsal cochlear nucleus development|
 dorsal cochlear nucleus pyramidal cell layer|
 dorsal hair|
 dorsal horn interneuron|
 dorsal horn of spinal cord|
-dorsal lateral geniculate nucleus|
 dorsal lateral geniculate nucleus|
 dorsal metatarsal vein|
 dorsal nerve root of cervical spinal cord|
@@ -5140,7 +5171,6 @@ dorsal spinal cord development|
 dorsal striatum|
 dorsal surface of penis|
 dorsal telencephalic commissure|
-dorsal thalamus|
 dorsal thalamus|
 dorsal thoracic segment of trunk|
 dorsal trunk|
@@ -5248,6 +5278,7 @@ ectoplacental cone|
 effector CD4-positive, alpha-beta T cell|
 effector CD8-positive, alpha-beta T cell|
 effector T cell|
+effector chondrocyte|
 effector memory CD4-positive, alpha-beta T cell|
 effector memory CD4-positive, alpha-beta T cell, terminally differentiated|
 effector memory CD45RA-positive, alpha-beta T cell, terminally differentiated|
@@ -5618,7 +5649,6 @@ epiphysis of proximal phalanx of manus|
 epiphysis of proximal phalanx of pes|
 epiphysis of tibia|
 epithalamus|
-epithalamus|
 epithalamus development|
 epithalamus mantle layer|
 epithalamus ventricular layer|
@@ -5921,7 +5951,6 @@ externa theca cell|
 external acoustic meatus|
 external anal region|
 external capsule|
-external capsule|
 external capsule of telencephalon|
 external carotid artery|
 external cervical os|
@@ -6041,14 +6070,12 @@ facial lymphatic vessel|
 facial mesenchyme|
 facial muscle|
 facial nerve|
-facial nerve|
 facial nerve canal|
 facial nerve development|
 facial nerve formation|
 facial nerve maturation|
 facial nerve morphogenesis|
 facial nerve root|
-facial nucleus|
 facial nucleus|
 facial nucleus development|
 facial skeleton|
@@ -6151,6 +6178,9 @@ fibroblast growth factor 2|
 fibroblast growth factor 2 (human)|
 fibroblast growth factor 2 (mouse)|
 fibroblast growth factor 2 proteolytic cleavage product|
+fibroblast growth factor 7|
+fibroblast growth factor 7 (human)|
+fibroblast growth factor 7 (mouse)|
 fibroblast growth factor 8|
 fibroblast growth factor 8 (human)|
 fibroblast growth factor 8 (mouse)|
@@ -6190,6 +6220,8 @@ fibroblast proliferation|
 fibroblast proliferation involved in heart morphogenesis|
 fibroblastic reticular cell|
 fibrocartilage|
+fibrochondrocyte|
+fibrochondrocyte progenitor cell|
 fibrocollagenous connective tissue|
 fibrocyte of adventitia of ureter|
 fibroelastic connective tissue|
@@ -6205,7 +6237,6 @@ fibula cartilage element|
 fibula endochondral element|
 fibula pre-cartilage condensation|
 fimbria|
-fimbria|
 flag A amacrine cell|
 flag B amacrine cell|
 flag amacrine cell|
@@ -6220,7 +6251,6 @@ flattened|
 flexibility|
 flexible|
 flocculonodular lobe|
-flocculonodular lobe|
 flocculonodular lobe, hemisphere portion|
 flocculus|
 floor plate|
@@ -6230,7 +6260,6 @@ floor plate morphogenesis|
 floor plate of diencephalon|
 floor plate of medulla oblongata|
 floor plate of metencephalon|
-floor plate of midbrain|
 floor plate of midbrain|
 floor plate of neural tube|
 floor plate of telencephalon|
@@ -6275,7 +6304,6 @@ forebrain commissural fiber tracts|
 forebrain development|
 forebrain dura mater|
 forebrain generation of neurons|
-forebrain ipsilateral fiber tracts|
 forebrain ipsilateral fiber tracts|
 forebrain meninges|
 forebrain morphogenesis|
@@ -6340,8 +6368,6 @@ fornix of brain|
 fornix system|
 fountain amacrine cell|
 fourth ventricle|
-fourth ventricle|
-fourth ventricle|
 fourth ventricle aperture|
 fourth ventricle choroid plexus epithelium|
 fourth ventricle choroid plexus stroma|
@@ -6359,7 +6385,6 @@ fraction E immature B cell|
 fraction F mature B cell|
 frontal cortex|
 frontal gyrus|
-frontal lobe|
 frontal lobe|
 frontal neocortex|
 frontal sulcus|
@@ -6526,8 +6551,6 @@ genitalia development|
 genitalia morphogenesis|
 genitourinary system|
 genu of corpus callosum|
-genu of corpus callosum|
-genu of corpus callosum|
 germ cell|
 germ cell development|
 germ cell migration|
@@ -6617,7 +6640,6 @@ gliogenesis|
 globose cell of olfactory epithelium|
 globular bushy cell|
 globus pallidus|
-globus pallidus|
 globus pallidus development|
 glomeral mesenchyme|
 glomerular basement membrane|
@@ -6653,7 +6675,6 @@ glomerulus morphogenesis|
 glomerulus vasculature development|
 glomerulus vasculature morphogenesis|
 glossopharyngeal ganglion|
-glossopharyngeal nerve|
 glossopharyngeal nerve|
 glossopharyngeal nerve development|
 glossopharyngeal nerve formation|
@@ -6790,11 +6811,8 @@ gravity sensitive cell|
 gray matter|
 gray matter of diencephalon|
 gray matter of forebrain|
-gray matter of forebrain|
 gray matter of hindbrain|
 gray matter of midbrain|
-gray matter of midbrain|
-gray matter of spinal cord|
 gray matter of spinal cord|
 gray matter of telencephalon|
 gray matter of the hindbrain|
@@ -6978,8 +6996,8 @@ hepatic portal fibroblast|
 hepatic portal system|
 hepatic portal vein|
 hepatic sinusoid|
-hepatic sinusoid of left of lobe of liver|
-hepatic sinusoid of right of lobe of liver|
+hepatic sinusoid of left lobe of liver|
+hepatic sinusoid of right lobe of liver|
 hepatic sinusoidal space|
 hepatic stellate cell|
 hepatic stellate cell activation|
@@ -7141,6 +7159,7 @@ homeobox protein SIX3 (human)|
 homeobox protein SIX3 (mouse)|
 homeostasis of number of cells|
 homeostasis of number of cells within a tissue|
+homeostatic chondrocyte|
 homeostatic process|
 horizontal pyramidal morphology|
 horizontal pyramidal neuron|
@@ -7176,6 +7195,7 @@ hyoid bone|
 hyoid neural crest|
 hypendemal cell (Mmus)|
 hypendymal cell|
+hypertrophic cartilage zone|
 hypertrophic chondrocyte|
 hyphal cell|
 hypocretin-secreting neuron|
@@ -7184,13 +7204,11 @@ hypodermis skeletal muscle layer|
 hypoglossal canal|
 hypoglossal cord|
 hypoglossal nerve|
-hypoglossal nerve|
 hypoglossal nerve development|
 hypoglossal nerve formation|
 hypoglossal nerve maturation|
 hypoglossal nerve morphogenesis|
 hypoglossal nerve root|
-hypoglossal nucleus|
 hypoglossal nucleus|
 hypoglossal nucleus development|
 hypophysial artery|
@@ -7199,7 +7217,6 @@ hypophysis morphogenesis|
 hypothalamic gonadotropin-releasing hormone neuron|
 hypothalamic gonadotropin-releasing hormone neuron (Mmus)|
 hypothalamic nucleus|
-hypothalamus|
 hypothalamus|
 hypothalamus cell|
 hypothalamus development|
@@ -7354,7 +7371,6 @@ inferior vesical artery|
 inferior vesical vein|
 inflammatory cell|
 inflammatory cell apoptotic process|
-inflammatory macrophage|
 inflammatory response|
 inflammatory response to wounding|
 information content entity|
@@ -8068,7 +8084,6 @@ lateral amygdaloid nucleus|
 lateral border of scapula|
 lateral forebrain bundle system|
 lateral ganglionic eminence|
-lateral ganglionic eminence|
 lateral ganglionic eminence derived neuron|
 lateral gastric neuron|
 lateral geniculate body|
@@ -8111,13 +8126,11 @@ lateral nuclear complex of thalamus|
 lateral nuclear group of thalamus|
 lateral nucleus|
 lateral olfactory stria|
-lateral olfactory stria|
 lateral olfactory tract, body|
 lateral olfactory tract, general|
 lateral plate mesoderm|
 lateral pyloric motor neuron|
 lateral septal complex|
-lateral septal nucleus|
 lateral septal nucleus|
 lateral sprouting from an epithelium|
 lateral sprouting involved in lung morphogenesis|
@@ -8336,7 +8349,6 @@ limb skeleton subdivision|
 limbal epithelial stem cell of cornea|
 limbic cortex|
 limbic lobe|
-limbic lobe|
 limbic system|
 limbic system development|
 limiting membrane of retina|
@@ -8438,7 +8450,6 @@ long term hematopoietic stem cell|
 long-range projecting sst GABAergic cortical interneuron (Mmus)|
 long-wave-sensitive opsin 1|
 long-wave-sensitive opsin 1 (human)|
-longitudinal fissure|
 longitudinal fissure|
 longitudinal muscle layer of muscular coat|
 loop of Henle|
@@ -8853,7 +8864,6 @@ mammary placode formation|
 mammary ridge|
 mammary stem cell|
 mammillary body|
-mammillary body|
 mammillary body development|
 mammillary body neuron|
 mammosomatotroph|
@@ -8989,7 +8999,6 @@ medial border of scapula|
 medial circumflex femoral artery|
 medial forebrain bundle system|
 medial ganglionic eminence|
-medial ganglionic eminence|
 medial ganglionic eminence derived GABAergic interneuron|
 medial ganglionic eminence derived interneuron|
 medial globus pallidus|
@@ -8999,7 +9008,6 @@ medial nasal process mesenchyme|
 medial nasal prominence|
 medial septal complex|
 medial septal nucleus|
-medial septal nucleus|
 medial zone of hypothalamus|
 medial-nasal process ectoderm|
 median eminence|
@@ -9007,7 +9015,6 @@ median eminence of neurohypophysis|
 median external naris|
 median lingual swelling|
 median lingual swelling epithelium|
-median preoptic nucleus|
 median preoptic nucleus|
 mediastinal pleura|
 mediastinum|
@@ -9512,7 +9519,6 @@ metatarsus region|
 metatarsus skeleton|
 metathalamus|
 metencephalon|
-metencephalon|
 metencephalon development|
 metencephalon sulcus limitans|
 microcirculation associated smooth muscle cell|
@@ -9584,11 +9590,8 @@ midbrain neuromere|
 midbrain nucleus|
 midbrain pia mater|
 midbrain reticular formation|
-midbrain reticular formation|
 midbrain subarachnoid space|
 midbrain tectum|
-midbrain tectum|
-midbrain tegmentum|
 midbrain tegmentum|
 midbrain-derived inhibitory neuron|
 midbrain-hindbrain boundary|
@@ -9596,8 +9599,6 @@ midbrain-hindbrain boundary development|
 midbrain-hindbrain boundary initiation|
 midbrain-hindbrain boundary maturation|
 midbrain-hindbrain boundary morphogenesis|
-middle cerebellar peduncle|
-middle cerebellar peduncle|
 middle cerebellar peduncle|
 middle cervical ganglion|
 middle cervical ganglion DBH neuron|
@@ -11361,7 +11362,6 @@ neural keel formation|
 neural nucleus|
 neural nucleus development|
 neural plate|
-neural plate|
 neural plate anterior/posterior regionalization|
 neural plate development|
 neural plate formation|
@@ -11378,7 +11378,6 @@ neural stem cell|
 neural system|
 neural tissue|
 neural tissue regeneration|
-neural tube|
 neural tube|
 neural tube alar plate|
 neural tube basal plate|
@@ -11729,7 +11728,6 @@ nucleotide transmembrane transporter activity|
 nucleotide transport|
 nucleus|
 nucleus accumbens|
-nucleus accumbens|
 nucleus accumbens development|
 nucleus accumbens shell and olfactory tubercle D1 medium spiny neuron|
 nucleus accumbens shell and olfactory tubercle D2 medium spiny neuron|
@@ -11738,9 +11736,7 @@ nucleus localization|
 nucleus of brain|
 nucleus of cerebellar nuclear complex|
 nucleus of diagonal band|
-nucleus of diagonal band|
 nucleus of dorsal thalamus|
-nucleus of lateral olfactory tract|
 nucleus of lateral olfactory tract|
 nucleus of medulla oblongata|
 nucleus of midbrain reticular formation|
@@ -11768,7 +11764,6 @@ ocular adnexa|
 ocular refractive media|
 ocular surface region|
 oculomotor nerve|
-oculomotor nerve|
 oculomotor nerve development|
 oculomotor nerve formation|
 oculomotor nerve maturation|
@@ -11793,7 +11788,6 @@ olefinic compound metabolic process|
 olfactory apparatus chamber|
 olfactory areas astrocyte (Mmus)|
 olfactory behavior|
-olfactory bulb|
 olfactory bulb|
 olfactory bulb development|
 olfactory bulb external plexiform layer|
@@ -11825,7 +11819,6 @@ olfactory learning|
 olfactory lobe|
 olfactory lobe development|
 olfactory nerve|
-olfactory nerve|
 olfactory nerve development|
 olfactory nerve formation|
 olfactory nerve layer of main olfactory bulb|
@@ -11846,10 +11839,8 @@ olfactory segment of nasal mucosa|
 olfactory striae|
 olfactory system|
 olfactory tract|
-olfactory tract|
 olfactory tract linking bulb to ipsilateral dorsal telencephalon|
 olfactory tract linking bulb to ipsilateral ventral telencephalon|
-olfactory tubercle|
 olfactory tubercle|
 oligodendrocyte|
 oligodendrocyte (Mmus)|
@@ -11894,7 +11885,6 @@ ophthalmic artery|
 ophthalmic nerve|
 ophthalmic vein|
 optic chiasm|
-optic chiasm|
 optic chiasma|
 optic chiasma development|
 optic choroid|
@@ -11906,15 +11896,12 @@ optic eminence ectoderm|
 optic eminence mesenchyme|
 optic foramen|
 optic nerve|
-optic nerve|
 optic nerve development|
 optic nerve formation|
 optic nerve maturation|
 optic nerve morphogenesis|
 optic neural crest|
 optic stalk|
-optic tract|
-optic tract|
 optic tract|
 optic vesicle|
 optic vesicle formation|
@@ -11995,6 +11982,7 @@ osteoblast|
 osteoblast development|
 osteoblast differentiation|
 osteoblast proliferation|
+osteochondral skeletal stem cell|
 osteoclast|
 osteoclast development|
 osteoclast differentiation|
@@ -12222,7 +12210,6 @@ parathyroid hormone-related protein (human)|
 parathyroid hormone-related protein (mouse)|
 parathyroid hormone-related protein proteolytic cleavage product|
 paraventricular nucleus of hypothalamus|
-paraventricular nucleus of hypothalamus|
 paravertebral ganglion|
 paraxial cell|
 paraxial mesoderm|
@@ -12239,7 +12226,6 @@ parenchyma of thyroid gland|
 parietal cell|
 parietal cortex|
 parietal epithelial cell|
-parietal lobe|
 parietal lobe|
 parietal neocortex|
 parietal peritoneum|
@@ -12585,7 +12571,6 @@ pigmented layer of retina|
 pillar cell|
 pilosebaceous unit|
 pineal body|
-pineal body|
 pineal complex|
 pineal gland development|
 pineal parenchyma|
@@ -12596,7 +12581,6 @@ pinna|
 pinna hair|
 pinna surface epithelium|
 pioneer neuron|
-piriform cortex|
 piriform cortex|
 piriform cortex layer 3|
 pit|
@@ -12730,7 +12714,6 @@ polysaccharide transmembrane transporter activity|
 polysaccharide transport|
 polytene cell|
 pons|
-pons|
 pons development|
 pons formation|
 pons maturation|
@@ -12738,7 +12721,6 @@ pons morphogenesis|
 pontine nuclear group|
 pontine nucleus|
 pontine raphe nucleus|
-pontine tegmentum|
 pontine tegmentum|
 popliteal vein|
 pore cell|
@@ -13786,8 +13768,6 @@ postcranial axial cartilage|
 postcranial axial skeletal system|
 postcranial axial skeleton|
 posterior commissure|
-posterior commissure|
-posterior commissure|
 posterior commissure morphogenesis|
 posterior communicating artery|
 posterior cone cell (sensu Endopterygota)|
@@ -13821,8 +13801,6 @@ posterior lateral line system development|
 posterior nasal aperture|
 posterior neural tube|
 posterior nuclear complex of thalamus|
-posterior nuclear complex of thalamus|
-posterior nucleus of thalamus|
 posterior nucleus of thalamus|
 posterior periventricular nucleus|
 posterior region of body|
@@ -13897,6 +13875,7 @@ preganglionic autonomic fiber|
 preganglionic parasympathetic fiber|
 preganglionic parasympathetic fiber development|
 preganglionic sympathetic fiber|
+prehypertrophic chondrocyte|
 premacula segment of distal straight tubule|
 premigratory neural crest cell|
 premotor cortex|
@@ -13957,7 +13936,6 @@ presynaptic process involved in chemical synaptic transmission|
 presynaptic signal transduction|
 pretectal nuclear complex|
 pretectal nucleus|
-pretectal region|
 pretectal region|
 prevention of polyspermy|
 prevertebral ganglion|
@@ -14075,6 +14053,7 @@ prolactin secreting cell differentiation|
 prolactin secretion|
 prolactin signaling pathway|
 proliferating neuroepithelium|
+proliferative fibrochondrocyte|
 prominin|
 prominin-1|
 prominin-1 (human)|
@@ -14403,7 +14382,6 @@ purine-containing compound transmembrane transport|
 purinergic nucleotide receptor activity|
 purinergic nucleotide receptor signaling pathway|
 putamen|
-putamen|
 putamen development|
 pvalb GABAergic interneuron|
 pvalb GABAergic interneuron (Homo sapiens)|
@@ -14446,7 +14424,6 @@ radial spoke assembly|
 radiation reflective quality|
 raphe nuclei|
 raphe nuclei neuron|
-raphe pontis nucleus|
 raphe pontis nucleus|
 ratio|
 reactive nitrogen species metabolic process|
@@ -15697,6 +15674,7 @@ regulatory B cell|
 regulatory T cell|
 regulatory T cell apoptotic process|
 regulatory T cell differentiation|
+regulatory chondrocyte|
 relaxin family peptide receptor protein|
 relaxin receptor 1|
 relaxin receptor 1 (human)|
@@ -15947,7 +15925,6 @@ reticular layer of dermis|
 reticulocyte|
 reticulospinal neuron|
 retina|
-retina|
 retina blood vessel|
 retina development in camera-type eye|
 retina horizontal cell|
@@ -16018,16 +15995,13 @@ retrohippocampal region|
 retrorubral area of midbrain reticular nucleus|
 retrorubral field|
 retrotrapezoid nucleus|
-retrotrapezoid nucleus|
 retrotrapezoid nucleus development|
 retrotrapezoid nucleus neuron|
 retrotrapezoid nucleus neuron differentiation|
 rhodopsin-like G-protein coupled receptor|
 rhombencephalon neural crest|
 rhombic lip|
-rhombic lip|
 rhombomere|
-rhombomere 1|
 rhombomere 1|
 rhombomere 1 development|
 rhombomere 1 formation|
@@ -16164,7 +16138,6 @@ roof plate of diencephalon|
 roof plate of medulla oblongata|
 roof plate of metencephalon|
 roof plate of midbrain|
-roof plate of midbrain|
 roof plate of telencephalon|
 roof plate spinal cord region|
 root|
@@ -16182,7 +16155,6 @@ root of sacral nerve|
 root of thoracic nerve|
 root of trigeminal nerve|
 root of vagus nerve|
-root of vagus nerve|
 root of vestibulocochlear nerve|
 roots of spinal nerves|
 rosehip neuron|
@@ -16192,8 +16164,6 @@ rostral periventricular region of the third ventricle KNDy neuron|
 rostral primary motorneuron|
 rostrocaudal neural tube patterning|
 rotator muscle of the vertebral column|
-rubrospinal tract|
-rubrospinal tract|
 rubrospinal tract|
 rubrospinal tract morphogenesis|
 runt-related transcription factor 1|
@@ -16867,7 +16837,6 @@ spider amacrine cell|
 spinal accessory motor neuron|
 spinal artery|
 spinal cord|
-spinal cord|
 spinal cord alar plate|
 spinal cord arachnoid mater|
 spinal cord column|
@@ -17086,7 +17055,6 @@ striated muscle tissue development|
 striated muscle tissue of prostate|
 striated visceral muscle cell|
 striatum|
-striatum|
 striatum development|
 striatum neuron|
 striatum-like amygdalar nuclei|
@@ -17133,7 +17101,6 @@ subcapsular thymic epithelial cell|
 subclavian artery|
 subclavian vein|
 subcommissural organ|
-subcommissural organ|
 subcortical astrocyte (Mmus)|
 subcutaneous abdominal adipose tissue|
 subcutaneous adipocyte|
@@ -17156,9 +17123,7 @@ subdivision of vertebral column|
 subepicardial layer of epicardium|
 subepithelial intestinal fibroblast|
 subfornical organ|
-subfornical organ|
 subicular cortex|
-subiculum|
 subiculum|
 sublaminar layer S1|
 sublaminar layer S2|
@@ -17245,7 +17210,6 @@ subserosa|
 subserosa of fallopian tube|
 substance P secreting cell|
 substantia nigra|
-substantia nigra|
 substantia nigra development|
 substantia nigra dopaminergic neuron|
 substantia propria of cornea|
@@ -17254,7 +17218,6 @@ substantia propria of sclera|
 substrate-independent telencephalic tangential interneuron migration|
 substrate-independent telencephalic tangential migration|
 substratum of layer of retina|
-subthalamic nucleus|
 subthalamic nucleus|
 subthalamic nucleus development|
 subthalamus|
@@ -17291,7 +17254,6 @@ superior mesenteric ganglion SP neuron|
 superior mesenteric plexus|
 superior mesenteric vein|
 superior olivary complex|
-superior olivary complex|
 superior olivary nucleus development|
 superior olivary nucleus formation|
 superior olivary nucleus maturation|
@@ -17299,7 +17261,6 @@ superior olivary nucleus morphogenesis|
 superior ophthalmic vein|
 superior paraolivary nucleus|
 superior salivary nucleus development|
-superior salivatory nucleus|
 superior salivatory nucleus|
 superior surface of tongue|
 superior vagus X ganglion|
@@ -17317,7 +17278,6 @@ supporting cell of vestibular epithelium|
 suppressor macrophage|
 suprabasal cell|
 suprabasal keratinocyte|
-suprachiasmatic nucleus|
 suprachiasmatic nucleus|
 supramolecular complex|
 supramolecular fiber|
@@ -17470,7 +17430,6 @@ tela choroidea of third ventricle|
 telencephalic nucleus|
 telencephalic ventricle|
 telencephalon|
-telencephalon|
 telencephalon arachnoid mater|
 telencephalon astrocyte cell migration|
 telencephalon cell migration|
@@ -17487,7 +17446,6 @@ temperature homeostasis|
 temporal bone|
 temporal cortex|
 temporal distribution quality|
-temporal lobe|
 temporal lobe|
 temporal neocortex|
 temporal sulcus|
@@ -17548,8 +17506,6 @@ thermoception|
 thermoreceptor cell|
 thick ascending limb development|
 thick ascending limb of loop of Henle|
-third ventricle|
-third ventricle|
 third ventricle|
 third ventricle choroid plexus epithelium|
 third ventricle choroid plexus stroma|
@@ -17895,7 +17851,6 @@ trigeminal ganglion formation|
 trigeminal ganglion maturation|
 trigeminal ganglion morphogenesis|
 trigeminal motor neuron|
-trigeminal nerve|
 trigeminal nerve|
 trigeminal nerve development|
 trigeminal nerve fibers|
@@ -18296,7 +18251,6 @@ vaginal venous plexus|
 vagus X ganglion|
 vagus X nerve trunk|
 vagus nerve|
-vagus nerve|
 vagus nerve development|
 vagus nerve formation|
 vagus nerve maturation|
@@ -18388,7 +18342,6 @@ venous system smooth muscle|
 venous valve|
 ventral body wall|
 ventral cochlear nucleus|
-ventral cochlear nucleus|
 ventral cochlear nucleus development|
 ventral cochlear nucleus, caudal part|
 ventral cochlear nucleus, rostral part|
@@ -18410,7 +18363,6 @@ ventral part of pharyngeal pouch 4|
 ventral part of telencephalon|
 ventral posterior medial nucleus|
 ventral posterior nucleus of thalamus|
-ventral posterior nucleus of thalamus|
 ventral posteromedial nucleus of thalamus|
 ventral side of post-anal tail|
 ventral spinal cord development|
@@ -18418,14 +18370,10 @@ ventral spinal cord interneuron differentiation|
 ventral striatum|
 ventral surface of penis|
 ventral tegmental area|
-ventral tegmental area|
 ventral tegmental area development|
-ventral tegmental decussation|
-ventral tegmental decussation|
 ventral tegmental decussation|
 ventral tegmental region of midbrain|
 ventral thalamic fasciculus|
-ventral thalamus|
 ventral thalamus|
 ventricle of nervous system|
 ventricle of spinal cord|
@@ -18444,7 +18392,6 @@ ventricular system of brain|
 ventricular system of central nervous system|
 ventricular systems|
 ventricular trabecula myocardium morphogenesis|
-ventricular zone|
 ventricular zone|
 ventrum|
 venule|
@@ -18518,7 +18465,6 @@ vestibulo-auditory system|
 vestibulo-cochlear VIII ganglion complex|
 vestibulocerebellum|
 vestibulocochlear ganglion|
-vestibulocochlear nerve|
 vestibulocochlear nerve|
 vestibulocochlear nerve development|
 vestibulocochlear nerve formation|
@@ -18668,20 +18614,16 @@ white matter lamina of neuraxis|
 white matter of cerebellum|
 white matter of cerebral lobe|
 white matter of forebrain|
-white matter of forebrain|
 white matter of frontal lobe|
-white matter of hindbrain|
 white matter of hindbrain|
 white matter of limbic lobe|
 white matter of medulla oblongata|
 white matter of metencephalon|
 white matter of midbrain|
-white matter of midbrain|
 white matter of myelencephalon|
 white matter of parietal lobe|
 white matter of pons|
 white matter of pontine tegmentum|
-white matter of spinal cord|
 white matter of spinal cord|
 white matter of telencephalon|
 white matter of temporal lobe|
@@ -18713,7 +18655,6 @@ zeaxanthin catabolic process|
 zeugopod|
 zeugopodial skeleton|
 zona glomerulosa of adrenal gland|
-zona incerta|
 zona incerta|
 zona limitans intrathalamica|
 zona limitans intrathalamica formation|

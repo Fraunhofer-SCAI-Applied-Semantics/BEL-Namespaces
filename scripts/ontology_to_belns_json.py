@@ -243,25 +243,21 @@ def parse_ontology(file_url: str, value_column="", code_column="", header=None):
         elif detected_format == "obo":
             print("🧬 OBO format detected — parsing via obonet...")
             try:
-                  # ensure it's installed: pip install obonet
-
                 obo_graph = obonet.read_obo(tmp_path)
-                print(f"✅ Loaded {len(obo_graph.nodes)} OBO terms.")
-                # Convert OBO to RDF Graph for consistency
-                from rdflib import URIRef, RDFS, Literal
 
-                g = Graph()
+                g = []
+
                 for node, data in obo_graph.nodes(data=True):
-                    label = data.get("name")
-                    if label:
-                        g.add(
-                            (
-                                URIRef(f"http://purl.obolibrary.org/obo/{node}"),
-                                RDFS.label,
-                                Literal(label),
-                            )
-                        )
-                print(f"✅ Converted {len(g)} triples from OBO graph.")
+
+                    if data.get("is_obsolete") == "true":
+                        continue
+
+                    name = data.get("name")
+                    if name:
+                        g.append(name)
+
+                print(f"✅ Extracted {len(g)} OBO labels.")
+                
             except Exception as e:
                 raise Exception(f"❌ Failed to parse OBO file via obonet: {e}")
         else:
@@ -361,7 +357,9 @@ def main(input_dictionary, author, contact_info, output_dir):
                     terms = g[1].to_list()
                 except KeyError:
                     terms = g[value_column].to_list()
-            
+                    
+        elif isinstance(g, list):
+            terms = g    
             
         # Extract labels and URIs for relevant terms
         elif subcategories and namespace.startswith("GO"):

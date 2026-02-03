@@ -228,25 +228,20 @@ def parse_ontology(file_url: str, value_column="", code_column="", header=None):
         elif detected_format == "obo":
             print("🧬 OBO format detected — parsing via obonet...")
             try:
-                # ensure it's installed: pip install obonet
-
                 obo_graph = obonet.read_obo(tmp_path)
-                print(f"✅ Loaded {len(obo_graph.nodes)} OBO terms.")
-                # Convert OBO to RDF Graph for consistency
-                from rdflib import URIRef, RDFS, Literal
 
-                g = Graph()
+                g = []
+
                 for node, data in obo_graph.nodes(data=True):
-                    label = data.get("name")
-                    if label:
-                        g.add(
-                            (
-                                URIRef(f"http://purl.obolibrary.org/obo/{node}"),
-                                RDFS.label,
-                                Literal(label),
-                            )
-                        )
-                print(f"✅ Converted {len(g)} triples from OBO graph.")
+
+                    if data.get("is_obsolete") == "true":
+                        continue
+
+                    name = data.get("name")
+                    if name:
+                        g.append(name)
+
+                print(f"✅ Extracted {len(g)} OBO labels.")
             except Exception as e:
                 raise Exception(f"❌ Failed to parse OBO file via obonet: {e}")
         else:
@@ -340,6 +335,9 @@ def main(input_dictionary, author, contact_info, output_dir):
                 label = str(row.iloc[0])
                 code_value = str(row.iloc[1])
                 terms.append((label, code_value))
+                
+        elif isinstance(g, list):
+            terms = g  
 
         # Extract labels and URIs for relevant terms
         elif subcategories and Annotation.startswith("GO"):
@@ -557,12 +555,16 @@ def generate_file(
 ):
     print("=" * 50)
     print("Generating belanno file...")
+    
+    # remove duplicates
+    terms_set = set(terms)
+    terms = list(terms_set)
 
     # Create belanno content
 
     # Check for illegal delimiter in labels
     DelimiterString = "|"
-    if any(DelimiterString in label for label, _ in terms):
+    if any(DelimiterString in label for label in terms):
         DelimiterString = "§"
         print(
             f"Delimiter '|' found in labels. Switching to delimiter: {DelimiterString}"
@@ -602,10 +604,10 @@ CacheableFlag=yes
     if code:
         values = "\n".join(
             f"{label}{DelimiterString}{code}"
-            for label, uri in dict(sorted(terms)).items()
+            for  label in sorted(terms)
         )
     else:
-        values = "\n".join(f"{label}{DelimiterString}" for label, uri in sorted(terms))
+        values = "\n".join(f"{label}{DelimiterString}" for  label in sorted(terms))
 
     # Create output directory
     output_path = Path(output_dir)
